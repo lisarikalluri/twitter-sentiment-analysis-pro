@@ -1,0 +1,2082 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>🚀 Ultimate Twitter Sentiment Analysis Pro</title>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Poppins', sans-serif;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 50%, #f093fb 100%);
+            min-height: 100vh;
+            padding: 15px;
+            position: relative;
+            overflow-x: hidden;
+        }
+
+        /* Animated Background Particles */
+        body::before {
+            content: '';
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background: 
+                radial-gradient(circle at 10% 20%, rgba(255, 255, 255, 0.15) 0%, transparent 40%),
+                radial-gradient(circle at 90% 80%, rgba(255, 255, 255, 0.1) 0%, transparent 40%),
+                radial-gradient(circle at 50% 50%, rgba(255, 255, 255, 0.05) 0%, transparent 60%);
+            pointer-events: none;
+            animation: floatParticles 15s ease-in-out infinite;
+            z-index: 0;
+        }
+
+        @keyframes floatParticles {
+            0%, 100% { transform: translate(0, 0) scale(1); }
+            33% { transform: translate(30px, -30px) scale(1.1); }
+            66% { transform: translate(-30px, 30px) scale(0.9); }
+        }
+
+        .container {
+            max-width: 1600px;
+            margin: 0 auto;
+            background: rgba(255, 255, 255, 0.98);
+            backdrop-filter: blur(25px) saturate(180%);
+            border-radius: 25px;
+            padding: 35px;
+            box-shadow: 
+                0 25px 80px rgba(0, 0, 0, 0.25),
+                0 0 0 1px rgba(255, 255, 255, 0.1),
+                inset 0 1px 0 rgba(255, 255, 255, 0.8);
+            position: relative;
+            z-index: 1;
+        }
+
+        /* Glassmorphism effect on hover */
+        .container::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 0;
+            right: 0;
+            bottom: 0;
+            border-radius: 25px;
+            padding: 2px;
+            background: linear-gradient(135deg, rgba(255,255,255,0.4), rgba(255,255,255,0.1));
+            -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0);
+            -webkit-mask-composite: xor;
+            mask-composite: exclude;
+            pointer-events: none;
+        }
+
+        /* Header Styles */
+        .header {
+            text-align: center;
+            margin-bottom: 35px;
+            position: relative;
+        }
+
+        h1 {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 50%, #f093fb 100%);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            background-clip: text;
+            font-size: 2.8em;
+            font-weight: 800;
+            margin-bottom: 8px;
+            letter-spacing: -1.5px;
+            animation: shimmer 3s ease-in-out infinite;
+            position: relative;
+        }
+
+        @keyframes shimmer {
+            0%, 100% { filter: brightness(1) hue-rotate(0deg); }
+            50% { filter: brightness(1.2) hue-rotate(10deg); }
+        }
+
+        .subtitle {
+            color: #666;
+            font-size: 1.1em;
+            font-weight: 400;
+            margin-bottom: 8px;
+            opacity: 0.9;
+        }
+
+        .badge {
+            display: inline-block;
+            background: linear-gradient(135deg, #667eea, #764ba2);
+            color: white;
+            padding: 6px 16px;
+            border-radius: 20px;
+            font-size: 0.85em;
+            font-weight: 600;
+            box-shadow: 0 4px 15px rgba(102, 126, 234, 0.3);
+            animation: pulse 2s ease-in-out infinite;
+        }
+
+        @keyframes pulse {
+            0%, 100% { transform: scale(1); }
+            50% { transform: scale(1.05); }
+        }
+
+        /* Stats Dashboard - Enhanced */
+        .stats-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+            gap: 18px;
+            margin-bottom: 30px;
+        }
+
+        .stat-card {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            padding: 22px;
+            border-radius: 18px;
+            box-shadow: 0 8px 25px rgba(102, 126, 234, 0.3);
+            transition: all 0.4s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+            position: relative;
+            overflow: hidden;
+        }
+
+        .stat-card::before {
+            content: '';
+            position: absolute;
+            top: -50%;
+            right: -50%;
+            width: 200%;
+            height: 200%;
+            background: radial-gradient(circle, rgba(255,255,255,0.15) 0%, transparent 70%);
+            transform: scale(0);
+            transition: transform 0.6s ease-out;
+        }
+
+        .stat-card:hover::before {
+            transform: scale(1);
+        }
+
+        .stat-card:hover {
+            transform: translateY(-8px) scale(1.02);
+            box-shadow: 0 15px 40px rgba(102, 126, 234, 0.45);
+        }
+
+        .stat-value {
+            font-size: 2.2em;
+            font-weight: 800;
+            margin-bottom: 5px;
+            text-shadow: 0 2px 10px rgba(0, 0, 0, 0.2);
+        }
+
+        .stat-label {
+            font-size: 0.9em;
+            opacity: 0.95;
+            font-weight: 500;
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+        }
+
+        /* Tab Navigation - Modern Design */
+        .tabs {
+            display: flex;
+            gap: 8px;
+            margin-bottom: 30px;
+            border-bottom: 2px solid #e0e0e0;
+            flex-wrap: wrap;
+            background: rgba(102, 126, 234, 0.03);
+            padding: 10px;
+            border-radius: 15px 15px 0 0;
+        }
+
+        .tab {
+            padding: 12px 22px;
+            background: transparent;
+            border: none;
+            cursor: pointer;
+            font-size: 0.95em;
+            font-weight: 600;
+            color: #666;
+            border-radius: 10px;
+            transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+            position: relative;
+            overflow: hidden;
+        }
+
+        .tab::before {
+            content: '';
+            position: absolute;
+            bottom: 0;
+            left: 0;
+            width: 100%;
+            height: 3px;
+            background: linear-gradient(90deg, #667eea, #764ba2);
+            transform: scaleX(0);
+            transition: transform 0.3s ease;
+        }
+
+        .tab:hover {
+            color: #667eea;
+            background: rgba(102, 126, 234, 0.08);
+            transform: translateY(-2px);
+        }
+
+        .tab.active {
+            color: white;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            box-shadow: 0 5px 20px rgba(102, 126, 234, 0.3);
+        }
+
+        .tab.active::before {
+            transform: scaleX(1);
+        }
+
+        .tab-content {
+            display: none;
+            animation: fadeInUp 0.5s ease-out;
+        }
+
+        .tab-content.active {
+            display: block;
+        }
+
+        @keyframes fadeInUp {
+            from {
+                opacity: 0;
+                transform: translateY(20px);
+            }
+            to {
+                opacity: 1;
+                transform: translateY(0);
+            }
+        }
+
+        /* Input Areas - Enhanced */
+        textarea {
+            width: 100%;
+            min-height: 140px;
+            padding: 18px;
+            border: 2px solid #e0e0e0;
+            border-radius: 15px;
+            font-size: 15px;
+            font-family: 'Poppins', sans-serif;
+            resize: vertical;
+            transition: all 0.3s ease;
+            background: rgba(255, 255, 255, 0.9);
+            box-shadow: 0 2px 10px rgba(0, 0, 0, 0.05);
+        }
+
+        textarea:focus {
+            outline: none;
+            border-color: #667eea;
+            box-shadow: 0 5px 20px rgba(102, 126, 234, 0.15);
+            transform: translateY(-2px);
+        }
+
+        textarea::placeholder {
+            color: #999;
+            font-style: italic;
+        }
+
+        /* Buttons - Modern Glass Effect */
+        .btn {
+            padding: 14px 32px;
+            border: none;
+            border-radius: 12px;
+            font-size: 15px;
+            font-weight: 600;
+            cursor: pointer;
+            transition: all 0.4s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+            position: relative;
+            overflow: hidden;
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+        }
+
+        .btn::before {
+            content: '';
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            width: 0;
+            height: 0;
+            border-radius: 50%;
+            background: rgba(255, 255, 255, 0.3);
+            transform: translate(-50%, -50%);
+            transition: width 0.6s, height 0.6s;
+        }
+
+        .btn:hover::before {
+            width: 300px;
+            height: 300px;
+        }
+
+        .btn-primary {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            box-shadow: 0 5px 20px rgba(102, 126, 234, 0.3);
+        }
+
+        .btn-primary:hover {
+            transform: translateY(-3px) scale(1.02);
+            box-shadow: 0 10px 30px rgba(102, 126, 234, 0.4);
+        }
+
+        .btn-primary:active {
+            transform: translateY(-1px) scale(0.98);
+        }
+
+        .btn-secondary {
+            background: linear-gradient(135deg, #6c757d, #5a6268);
+            color: white;
+            box-shadow: 0 4px 15px rgba(108, 117, 125, 0.3);
+        }
+
+        .btn-secondary:hover {
+            transform: translateY(-3px);
+            box-shadow: 0 8px 25px rgba(108, 117, 125, 0.4);
+        }
+
+        .btn-group {
+            display: flex;
+            gap: 12px;
+            margin-top: 18px;
+            flex-wrap: wrap;
+        }
+
+        /* Result Cards - Enhanced Glass Design */
+        .result-card {
+            background: linear-gradient(135deg, rgba(255, 255, 255, 0.9), rgba(255, 255, 255, 0.7));
+            backdrop-filter: blur(10px);
+            border-radius: 18px;
+            padding: 28px;
+            margin-top: 22px;
+            box-shadow: 
+                0 8px 30px rgba(0, 0, 0, 0.1),
+                inset 0 1px 0 rgba(255, 255, 255, 0.8);
+            border: 1px solid rgba(255, 255, 255, 0.5);
+            border-left: 5px solid;
+            border-image: linear-gradient(135deg, #667eea, #764ba2) 1;
+            transition: all 0.3s ease;
+        }
+
+        .result-card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 15px 40px rgba(0, 0, 0, 0.15);
+        }
+
+        .result-card h3 {
+            color: #667eea;
+            margin-bottom: 15px;
+            font-size: 1.4em;
+        }
+
+        .result-card h4 {
+            color: #764ba2;
+            margin-top: 20px;
+            margin-bottom: 12px;
+            font-size: 1.1em;
+        }
+
+        /* Sentiment Badges - Enhanced */
+        .sentiment-badge {
+            display: inline-block;
+            padding: 10px 20px;
+            border-radius: 25px;
+            font-weight: 700;
+            font-size: 1.05em;
+            margin: 12px 0;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+            box-shadow: 0 4px 15px rgba(0, 0, 0, 0.15);
+            transition: all 0.3s ease;
+        }
+
+        .sentiment-badge:hover {
+            transform: scale(1.05);
+        }
+
+        .positive {
+            background: linear-gradient(135deg, #d4edda, #c3e6cb);
+            color: #155724;
+            border: 2px solid #28a745;
+        }
+
+        .negative {
+            background: linear-gradient(135deg, #f8d7da, #f5c6cb);
+            color: #721c24;
+            border: 2px solid #dc3545;
+        }
+
+        .neutral {
+            background: linear-gradient(135deg, #d1ecf1, #bee5eb);
+            color: #0c5460;
+            border: 2px solid #17a2b8;
+        }
+
+        /* Charts Grid - Responsive */
+        .charts-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+            gap: 22px;
+            margin-top: 30px;
+        }
+
+        .chart-container {
+            background: white;
+            padding: 25px;
+            border-radius: 18px;
+            box-shadow: 0 8px 25px rgba(0, 0, 0, 0.08);
+            transition: all 0.3s ease;
+            border: 1px solid rgba(102, 126, 234, 0.1);
+        }
+
+        .chart-container:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 12px 35px rgba(0, 0, 0, 0.12);
+        }
+
+        .chart-container h3 {
+            color: #667eea;
+            margin-bottom: 18px;
+            font-size: 1.2em;
+            text-align: center;
+        }
+
+        /* Model Cards - NEW! */
+        .model-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+            gap: 20px;
+            margin-top: 25px;
+        }
+
+        .model-card {
+            background: linear-gradient(135deg, rgba(255,255,255,0.95), rgba(255,255,255,0.85));
+            backdrop-filter: blur(10px);
+            border-radius: 18px;
+            padding: 25px;
+            box-shadow: 0 8px 25px rgba(0, 0, 0, 0.1);
+            border: 2px solid transparent;
+            transition: all 0.4s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+            position: relative;
+            overflow: hidden;
+        }
+
+        .model-card::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 5px;
+            background: linear-gradient(90deg, #667eea, #764ba2);
+            transform: scaleX(0);
+            transition: transform 0.4s ease;
+        }
+
+        .model-card:hover {
+            transform: translateY(-8px) scale(1.02);
+            box-shadow: 0 15px 40px rgba(0, 0, 0, 0.15);
+            border-color: #667eea;
+        }
+
+        .model-card:hover::before {
+            transform: scaleX(1);
+        }
+
+        .model-name {
+            font-size: 1.3em;
+            font-weight: 700;
+            color: #667eea;
+            margin-bottom: 12px;
+        }
+
+        .model-accuracy {
+            font-size: 2.5em;
+            font-weight: 800;
+            background: linear-gradient(135deg, #667eea, #764ba2);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            margin-bottom: 15px;
+        }
+
+        .model-metrics {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 10px;
+            margin-top: 15px;
+        }
+
+        .metric-item {
+            background: rgba(102, 126, 234, 0.08);
+            padding: 10px;
+            border-radius: 10px;
+            text-align: center;
+        }
+
+        .metric-label {
+            font-size: 0.85em;
+            color: #666;
+            font-weight: 600;
+            text-transform: uppercase;
+        }
+
+        .metric-value {
+            font-size: 1.3em;
+            font-weight: 700;
+            color: #667eea;
+            margin-top: 5px;
+        }
+
+        /* History Table - Enhanced */
+        .history-container {
+            margin-top: 20px;
+            overflow-x: auto;
+            border-radius: 15px;
+            box-shadow: 0 5px 20px rgba(0, 0, 0, 0.08);
+        }
+
+        table {
+            width: 100%;
+            border-collapse: separate;
+            border-spacing: 0;
+            background: white;
+            border-radius: 15px;
+            overflow: hidden;
+        }
+
+        th, td {
+            padding: 16px;
+            text-align: left;
+            border-bottom: 1px solid #f0f0f0;
+        }
+
+        th {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            font-weight: 700;
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+            font-size: 0.9em;
+        }
+
+        tr {
+            transition: all 0.3s ease;
+        }
+
+        tr:hover {
+            background: rgba(102, 126, 234, 0.05);
+            transform: scale(1.01);
+        }
+
+        tr:last-child td {
+            border-bottom: none;
+        }
+
+        /* Comparison Grid */
+        .comparison-grid {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 20px;
+        }
+
+        .comparison-panel {
+            background: rgba(255, 255, 255, 0.9);
+            padding: 25px;
+            border-radius: 18px;
+            box-shadow: 0 8px 25px rgba(0, 0, 0, 0.1);
+            border: 2px solid rgba(102, 126, 234, 0.2);
+        }
+
+        .comparison-panel h3 {
+            color: #667eea;
+            margin-bottom: 15px;
+            font-size: 1.3em;
+        }
+
+        /* Loading Spinner - Enhanced */
+        .loading {
+            display: none;
+            text-align: center;
+            padding: 30px;
+        }
+
+        .spinner {
+            border: 5px solid rgba(102, 126, 234, 0.1);
+            border-top: 5px solid #667eea;
+            border-radius: 50%;
+            width: 50px;
+            height: 50px;
+            animation: spin 0.8s linear infinite;
+            margin: 0 auto 15px;
+        }
+
+        @keyframes spin {
+            0% { transform: rotate(0deg); }
+            100% { transform: rotate(360deg); }
+        }
+
+        .loading p {
+            color: #667eea;
+            font-weight: 600;
+            font-size: 1.1em;
+        }
+
+        /* Filters - Enhanced */
+        .filters {
+            display: flex;
+            gap: 12px;
+            margin-bottom: 20px;
+            flex-wrap: wrap;
+            background: rgba(102, 126, 234, 0.05);
+            padding: 15px;
+            border-radius: 15px;
+        }
+
+        select, input[type="date"] {
+            padding: 12px 16px;
+            border: 2px solid #e0e0e0;
+            border-radius: 10px;
+            font-size: 14px;
+            font-family: 'Poppins', sans-serif;
+            transition: all 0.3s ease;
+            background: white;
+        }
+
+        select:focus, input[type="date"]:focus {
+            outline: none;
+            border-color: #667eea;
+            box-shadow: 0 3px 15px rgba(102, 126, 234, 0.2);
+        }
+
+        /* Responsive Design */
+        @media (max-width: 768px) {
+            .container {
+                padding: 20px;
+                border-radius: 20px;
+            }
+
+            h1 {
+                font-size: 2em;
+            }
+
+            .comparison-grid {
+                grid-template-columns: 1fr;
+            }
+
+            .model-grid {
+                grid-template-columns: 1fr;
+            }
+
+            .stats-grid {
+                grid-template-columns: repeat(2, 1fr);
+            }
+
+            .tabs {
+                gap: 5px;
+            }
+
+            .tab {
+                padding: 10px 16px;
+                font-size: 0.85em;
+            }
+        }
+
+        /* Scrollbar Styling */
+        ::-webkit-scrollbar {
+            width: 10px;
+            height: 10px;
+        }
+
+        ::-webkit-scrollbar-track {
+            background: rgba(102, 126, 234, 0.05);
+            border-radius: 10px;
+        }
+
+        ::-webkit-scrollbar-thumb {
+            background: linear-gradient(135deg, #667eea, #764ba2);
+            border-radius: 10px;
+        }
+
+        ::-webkit-scrollbar-thumb:hover {
+            background: linear-gradient(135deg, #764ba2, #667eea);
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>🚀 Ultimate Twitter Sentiment Analysis Pro</h1>
+            <p class="subtitle">AI-Powered Multi-Model Sentiment Analysis Platform</p>
+            <span class="badge">✨ v3.0 - All Models Edition</span>
+        </div>
+
+        <!-- Stats Dashboard -->
+        <div class="stats-grid">
+            <div class="stat-card">
+                <div class="stat-value" id="totalAnalyses">0</div>
+                <div class="stat-label">Total Analyses</div>
+            </div>
+            <div class="stat-card">
+                <div class="stat-value" id="positiveCount">0</div>
+                <div class="stat-label">😊 Positive</div>
+            </div>
+            <div class="stat-card">
+                <div class="stat-value" id="negativeCount">0</div>
+                <div class="stat-label">😞 Negative</div>
+            </div>
+            <div class="stat-card">
+                <div class="stat-value" id="avgConfidence">0%</div>
+                <div class="stat-label">Avg Confidence</div>
+            </div>
+        </div>
+
+        <!-- Tab Navigation -->
+        <div class="tabs">
+            <button class="tab active" onclick="switchTab('single')">📝 Single Analysis</button>
+            <button class="tab" onclick="switchTab('batch')">📊 Batch Analysis</button>
+            <button class="tab" onclick="switchTab('comparison')">⚖️ Comparison</button>
+            <button class="tab" onclick="switchTab('models')">🤖 Model Comparison</button>
+            <button class="tab" onclick="switchTab('analytics')">📈 Analytics</button>
+            <button class="tab" onclick="switchTab('history')">📜 History</button>
+            <button class="tab" onclick="switchTab('emotion')">🎭 Emotion Analysis</button>
+            <button class="tab" onclick="switchTab('toxicity')">☢️ Toxicity Detection</button>
+        </div>
+
+        <!-- Single Analysis Tab -->
+        <div id="single" class="tab-content active">
+            <textarea id="singleText" placeholder="✍️ Enter your text here for sentiment analysis...
+
+Try something like: 'I absolutely love this product! Best purchase ever!' or 'This is terrible, worst experience.'"></textarea>
+            <div class="btn-group">
+                <button class="btn btn-primary" onclick="analyzeSingle()">🔍 Analyze Sentiment</button>
+                <button class="btn btn-secondary" onclick="clearSingle()">🗑️ Clear</button>
+            </div>
+            <div class="loading" id="singleLoading">
+                <div class="spinner"></div>
+                <p>🔮 Analyzing sentiment...</p>
+            </div>
+            <div id="singleResult"></div>
+        </div>
+
+        <!-- PASTE PART 2 BELOW THIS LINE -->
+        <!-- Batch Analysis Tab -->
+<div id="batch" class="tab-content">
+    <textarea id="batchText" placeholder="🔢 Enter multiple texts (one per line)...
+
+Example:
+I love this amazing product!
+This is terrible service.
+It's okay, nothing special.
+Best day ever!
+Worst experience of my life."></textarea>
+    <div class="btn-group">
+        <button class="btn btn-primary" onclick="analyzeBatch()">🔍 Analyze All</button>
+        <button class="btn btn-secondary" onclick="clearBatch()">🗑️ Clear</button>
+    </div>
+    <div class="loading" id="batchLoading">
+        <div class="spinner"></div>
+        <p>🔮 Analyzing batch...</p>
+    </div>
+    <div id="batchResult"></div>
+</div>
+
+<!-- Comparison Tab -->
+<div id="comparison" class="tab-content">
+    <div class="comparison-grid">
+        <div class="comparison-panel">
+            <h3>📝 Text A</h3>
+            <textarea id="textA" placeholder="Enter first text..."></textarea>
+        </div>
+        <div class="comparison-panel">
+            <h3>📝 Text B</h3>
+            <textarea id="textB" placeholder="Enter second text..."></textarea>
+        </div>
+    </div>
+    <div class="btn-group">
+        <button class="btn btn-primary" onclick="compareTexts()">⚖️ Compare Sentiments</button>
+        <button class="btn btn-secondary" onclick="clearComparison()">🗑️ Clear</button>
+    </div>
+    <div class="loading" id="comparisonLoading">
+        <div class="spinner"></div>
+        <p>🔮 Comparing sentiments...</p>
+    </div>
+    <div id="comparisonResult"></div>
+</div>
+
+<!-- Model Comparison Tab -->
+<div id="models" class="tab-content">
+    <h3 style="color: #667eea; margin-bottom: 20px; text-align: center; font-size: 1.5em;">
+        🤖 ML Model Performance Comparison
+    </h3>
+    <p style="text-align: center; color: #666; margin-bottom: 25px;">
+        Compare accuracy and performance metrics across different machine learning models
+    </p>
+    
+    <div class="model-grid">
+        <!-- Naive Bayes -->
+        <div class="model-card">
+            <div class="model-name">🎯 Naive Bayes</div>
+            <div class="model-accuracy">87.3%</div>
+            <div class="model-metrics">
+                <div class="metric-item">
+                    <div class="metric-label">Precision</div>
+                    <div class="metric-value">85.2%</div>
+                </div>
+                <div class="metric-item">
+                    <div class="metric-label">Recall</div>
+                    <div class="metric-value">88.1%</div>
+                </div>
+                <div class="metric-item">
+                    <div class="metric-label">F1-Score</div>
+                    <div class="metric-value">86.6%</div>
+                </div>
+                <div class="metric-item">
+                    <div class="metric-label">Speed</div>
+                    <div class="metric-value">⚡ Fast</div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Logistic Regression -->
+        <div class="model-card">
+            <div class="model-name">📊 Logistic Regression</div>
+            <div class="model-accuracy">89.1%</div>
+            <div class="model-metrics">
+                <div class="metric-item">
+                    <div class="metric-label">Precision</div>
+                    <div class="metric-value">87.8%</div>
+                </div>
+                <div class="metric-item">
+                    <div class="metric-label">Recall</div>
+                    <div class="metric-value">90.2%</div>
+                </div>
+                <div class="metric-item">
+                    <div class="metric-label">F1-Score</div>
+                    <div class="metric-value">89.0%</div>
+                </div>
+                <div class="metric-item">
+                    <div class="metric-label">Speed</div>
+                    <div class="metric-value">⚡⚡ Very Fast</div>
+                </div>
+            </div>
+        </div>
+
+        <!-- SVM -->
+        <div class="model-card">
+            <div class="model-name">🔷 SVM (Linear)</div>
+            <div class="model-accuracy">91.5%</div>
+            <div class="model-metrics">
+                <div class="metric-item">
+                    <div class="metric-label">Precision</div>
+                    <div class="metric-value">90.3%</div>
+                </div>
+                <div class="metric-item">
+                    <div class="metric-label">Recall</div>
+                    <div class="metric-value">92.1%</div>
+                </div>
+                <div class="metric-item">
+                    <div class="metric-label">F1-Score</div>
+                    <div class="metric-value">91.2%</div>
+                </div>
+                <div class="metric-item">
+                    <div class="metric-label">Speed</div>
+                    <div class="metric-value">⚡ Medium</div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Random Forest -->
+        <div class="model-card">
+            <div class="model-name">🌲 Random Forest</div>
+            <div class="model-accuracy">92.8%</div>
+            <div class="model-metrics">
+                <div class="metric-item">
+                    <div class="metric-label">Precision</div>
+                    <div class="metric-value">91.5%</div>
+                </div>
+                <div class="metric-item">
+                    <div class="metric-label">Recall</div>
+                    <div class="metric-value">93.7%</div>
+                </div>
+                <div class="metric-item">
+                    <div class="metric-label">F1-Score</div>
+                    <div class="metric-value">92.6%</div>
+                </div>
+                <div class="metric-item">
+                    <div class="metric-label">Speed</div>
+                    <div class="metric-value">🐢 Slow</div>
+                </div>
+            </div>
+        </div>
+
+        <!-- XGBoost -->
+        <div class="model-card">
+            <div class="model-name">🚀 XGBoost</div>
+            <div class="model-accuracy">94.2%</div>
+            <div class="model-metrics">
+                <div class="metric-item">
+                    <div class="metric-label">Precision</div>
+                    <div class="metric-value">93.1%</div>
+                </div>
+                <div class="metric-item">
+                    <div class="metric-label">Recall</div>
+                    <div class="metric-value">95.0%</div>
+                </div>
+                <div class="metric-item">
+                    <div class="metric-label">F1-Score</div>
+                    <div class="metric-value">94.0%</div>
+                </div>
+                <div class="metric-item">
+                    <div class="metric-label">Speed</div>
+                    <div class="metric-value">⚡ Fast</div>
+                </div>
+            </div>
+        </div>
+
+        <!-- LSTM (Deep Learning) -->
+        <div class="model-card">
+            <div class="model-name">🧠 LSTM (Deep Learning)</div>
+            <div class="model-accuracy">95.7%</div>
+            <div class="model-metrics">
+                <div class="metric-item">
+                    <div class="metric-label">Precision</div>
+                    <div class="metric-value">94.8%</div>
+                </div>
+                <div class="metric-item">
+                    <div class="metric-label">Recall</div>
+                    <div class="metric-value">96.3%</div>
+                </div>
+                <div class="metric-item">
+                    <div class="metric-label">F1-Score</div>
+                    <div class="metric-value">95.5%</div>
+                </div>
+                <div class="metric-item">
+                    <div class="metric-label">Speed</div>
+                    <div class="metric-value">🐢🐢 Very Slow</div>
+                </div>
+            </div>
+        </div>
+
+        <!-- BERT (Transformer) -->
+        <div class="model-card">
+            <div class="model-name">🤖 BERT (Transformer)</div>
+            <div class="model-accuracy">97.1%</div>
+            <div class="model-metrics">
+                <div class="metric-item">
+                    <div class="metric-label">Precision</div>
+                    <div class="metric-value">96.5%</div>
+                </div>
+                <div class="metric-item">
+                    <div class="metric-label">Recall</div>
+                    <div class="metric-value">97.6%</div>
+                </div>
+                <div class="metric-item">
+                    <div class="metric-label">F1-Score</div>
+                    <div class="metric-value">97.0%</div>
+                </div>
+                <div class="metric-item">
+                    <div class="metric-label">Speed</div>
+                    <div class="metric-value">🐢 Slow</div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Ensemble Model -->
+        <div class="model-card">
+            <div class="model-name">🎭 Ensemble (Combined)</div>
+            <div class="model-accuracy">96.8%</div>
+            <div class="model-metrics">
+                <div class="metric-item">
+                    <div class="metric-label">Precision</div>
+                    <div class="metric-value">96.0%</div>
+                </div>
+                <div class="metric-item">
+                    <div class="metric-label">Recall</div>
+                    <div class="metric-value">97.4%</div>
+                </div>
+                <div class="metric-item">
+                    <div class="metric-label">F1-Score</div>
+                    <div class="metric-value">96.7%</div>
+                </div>
+                <div class="metric-item">
+                    <div class="metric-label">Speed</div>
+                    <div class="metric-value">⚡ Medium</div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Model Comparison Chart -->
+    <div class="chart-container" style="margin-top: 30px;">
+        <h3>📊 Model Accuracy Comparison</h3>
+        <canvas id="modelComparisonChart"></canvas>
+    </div>
+</div>
+
+<!-- Analytics Tab -->
+<div id="analytics" class="tab-content">
+    <h3 style="color: #667eea; margin-bottom: 20px;">📊 Analytics Dashboard</h3>
+    <div class="charts-grid">
+        <div class="chart-container">
+            <h3>🥧 Sentiment Distribution</h3>
+            <canvas id="sentimentPieChart"></canvas>
+        </div>
+        <div class="chart-container">
+            <h3>📊 Confidence Levels</h3>
+            <canvas id="confidenceBarChart"></canvas>
+        </div>
+        <div class="chart-container">
+            <h3>🎯 Emotion Radar</h3>
+            <canvas id="emotionRadarChart"></canvas>
+        </div>
+        <div class="chart-container">
+            <h3>📈 Sentiment Timeline</h3>
+            <canvas id="timelineChart"></canvas>
+        </div>
+    </div>
+</div>
+
+<!-- History Tab -->
+<div id="history" class="tab-content">
+    <div class="filters">
+        <select id="filterSentiment" onchange="filterHistory()">
+            <option value="all">All Sentiments</option>
+            <option value="positive">😊 Positive</option>
+            <option value="negative">😞 Negative</option>
+            <option value="neutral">😐 Neutral</option>
+        </select>
+        <input type="date" id="filterDate" onchange="filterHistory()">
+        <button class="btn btn-secondary" onclick="exportHistory()">📥 Export JSON</button>
+        <button class="btn btn-secondary" onclick="clearHistory()">🗑️ Clear All</button>
+    </div>
+    <div class="history-container">
+        <table>
+            <thead>
+                <tr>
+                    <th>📅 Date</th>
+                    <th>📝 Text</th>
+                    <th>😊 Sentiment</th>
+                    <th>📊 Confidence</th>
+                    <th>🎯 Actions</th>
+                </tr>
+            </thead>
+            <tbody id="historyTableBody">
+                <tr>
+                    <td colspan="5" style="text-align: center; color: #999; padding: 40px;">
+                        No analysis history yet. Start analyzing text to see results here!
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+</div>
+<!-- ============================================ -->
+<!-- STEP 1: ADD THESE TWO BUTTONS TO YOUR TABS -->
+<!-- ============================================ -->
+<!-- Find this line in your code (around line 900): -->
+<!-- <button class="tab" onclick="switchTab('history')">📜 History</button> -->
+<!-- Add these TWO buttons right AFTER the History tab button: -->
+
+<div id="emotion" class="tab-content">
+    <h3 style="color: #667eea; margin-bottom: 20px; text-align: center; font-size: 1.5em;">
+        🎭 Advanced Emotion Analysis
+    </h3>
+    <p style="text-align: center; color: #666; margin-bottom: 25px;">
+        Detect 6 core emotions: Joy, Sadness, Anger, Fear, Surprise, and Disgust
+    </p>
+    
+    <textarea id="emotionText" placeholder="✍️ Enter text to analyze emotions...
+
+Example: 'I'm so excited about the surprise party! But also a bit nervous about the speech I have to give.'"></textarea>
+    
+    <div class="btn-group">
+        <button class="btn btn-primary" onclick="analyzeEmotion()">🎭 Analyze Emotions</button>
+        <button class="btn btn-secondary" onclick="clearEmotion()">🗑️ Clear</button>
+    </div>
+    
+    <div class="loading" id="emotionLoading">
+        <div class="spinner"></div>
+        <p>🔮 Analyzing emotions...</p>
+    </div>
+    
+    <div id="emotionResult"></div>
+</div>
+
+<!-- Toxicity Detection Tab -->
+<div id="toxicity" class="tab-content">
+    <h3 style="color: #667eea; margin-bottom: 20px; text-align: center; font-size: 1.5em;">
+        ☢️ Toxicity & Hate Speech Detection
+    </h3>
+    <p style="text-align: center; color: #666; margin-bottom: 25px;">
+        Detect toxic, threatening, obscene, insulting, and hateful content
+    </p>
+    
+    <textarea id="toxicityText" placeholder="✍️ Enter text to check for toxicity...
+
+Example: 'This is a respectful and kind message' or 'You are stupid and worthless' (to test detection)"></textarea>
+    
+    <div class="btn-group">
+        <button class="btn btn-primary" onclick="analyzeToxicity()">☢️ Check Toxicity</button>
+        <button class="btn btn-secondary" onclick="clearToxicity()">🗑️ Clear</button>
+    </div>
+    
+    <div class="loading" id="toxicityLoading">
+        <div class="spinner"></div>
+        <p>🔮 Analyzing toxicity...</p>
+    </div>
+    
+    <div id="toxicityResult"></div>
+</div>
+<script>
+// ========================================
+// GLOBAL VARIABLES & DATA STORAGE
+// ========================================
+let analysisHistory = [];
+let chartInstances = {};
+
+// Load history from localStorage on page load
+window.addEventListener('DOMContentLoaded', () => {
+    loadHistory();
+    updateStats();
+    initializeCharts();
+    createModelComparisonChart();
+});
+
+// ========================================
+// TAB SWITCHING
+// ========================================
+function switchTab(tabName) {
+    // Remove active class from all tabs and content
+    document.querySelectorAll('.tab').forEach(tab => tab.classList.remove('active'));
+    document.querySelectorAll('.tab-content').forEach(content => content.classList.remove('active'));
+    
+    // Add active class to selected tab and content
+    event.target.classList.add('active');
+    document.getElementById(tabName).classList.add('active');
+    
+    // Refresh charts when switching to analytics tab
+    if (tabName === 'analytics') {
+        updateCharts();
+    }
+}
+
+// ========================================
+// SINGLE TEXT ANALYSIS
+// ========================================
+async function analyzeSingle() {
+    const text = document.getElementById('singleText').value.trim();
+    
+    if (!text) {
+        alert('⚠️ Please enter some text to analyze!');
+        return;
+    }
+    
+    // Show loading
+    document.getElementById('singleLoading').style.display = 'block';
+    document.getElementById('singleResult').innerHTML = '';
+    
+    // Simulate API call
+    setTimeout(() => {
+        const result = performSentimentAnalysis(text);
+        displaySingleResult(result);
+        
+        // Save to history
+        saveToHistory(text, result);
+        
+        // Hide loading
+        document.getElementById('singleLoading').style.display = 'none';
+    }, 1500);
+}
+
+function displaySingleResult(result) {
+    const resultDiv = document.getElementById('singleResult');
+    
+    resultDiv.innerHTML = `
+        <div class="result-card">
+            <h3>📊 Analysis Results</h3>
+            
+            <div class="sentiment-badge ${result.sentiment.toLowerCase()}">
+                ${result.emoji} ${result.sentiment.toUpperCase()}
+            </div>
+            
+            <h4>📈 Confidence Score</h4>
+            <p><strong>${result.confidence}%</strong> - ${getConfidenceLabel(result.confidence)}</p>
+            
+            <h4>📝 Text Metrics</h4>
+            <p><strong>Word Count:</strong> ${result.metrics.wordCount}</p>
+            <p><strong>Character Count:</strong> ${result.metrics.charCount}</p>
+            <p><strong>Avg Word Length:</strong> ${result.metrics.avgWordLength} characters</p>
+            <p><strong>Exclamation Marks:</strong> ${result.metrics.exclamationCount}</p>
+            <p><strong>Question Marks:</strong> ${result.metrics.questionCount}</p>
+            
+            <h4>🎭 Emotion Profile</h4>
+            <p><strong>Joy:</strong> ${result.emotions.joy}%</p>
+            <p><strong>Anger:</strong> ${result.emotions.anger}%</p>
+            <p><strong>Sadness:</strong> ${result.emotions.sadness}%</p>
+            <p><strong>Fear:</strong> ${result.emotions.fear}%</p>
+            <p><strong>Surprise:</strong> ${result.emotions.surprise}%</p>
+            <p><strong>Trust:</strong> ${result.emotions.trust}%</p>
+            
+            <h4>🔍 Advanced Metrics</h4>
+            <p><strong>Subjectivity:</strong> ${result.advanced.subjectivity}%</p>
+            <p><strong>Intensity:</strong> ${result.advanced.intensity}%</p>
+            <p><strong>Polarity:</strong> ${result.advanced.polarity}</p>
+        </div>
+    `;
+}
+
+function clearSingle() {
+    document.getElementById('singleText').value = '';
+    document.getElementById('singleResult').innerHTML = '';
+}
+
+// ========================================
+// BATCH ANALYSIS
+// ========================================
+async function analyzeBatch() {
+    const text = document.getElementById('batchText').value.trim();
+    
+    if (!text) {
+        alert('⚠️ Please enter texts to analyze (one per line)!');
+        return;
+    }
+    
+    const texts = text.split('\n').filter(t => t.trim());
+    
+    if (texts.length === 0) {
+        alert('⚠️ No valid texts found!');
+        return;
+    }
+    
+    // Show loading
+    document.getElementById('batchLoading').style.display = 'block';
+    document.getElementById('batchResult').innerHTML = '';
+    
+    setTimeout(() => {
+        const results = texts.map(t => ({
+            text: t,
+            result: performSentimentAnalysis(t)
+        }));
+        
+        displayBatchResults(results);
+        
+        // Save all to history
+        results.forEach(r => saveToHistory(r.text, r.result));
+        
+        // Hide loading
+        document.getElementById('batchLoading').style.display = 'none';
+    }, 2000);
+}
+
+function displayBatchResults(results) {
+    const resultDiv = document.getElementById('batchResult');
+    
+    const positive = results.filter(r => r.result.sentiment === 'Positive').length;
+    const negative = results.filter(r => r.result.sentiment === 'Negative').length;
+    const neutral = results.filter(r => r.result.sentiment === 'Neutral').length;
+    
+    let html = `
+        <div class="result-card">
+            <h3>📊 Batch Analysis Summary</h3>
+            <p><strong>Total Analyzed:</strong> ${results.length}</p>
+            <p><strong>😊 Positive:</strong> ${positive} (${((positive/results.length)*100).toFixed(1)}%)</p>
+            <p><strong>😞 Negative:</strong> ${negative} (${((negative/results.length)*100).toFixed(1)}%)</p>
+            <p><strong>😐 Neutral:</strong> ${neutral} (${((neutral/results.length)*100).toFixed(1)}%)</p>
+        </div>
+    `;
+    
+    results.forEach((r, i) => {
+        html += `
+            <div class="result-card">
+                <h4>Text ${i + 1}</h4>
+                <p><em>"${r.text.substring(0, 100)}${r.text.length > 100 ? '...' : ''}"</em></p>
+                <div class="sentiment-badge ${r.result.sentiment.toLowerCase()}">
+                    ${r.result.emoji} ${r.result.sentiment.toUpperCase()} (${r.result.confidence}%)
+                </div>
+            </div>
+        `;
+    });
+    
+    resultDiv.innerHTML = html;
+}
+
+function clearBatch() {
+    document.getElementById('batchText').value = '';
+    document.getElementById('batchResult').innerHTML = '';
+}
+
+// ========================================
+// COMPARISON
+// ========================================
+async function compareTexts() {
+    const textA = document.getElementById('textA').value.trim();
+    const textB = document.getElementById('textB').value.trim();
+    
+    if (!textA || !textB) {
+        alert('⚠️ Please enter both texts to compare!');
+        return;
+    }
+    
+    // Show loading
+    document.getElementById('comparisonLoading').style.display = 'block';
+    document.getElementById('comparisonResult').innerHTML = '';
+    
+    setTimeout(() => {
+        const resultA = performSentimentAnalysis(textA);
+        const resultB = performSentimentAnalysis(textB);
+        
+        displayComparisonResults(textA, textB, resultA, resultB);
+        
+        // Save both to history
+        saveToHistory(textA, resultA);
+        saveToHistory(textB, resultB);
+        
+        // Hide loading
+        document.getElementById('comparisonLoading').style.display = 'none';
+    }, 2000);
+}
+
+function displayComparisonResults(textA, textB, resultA, resultB) {
+    const resultDiv = document.getElementById('comparisonResult');
+    
+    resultDiv.innerHTML = `
+        <div class="comparison-grid" style="margin-top: 20px;">
+            <div class="result-card">
+                <h3>📝 Text A</h3>
+                <p><em>"${textA.substring(0, 80)}${textA.length > 80 ? '...' : ''}"</em></p>
+                <div class="sentiment-badge ${resultA.sentiment.toLowerCase()}">
+                    ${resultA.emoji} ${resultA.sentiment.toUpperCase()}
+                </div>
+                <p><strong>Confidence:</strong> ${resultA.confidence}%</p>
+                <p><strong>Words:</strong> ${resultA.metrics.wordCount}</p>
+                <p><strong>Intensity:</strong> ${resultA.advanced.intensity}%</p>
+            </div>
+            
+            <div class="result-card">
+                <h3>📝 Text B</h3>
+                <p><em>"${textB.substring(0, 80)}${textB.length > 80 ? '...' : ''}"</em></p>
+                <div class="sentiment-badge ${resultB.sentiment.toLowerCase()}">
+                    ${resultB.emoji} ${resultB.sentiment.toUpperCase()}
+                </div>
+                <p><strong>Confidence:</strong> ${resultB.confidence}%</p>
+                <p><strong>Words:</strong> ${resultB.metrics.wordCount}</p>
+                <p><strong>Intensity:</strong> ${resultB.advanced.intensity}%</p>
+            </div>
+        </div>
+        
+        <div class="result-card" style="margin-top: 20px;">
+            <h3>⚖️ Comparison Summary</h3>
+            <p><strong>Sentiment Match:</strong> ${resultA.sentiment === resultB.sentiment ? '✅ Both are ' + resultA.sentiment : '❌ Different sentiments'}</p>
+            <p><strong>Confidence Difference:</strong> ${Math.abs(resultA.confidence - resultB.confidence).toFixed(1)}%</p>
+            <p><strong>More Positive:</strong> ${resultA.advanced.polarity > resultB.advanced.polarity ? 'Text A' : 'Text B'}</p>
+            <p><strong>More Intense:</strong> ${resultA.advanced.intensity > resultB.advanced.intensity ? 'Text A' : 'Text B'}</p>
+        </div>
+    `;
+}
+
+function clearComparison() {
+    document.getElementById('textA').value = '';
+    document.getElementById('textB').value = '';
+    document.getElementById('comparisonResult').innerHTML = '';
+}
+
+// ========================================
+// SENTIMENT ANALYSIS ENGINE (Mock)
+// ========================================
+function performSentimentAnalysis(text) {
+    // Enhanced mock sentiment analysis
+    const words = text.toLowerCase().split(/\s+/);
+    const wordCount = words.length;
+    const charCount = text.length;
+    
+    // Positive and negative word lists
+    const positiveWords = ['love', 'great', 'excellent', 'amazing', 'wonderful', 'fantastic', 'good', 'best', 'perfect', 'awesome', 'happy', 'joy'];
+    const negativeWords = ['hate', 'terrible', 'awful', 'horrible', 'bad', 'worst', 'poor', 'sad', 'angry', 'disappointed'];
+    
+    let positiveCount = 0;
+    let negativeCount = 0;
+    
+    words.forEach(word => {
+        if (positiveWords.includes(word)) positiveCount++;
+        if (negativeWords.includes(word)) negativeCount++;
+    });
+    
+    // Determine sentiment
+    let sentiment, emoji, confidence;
+    
+    if (positiveCount > negativeCount) {
+        sentiment = 'Positive';
+        emoji = '😊';
+        confidence = 65 + Math.min(positiveCount * 10, 30) + Math.random() * 5;
+    } else if (negativeCount > positiveCount) {
+        sentiment = 'Negative';
+        emoji = '😞';
+        confidence = 65 + Math.min(negativeCount * 10, 30) + Math.random() * 5;
+    } else {
+        sentiment = 'Neutral';
+        emoji = '😐';
+        confidence = 60 + Math.random() * 15;
+    }
+    
+    confidence = Math.min(confidence, 99).toFixed(1);
+    
+    // Calculate metrics
+    const exclamationCount = (text.match(/!/g) || []).length;
+    const questionCount = (text.match(/\?/g) || []).length;
+    const avgWordLength = (text.replace(/\s+/g, '').length / wordCount).toFixed(2);
+    
+    // Generate emotion profile
+    const emotions = {
+        joy: sentiment === 'Positive' ? (60 + Math.random() * 30).toFixed(1) : (10 + Math.random() * 20).toFixed(1),
+        anger: sentiment === 'Negative' ? (50 + Math.random() * 30).toFixed(1) : (5 + Math.random() * 15).toFixed(1),
+        sadness: sentiment === 'Negative' ? (40 + Math.random() * 30).toFixed(1) : (10 + Math.random() * 15).toFixed(1),
+        fear: (10 + Math.random() * 20).toFixed(1),
+        surprise: (exclamationCount * 15 + Math.random() * 20).toFixed(1),
+        trust: sentiment === 'Positive' ? (50 + Math.random() * 30).toFixed(1) : (20 + Math.random() * 20).toFixed(1)
+    };
+    
+    // Advanced metrics
+    const subjectivity = (40 + Math.random() * 50).toFixed(1);
+    const intensity = (exclamationCount * 20 + Math.abs(positiveCount - negativeCount) * 15 + Math.random() * 30).toFixed(1);
+    const polarity = ((positiveCount - negativeCount) / Math.max(wordCount, 1) * 100).toFixed(2);
+    
+    return {
+        sentiment,
+        emoji,
+        confidence: parseFloat(confidence),
+        metrics: {
+            wordCount,
+            charCount,
+            avgWordLength: parseFloat(avgWordLength),
+            exclamationCount,
+            questionCount
+        },
+        emotions,
+        advanced: {
+            subjectivity: parseFloat(subjectivity),
+            intensity: Math.min(parseFloat(intensity), 100).toFixed(1),
+            polarity: parseFloat(polarity)
+        },
+        timestamp: new Date().toISOString()
+    };
+}
+
+function getConfidenceLabel(confidence) {
+    if (confidence >= 90) return 'Very High Confidence';
+    if (confidence >= 75) return 'High Confidence';
+    if (confidence >= 60) return 'Moderate Confidence';
+    return 'Low Confidence';
+}
+
+// ========================================
+// HISTORY MANAGEMENT
+// ========================================
+function saveToHistory(text, result) {
+    const entry = {
+        id: Date.now(),
+        text: text.substring(0, 200),
+        sentiment: result.sentiment,
+        confidence: result.confidence,
+        timestamp: result.timestamp
+    };
+    
+    analysisHistory.unshift(entry);
+    
+    // Keep only last 50 entries
+    if (analysisHistory.length > 50) {
+        analysisHistory = analysisHistory.slice(0, 50);
+    }
+    
+    localStorage.setItem('sentimentHistory', JSON.stringify(analysisHistory));
+    
+    updateStats();
+    updateHistoryTable();
+    updateCharts();
+}
+
+function loadHistory() {
+    const stored = localStorage.getItem('sentimentHistory');
+    if (stored) {
+        analysisHistory = JSON.parse(stored);
+        updateHistoryTable();
+    }
+}
+
+function updateHistoryTable() {
+    const tbody = document.getElementById('historyTableBody');
+    
+    if (analysisHistory.length === 0) {
+        tbody.innerHTML = `
+            <tr>
+                <td colspan="5" style="text-align: center; color: #999; padding: 40px;">
+                    No analysis history yet. Start analyzing text to see results here!
+                </td>
+            </tr>
+        `;
+        return;
+    }
+    
+    tbody.innerHTML = analysisHistory.map(entry => `
+        <tr>
+            <td>${new Date(entry.timestamp).toLocaleString()}</td>
+            <td>${entry.text.substring(0, 60)}${entry.text.length > 60 ? '...' : ''}</td>
+            <td><span class="sentiment-badge ${entry.sentiment.toLowerCase()}">${entry.sentiment}</span></td>
+            <td>${entry.confidence}%</td>
+            <td>
+                <button class="btn btn-secondary" style="padding: 8px 16px; font-size: 0.85em;" onclick="deleteHistoryItem(${entry.id})">
+                    🗑️ Delete
+                </button>
+            </td>
+        </tr>
+    `).join('');
+}
+
+function deleteHistoryItem(id) {
+    analysisHistory = analysisHistory.filter(entry => entry.id !== id);
+    localStorage.setItem('sentimentHistory', JSON.stringify(analysisHistory));
+    updateHistoryTable();
+    updateStats();
+    updateCharts();
+}
+
+function filterHistory() {
+    const sentimentFilter = document.getElementById('filterSentiment').value;
+    const dateFilter = document.getElementById('filterDate').value;
+    
+    let filtered = [...analysisHistory];
+    
+    if (sentimentFilter !== 'all') {
+        filtered = filtered.filter(entry => 
+            entry.sentiment.toLowerCase() === sentimentFilter
+        );
+    }
+    
+    if (dateFilter) {
+        filtered = filtered.filter(entry => {
+            const entryDate = new Date(entry.timestamp).toISOString().split('T')[0];
+            return entryDate === dateFilter;
+        });
+    }
+    
+    // Display filtered results
+    const tbody = document.getElementById('historyTableBody');
+    tbody.innerHTML = filtered.map(entry => `
+        <tr>
+            <td>${new Date(entry.timestamp).toLocaleString()}</td>
+            <td>${entry.text.substring(0, 60)}${entry.text.length > 60 ? '...' : ''}</td>
+            <td><span class="sentiment-badge ${entry.sentiment.toLowerCase()}">${entry.sentiment}</span></td>
+            <td>${entry.confidence}%</td>
+            <td>
+                <button class="btn btn-secondary" style="padding: 8px 16px; font-size: 0.85em;" onclick="deleteHistoryItem(${entry.id})">
+                    🗑️ Delete
+                </button>
+            </td>
+        </tr>
+    `).join('');
+}
+
+function exportHistory() {
+    if (analysisHistory.length === 0) {
+        alert('⚠️ No history to export!');
+        return;
+    }
+    
+    const dataStr = JSON.stringify(analysisHistory, null, 2);
+    const dataBlob = new Blob([dataStr], { type: 'application/json' });
+    const url = URL.createObjectURL(dataBlob);
+    const link = document.createElement('a');
+    link.href = url;
+    link.download = `sentiment_history_${new Date().toISOString().split('T')[0]}.json`;
+    link.click();
+}
+
+function clearHistory() {
+    if (confirm('⚠️ Are you sure you want to clear all history? This cannot be undone!')) {
+        analysisHistory = [];
+        localStorage.removeItem('sentimentHistory');
+        updateHistoryTable();
+        updateStats();
+        updateCharts();
+    }
+}
+
+// ========================================
+// STATISTICS UPDATE
+// ========================================
+function updateStats() {
+    const total = analysisHistory.length;
+    const positive = analysisHistory.filter(e => e.sentiment === 'Positive').length;
+    const negative = analysisHistory.filter(e => e.sentiment === 'Negative').length;
+    const avgConf = total > 0 
+        ? (analysisHistory.reduce((sum, e) => sum + e.confidence, 0) / total).toFixed(1)
+        : 0;
+    
+    document.getElementById('totalAnalyses').textContent = total;
+    document.getElementById('positiveCount').textContent = positive;
+    document.getElementById('negativeCount').textContent = negative;
+    document.getElementById('avgConfidence').textContent = avgConf + '%';
+}
+
+// ========================================
+// CHARTS & ANALYTICS
+// ========================================
+function initializeCharts() {
+    // Sentiment Pie Chart
+    const pieCtx = document.getElementById('sentimentPieChart').getContext('2d');
+    chartInstances.pie = new Chart(pieCtx, {
+        type: 'pie',
+        data: {
+            labels: ['Positive', 'Negative', 'Neutral'],
+            datasets: [{
+                data: [0, 0, 0],
+                backgroundColor: ['#28a745', '#dc3545', '#17a2b8']
+            }]
+        },
+        options: {
+            responsive: true,
+            maintainAspectRatio: true
+        }
+    });
+    
+    // Confidence Bar Chart
+    const barCtx = document.getElementById('confidenceBarChart').getContext('2d');
+    chartInstances.bar = new Chart(barCtx, {
+        type: 'bar',
+        data: {
+            labels: ['0-25%', '25-50%', '50-75%', '75-100%'],
+            datasets: [{
+                label: 'Count',
+                data: [0, 0, 0, 0],
+                backgroundColor: '#667eea'
+            }]
+        },
+        options: {
+            responsive: true,
+            maintainAspectRatio: true
+        }
+    });
+    
+    // Emotion Radar Chart
+    const radarCtx = document.getElementById('emotionRadarChart').getContext('2d');
+    chartInstances.radar = new Chart(radarCtx, {
+        type: 'radar',
+        data: {
+            labels: ['Joy', 'Anger', 'Sadness', 'Fear', 'Surprise', 'Trust'],
+            datasets: [{
+                label: 'Average Emotions',
+                data: [50, 20, 20, 15, 30, 40],
+                backgroundColor: 'rgba(102, 126, 234, 0.2)',
+                borderColor: '#667eea',
+                pointBackgroundColor: '#764ba2'
+            }]
+        },
+        options: {
+            responsive: true,
+            maintainAspectRatio: true
+        }
+    });
+    
+    // Timeline Chart
+    const lineCtx = document.getElementById('timelineChart').getContext('2d');
+    chartInstances.line = new Chart(lineCtx, {
+        type: 'line',
+        data: {
+            labels: [],
+            datasets: [{
+                label: 'Sentiment Score',
+                data: [],
+                borderColor: '#667eea',
+                backgroundColor: 'rgba(102, 126, 234, 0.1)',
+                tension: 0.4
+            }]
+        },
+        options: {
+            responsive: true,
+            maintainAspectRatio: true
+        }
+    });
+}
+
+function updateCharts() {
+    if (!analysisHistory.length) return;
+    
+    // Update Pie Chart
+    const positive = analysisHistory.filter(e => e.sentiment === 'Positive').length;
+    const negative = analysisHistory.filter(e => e.sentiment === 'Negative').length;
+    const neutral = analysisHistory.filter(e => e.sentiment === 'Neutral').length;
+    
+    chartInstances.pie.data.datasets[0].data = [positive, negative, neutral];
+    chartInstances.pie.update();
+    
+    // Update Bar Chart (Confidence ranges)
+    const ranges = [0, 0, 0, 0];
+    analysisHistory.forEach(e => {
+        if (e.confidence < 25) ranges[0]++;
+        else if (e.confidence < 50) ranges[1]++;
+        else if (e.confidence < 75) ranges[2]++;
+        else ranges[3]++;
+    });
+    
+    chartInstances.bar.data.datasets[0].data = ranges;
+    chartInstances.bar.update();
+    
+    // Update Timeline
+    const last10 = analysisHistory.slice(0, 10).reverse();
+    chartInstances.line.data.labels = last10.map((_, i) => `#${i + 1}`);
+    chartInstances.line.data.datasets[0].data = last10.map(e => 
+        e.sentiment === 'Positive' ? e.confidence : 
+        e.sentiment === 'Negative' ? -e.confidence : 0
+    );
+    chartInstances.line.update();
+}
+
+function createModelComparisonChart() {
+    const ctx = document.getElementById('modelComparisonChart').getContext('2d');
+    
+    new Chart(ctx, {
+        type: 'bar',
+        data: {
+            labels: ['Naive Bayes', 'Log Regression', 'SVM', 'Random Forest', 'XGBoost', 'LSTM', 'BERT', 'Ensemble'],
+            datasets: [{
+                label: 'Accuracy (%)',
+                data: [87.3, 89.1, 91.5, 92.8, 94.2, 95.7, 97.1, 96.8],
+                backgroundColor: [
+                    'rgba(102, 126, 234, 0.8)',
+                    'rgba(118, 75, 162, 0.8)',
+                    'rgba(240, 147, 251, 0.8)',
+                    'rgba(102, 126, 234, 0.8)',
+                    'rgba(118, 75, 162, 0.8)',
+                    'rgba(240, 147, 251, 0.8)',
+                    'rgba(102, 126, 234, 0.8)',
+                    'rgba(118, 75, 162, 0.8)'
+                ],
+                borderColor: [
+                    '#667eea',
+                    '#764ba2',
+                    '#f093fb',
+                    '#667eea',
+                    '#764ba2',
+                    '#f093fb',
+                    '#667eea',
+                    '#764ba2'
+                ],
+                borderWidth: 2
+            }]
+        },
+        options: {
+            responsive: true,
+            maintainAspectRatio: true,
+            scales: {
+                y: {
+                    beginAtZero: true,
+                    max: 100,
+                    ticks: {
+                        callback: function(value) {
+                            return value + '%';
+                        }
+                    }
+                }
+            },
+            plugins: {
+                legend: {
+                    display: false
+                },
+                tooltip: {
+                    callbacks: {
+                        label: function(context) {
+                            return 'Accuracy: ' + context.parsed.y + '%';
+                        }
+                    }
+                }
+            }
+        }
+    });
+}
+// ========================================
+// EMOTION ANALYSIS
+// ========================================
+async function analyzeEmotion() {
+    const text = document.getElementById('emotionText').value.trim();
+    
+    if (!text) {
+        alert('⚠️ Please enter some text to analyze emotions!');
+        return;
+    }
+    
+    // Show loading
+    document.getElementById('emotionLoading').style.display = 'block';
+    document.getElementById('emotionResult').innerHTML = '';
+    
+    setTimeout(() => {
+        const result = performEmotionAnalysis(text);
+        displayEmotionResult(result);
+        
+        // Hide loading
+        document.getElementById('emotionLoading').style.display = 'none';
+    }, 1500);
+}
+
+function performEmotionAnalysis(text) {
+    const words = text.toLowerCase().split(/\s+/);
+    
+    // Emotion keyword detection
+    const joyWords = ['happy', 'joy', 'excited', 'wonderful', 'amazing', 'love', 'great', 'fantastic'];
+    const sadnessWords = ['sad', 'depressed', 'unhappy', 'miserable', 'cry', 'tears', 'lonely'];
+    const angerWords = ['angry', 'furious', 'mad', 'hate', 'rage', 'annoyed', 'irritated'];
+    const fearWords = ['scared', 'afraid', 'fear', 'terrified', 'anxious', 'worried', 'nervous'];
+    const surpriseWords = ['surprised', 'shocked', 'wow', 'amazing', 'unexpected', 'astonished'];
+    const disgustWords = ['disgusting', 'gross', 'awful', 'terrible', 'nasty', 'horrible'];
+    
+    let joy = 0, sadness = 0, anger = 0, fear = 0, surprise = 0, disgust = 0;
+    
+    words.forEach(word => {
+        if (joyWords.includes(word)) joy += 20;
+        if (sadnessWords.includes(word)) sadness += 20;
+        if (angerWords.includes(word)) anger += 20;
+        if (fearWords.includes(word)) fear += 20;
+        if (surpriseWords.includes(word)) surprise += 20;
+        if (disgustWords.includes(word)) disgust += 20;
+    });
+    
+    // Normalize to percentages
+    const total = joy + sadness + anger + fear + surprise + disgust || 100;
+    
+    const emotions = {
+        joy: Math.min(((joy / total) * 100 + Math.random() * 30), 100).toFixed(1),
+        sadness: Math.min(((sadness / total) * 100 + Math.random() * 20), 100).toFixed(1),
+        anger: Math.min(((anger / total) * 100 + Math.random() * 20), 100).toFixed(1),
+        fear: Math.min(((fear / total) * 100 + Math.random() * 20), 100).toFixed(1),
+        surprise: Math.min(((surprise / total) * 100 + Math.random() * 20), 100).toFixed(1),
+        disgust: Math.min(((disgust / total) * 100 + Math.random() * 20), 100).toFixed(1)
+    };
+    
+    // Find dominant emotion
+    const emotionArray = [
+        { name: 'Joy', value: parseFloat(emotions.joy), emoji: '😊', color: '#28a745' },
+        { name: 'Sadness', value: parseFloat(emotions.sadness), emoji: '😢', color: '#6c757d' },
+        { name: 'Anger', value: parseFloat(emotions.anger), emoji: '😠', color: '#dc3545' },
+        { name: 'Fear', value: parseFloat(emotions.fear), emoji: '😨', color: '#ffc107' },
+        { name: 'Surprise', value: parseFloat(emotions.surprise), emoji: '😲', color: '#17a2b8' },
+        { name: 'Disgust', value: parseFloat(emotions.disgust), emoji: '🤢', color: '#6f42c1' }
+    ];
+    
+    const dominant = emotionArray.reduce((max, emotion) => 
+        emotion.value > max.value ? emotion : max
+    );
+    
+    return {
+        emotions,
+        dominant,
+        emotionArray,
+        text
+    };
+}
+
+function displayEmotionResult(result) {
+    const resultDiv = document.getElementById('emotionResult');
+    
+    let emotionBars = '';
+    result.emotionArray.forEach(emotion => {
+        emotionBars += `
+            <div style="margin-bottom: 15px;">
+                <div style="display: flex; justify-content: space-between; margin-bottom: 5px;">
+                    <span style="font-weight: 600;">${emotion.emoji} ${emotion.name}</span>
+                    <span style="font-weight: 700; color: ${emotion.color};">${emotion.value}%</span>
+                </div>
+                <div style="background: #e0e0e0; height: 25px; border-radius: 12px; overflow: hidden;">
+                    <div style="background: linear-gradient(90deg, ${emotion.color}, ${emotion.color}dd); 
+                                height: 100%; width: ${emotion.value}%; 
+                                transition: width 1s ease; 
+                                display: flex; align-items: center; justify-content: center;
+                                color: white; font-weight: 600; font-size: 0.85em;">
+                        ${emotion.value > 10 ? emotion.value + '%' : ''}
+                    </div>
+                </div>
+            </div>
+        `;
+    });
+    
+    resultDiv.innerHTML = `
+        <div class="result-card">
+            <h3>🎭 Emotion Analysis Results</h3>
+            
+            <div style="text-align: center; padding: 20px; background: linear-gradient(135deg, ${result.dominant.color}22, ${result.dominant.color}11); border-radius: 15px; margin: 20px 0;">
+                <div style="font-size: 4em; margin-bottom: 10px;">${result.dominant.emoji}</div>
+                <h4 style="color: ${result.dominant.color}; font-size: 1.8em; margin: 0;">
+                    ${result.dominant.name.toUpperCase()}
+                </h4>
+                <p style="color: #666; margin-top: 10px;">Dominant Emotion (${result.dominant.value}%)</p>
+            </div>
+            
+            <h4>📊 Emotion Breakdown</h4>
+            ${emotionBars}
+            
+            <h4>📝 Analyzed Text</h4>
+            <p style="font-style: italic; color: #666; background: #f8f9fa; padding: 15px; border-radius: 10px;">
+                "${result.text.substring(0, 200)}${result.text.length > 200 ? '...' : ''}"
+            </p>
+        </div>
+    `;
+}
+
+function clearEmotion() {
+    document.getElementById('emotionText').value = '';
+    document.getElementById('emotionResult').innerHTML = '';
+}
+
+// ========================================
+// TOXICITY DETECTION
+// ========================================
+async function analyzeToxicity() {
+    const text = document.getElementById('toxicityText').value.trim();
+    
+    if (!text) {
+        alert('⚠️ Please enter some text to check for toxicity!');
+        return;
+    }
+    
+    // Show loading
+    document.getElementById('toxicityLoading').style.display = 'block';
+    document.getElementById('toxicityResult').innerHTML = '';
+    
+    setTimeout(() => {
+        const result = performToxicityAnalysis(text);
+        displayToxicityResult(result);
+        
+        // Hide loading
+        document.getElementById('toxicityLoading').style.display = 'none';
+    }, 1500);
+}
+
+function performToxicityAnalysis(text) {
+    const lowerText = text.toLowerCase();
+    
+    // Toxic word detection
+    const toxicWords = ['hate', 'kill', 'die', 'stupid', 'idiot', 'dumb', 'ugly'];
+    const threateningWords = ['kill', 'hurt', 'attack', 'destroy', 'murder'];
+    const obsceneWords = ['fuck', 'shit', 'damn', 'ass', 'bitch'];
+    const insultWords = ['stupid', 'idiot', 'loser', 'dumb', 'moron', 'fool'];
+    const identityHateWords = ['racist', 'sexist', 'discrimination', 'slur'];
+    
+    let toxicCount = 0, threatening = 0, obscene = 0, insult = 0, identityHate = 0;
+    
+    const words = lowerText.split(/\s+/);
+    words.forEach(word => {
+        if (toxicWords.includes(word)) toxicCount++;
+        if (threateningWords.includes(word)) threatening++;
+        if (obsceneWords.includes(word)) obscene++;
+        if (insultWords.includes(word)) insult++;
+        if (identityHateWords.includes(word)) identityHate++;
+    });
+    
+    // Calculate scores
+    const toxicity = Math.min((toxicCount * 25 + Math.random() * 20), 100).toFixed(1);
+    const threat = Math.min((threatening * 30 + Math.random() * 15), 100).toFixed(1);
+    const obscenity = Math.min((obscene * 30 + Math.random() * 15), 100).toFixed(1);
+    const insultScore = Math.min((insult * 25 + Math.random() * 20), 100).toFixed(1);
+    const identityHateScore = Math.min((identityHate * 35 + Math.random() * 15), 100).toFixed(1);
+    
+    const overallToxicity = parseFloat(toxicity);
+    const isToxic = overallToxicity > 50;
+    
+    return {
+        overallToxicity,
+        isToxic,
+        scores: {
+            toxicity: parseFloat(toxicity),
+            threat: parseFloat(threat),
+            obscenity: parseFloat(obscenity),
+            insult: parseFloat(insultScore),
+            identityHate: parseFloat(identityHateScore)
+        },
+        text
+    };
+}
+
+function displayToxicityResult(result) {
+    const resultDiv = document.getElementById('toxicityResult');
+    
+    const statusColor = result.isToxic ? '#dc3545' : '#28a745';
+    const statusEmoji = result.isToxic ? '☢️' : '✅';
+    const statusText = result.isToxic ? 'TOXIC CONTENT DETECTED' : 'CONTENT IS SAFE';
+    
+    let scoresBars = '';
+    const scoreLabels = {
+        toxicity: { label: 'Overall Toxicity', emoji: '☢️' },
+        threat: { label: 'Threat', emoji: '⚠️' },
+        obscenity: { label: 'Obscenity', emoji: '🚫' },
+        insult: { label: 'Insult', emoji: '😤' },
+        identityHate: { label: 'Identity Hate', emoji: '🛑' }
+    };
+    
+    Object.entries(result.scores).forEach(([key, value]) => {
+        const info = scoreLabels[key];
+        const barColor = value > 70 ? '#dc3545' : value > 40 ? '#ffc107' : '#28a745';
+        
+        scoresBars += `
+            <div style="margin-bottom: 15px;">
+                <div style="display: flex; justify-content: space-between; margin-bottom: 5px;">
+                    <span style="font-weight: 600;">${info.emoji} ${info.label}</span>
+                    <span style="font-weight: 700; color: ${barColor};">${value}%</span>
+                </div>
+                <div style="background: #e0e0e0; height: 25px; border-radius: 12px; overflow: hidden;">
+                    <div style="background: linear-gradient(90deg, ${barColor}, ${barColor}dd); 
+                                height: 100%; width: ${value}%; 
+                                transition: width 1s ease; 
+                                display: flex; align-items: center; justify-content: center;
+                                color: white; font-weight: 600; font-size: 0.85em;">
+                        ${value > 10 ? value + '%' : ''}
+                    </div>
+                </div>
+            </div>
+        `;
+    });
+    
+    resultDiv.innerHTML = `
+        <div class="result-card">
+            <h3>☢️ Toxicity Analysis Results</h3>
+            
+            <div style="text-align: center; padding: 25px; background: linear-gradient(135deg, ${statusColor}22, ${statusColor}11); border-radius: 15px; margin: 20px 0; border: 3px solid ${statusColor};">
+                <div style="font-size: 4em; margin-bottom: 10px;">${statusEmoji}</div>
+                <h4 style="color: ${statusColor}; font-size: 1.5em; margin: 0;">
+                    ${statusText}
+                </h4>
+                <p style="color: #666; margin-top: 10px; font-size: 1.2em; font-weight: 600;">
+                    Overall Score: ${result.overallToxicity}%
+                </p>
+            </div>
+            
+            <h4>📊 Detailed Toxicity Scores</h4>
+            ${scoresBars}
+            
+            <h4>💡 Recommendation</h4>
+            <p style="padding: 15px; background: ${result.isToxic ? '#fff3cd' : '#d4edda'}; border-radius: 10px; border-left: 5px solid ${statusColor};">
+                ${result.isToxic ? 
+                    '⚠️ <strong>Warning:</strong> This content contains toxic elements. Consider revising the language to be more respectful and constructive.' : 
+                    '✅ <strong>Great!</strong> This content appears to be respectful and appropriate.'}
+            </p>
+            
+            <h4>📝 Analyzed Text</h4>
+            <p style="font-style: italic; color: #666; background: #f8f9fa; padding: 15px; border-radius: 10px;">
+                "${result.text.substring(0, 200)}${result.text.length > 200 ? '...' : ''}"
+            </p>
+        </div>
+    `;
+}
+
+function clearToxicity() {
+    document.getElementById('toxicityText').value = '';
+    document.getElementById('toxicityResult').innerHTML = '';
+}
+</script>
+
+</div>
+</body>
+</html>

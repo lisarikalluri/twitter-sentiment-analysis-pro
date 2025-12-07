@@ -1,0 +1,4436 @@
+id,text,toxic,obscene,threat,insult,identity_hate
+0,You're going to pay for this!,1,0,1,0,0
+1,Delivery was prompt.,0,0,0,0,0
+2,Fucking hell what a mess!,1,1,0,0,0
+3,Brilliant! Solved all my problems!,0,0,0,0,0
+4,I respectfully disagree with your opinion.,0,0,0,0,0
+5,"Decent quality, not perfect.",0,0,0,0,0
+6,OMG this is so good!!!,0,0,0,0,0
+7,Love love love this!,0,0,0,0,0
+8,Damn it all to hell!,1,1,1,1,1
+9,Damn it all to hell!,1,1,0,0,0
+10,Shit product!,1,1,0,0,0
+11,You better watch out!,1,0,1,0,0
+12,Best thing ever! So happy!,0,0,0,0,0
+13,Damn it failed!,1,1,0,0,0
+14,Product works as described.,0,0,0,0,0
+15,This fucking sucks!,1,1,0,0,0
+16,What the hell!,1,1,0,0,0
+17,Amazing experience! Thank you!,0,0,0,0,0
+18,Best thing ever! So happy!,0,0,0,0,0
+19,Damn right!,1,1,0,0,0
+20,This is incredible! Five stars!,0,0,0,0,0
+21,Amazing experience! Thank you!,0,0,0,0,0
+22,Love love love this!,0,0,0,0,0
+23,Watch your back!,1,0,1,0,0
+24,Fucking disaster!,1,1,0,0,0
+25,Damn shame!,1,1,0,0,0
+26,What a fucking waste!,1,1,0,0,0
+27,Absolutely fantastic! Exceeded all expectations!,0,0,0,0,0
+28,Outstanding! Will buy again!,0,0,0,0,0
+29,This sucks so damn bad!,1,1,0,0,0
+30,Wonderful product! Highly satisfied!,0,0,0,0,0
+31,Grateful for the quick response!,0,0,0,0,0
+32,I'll make sure you regret this!,1,0,1,0,0
+33,Piece of shit broke!,1,1,0,0,0
+34,This is shit quality!,1,1,0,0,0
+35,"Satisfied, though shipping took long.",0,0,0,0,0
+36,Screwed up big time!,1,1,0,0,0
+37,Perfect! Exactly what I needed!,0,0,0,0,0
+38,Can't believe how good this is!,0,0,0,0,0
+39,This is complete BS!,1,1,0,0,0
+40,You better watch out!,1,0,1,0,0
+41,Hell of a bad product!,1,1,0,0,0
+42,"Satisfied, though shipping took long.",0,0,0,0,0
+43,You're going to pay for this!,1,0,1,0,0
+44,Meets my basic needs.,0,0,0,0,0
+45,Can we find common ground on this issue?,0,0,0,0,0
+46,Shit! This broke already!,1,1,0,0,0
+47,Damn it failed!,1,1,0,0,0
+48,I love this so much! Highly recommend!,0,0,0,0,0
+49,You better watch out!,1,0,1,0,0
+50,Can't believe how good this is!,0,0,0,0,0
+51,Absolutely fantastic! Exceeded all expectations!,0,0,0,0,0
+52,Typical behavior from your group!,1,0,0,0,1
+53,Ignorant fool! Learn something!,1,0,0,1,0
+54,Ignorant fool! Learn something!,1,0,0,1,0
+55,Very thankful for this!,0,0,0,0,0
+56,What a load of crap!,1,1,0,0,0
+57,Outsiders not welcome!,1,0,0,0,1
+58,Let's approach this respectfully.,0,0,0,0,0
+59,Best thing ever! So happy!,0,0,0,0,0
+60,This shit is unbelievable!,1,1,0,0,0
+61,I'm open to learning more about your position.,0,0,0,0,0
+62,Fucking disaster!,1,1,0,0,0
+63,This fucking sucks!,1,1,0,0,0
+64,Awesome! My whole family loves it!,0,0,0,0,0
+65,Brilliant! Solved all my problems!,0,0,0,0,0
+66,Piece of shit broke!,1,1,0,0,0
+67,Functional and practical.,0,0,0,0,0
+68,"Happy overall, small suggestions.",0,0,0,0,0
+69,Appreciate the fast delivery!,0,0,0,0,0
+70,You'll be sorry!,1,0,1,0,0
+71,"Decent quality, not perfect.",0,0,0,0,0
+72,This is shit quality!,1,1,0,0,0
+73,What the hell is this shit!,1,1,0,0,0
+74,Outstanding! Will buy again!,0,0,0,0,0
+75,Bloody awful!,1,1,0,0,0
+76,Damn right!,1,1,0,0,0
+77,This crap doesn't work!,1,1,0,0,0
+78,Damn shame!,1,1,0,0,0
+79,God damn piece of shit!,1,1,0,0,0
+80,Damn shame!,1,1,0,0,0
+81,Wonderful product! Highly satisfied!,0,0,0,0,0
+82,Can we find common ground on this issue?,0,0,0,0,0
+83,Your people are all the same!,1,0,0,0,1
+84,Functional and practical.,0,0,0,0,0
+85,What a load of crap!,1,1,0,0,0
+86,Shit product!,1,1,0,0,0
+87,Wonderful product! Highly satisfied!,0,0,0,0,0
+88,Shit! This broke already!,1,1,0,0,0
+89,Amazing experience! Thank you!,0,0,0,0,0
+90,Fuck off! I don't care!,1,1,0,0,0
+91,Screwed up big time!,1,1,0,0,0
+92,Acceptable quality.,0,0,0,0,0
+93,"Satisfied, though shipping took long.",0,0,0,0,0
+94,"Good value, instructions unclear.",0,0,0,0,0
+95,You're an idiot and you don't know anything!,1,0,0,1,0
+96,Screw this garbage!,1,1,0,0,0
+97,Thank you for sharing your thoughts.,0,0,0,0,0
+98,This product is amazing! Best purchase ever!,0,0,0,0,0
+99,Delivery was prompt.,0,0,0,0,0
+100,Can't believe how good this is!,0,0,0,0,0
+101,"Works well, minor issues with setup.",0,0,0,0,0
+102,I'll make sure you regret this!,1,0,1,0,0
+103,OMG this is so good!!!,0,0,0,0,0
+104,This is complete BS!,1,1,0,0,0
+105,Piece of junk! Trash!,1,1,0,0,0
+106,Hell no! Fuck that!,1,1,0,0,0
+107,I think there might be a misunderstanding here.,0,0,0,0,0
+108,Could you please explain this more clearly?,0,0,0,0,0
+109,Shitty product! Total crap!,1,1,0,0,0
+110,OMG this is so good!!!,0,0,0,0,0
+111,God damn piece of shit!,1,1,0,0,0
+112,Amazing experience! Thank you!,0,0,0,0,0
+113,You don't deserve rights!,1,0,0,0,1
+114,Outsiders not welcome!,1,0,0,0,1
+115,Screwed up big time!,1,1,0,0,0
+116,What the hell!,1,1,0,0,0
+117,Superb! Couldn't be happier!,0,0,0,0,0
+118,Fantastic! Worth every penny!,0,0,0,0,0
+119,This crap doesn't work!,1,1,0,0,0
+120,Inferior and unwanted!,1,0,0,0,1
+121,Fuck this company!,1,1,0,0,0
+122,Standard quality for the price.,0,0,0,0,0
+123,I'm open to learning more about your position.,0,0,0,0,0
+124,"Happy overall, small suggestions.",0,0,0,0,0
+125,God damn piece of shit!,1,1,0,0,0
+126,Delivery was prompt.,0,0,0,0,0
+127,Wonderful product! Highly satisfied!,0,0,0,0,0
+128,This sucks so damn bad!,1,1,0,0,0
+129,Could you please explain this more clearly?,0,0,0,0,0
+130,Love love love this!,0,0,0,0,0
+131,Shut up! Nobody cares what you think!,1,0,0,1,0
+132,This is utter crap!,1,1,0,0,0
+133,Screwed up big time!,1,1,0,0,0
+134,What the hell!,1,1,0,0,0
+135,Piss poor quality!,1,1,0,0,0
+136,Perfect! Exactly what I needed!,0,0,0,0,0
+137,Inferior and unwanted!,1,0,0,0,1
+138,I think there might be a misunderstanding here.,0,0,0,0,0
+139,Holy shit this is bad!,1,1,0,0,0
+140,I think there might be a misunderstanding here.,0,0,0,0,0
+141,Screw this garbage!,1,1,0,0,0
+142,Best thing ever! So happy!,0,0,0,0,0
+143,"Works as intended, design could improve.",0,0,0,0,0
+144,You'll be sorry!,1,0,1,0,0
+145,Damn right!,1,1,0,0,0
+146,Thanks for the recommendation!,0,0,0,0,0
+147,Fucking disaster!,1,1,0,0,0
+148,This product is amazing! Best purchase ever!,0,0,0,0,0
+149,What the fuck is wrong with you!,1,1,0,0,0
+150,Fucking hell what a mess!,1,1,0,0,0
+151,I respectfully disagree with your opinion.,0,0,0,0,0
+152,Love love love this!,0,0,0,0,0
+153,This is utter crap!,1,1,0,0,0
+154,What a fucking waste!,1,1,0,0,0
+155,Shit product!,1,1,0,0,0
+156,Appreciate your assistance!,0,0,0,0,0
+157,Screwed up big time!,1,1,0,0,0
+158,I respectfully disagree with your opinion.,0,0,0,0,0
+159,This is shit quality!,1,1,0,0,0
+160,Outstanding! Will buy again!,0,0,0,0,0
+161,You've made a big mistake!,1,0,1,0,0
+162,Stay with your own kind!,1,0,0,0,1
+163,Product works as described.,0,0,0,0,0
+164,Amazing experience! Thank you!,0,0,0,0,0
+165,This crap doesn't work!,1,1,0,0,0
+166,As expected.,0,0,0,0,0
+167,Item matches the description.,0,0,0,0,0
+168,Great service! Very pleased!,0,0,0,0,0
+169,Acceptable quality.,0,0,0,0,0
+170,You're a joke! Everyone laughs at you!,1,0,0,1,0
+171,Love love love this!,0,0,0,0,0
+172,Item matches the description.,0,0,0,0,0
+173,Go back to where you came from!,1,0,0,0,1
+174,What a load of crap!,1,1,0,0,0
+175,As expected.,0,0,0,0,0
+176,I'll make sure you regret this!,1,0,1,0,0
+177,What a load of crap!,1,1,0,0,0
+178,Holy fuck this sucks!,1,1,0,0,0
+179,Absolutely fantastic! Exceeded all expectations!,0,0,0,0,0
+180,What a fucking waste!,1,1,0,0,0
+181,Awesome! My whole family loves it!,0,0,0,0,0
+182,Piss poor quality!,1,1,0,0,0
+183,This is complete fucking bullshit!,1,1,0,0,0
+184,Hell no! Fuck that!,1,1,0,0,0
+185,Love love love this!,0,0,0,0,0
+186,This shit is unbelievable!,1,1,0,0,0
+187,You're pathetic and useless!,1,0,0,1,0
+188,Fucking worst ever!,1,1,0,0,0
+189,Screwed up big time!,1,1,0,0,0
+190,Your kind ruins everything!,1,0,0,0,1
+191,Functional and practical.,0,0,0,0,0
+192,This is utter crap!,1,1,0,0,0
+193,This sucks so damn bad!,1,1,0,0,0
+194,This is fucking ridiculous!,1,1,0,0,0
+195,You've made a big mistake!,1,0,1,0,0
+196,Your people are all the same!,1,0,0,0,1
+197,Great service! Very pleased!,0,0,0,0,0
+198,Piss poor quality!,1,1,0,0,0
+199,Fucking worst ever!,1,1,0,0,0
+200,The package arrived on time.,0,0,0,0,0
+201,Excellent quality! Very impressed!,0,0,0,0,0
+202,Absolutely fantastic! Exceeded all expectations!,0,0,0,0,0
+203,What a load of crap!,1,1,0,0,0
+204,"Works well, minor issues with setup.",0,0,0,0,0
+205,Bloody awful!,1,1,0,0,0
+206,This product is amazing! Best purchase ever!,0,0,0,0,0
+207,Screwed up big time!,1,1,0,0,0
+208,You're so stupid it hurts!,1,0,0,1,0
+209,Moron! Can't believe how dumb you are!,1,0,0,1,0
+210,Item matches the description.,0,0,0,0,0
+211,Very thankful for this!,0,0,0,0,0
+212,Screw this garbage!,1,1,0,0,0
+213,Thank you for the excellent service!,0,0,0,0,0
+214,Shit! This broke already!,1,1,0,0,0
+215,I think there might be a misunderstanding here.,0,0,0,0,0
+216,What the hell is this shit!,1,1,0,0,0
+217,Let's approach this respectfully.,0,0,0,0,0
+218,Excellent quality! Very impressed!,0,0,0,0,0
+219,Fucking worst ever!,1,1,0,0,0
+220,You're going to pay for this!,1,0,1,0,0
+221,Superb! Couldn't be happier!,0,0,0,0,0
+222,Moron! Can't believe how dumb you are!,1,0,0,1,0
+223,God damn piece of shit!,1,1,0,0,0
+224,Functional and practical.,0,0,0,0,0
+225,Screwed up big time!,1,1,0,0,0
+226,Acceptable quality.,0,0,0,0,0
+227,Holy shit this is bad!,1,1,0,0,0
+228,"Product is fine, packaging could be better.",0,0,0,0,0
+229,Can we find common ground on this issue?,0,0,0,0,0
+230,Damn it all to hell!,1,1,0,0,0
+231,I'll ruin your life!,1,0,1,0,0
+232,Item matches the description.,0,0,0,0,0
+233,No complaints so far.,0,0,0,0,0
+234,Brilliant! Solved all my problems!,0,0,0,0,0
+235,Thank you for the excellent service!,0,0,0,0,0
+236,Excellent quality! Very impressed!,0,0,0,0,0
+237,Meets my basic needs.,0,0,0,0,0
+238,What a loser! Get a life!,1,0,0,1,0
+239,Fucking awful experience!,1,1,0,0,0
+240,Can we find common ground on this issue?,0,0,0,0,0
+241,Wow! Just wow! Amazing!,0,0,0,0,0
+242,Meets my basic needs.,0,0,0,0,0
+243,Wow! Just wow! Amazing!,0,0,0,0,0
+244,As expected.,0,0,0,0,0
+245,What a load of crap!,1,1,0,0,0
+246,Item matches the description.,0,0,0,0,0
+247,Delivery was prompt.,0,0,0,0,0
+248,This shit is unbelievable!,1,1,0,0,0
+249,You don't deserve rights!,1,0,0,0,1
+250,Meets my basic needs.,0,0,0,0,0
+251,What a loser! Get a life!,1,0,0,1,0
+252,Terrific! Exceeds expectations!,0,0,0,0,0
+253,Piece of shit broke!,1,1,0,0,0
+254,Hell no! Fuck that!,1,1,0,0,0
+255,You're so stupid it hurts!,1,0,0,1,0
+256,Functional and practical.,0,0,0,0,0
+257,Fucking worst ever!,1,1,0,0,0
+258,What a shitshow!,1,1,0,0,0
+259,Shit product!,1,1,0,0,0
+260,Thanks for the recommendation!,0,0,0,0,0
+261,This sucks so damn bad!,1,1,0,0,0
+262,Damn it all to hell!,1,1,0,0,0
+263,What a shitshow!,1,1,0,0,0
+264,Fuck this company!,1,1,0,0,0
+265,Great service! Very pleased!,0,0,0,0,0
+266,You're full of shit!,1,1,0,0,0
+267,Outstanding! Will buy again!,0,0,0,0,0
+268,Fuck this stupid thing!,1,1,0,0,0
+269,Stay with your own kind!,1,0,0,0,1
+270,OMG this is so good!!!,0,0,0,0,0
+271,Thank you so much!,0,0,0,0,0
+272,Could you please explain this more clearly?,0,0,0,0,0
+273,Thank you for sharing your thoughts.,0,0,0,0,0
+274,Damn it all to hell!,1,1,0,0,0
+275,Best thing ever! So happy!,0,0,0,0,0
+276,You're a joke! Everyone laughs at you!,1,0,0,1,0
+277,Appreciate your assistance!,0,0,0,0,0
+278,That's an interesting perspective. Here's mine.,0,0,0,0,0
+279,Damn right!,1,1,0,0,0
+280,What the hell!,1,1,0,0,0
+281,I love this so much! Highly recommend!,0,0,0,0,0
+282,Standard quality for the price.,0,0,0,0,0
+283,The package arrived on time.,0,0,0,0,0
+284,Holy fuck this sucks!,1,1,0,0,0
+285,I love this so much! Highly recommend!,0,0,0,0,0
+286,What a fucking waste!,1,1,0,0,0
+287,I love this so much! Highly recommend!,0,0,0,0,0
+288,Hell of a bad product!,1,1,0,0,0
+289,Let's discuss this in a civil manner.,0,0,0,0,0
+290,Thank you for sharing your thoughts.,0,0,0,0,0
+291,Wow! Just wow! Amazing!,0,0,0,0,0
+292,Shitty service!,1,1,0,0,0
+293,Damn this thing!,1,1,0,0,0
+294,Fuck this stupid thing!,1,1,0,0,0
+295,Brilliant! Solved all my problems!,0,0,0,0,0
+296,Fuck off! I don't care!,1,1,0,0,0
+297,Hell this is terrible!,1,1,0,0,0
+298,Bloody awful!,1,1,0,0,0
+299,Stay with your own kind!,1,0,0,0,1
+300,Thanks for resolving my issue!,0,0,0,0,0
+301,Piece of junk! Trash!,1,1,0,0,0
+302,This is incredible! Five stars!,0,0,0,0,0
+303,Moron! Can't believe how dumb you are!,1,0,0,1,0
+304,I love this so much! Highly recommend!,0,0,0,0,0
+305,This is fucking ridiculous!,1,1,0,0,0
+306,Awesome! My whole family loves it!,0,0,0,0,0
+307,Meets my basic needs.,0,0,0,0,0
+308,Shitty product! Total crap!,1,1,0,0,0
+309,Acceptable quality.,0,0,0,0,0
+310,I'm open to learning more about your position.,0,0,0,0,0
+311,Superb! Couldn't be happier!,0,0,0,0,0
+312,Brilliant! Solved all my problems!,0,0,0,0,0
+313,This sucks so damn bad!,1,1,0,0,0
+314,Damn right!,1,1,0,0,0
+315,Acceptable quality.,0,0,0,0,0
+316,Fucking hell what a mess!,1,1,0,0,0
+317,Meets my basic needs.,0,0,0,0,0
+318,Let's approach this respectfully.,0,0,0,0,0
+319,Stay with your own kind!,1,0,0,0,1
+320,Terrific! Exceeds expectations!,0,0,0,0,0
+321,God damn piece of shit!,1,1,0,0,0
+322,Standard quality for the price.,0,0,0,0,0
+323,"I appreciate your viewpoint, but I see it differently.",0,0,0,0,0
+324,Brilliant! Solved all my problems!,0,0,0,0,0
+325,Can we find common ground on this issue?,0,0,0,0,0
+326,Thank you so much!,0,0,0,0,0
+327,Hell no! Fuck that!,1,1,0,0,0
+328,Product works as described.,0,0,0,0,0
+329,Could you please explain this more clearly?,0,0,0,0,0
+330,I know where you live!,1,0,1,0,0
+331,This is utter crap!,1,1,0,0,0
+332,Fuck off! I don't care!,1,1,0,0,0
+333,Damn right!,1,1,0,0,0
+334,Screwed up big time!,1,1,0,0,0
+335,Outsiders not welcome!,1,0,0,0,1
+336,What a shitshow!,1,1,0,0,0
+337,Holy shit this is bad!,1,1,0,0,0
+338,This shit is unbelievable!,1,1,0,0,0
+339,Don't mess with me!,1,0,1,0,0
+340,What the hell!,1,1,0,0,0
+341,Wow! Just wow! Amazing!,0,0,0,0,0
+342,I love this so much! Highly recommend!,0,0,0,0,0
+343,Great service! Very pleased!,0,0,0,0,0
+344,Fuck this company!,1,1,0,0,0
+345,"I appreciate your viewpoint, but I see it differently.",0,0,0,0,0
+346,"Good value, instructions unclear.",0,0,0,0,0
+347,Functional and practical.,0,0,0,0,0
+348,Fuck off! I don't care!,1,1,0,0,0
+349,This damn thing is broken!,1,1,0,0,0
+350,This shit is unbelievable!,1,1,0,0,0
+351,Damn it failed!,1,1,0,0,0
+352,Functional and practical.,0,0,0,0,0
+353,Perfect! Exactly what I needed!,0,0,0,0,0
+354,Standard quality for the price.,0,0,0,0,0
+355,This is incredible! Five stars!,0,0,0,0,0
+356,"Reliable product, customer service helpful.",0,0,0,0,0
+357,I'll ruin your life!,1,0,1,0,0
+358,Excellent quality! Very impressed!,0,0,0,0,0
+359,"Good value, instructions unclear.",0,0,0,0,0
+360,Shit product!,1,1,0,0,0
+361,Thank you for the excellent service!,0,0,0,0,0
+362,Can't believe how good this is!,0,0,0,0,0
+363,What the hell is this shit!,1,1,0,0,0
+364,Thank you for sharing your thoughts.,0,0,0,0,0
+365,Appreciate your assistance!,0,0,0,0,0
+366,This is incredible! Five stars!,0,0,0,0,0
+367,I'm open to learning more about your position.,0,0,0,0,0
+368,Best thing ever! So happy!,0,0,0,0,0
+369,Let's discuss this in a civil manner.,0,0,0,0,0
+370,This fucking sucks!,1,1,0,0,0
+371,Perfect! Exactly what I needed!,0,0,0,0,0
+372,Appreciate the fast delivery!,0,0,0,0,0
+373,Your culture is backwards!,1,0,0,0,1
+374,Holy shit this is bad!,1,1,0,0,0
+375,Grateful for the quick response!,0,0,0,0,0
+376,Terrific! Exceeds expectations!,0,0,0,0,0
+377,Fuck this stupid thing!,1,1,0,0,0
+378,Product works as described.,0,0,0,0,0
+379,Piece of junk! Trash!,1,1,0,0,0
+380,Fuck off! I don't care!,1,1,0,0,0
+381,What the hell!,1,1,0,0,0
+382,Shitty product! Total crap!,1,1,0,0,0
+383,I'm coming for you!,1,0,1,0,0
+384,Piece of junk! Trash!,1,1,0,0,0
+385,Ignorant fool! Learn something!,1,0,0,1,0
+386,Thank you for sharing your thoughts.,0,0,0,0,0
+387,Fucking worst ever!,1,1,0,0,0
+388,Could you please explain this more clearly?,0,0,0,0,0
+389,Watch your back!,1,0,1,0,0
+390,This is complete BS!,1,1,0,0,0
+391,This product is amazing! Best purchase ever!,0,0,0,0,0
+392,Holy fuck this sucks!,1,1,0,0,0
+393,Shitty service!,1,1,0,0,0
+394,What a load of crap!,1,1,0,0,0
+395,This is complete BS!,1,1,0,0,0
+396,Let's discuss this in a civil manner.,0,0,0,0,0
+397,This product is amazing! Best purchase ever!,0,0,0,0,0
+398,Damn this thing!,1,1,0,0,0
+399,Awesome! My whole family loves it!,0,0,0,0,0
+400,Fuck this stupid thing!,1,1,0,0,0
+401,Awesome! My whole family loves it!,0,0,0,0,0
+402,I love this so much! Highly recommend!,0,0,0,0,0
+403,I'm coming for you!,1,0,1,0,0
+404,Piss poor quality!,1,1,0,0,0
+405,Moron! Can't believe how dumb you are!,1,0,0,1,0
+406,Piece of junk! Trash!,1,1,0,0,0
+407,Meets my basic needs.,0,0,0,0,0
+408,You're so stupid it hurts!,1,0,0,1,0
+409,Your people are all the same!,1,0,0,0,1
+410,Thank you for sharing your thoughts.,0,0,0,0,0
+411,"Good value, instructions unclear.",0,0,0,0,0
+412,Functional and practical.,0,0,0,0,0
+413,Piss poor quality!,1,1,0,0,0
+414,You're worthless! Complete failure!,1,0,0,1,0
+415,Hell no! Fuck that!,1,1,0,0,0
+416,Piss poor quality!,1,1,0,0,0
+417,What the fuck is wrong with you!,1,1,0,0,0
+418,"Product is fine, packaging could be better.",0,0,0,0,0
+419,Superb! Couldn't be happier!,0,0,0,0,0
+420,Damn this thing!,1,1,0,0,0
+421,Excellent quality! Very impressed!,0,0,0,0,0
+422,Shitty service!,1,1,0,0,0
+423,"I appreciate your viewpoint, but I see it differently.",0,0,0,0,0
+424,Perfect! Exactly what I needed!,0,0,0,0,0
+425,Amazing experience! Thank you!,0,0,0,0,0
+426,Damn right!,1,1,0,0,0
+427,"Product is fine, packaging could be better.",0,0,0,0,0
+428,OMG this is so good!!!,0,0,0,0,0
+429,You're so stupid it hurts!,1,0,0,1,0
+430,Screwed up big time!,1,1,0,0,0
+431,"Works well, minor issues with setup.",0,0,0,0,0
+432,Amazing experience! Thank you!,0,0,0,0,0
+433,Thank you for sharing your thoughts.,0,0,0,0,0
+434,What a shitshow!,1,1,0,0,0
+435,Terrific! Exceeds expectations!,0,0,0,0,0
+436,Fuck off! I don't care!,1,1,0,0,0
+437,This crap doesn't work!,1,1,0,0,0
+438,Screw this garbage!,1,1,0,0,0
+439,Awesome! My whole family loves it!,0,0,0,0,0
+440,Amazing experience! Thank you!,0,0,0,0,0
+441,Best thing ever! So happy!,0,0,0,0,0
+442,This is utter crap!,1,1,0,0,0
+443,This is shit quality!,1,1,0,0,0
+444,You're pathetic and useless!,1,0,0,1,0
+445,Hell of a bad product!,1,1,0,0,0
+446,Can we find common ground on this issue?,0,0,0,0,0
+447,You've made a big mistake!,1,0,1,0,0
+448,Item matches the description.,0,0,0,0,0
+449,OMG this is so good!!!,0,0,0,0,0
+450,This sucks so damn bad!,1,1,0,0,0
+451,Shit! This broke already!,1,1,0,0,0
+452,This crap doesn't work!,1,1,0,0,0
+453,Standard quality for the price.,0,0,0,0,0
+454,What the fuck is wrong with you!,1,1,0,0,0
+455,You'll be sorry!,1,0,1,0,0
+456,Functional and practical.,0,0,0,0,0
+457,Could you please explain this more clearly?,0,0,0,0,0
+458,Awesome! My whole family loves it!,0,0,0,0,0
+459,Fucking hell what a mess!,1,1,0,0,0
+460,This sucks so damn bad!,1,1,0,0,0
+461,No complaints so far.,0,0,0,0,0
+462,Fantastic! Worth every penny!,0,0,0,0,0
+463,Wonderful product! Highly satisfied!,0,0,0,0,0
+464,"Decent quality, not perfect.",0,0,0,0,0
+465,Screw this garbage!,1,1,0,0,0
+466,OMG this is so good!!!,0,0,0,0,0
+467,Inferior and unwanted!,1,0,0,0,1
+468,What a fucking waste!,1,1,0,0,0
+469,Piece of shit broke!,1,1,0,0,0
+470,Thank you for sharing your thoughts.,0,0,0,0,0
+471,Great service! Very pleased!,0,0,0,0,0
+472,Wonderful product! Highly satisfied!,0,0,0,0,0
+473,"Product is fine, packaging could be better.",0,0,0,0,0
+474,This is complete BS!,1,1,0,0,0
+475,Let's discuss this in a civil manner.,0,0,0,0,0
+476,Shitty product! Total crap!,1,1,0,0,0
+477,Product works as described.,0,0,0,0,0
+478,Brilliant! Solved all my problems!,0,0,0,0,0
+479,Damn it failed!,1,1,0,0,0
+480,Terrific! Exceeds expectations!,0,0,0,0,0
+481,Great service! Very pleased!,0,0,0,0,0
+482,You've made a big mistake!,1,0,1,0,0
+483,This damn thing is broken!,1,1,0,0,0
+484,This product is amazing! Best purchase ever!,0,0,0,0,0
+485,Hell this is terrible!,1,1,0,0,0
+486,Excellent quality! Very impressed!,0,0,0,0,0
+487,I love this so much! Highly recommend!,0,0,0,0,0
+488,Meets my basic needs.,0,0,0,0,0
+489,This shit is unbelievable!,1,1,0,0,0
+490,Excellent quality! Very impressed!,0,0,0,0,0
+491,Awesome! My whole family loves it!,0,0,0,0,0
+492,No complaints so far.,0,0,0,0,0
+493,Fuck this company!,1,1,0,0,0
+494,Your people are all the same!,1,0,0,0,1
+495,This crap doesn't work!,1,1,0,0,0
+496,Damn it failed!,1,1,0,0,0
+497,OMG this is so good!!!,0,0,0,0,0
+498,Best thing ever! So happy!,0,0,0,0,0
+499,OMG this is so good!!!,0,0,0,0,0
+500,Grateful for the quick response!,0,0,0,0,0
+501,This is fucking ridiculous!,1,1,0,0,0
+502,Terrific! Exceeds expectations!,0,0,0,0,0
+503,Your culture is backwards!,1,0,0,0,1
+504,Fantastic! Worth every penny!,0,0,0,0,0
+505,"Happy overall, small suggestions.",0,0,0,0,0
+506,Shut up! Nobody cares what you think!,1,0,0,1,0
+507,"Decent quality, not perfect.",0,0,0,0,0
+508,Hell this is terrible!,1,1,0,0,0
+509,You're an idiot and you don't know anything!,1,0,0,1,0
+510,Fucking hell what a mess!,1,1,0,0,0
+511,OMG this is so good!!!,0,0,0,0,0
+512,I'm coming for you!,1,0,1,0,0
+513,"Happy overall, small suggestions.",0,0,0,0,0
+514,Fucking disaster!,1,1,0,0,0
+515,You're so stupid it hurts!,1,0,0,1,0
+516,Brilliant! Solved all my problems!,0,0,0,0,0
+517,No complaints so far.,0,0,0,0,0
+518,Damn this thing!,1,1,0,0,0
+519,Fuck this company!,1,1,0,0,0
+520,Best thing ever! So happy!,0,0,0,0,0
+521,Fuck off! I don't care!,1,1,0,0,0
+522,Terrific! Exceeds expectations!,0,0,0,0,0
+523,You don't deserve rights!,1,0,0,0,1
+524,Fucking worst ever!,1,1,0,0,0
+525,This sucks so damn bad!,1,1,0,0,0
+526,This sucks so damn bad!,1,1,0,0,0
+527,Superb! Couldn't be happier!,0,0,0,0,0
+528,What a load of crap!,1,1,0,0,0
+529,This crap doesn't work!,1,1,0,0,0
+530,You're a joke! Everyone laughs at you!,1,0,0,1,0
+531,As expected.,0,0,0,0,0
+532,You don't deserve rights!,1,0,0,0,1
+533,I'll ruin your life!,1,0,1,0,0
+534,"Satisfied, though shipping took long.",0,0,0,0,0
+535,The package arrived on time.,0,0,0,0,0
+536,Let's discuss this in a civil manner.,0,0,0,0,0
+537,Typical behavior from your group!,1,0,0,0,1
+538,This product is amazing! Best purchase ever!,0,0,0,0,0
+539,Fuck this stupid thing!,1,1,0,0,0
+540,I'm open to learning more about your position.,0,0,0,0,0
+541,Amazing experience! Thank you!,0,0,0,0,0
+542,What a shitshow!,1,1,0,0,0
+543,What a fucking waste!,1,1,0,0,0
+544,Damn shame!,1,1,0,0,0
+545,What a loser! Get a life!,1,0,0,1,0
+546,Typical behavior from your group!,1,0,0,0,1
+547,You're full of shit!,1,1,0,0,0
+548,Acceptable quality.,0,0,0,0,0
+549,You're worthless! Complete failure!,1,0,0,1,0
+550,Perfect! Exactly what I needed!,0,0,0,0,0
+551,This damn thing is broken!,1,1,0,0,0
+552,Awesome! My whole family loves it!,0,0,0,0,0
+553,Piece of junk! Trash!,1,1,0,0,0
+554,Your kind ruins everything!,1,0,0,0,1
+555,Awesome! My whole family loves it!,0,0,0,0,0
+556,Can we find common ground on this issue?,0,0,0,0,0
+557,"Works as intended, design could improve.",0,0,0,0,0
+558,Damn right!,1,1,0,0,0
+559,Shitty product! Total crap!,1,1,0,0,0
+560,Acceptable quality.,0,0,0,0,0
+561,What the fuck is wrong with you!,1,1,0,0,0
+562,You're full of shit!,1,1,0,0,0
+563,Thank you for the excellent service!,0,0,0,0,0
+564,"Good value, instructions unclear.",0,0,0,0,0
+565,Product works as described.,0,0,0,0,0
+566,Awesome! My whole family loves it!,0,0,0,0,0
+567,Brilliant! Solved all my problems!,0,0,0,0,0
+568,Wow! Just wow! Amazing!,0,0,0,0,0
+569,What a loser! Get a life!,1,0,0,1,0
+570,Holy shit this is bad!,1,1,0,0,0
+571,I love this so much! Highly recommend!,0,0,0,0,0
+572,Your culture is backwards!,1,0,0,0,1
+573,Much appreciated!,0,0,0,0,0
+574,Thank you for sharing your thoughts.,0,0,0,0,0
+575,This damn thing is broken!,1,1,0,0,0
+576,Fucking hell what a mess!,1,1,0,0,0
+577,Brilliant! Solved all my problems!,0,0,0,0,0
+578,Ignorant fool! Learn something!,1,0,0,1,0
+579,Damn it all to hell!,1,1,0,0,0
+580,Typical behavior from your group!,1,0,0,0,1
+581,What the hell!,1,1,0,0,0
+582,Bloody awful!,1,1,0,0,0
+583,You'll be sorry!,1,0,1,0,0
+584,Disgusting person! Stay away!,1,0,0,1,0
+585,Fuck this stupid thing!,1,1,0,0,0
+586,This is utter crap!,1,1,0,0,0
+587,Piece of junk! Trash!,1,1,0,0,0
+588,You're pathetic and useless!,1,0,0,1,0
+589,You're full of shit!,1,1,0,0,0
+590,What a shitshow!,1,1,0,0,0
+591,Wonderful product! Highly satisfied!,0,0,0,0,0
+592,Fuck off! I don't care!,1,1,0,0,0
+593,"Happy overall, small suggestions.",0,0,0,0,0
+594,You don't deserve rights!,1,0,0,0,1
+595,Bloody awful!,1,1,0,0,0
+596,The package arrived on time.,0,0,0,0,0
+597,What a loser! Get a life!,1,0,0,1,0
+598,"Good value, instructions unclear.",0,0,0,0,0
+599,Shit product!,1,1,0,0,0
+600,OMG this is so good!!!,0,0,0,0,0
+601,Holy shit this is bad!,1,1,0,0,0
+602,God damn piece of shit!,1,1,0,0,0
+603,What a fucking waste!,1,1,0,0,0
+604,Your people are all the same!,1,0,0,0,1
+605,Fantastic! Worth every penny!,0,0,0,0,0
+606,Outsiders not welcome!,1,0,0,0,1
+607,No complaints so far.,0,0,0,0,0
+608,"Works as intended, design could improve.",0,0,0,0,0
+609,Hell this is terrible!,1,1,0,0,0
+610,Piece of junk! Trash!,1,1,0,0,0
+611,You're full of shit!,1,1,0,0,0
+612,Thank you so much!,0,0,0,0,0
+613,Superb! Couldn't be happier!,0,0,0,0,0
+614,"Works as intended, design could improve.",0,0,0,0,0
+615,Damn this thing!,1,1,0,0,0
+616,Perfect! Exactly what I needed!,0,0,0,0,0
+617,Thanks for the recommendation!,0,0,0,0,0
+618,This fucking sucks!,1,1,0,0,0
+619,Functional and practical.,0,0,0,0,0
+620,Shitty product! Total crap!,1,1,0,0,0
+621,You don't deserve rights!,1,0,0,0,1
+622,Fuck off! I don't care!,1,1,0,0,0
+623,What a shitshow!,1,1,0,0,0
+624,Thanks for resolving my issue!,0,0,0,0,0
+625,OMG this is so good!!!,0,0,0,0,0
+626,Bloody awful!,1,1,0,0,0
+627,This product is amazing! Best purchase ever!,0,0,0,0,0
+628,Great service! Very pleased!,0,0,0,0,0
+629,Can we find common ground on this issue?,0,0,0,0,0
+630,Hell no! Fuck that!,1,1,0,0,0
+631,Holy shit this is bad!,1,1,0,0,0
+632,This damn thing is broken!,1,1,0,0,0
+633,Fucking disaster!,1,1,0,0,0
+634,What the hell is this shit!,1,1,0,0,0
+635,"Reliable product, customer service helpful.",0,0,0,0,0
+636,This is incredible! Five stars!,0,0,0,0,0
+637,This is complete fucking bullshit!,1,1,0,0,0
+638,Product works as described.,0,0,0,0,0
+639,"I appreciate your viewpoint, but I see it differently.",0,0,0,0,0
+640,"Good product, but could be improved.",0,0,0,0,0
+641,Stay with your own kind!,1,0,0,0,1
+642,This fucking sucks!,1,1,0,0,0
+643,Delivery was prompt.,0,0,0,0,0
+644,Absolutely fantastic! Exceeded all expectations!,0,0,0,0,0
+645,Item matches the description.,0,0,0,0,0
+646,You're worthless! Complete failure!,1,0,0,1,0
+647,Shit product!,1,1,0,0,0
+648,Delivery was prompt.,0,0,0,0,0
+649,This is complete BS!,1,1,0,0,0
+650,Appreciate the fast delivery!,0,0,0,0,0
+651,Functional and practical.,0,0,0,0,0
+652,Fucking hell what a mess!,1,1,0,0,0
+653,You're worthless! Complete failure!,1,0,0,1,0
+654,Terrific! Exceeds expectations!,0,0,0,0,0
+655,Fucking awful experience!,1,1,0,0,0
+656,Grateful for the quick response!,0,0,0,0,0
+657,"Good product, but could be improved.",0,0,0,0,0
+658,Screwed up big time!,1,1,0,0,0
+659,Best thing ever! So happy!,0,0,0,0,0
+660,Thank you for the excellent service!,0,0,0,0,0
+661,What a shitshow!,1,1,0,0,0
+662,Awesome! My whole family loves it!,0,0,0,0,0
+663,You're full of shit!,1,1,0,0,0
+664,Perfect! Exactly what I needed!,0,0,0,0,0
+665,Bloody awful!,1,1,0,0,0
+666,You'll be sorry!,1,0,1,0,0
+667,Hell no! Fuck that!,1,1,0,0,0
+668,Outstanding! Will buy again!,0,0,0,0,0
+669,This is fucking ridiculous!,1,1,0,0,0
+670,What a fucking waste!,1,1,0,0,0
+671,Standard quality for the price.,0,0,0,0,0
+672,Your culture is backwards!,1,0,0,0,1
+673,Piss poor quality!,1,1,0,0,0
+674,As expected.,0,0,0,0,0
+675,Fuck off! I don't care!,1,1,0,0,0
+676,"Works well, minor issues with setup.",0,0,0,0,0
+677,I'll make sure you regret this!,1,0,1,0,0
+678,Holy fuck this sucks!,1,1,0,0,0
+679,"Reliable product, customer service helpful.",0,0,0,0,0
+680,Fantastic! Worth every penny!,0,0,0,0,0
+681,Great service! Very pleased!,0,0,0,0,0
+682,What the hell!,1,1,0,0,0
+683,Fucking hell what a mess!,1,1,0,0,0
+684,Amazing experience! Thank you!,0,0,0,0,0
+685,"Satisfied, though shipping took long.",0,0,0,0,0
+686,Fuck this company!,1,1,0,0,0
+687,What the hell is this shit!,1,1,0,0,0
+688,Hell no! Fuck that!,1,1,0,0,0
+689,Can't believe how good this is!,0,0,0,0,0
+690,Piss poor quality!,1,1,0,0,0
+691,I love this so much! Highly recommend!,0,0,0,0,0
+692,This is fucking ridiculous!,1,1,0,0,0
+693,What the hell is this shit!,1,1,0,0,0
+694,This sucks so damn bad!,1,1,0,0,0
+695,Fuck this stupid thing!,1,1,0,0,0
+696,I love this so much! Highly recommend!,0,0,0,0,0
+697,Don't mess with me!,1,0,1,0,0
+698,Thank you for sharing your thoughts.,0,0,0,0,0
+699,Product works as described.,0,0,0,0,0
+700,Damn shame!,1,1,0,0,0
+701,This fucking sucks!,1,1,0,0,0
+702,This shit is unbelievable!,1,1,0,0,0
+703,Could you please explain this more clearly?,0,0,0,0,0
+704,Item matches the description.,0,0,0,0,0
+705,What a fucking waste!,1,1,0,0,0
+706,I'll make sure you regret this!,1,0,1,0,0
+707,This crap doesn't work!,1,1,0,0,0
+708,The package arrived on time.,0,0,0,0,0
+709,Bloody awful!,1,1,0,0,0
+710,You're an idiot and you don't know anything!,1,0,0,1,0
+711,You better watch out!,1,0,1,0,0
+712,This is incredible! Five stars!,0,0,0,0,0
+713,Absolutely fantastic! Exceeded all expectations!,0,0,0,0,0
+714,Amazing experience! Thank you!,0,0,0,0,0
+715,Perfect! Exactly what I needed!,0,0,0,0,0
+716,What a load of crap!,1,1,0,0,0
+717,What the hell is this shit!,1,1,0,0,0
+718,This sucks so damn bad!,1,1,0,0,0
+719,Hell of a bad product!,1,1,0,0,0
+720,Screwed up big time!,1,1,0,0,0
+721,This sucks so damn bad!,1,1,0,0,0
+722,"I appreciate your viewpoint, but I see it differently.",0,0,0,0,0
+723,Damn shame!,1,1,0,0,0
+724,People like you don't belong here!,1,0,0,0,1
+725,Hell this is terrible!,1,1,0,0,0
+726,Shit product!,1,1,0,0,0
+727,God damn piece of shit!,1,1,0,0,0
+728,Piece of junk! Trash!,1,1,0,0,0
+729,Shitty product! Total crap!,1,1,0,0,0
+730,Typical behavior from your group!,1,0,0,0,1
+731,Grateful for the help!,0,0,0,0,0
+732,Fantastic! Worth every penny!,0,0,0,0,0
+733,What the hell is this shit!,1,1,0,0,0
+734,Could you please explain this more clearly?,0,0,0,0,0
+735,Best thing ever! So happy!,0,0,0,0,0
+736,Wow! Just wow! Amazing!,0,0,0,0,0
+737,What a fucking waste!,1,1,0,0,0
+738,Awesome! My whole family loves it!,0,0,0,0,0
+739,Fuck this stupid thing!,1,1,0,0,0
+740,Meets my basic needs.,0,0,0,0,0
+741,Awesome! My whole family loves it!,0,0,0,0,0
+742,Hell this is terrible!,1,1,0,0,0
+743,Appreciate the fast delivery!,0,0,0,0,0
+744,Damn this thing!,1,1,0,0,0
+745,This fucking sucks!,1,1,0,0,0
+746,What a load of crap!,1,1,0,0,0
+747,Holy fuck this sucks!,1,1,0,0,0
+748,This is shit quality!,1,1,0,0,0
+749,Outstanding! Will buy again!,0,0,0,0,0
+750,Excellent quality! Very impressed!,0,0,0,0,0
+751,Fuck this company!,1,1,0,0,0
+752,You're an idiot and you don't know anything!,1,0,0,1,0
+753,Superb! Couldn't be happier!,0,0,0,0,0
+754,This is fucking ridiculous!,1,1,0,0,0
+755,"Decent quality, not perfect.",0,0,0,0,0
+756,Functional and practical.,0,0,0,0,0
+757,Fucking hell what a mess!,1,1,0,0,0
+758,Can't believe how good this is!,0,0,0,0,0
+759,Item matches the description.,0,0,0,0,0
+760,What a load of crap!,1,1,0,0,0
+761,This shit is unbelievable!,1,1,0,0,0
+762,What the fuck is wrong with you!,1,1,0,0,0
+763,Let's discuss this in a civil manner.,0,0,0,0,0
+764,Fucking disaster!,1,1,0,0,0
+765,This is complete fucking bullshit!,1,1,0,0,0
+766,"Decent quality, not perfect.",0,0,0,0,0
+767,Shitty product! Total crap!,1,1,0,0,0
+768,Meets my basic needs.,0,0,0,0,0
+769,Brilliant! Solved all my problems!,0,0,0,0,0
+770,Item matches the description.,0,0,0,0,0
+771,This crap doesn't work!,1,1,0,0,0
+772,Thank you for sharing your thoughts.,0,0,0,0,0
+773,What the hell is this shit!,1,1,0,0,0
+774,Damn right!,1,1,0,0,0
+775,"Good product, but could be improved.",0,0,0,0,0
+776,Fucking awful experience!,1,1,0,0,0
+777,The package arrived on time.,0,0,0,0,0
+778,I'm coming for you!,1,0,1,0,0
+779,"Quality is good, price is fair.",0,0,0,0,0
+780,Perfect! Exactly what I needed!,0,0,0,0,0
+781,Fuck off! I don't care!,1,1,0,0,0
+782,This is complete BS!,1,1,0,0,0
+783,Excellent quality! Very impressed!,0,0,0,0,0
+784,Great service! Very pleased!,0,0,0,0,0
+785,What the fuck is wrong with you!,1,1,0,0,0
+786,This is incredible! Five stars!,0,0,0,0,0
+787,Damn this thing!,1,1,0,0,0
+788,Typical behavior from your group!,1,0,0,0,1
+789,This shit is unbelievable!,1,1,0,0,0
+790,This is complete BS!,1,1,0,0,0
+791,God damn piece of shit!,1,1,0,0,0
+792,I think there might be a misunderstanding here.,0,0,0,0,0
+793,This product is amazing! Best purchase ever!,0,0,0,0,0
+794,Best thing ever! So happy!,0,0,0,0,0
+795,This crap doesn't work!,1,1,0,0,0
+796,Functional and practical.,0,0,0,0,0
+797,Let's approach this respectfully.,0,0,0,0,0
+798,You're going to pay for this!,1,0,1,0,0
+799,Thank you for the excellent service!,0,0,0,0,0
+800,"Reliable product, customer service helpful.",0,0,0,0,0
+801,God damn piece of shit!,1,1,0,0,0
+802,Fuck this stupid thing!,1,1,0,0,0
+803,Terrific! Exceeds expectations!,0,0,0,0,0
+804,OMG this is so good!!!,0,0,0,0,0
+805,Damn this thing!,1,1,0,0,0
+806,Functional and practical.,0,0,0,0,0
+807,Standard quality for the price.,0,0,0,0,0
+808,God damn piece of shit!,1,1,0,0,0
+809,Thank you for the excellent service!,0,0,0,0,0
+810,Product works as described.,0,0,0,0,0
+811,Brilliant! Solved all my problems!,0,0,0,0,0
+812,Grateful for the quick response!,0,0,0,0,0
+813,Hell this is terrible!,1,1,0,0,0
+814,Perfect! Exactly what I needed!,0,0,0,0,0
+815,Piece of junk! Trash!,1,1,0,0,0
+816,Superb! Couldn't be happier!,0,0,0,0,0
+817,Wow! Just wow! Amazing!,0,0,0,0,0
+818,Brilliant! Solved all my problems!,0,0,0,0,0
+819,Let's approach this respectfully.,0,0,0,0,0
+820,Piece of junk! Trash!,1,1,0,0,0
+821,Shitty service!,1,1,0,0,0
+822,Fantastic! Worth every penny!,0,0,0,0,0
+823,This fucking sucks!,1,1,0,0,0
+824,I'll ruin your life!,1,0,1,0,0
+825,Fucking hell what a mess!,1,1,0,0,0
+826,This crap doesn't work!,1,1,0,0,0
+827,Delivery was prompt.,0,0,0,0,0
+828,Watch your back!,1,0,1,0,0
+829,I'm open to learning more about your position.,0,0,0,0,0
+830,God damn piece of shit!,1,1,0,0,0
+831,Functional and practical.,0,0,0,0,0
+832,"Product is fine, packaging could be better.",0,0,0,0,0
+833,Meets my basic needs.,0,0,0,0,0
+834,Terrific! Exceeds expectations!,0,0,0,0,0
+835,What a fucking waste!,1,1,0,0,0
+836,What the fuck is wrong with you!,1,1,0,0,0
+837,This is fucking ridiculous!,1,1,0,0,0
+838,Acceptable quality.,0,0,0,0,0
+839,OMG this is so good!!!,0,0,0,0,0
+840,Shit! This broke already!,1,1,0,0,0
+841,"Works as intended, design could improve.",0,0,0,0,0
+842,Can't believe how good this is!,0,0,0,0,0
+843,Excellent quality! Very impressed!,0,0,0,0,0
+844,Grateful for the help!,0,0,0,0,0
+845,The package arrived on time.,0,0,0,0,0
+846,You're full of shit!,1,1,0,0,0
+847,I love this so much! Highly recommend!,0,0,0,0,0
+848,Wow! Just wow! Amazing!,0,0,0,0,0
+849,Wonderful product! Highly satisfied!,0,0,0,0,0
+850,Could you please explain this more clearly?,0,0,0,0,0
+851,You're worthless! Complete failure!,1,0,0,1,0
+852,Damn right!,1,1,0,0,0
+853,Hell this is terrible!,1,1,0,0,0
+854,You'll be sorry!,1,0,1,0,0
+855,Great service! Very pleased!,0,0,0,0,0
+856,Fucking awful experience!,1,1,0,0,0
+857,Damn it all to hell!,1,1,0,0,0
+858,This product is amazing! Best purchase ever!,0,0,0,0,0
+859,What a loser! Get a life!,1,0,0,1,0
+860,Ignorant fool! Learn something!,1,0,0,1,0
+861,This is shit quality!,1,1,0,0,0
+862,"Reliable product, customer service helpful.",0,0,0,0,0
+863,Fucking awful experience!,1,1,0,0,0
+864,As expected.,0,0,0,0,0
+865,What the hell is this shit!,1,1,0,0,0
+866,This is complete fucking bullshit!,1,1,0,0,0
+867,"Works as intended, design could improve.",0,0,0,0,0
+868,What a load of crap!,1,1,0,0,0
+869,Perfect! Exactly what I needed!,0,0,0,0,0
+870,What the fuck is wrong with you!,1,1,0,0,0
+871,"Satisfied, though shipping took long.",0,0,0,0,0
+872,Superb! Couldn't be happier!,0,0,0,0,0
+873,Fuck off! I don't care!,1,1,0,0,0
+874,Let's discuss this in a civil manner.,0,0,0,0,0
+875,Screw this garbage!,1,1,0,0,0
+876,Fuck this stupid thing!,1,1,0,0,0
+877,Brilliant! Solved all my problems!,0,0,0,0,0
+878,Best thing ever! So happy!,0,0,0,0,0
+879,Outstanding! Will buy again!,0,0,0,0,0
+880,"Works as intended, design could improve.",0,0,0,0,0
+881,You'll be sorry!,1,0,1,0,0
+882,What a shitshow!,1,1,0,0,0
+883,"Good value, instructions unclear.",0,0,0,0,0
+884,This damn thing is broken!,1,1,0,0,0
+885,This shit is unbelievable!,1,1,0,0,0
+886,What a fucking waste!,1,1,0,0,0
+887,Screwed up big time!,1,1,0,0,0
+888,Acceptable quality.,0,0,0,0,0
+889,Best thing ever! So happy!,0,0,0,0,0
+890,Product works as described.,0,0,0,0,0
+891,God damn piece of shit!,1,1,0,0,0
+892,Let's discuss this in a civil manner.,0,0,0,0,0
+893,Hell of a bad product!,1,1,0,0,0
+894,Piece of shit broke!,1,1,0,0,0
+895,This crap doesn't work!,1,1,0,0,0
+896,This fucking sucks!,1,1,0,0,0
+897,This is utter crap!,1,1,0,0,0
+898,Let's discuss this in a civil manner.,0,0,0,0,0
+899,Shut up! Nobody cares what you think!,1,0,0,1,0
+900,Acceptable quality.,0,0,0,0,0
+901,Delivery was prompt.,0,0,0,0,0
+902,Grateful for the help!,0,0,0,0,0
+903,I'm coming for you!,1,0,1,0,0
+904,Absolutely fantastic! Exceeded all expectations!,0,0,0,0,0
+905,"Good value, instructions unclear.",0,0,0,0,0
+906,Piss poor quality!,1,1,0,0,0
+907,Fuck this stupid thing!,1,1,0,0,0
+908,"Decent quality, not perfect.",0,0,0,0,0
+909,This sucks so damn bad!,1,1,0,0,0
+910,This is incredible! Five stars!,0,0,0,0,0
+911,What a load of crap!,1,1,0,0,0
+912,You're a joke! Everyone laughs at you!,1,0,0,1,0
+913,Terrific! Exceeds expectations!,0,0,0,0,0
+914,Absolutely fantastic! Exceeded all expectations!,0,0,0,0,0
+915,That's an interesting perspective. Here's mine.,0,0,0,0,0
+916,Fuck this company!,1,1,0,0,0
+917,Fucking awful experience!,1,1,0,0,0
+918,Could you please explain this more clearly?,0,0,0,0,0
+919,Piece of shit broke!,1,1,0,0,0
+920,Great service! Very pleased!,0,0,0,0,0
+921,Screw this garbage!,1,1,0,0,0
+922,This crap doesn't work!,1,1,0,0,0
+923,Disgusting person! Stay away!,1,0,0,1,0
+924,Fantastic! Worth every penny!,0,0,0,0,0
+925,Great service! Very pleased!,0,0,0,0,0
+926,Fucking awful experience!,1,1,0,0,0
+927,Holy shit this is bad!,1,1,0,0,0
+928,Superb! Couldn't be happier!,0,0,0,0,0
+929,This is fucking ridiculous!,1,1,0,0,0
+930,Brilliant! Solved all my problems!,0,0,0,0,0
+931,Piece of junk! Trash!,1,1,0,0,0
+932,Your culture is backwards!,1,0,0,0,1
+933,What the hell!,1,1,0,0,0
+934,Your kind ruins everything!,1,0,0,0,1
+935,This is utter crap!,1,1,0,0,0
+936,That's an interesting perspective. Here's mine.,0,0,0,0,0
+937,God damn piece of shit!,1,1,0,0,0
+938,Shit product!,1,1,0,0,0
+939,God damn piece of shit!,1,1,0,0,0
+940,This fucking sucks!,1,1,0,0,0
+941,Best thing ever! So happy!,0,0,0,0,0
+942,Appreciate your assistance!,0,0,0,0,0
+943,Damn right!,1,1,0,0,0
+944,What a shitshow!,1,1,0,0,0
+945,This is incredible! Five stars!,0,0,0,0,0
+946,Hell no! Fuck that!,1,1,0,0,0
+947,Very thankful for this!,0,0,0,0,0
+948,"Happy overall, small suggestions.",0,0,0,0,0
+949,Fucking worst ever!,1,1,0,0,0
+950,Brilliant! Solved all my problems!,0,0,0,0,0
+951,Functional and practical.,0,0,0,0,0
+952,Could you please explain this more clearly?,0,0,0,0,0
+953,Superb! Couldn't be happier!,0,0,0,0,0
+954,This is incredible! Five stars!,0,0,0,0,0
+955,Functional and practical.,0,0,0,0,0
+956,Brilliant! Solved all my problems!,0,0,0,0,0
+957,What the hell is this shit!,1,1,0,0,0
+958,What a loser! Get a life!,1,0,0,1,0
+959,Fantastic! Worth every penny!,0,0,0,0,0
+960,Damn this thing!,1,1,0,0,0
+961,Great service! Very pleased!,0,0,0,0,0
+962,This product is amazing! Best purchase ever!,0,0,0,0,0
+963,Damn it failed!,1,1,0,0,0
+964,Fucking hell what a mess!,1,1,0,0,0
+965,Great service! Very pleased!,0,0,0,0,0
+966,OMG this is so good!!!,0,0,0,0,0
+967,You don't deserve rights!,1,0,0,0,1
+968,Perfect! Exactly what I needed!,0,0,0,0,0
+969,I'm open to learning more about your position.,0,0,0,0,0
+970,Love love love this!,0,0,0,0,0
+971,Hell no! Fuck that!,1,1,0,0,0
+972,You better watch out!,1,0,1,0,0
+973,Your culture is backwards!,1,0,0,0,1
+974,Let's discuss this in a civil manner.,0,0,0,0,0
+975,Fucking hell what a mess!,1,1,0,0,0
+976,"Good value, instructions unclear.",0,0,0,0,0
+977,Don't mess with me!,1,0,1,0,0
+978,God damn piece of shit!,1,1,0,0,0
+979,This is complete fucking bullshit!,1,1,0,0,0
+980,Damn right!,1,1,0,0,0
+981,Piece of junk! Trash!,1,1,0,0,0
+982,Damn it all to hell!,1,1,0,0,0
+983,Holy fuck this sucks!,1,1,0,0,0
+984,Item matches the description.,0,0,0,0,0
+985,Your culture is backwards!,1,0,0,0,1
+986,I'm open to learning more about your position.,0,0,0,0,0
+987,Could you please explain this more clearly?,0,0,0,0,0
+988,You're going to pay for this!,1,0,1,0,0
+989,I think there might be a misunderstanding here.,0,0,0,0,0
+990,This is complete fucking bullshit!,1,1,0,0,0
+991,You'll be sorry!,1,0,1,0,0
+992,Could you please explain this more clearly?,0,0,0,0,0
+993,Let's approach this respectfully.,0,0,0,0,0
+994,This shit is unbelievable!,1,1,0,0,0
+995,What the hell!,1,1,0,0,0
+996,Can we find common ground on this issue?,0,0,0,0,0
+997,Fuck this company!,1,1,0,0,0
+998,This is shit quality!,1,1,0,0,0
+999,Ignorant fool! Learn something!,1,0,0,1,0
+1000,Wonderful product! Highly satisfied!,0,0,0,0,0
+1001,"Satisfied, though shipping took long.",0,0,0,0,0
+1002,You're worthless! Complete failure!,1,0,0,1,0
+1003,Hell this is terrible!,1,1,0,0,0
+1004,I know where you live!,1,0,1,0,0
+1005,I think there might be a misunderstanding here.,0,0,0,0,0
+1006,This crap doesn't work!,1,1,0,0,0
+1007,Thank you for sharing your thoughts.,0,0,0,0,0
+1008,OMG this is so good!!!,0,0,0,0,0
+1009,Fuck this company!,1,1,0,0,0
+1010,"I appreciate your viewpoint, but I see it differently.",0,0,0,0,0
+1011,Damn it all to hell!,1,1,0,0,0
+1012,No complaints so far.,0,0,0,0,0
+1013,This is incredible! Five stars!,0,0,0,0,0
+1014,Meets my basic needs.,0,0,0,0,0
+1015,Let's discuss this in a civil manner.,0,0,0,0,0
+1016,That's an interesting perspective. Here's mine.,0,0,0,0,0
+1017,What a loser! Get a life!,1,0,0,1,0
+1018,You better watch out!,1,0,1,0,0
+1019,Amazing experience! Thank you!,0,0,0,0,0
+1020,This fucking sucks!,1,1,0,0,0
+1021,Screw this garbage!,1,1,0,0,0
+1022,What a fucking waste!,1,1,0,0,0
+1023,Can't believe how good this is!,0,0,0,0,0
+1024,Meets my basic needs.,0,0,0,0,0
+1025,You'll be sorry!,1,0,1,0,0
+1026,Fucking awful experience!,1,1,0,0,0
+1027,Damn right!,1,1,0,0,0
+1028,You're full of shit!,1,1,0,0,0
+1029,Very thankful for this!,0,0,0,0,0
+1030,This product is amazing! Best purchase ever!,0,0,0,0,0
+1031,Fantastic! Worth every penny!,0,0,0,0,0
+1032,You're an idiot and you don't know anything!,1,0,0,1,0
+1033,Screwed up big time!,1,1,0,0,0
+1034,Inferior and unwanted!,1,0,0,0,1
+1035,The package arrived on time.,0,0,0,0,0
+1036,You've made a big mistake!,1,0,1,0,0
+1037,Can't believe how good this is!,0,0,0,0,0
+1038,I love this so much! Highly recommend!,0,0,0,0,0
+1039,Fuck this company!,1,1,0,0,0
+1040,Delivery was prompt.,0,0,0,0,0
+1041,Stay with your own kind!,1,0,0,0,1
+1042,Screwed up big time!,1,1,0,0,0
+1043,This crap doesn't work!,1,1,0,0,0
+1044,What the fuck is wrong with you!,1,1,0,0,0
+1045,Delivery was prompt.,0,0,0,0,0
+1046,Outstanding! Will buy again!,0,0,0,0,0
+1047,Grateful for the quick response!,0,0,0,0,0
+1048,I think there might be a misunderstanding here.,0,0,0,0,0
+1049,I'll make sure you regret this!,1,0,1,0,0
+1050,Brilliant! Solved all my problems!,0,0,0,0,0
+1051,I'll ruin your life!,1,0,1,0,0
+1052,"Works well, minor issues with setup.",0,0,0,0,0
+1053,Stay with your own kind!,1,0,0,0,1
+1054,Piece of junk! Trash!,1,1,0,0,0
+1055,God damn piece of shit!,1,1,0,0,0
+1056,OMG this is so good!!!,0,0,0,0,0
+1057,Your people are all the same!,1,0,0,0,1
+1058,Holy fuck this sucks!,1,1,0,0,0
+1059,Fantastic! Worth every penny!,0,0,0,0,0
+1060,Perfect! Exactly what I needed!,0,0,0,0,0
+1061,Shitty product! Total crap!,1,1,0,0,0
+1062,Thanks for the recommendation!,0,0,0,0,0
+1063,Hell no! Fuck that!,1,1,0,0,0
+1064,Excellent quality! Very impressed!,0,0,0,0,0
+1065,Outstanding! Will buy again!,0,0,0,0,0
+1066,You don't deserve rights!,1,0,0,0,1
+1067,Typical behavior from your group!,1,0,0,0,1
+1068,Product works as described.,0,0,0,0,0
+1069,You're worthless! Complete failure!,1,0,0,1,0
+1070,Amazing experience! Thank you!,0,0,0,0,0
+1071,Can't believe how good this is!,0,0,0,0,0
+1072,Shut up! Nobody cares what you think!,1,0,0,1,0
+1073,Perfect! Exactly what I needed!,0,0,0,0,0
+1074,Inferior and unwanted!,1,0,0,0,1
+1075,I know where you live!,1,0,1,0,0
+1076,Functional and practical.,0,0,0,0,0
+1077,You're full of shit!,1,1,0,0,0
+1078,OMG this is so good!!!,0,0,0,0,0
+1079,Piece of shit broke!,1,1,0,0,0
+1080,Damn this thing!,1,1,0,0,0
+1081,Excellent quality! Very impressed!,0,0,0,0,0
+1082,OMG this is so good!!!,0,0,0,0,0
+1083,Outstanding! Will buy again!,0,0,0,0,0
+1084,"Happy overall, small suggestions.",0,0,0,0,0
+1085,Hell this is terrible!,1,1,0,0,0
+1086,This is complete BS!,1,1,0,0,0
+1087,This shit is unbelievable!,1,1,0,0,0
+1088,Product works as described.,0,0,0,0,0
+1089,This damn thing is broken!,1,1,0,0,0
+1090,Holy shit this is bad!,1,1,0,0,0
+1091,Hell of a bad product!,1,1,0,0,0
+1092,Perfect! Exactly what I needed!,0,0,0,0,0
+1093,Perfect! Exactly what I needed!,0,0,0,0,0
+1094,Hell of a bad product!,1,1,0,0,0
+1095,Fucking worst ever!,1,1,0,0,0
+1096,God damn piece of shit!,1,1,0,0,0
+1097,This sucks so damn bad!,1,1,0,0,0
+1098,Hell this is terrible!,1,1,0,0,0
+1099,Fuck this company!,1,1,0,0,0
+1100,Outstanding! Will buy again!,0,0,0,0,0
+1101,Wow! Just wow! Amazing!,0,0,0,0,0
+1102,Go back to where you came from!,1,0,0,0,1
+1103,Damn this thing!,1,1,0,0,0
+1104,You better watch out!,1,0,1,0,0
+1105,I'll make sure you regret this!,1,0,1,0,0
+1106,Ignorant fool! Learn something!,1,0,0,1,0
+1107,This damn thing is broken!,1,1,0,0,0
+1108,Piece of junk! Trash!,1,1,0,0,0
+1109,Thanks for resolving my issue!,0,0,0,0,0
+1110,You'll be sorry!,1,0,1,0,0
+1111,This is incredible! Five stars!,0,0,0,0,0
+1112,Holy shit this is bad!,1,1,0,0,0
+1113,I'm open to learning more about your position.,0,0,0,0,0
+1114,Go back to where you came from!,1,0,0,0,1
+1115,This crap doesn't work!,1,1,0,0,0
+1116,Thank you so much!,0,0,0,0,0
+1117,This shit is unbelievable!,1,1,0,0,0
+1118,This product is amazing! Best purchase ever!,0,0,0,0,0
+1119,"Quality is good, price is fair.",0,0,0,0,0
+1120,I respectfully disagree with your opinion.,0,0,0,0,0
+1121,Terrific! Exceeds expectations!,0,0,0,0,0
+1122,Best thing ever! So happy!,0,0,0,0,0
+1123,Piss poor quality!,1,1,0,0,0
+1124,I love this so much! Highly recommend!,0,0,0,0,0
+1125,Screw this garbage!,1,1,0,0,0
+1126,OMG this is so good!!!,0,0,0,0,0
+1127,Meets my basic needs.,0,0,0,0,0
+1128,Piss poor quality!,1,1,0,0,0
+1129,No complaints so far.,0,0,0,0,0
+1130,You're a joke! Everyone laughs at you!,1,0,0,1,0
+1131,Damn it failed!,1,1,0,0,0
+1132,"Product is fine, packaging could be better.",0,0,0,0,0
+1133,I love this so much! Highly recommend!,0,0,0,0,0
+1134,Perfect! Exactly what I needed!,0,0,0,0,0
+1135,Screwed up big time!,1,1,0,0,0
+1136,Fucking awful experience!,1,1,0,0,0
+1137,"Works as intended, design could improve.",0,0,0,0,0
+1138,This is incredible! Five stars!,0,0,0,0,0
+1139,Thank you so much!,0,0,0,0,0
+1140,This damn thing is broken!,1,1,0,0,0
+1141,Shitty product! Total crap!,1,1,0,0,0
+1142,Fucking hell what a mess!,1,1,0,0,0
+1143,Outstanding! Will buy again!,0,0,0,0,0
+1144,Superb! Couldn't be happier!,0,0,0,0,0
+1145,You don't deserve rights!,1,0,0,0,1
+1146,Fucking disaster!,1,1,0,0,0
+1147,Thank you for the excellent service!,0,0,0,0,0
+1148,Your kind ruins everything!,1,0,0,0,1
+1149,Product works as described.,0,0,0,0,0
+1150,Fuck this stupid thing!,1,1,0,0,0
+1151,Fucking disaster!,1,1,0,0,0
+1152,Functional and practical.,0,0,0,0,0
+1153,Piss poor quality!,1,1,0,0,0
+1154,This is incredible! Five stars!,0,0,0,0,0
+1155,Delivery was prompt.,0,0,0,0,0
+1156,Shut up! Nobody cares what you think!,1,0,0,1,0
+1157,"Quality is good, price is fair.",0,0,0,0,0
+1158,Outstanding! Will buy again!,0,0,0,0,0
+1159,Perfect! Exactly what I needed!,0,0,0,0,0
+1160,"Product is fine, packaging could be better.",0,0,0,0,0
+1161,God damn piece of shit!,1,1,0,0,0
+1162,Damn shame!,1,1,0,0,0
+1163,Stay with your own kind!,1,0,0,0,1
+1164,This crap doesn't work!,1,1,0,0,0
+1165,Excellent quality! Very impressed!,0,0,0,0,0
+1166,Love love love this!,0,0,0,0,0
+1167,Shit product!,1,1,0,0,0
+1168,Piece of shit broke!,1,1,0,0,0
+1169,Acceptable quality.,0,0,0,0,0
+1170,"Happy overall, small suggestions.",0,0,0,0,0
+1171,Excellent quality! Very impressed!,0,0,0,0,0
+1172,I respectfully disagree with your opinion.,0,0,0,0,0
+1173,Standard quality for the price.,0,0,0,0,0
+1174,"Happy overall, small suggestions.",0,0,0,0,0
+1175,Screw this garbage!,1,1,0,0,0
+1176,You're full of shit!,1,1,0,0,0
+1177,Piss poor quality!,1,1,0,0,0
+1178,This is complete BS!,1,1,0,0,0
+1179,Damn shame!,1,1,0,0,0
+1180,Terrific! Exceeds expectations!,0,0,0,0,0
+1181,I'll ruin your life!,1,0,1,0,0
+1182,Piece of shit broke!,1,1,0,0,0
+1183,What the fuck is wrong with you!,1,1,0,0,0
+1184,Thank you for sharing your thoughts.,0,0,0,0,0
+1185,This sucks so damn bad!,1,1,0,0,0
+1186,Can't believe how good this is!,0,0,0,0,0
+1187,People like you don't belong here!,1,0,0,0,1
+1188,Screw this garbage!,1,1,0,0,0
+1189,That's an interesting perspective. Here's mine.,0,0,0,0,0
+1190,Superb! Couldn't be happier!,0,0,0,0,0
+1191,Acceptable quality.,0,0,0,0,0
+1192,Can we find common ground on this issue?,0,0,0,0,0
+1193,I love this so much! Highly recommend!,0,0,0,0,0
+1194,People like you don't belong here!,1,0,0,0,1
+1195,Can't believe how good this is!,0,0,0,0,0
+1196,Fuck off! I don't care!,1,1,0,0,0
+1197,Shitty service!,1,1,0,0,0
+1198,Bloody awful!,1,1,0,0,0
+1199,Shitty product! Total crap!,1,1,0,0,0
+1200,Wow! Just wow! Amazing!,0,0,0,0,0
+1201,Damn right!,1,1,0,0,0
+1202,Shit! This broke already!,1,1,0,0,0
+1203,Wonderful product! Highly satisfied!,0,0,0,0,0
+1204,This is utter crap!,1,1,0,0,0
+1205,Functional and practical.,0,0,0,0,0
+1206,Great service! Very pleased!,0,0,0,0,0
+1207,Let's discuss this in a civil manner.,0,0,0,0,0
+1208,Fuck this stupid thing!,1,1,0,0,0
+1209,"Works well, minor issues with setup.",0,0,0,0,0
+1210,Inferior and unwanted!,1,0,0,0,1
+1211,Outstanding! Will buy again!,0,0,0,0,0
+1212,This sucks so damn bad!,1,1,0,0,0
+1213,"Good value, instructions unclear.",0,0,0,0,0
+1214,Holy fuck this sucks!,1,1,0,0,0
+1215,Fuck this stupid thing!,1,1,0,0,0
+1216,Holy fuck this sucks!,1,1,0,0,0
+1217,Screwed up big time!,1,1,0,0,0
+1218,What the fuck is wrong with you!,1,1,0,0,0
+1219,Wonderful product! Highly satisfied!,0,0,0,0,0
+1220,Hell of a bad product!,1,1,0,0,0
+1221,"Quality is good, price is fair.",0,0,0,0,0
+1222,Let's approach this respectfully.,0,0,0,0,0
+1223,This is shit quality!,1,1,0,0,0
+1224,Standard quality for the price.,0,0,0,0,0
+1225,Perfect! Exactly what I needed!,0,0,0,0,0
+1226,I'll ruin your life!,1,0,1,0,0
+1227,This damn thing is broken!,1,1,0,0,0
+1228,People like you don't belong here!,1,0,0,0,1
+1229,Love love love this!,0,0,0,0,0
+1230,Functional and practical.,0,0,0,0,0
+1231,Typical behavior from your group!,1,0,0,0,1
+1232,Fucking awful experience!,1,1,0,0,0
+1233,Piece of junk! Trash!,1,1,0,0,0
+1234,"Quality is good, price is fair.",0,0,0,0,0
+1235,Absolutely fantastic! Exceeded all expectations!,0,0,0,0,0
+1236,What a load of crap!,1,1,0,0,0
+1237,This product is amazing! Best purchase ever!,0,0,0,0,0
+1238,I'll ruin your life!,1,0,1,0,0
+1239,As expected.,0,0,0,0,0
+1240,Meets my basic needs.,0,0,0,0,0
+1241,Fuck off! I don't care!,1,1,0,0,0
+1242,Outstanding! Will buy again!,0,0,0,0,0
+1243,Absolutely fantastic! Exceeded all expectations!,0,0,0,0,0
+1244,Stay with your own kind!,1,0,0,0,1
+1245,Appreciate the fast delivery!,0,0,0,0,0
+1246,Great service! Very pleased!,0,0,0,0,0
+1247,Wow! Just wow! Amazing!,0,0,0,0,0
+1248,Awesome! My whole family loves it!,0,0,0,0,0
+1249,I love this so much! Highly recommend!,0,0,0,0,0
+1250,What the hell!,1,1,0,0,0
+1251,What a shitshow!,1,1,0,0,0
+1252,Screw this garbage!,1,1,0,0,0
+1253,What the hell is this shit!,1,1,0,0,0
+1254,What a shitshow!,1,1,0,0,0
+1255,Shut up! Nobody cares what you think!,1,0,0,1,0
+1256,Hell no! Fuck that!,1,1,0,0,0
+1257,God damn piece of shit!,1,1,0,0,0
+1258,What the fuck is wrong with you!,1,1,0,0,0
+1259,Perfect! Exactly what I needed!,0,0,0,0,0
+1260,Love love love this!,0,0,0,0,0
+1261,"Works as intended, design could improve.",0,0,0,0,0
+1262,Typical behavior from your group!,1,0,0,0,1
+1263,Meets my basic needs.,0,0,0,0,0
+1264,This is complete BS!,1,1,0,0,0
+1265,This crap doesn't work!,1,1,0,0,0
+1266,I respectfully disagree with your opinion.,0,0,0,0,0
+1267,This is utter crap!,1,1,0,0,0
+1268,Shit! This broke already!,1,1,0,0,0
+1269,Watch your back!,1,0,1,0,0
+1270,Wonderful product! Highly satisfied!,0,0,0,0,0
+1271,Hell this is terrible!,1,1,0,0,0
+1272,I know where you live!,1,0,1,0,0
+1273,This sucks so damn bad!,1,1,0,0,0
+1274,Inferior and unwanted!,1,0,0,0,1
+1275,Amazing experience! Thank you!,0,0,0,0,0
+1276,Screw this garbage!,1,1,0,0,0
+1277,Fantastic! Worth every penny!,0,0,0,0,0
+1278,Damn it all to hell!,1,1,0,0,0
+1279,Damn it all to hell!,1,1,0,0,0
+1280,Outsiders not welcome!,1,0,0,0,1
+1281,This product is amazing! Best purchase ever!,0,0,0,0,0
+1282,Damn shame!,1,1,0,0,0
+1283,Appreciate your assistance!,0,0,0,0,0
+1284,Great service! Very pleased!,0,0,0,0,0
+1285,Thanks for the recommendation!,0,0,0,0,0
+1286,Fuck this company!,1,1,0,0,0
+1287,Piece of shit broke!,1,1,0,0,0
+1288,Terrific! Exceeds expectations!,0,0,0,0,0
+1289,Damn this thing!,1,1,0,0,0
+1290,What the fuck is wrong with you!,1,1,0,0,0
+1291,You'll be sorry!,1,0,1,0,0
+1292,Disgusting person! Stay away!,1,0,0,1,0
+1293,Fucking disaster!,1,1,0,0,0
+1294,Damn this thing!,1,1,0,0,0
+1295,Damn shame!,1,1,0,0,0
+1296,Absolutely fantastic! Exceeded all expectations!,0,0,0,0,0
+1297,"I appreciate your viewpoint, but I see it differently.",0,0,0,0,0
+1298,Terrific! Exceeds expectations!,0,0,0,0,0
+1299,Watch your back!,1,0,1,0,0
+1300,What a load of crap!,1,1,0,0,0
+1301,"Works as intended, design could improve.",0,0,0,0,0
+1302,You're pathetic and useless!,1,0,0,1,0
+1303,Damn right!,1,1,0,0,0
+1304,Acceptable quality.,0,0,0,0,0
+1305,Terrific! Exceeds expectations!,0,0,0,0,0
+1306,As expected.,0,0,0,0,0
+1307,Screw this garbage!,1,1,0,0,0
+1308,What a shitshow!,1,1,0,0,0
+1309,Holy fuck this sucks!,1,1,0,0,0
+1310,Thank you for sharing your thoughts.,0,0,0,0,0
+1311,What the fuck is wrong with you!,1,1,0,0,0
+1312,Fantastic! Worth every penny!,0,0,0,0,0
+1313,This is shit quality!,1,1,0,0,0
+1314,"Works as intended, design could improve.",0,0,0,0,0
+1315,Product works as described.,0,0,0,0,0
+1316,Shitty service!,1,1,0,0,0
+1317,Terrific! Exceeds expectations!,0,0,0,0,0
+1318,Holy shit this is bad!,1,1,0,0,0
+1319,This damn thing is broken!,1,1,0,0,0
+1320,This is complete BS!,1,1,0,0,0
+1321,Fucking hell what a mess!,1,1,0,0,0
+1322,What the hell is this shit!,1,1,0,0,0
+1323,Outsiders not welcome!,1,0,0,0,1
+1324,Fucking disaster!,1,1,0,0,0
+1325,I love this so much! Highly recommend!,0,0,0,0,0
+1326,Perfect! Exactly what I needed!,0,0,0,0,0
+1327,Terrific! Exceeds expectations!,0,0,0,0,0
+1328,Terrific! Exceeds expectations!,0,0,0,0,0
+1329,Piss poor quality!,1,1,0,0,0
+1330,This is fucking ridiculous!,1,1,0,0,0
+1331,Fuck off! I don't care!,1,1,0,0,0
+1332,Best thing ever! So happy!,0,0,0,0,0
+1333,Holy shit this is bad!,1,1,0,0,0
+1334,I respectfully disagree with your opinion.,0,0,0,0,0
+1335,Holy fuck this sucks!,1,1,0,0,0
+1336,This sucks so damn bad!,1,1,0,0,0
+1337,I love this so much! Highly recommend!,0,0,0,0,0
+1338,Your culture is backwards!,1,0,0,0,1
+1339,Fucking hell what a mess!,1,1,0,0,0
+1340,This is fucking ridiculous!,1,1,0,0,0
+1341,As expected.,0,0,0,0,0
+1342,"I appreciate your viewpoint, but I see it differently.",0,0,0,0,0
+1343,This is fucking ridiculous!,1,1,0,0,0
+1344,Fucking awful experience!,1,1,0,0,0
+1345,"Decent quality, not perfect.",0,0,0,0,0
+1346,This fucking sucks!,1,1,0,0,0
+1347,Brilliant! Solved all my problems!,0,0,0,0,0
+1348,Shitty product! Total crap!,1,1,0,0,0
+1349,Outstanding! Will buy again!,0,0,0,0,0
+1350,"Quality is good, price is fair.",0,0,0,0,0
+1351,Acceptable quality.,0,0,0,0,0
+1352,This is fucking ridiculous!,1,1,0,0,0
+1353,You're full of shit!,1,1,0,0,0
+1354,Outsiders not welcome!,1,0,0,0,1
+1355,Hell this is terrible!,1,1,0,0,0
+1356,This product is amazing! Best purchase ever!,0,0,0,0,0
+1357,God damn piece of shit!,1,1,0,0,0
+1358,This is shit quality!,1,1,0,0,0
+1359,Watch your back!,1,0,1,0,0
+1360,Appreciate the fast delivery!,0,0,0,0,0
+1361,This shit is unbelievable!,1,1,0,0,0
+1362,Moron! Can't believe how dumb you are!,1,0,0,1,0
+1363,Screw this garbage!,1,1,0,0,0
+1364,Thanks for resolving my issue!,0,0,0,0,0
+1365,That's an interesting perspective. Here's mine.,0,0,0,0,0
+1366,Brilliant! Solved all my problems!,0,0,0,0,0
+1367,Best thing ever! So happy!,0,0,0,0,0
+1368,Outstanding! Will buy again!,0,0,0,0,0
+1369,"Works as intended, design could improve.",0,0,0,0,0
+1370,Fucking awful experience!,1,1,0,0,0
+1371,Damn right!,1,1,0,0,0
+1372,Shitty service!,1,1,0,0,0
+1373,Fantastic! Worth every penny!,0,0,0,0,0
+1374,Can we find common ground on this issue?,0,0,0,0,0
+1375,Standard quality for the price.,0,0,0,0,0
+1376,Shitty service!,1,1,0,0,0
+1377,Damn shame!,1,1,0,0,0
+1378,Wow! Just wow! Amazing!,0,0,0,0,0
+1379,You'll be sorry!,1,0,1,0,0
+1380,"I appreciate your viewpoint, but I see it differently.",0,0,0,0,0
+1381,What the fuck is wrong with you!,1,1,0,0,0
+1382,Appreciate your assistance!,0,0,0,0,0
+1383,This shit is unbelievable!,1,1,0,0,0
+1384,You don't deserve rights!,1,0,0,0,1
+1385,"Quality is good, price is fair.",0,0,0,0,0
+1386,Wonderful product! Highly satisfied!,0,0,0,0,0
+1387,Damn it failed!,1,1,0,0,0
+1388,"Decent quality, not perfect.",0,0,0,0,0
+1389,I know where you live!,1,0,1,0,0
+1390,You're an idiot and you don't know anything!,1,0,0,1,0
+1391,Awesome! My whole family loves it!,0,0,0,0,0
+1392,Holy fuck this sucks!,1,1,0,0,0
+1393,Shut up! Nobody cares what you think!,1,0,0,1,0
+1394,Delivery was prompt.,0,0,0,0,0
+1395,This product is amazing! Best purchase ever!,0,0,0,0,0
+1396,This crap doesn't work!,1,1,0,0,0
+1397,Holy shit this is bad!,1,1,0,0,0
+1398,Damn this thing!,1,1,0,0,0
+1399,This damn thing is broken!,1,1,0,0,0
+1400,Shitty service!,1,1,0,0,0
+1401,Excellent quality! Very impressed!,0,0,0,0,0
+1402,Functional and practical.,0,0,0,0,0
+1403,Hell of a bad product!,1,1,0,0,0
+1404,Excellent quality! Very impressed!,0,0,0,0,0
+1405,Damn this thing!,1,1,0,0,0
+1406,"Satisfied, though shipping took long.",0,0,0,0,0
+1407,What the hell!,1,1,0,0,0
+1408,Wow! Just wow! Amazing!,0,0,0,0,0
+1409,Shitty service!,1,1,0,0,0
+1410,Thanks for the recommendation!,0,0,0,0,0
+1411,As expected.,0,0,0,0,0
+1412,Shit product!,1,1,0,0,0
+1413,Love love love this!,0,0,0,0,0
+1414,Moron! Can't believe how dumb you are!,1,0,0,1,0
+1415,Holy fuck this sucks!,1,1,0,0,0
+1416,That's an interesting perspective. Here's mine.,0,0,0,0,0
+1417,Shut up! Nobody cares what you think!,1,0,0,1,0
+1418,Appreciate your assistance!,0,0,0,0,0
+1419,Best thing ever! So happy!,0,0,0,0,0
+1420,Shitty service!,1,1,0,0,0
+1421,Fucking hell what a mess!,1,1,0,0,0
+1422,The package arrived on time.,0,0,0,0,0
+1423,Item matches the description.,0,0,0,0,0
+1424,Meets my basic needs.,0,0,0,0,0
+1425,Grateful for the quick response!,0,0,0,0,0
+1426,"I appreciate your viewpoint, but I see it differently.",0,0,0,0,0
+1427,Fuck off! I don't care!,1,1,0,0,0
+1428,"I appreciate your viewpoint, but I see it differently.",0,0,0,0,0
+1429,You don't deserve rights!,1,0,0,0,1
+1430,Damn it failed!,1,1,0,0,0
+1431,Appreciate the fast delivery!,0,0,0,0,0
+1432,Absolutely fantastic! Exceeded all expectations!,0,0,0,0,0
+1433,Wonderful product! Highly satisfied!,0,0,0,0,0
+1434,Fantastic! Worth every penny!,0,0,0,0,0
+1435,Piece of junk! Trash!,1,1,0,0,0
+1436,Hell of a bad product!,1,1,0,0,0
+1437,Shut up! Nobody cares what you think!,1,0,0,1,0
+1438,This shit is unbelievable!,1,1,0,0,0
+1439,Excellent quality! Very impressed!,0,0,0,0,0
+1440,This shit is unbelievable!,1,1,0,0,0
+1441,I'll ruin your life!,1,0,1,0,0
+1442,Meets my basic needs.,0,0,0,0,0
+1443,Functional and practical.,0,0,0,0,0
+1444,Shit product!,1,1,0,0,0
+1445,Piece of shit broke!,1,1,0,0,0
+1446,You better watch out!,1,0,1,0,0
+1447,This is complete fucking bullshit!,1,1,0,0,0
+1448,This is incredible! Five stars!,0,0,0,0,0
+1449,Damn this thing!,1,1,0,0,0
+1450,This shit is unbelievable!,1,1,0,0,0
+1451,Wow! Just wow! Amazing!,0,0,0,0,0
+1452,Thank you for sharing your thoughts.,0,0,0,0,0
+1453,Can't believe how good this is!,0,0,0,0,0
+1454,Damn it all to hell!,1,1,0,0,0
+1455,Screwed up big time!,1,1,0,0,0
+1456,Damn it all to hell!,1,1,0,0,0
+1457,You're full of shit!,1,1,0,0,0
+1458,Wow! Just wow! Amazing!,0,0,0,0,0
+1459,Piss poor quality!,1,1,0,0,0
+1460,Great service! Very pleased!,0,0,0,0,0
+1461,This is utter crap!,1,1,0,0,0
+1462,"Good product, but could be improved.",0,0,0,0,0
+1463,Brilliant! Solved all my problems!,0,0,0,0,0
+1464,Best thing ever! So happy!,0,0,0,0,0
+1465,Piece of shit broke!,1,1,0,0,0
+1466,"Satisfied, though shipping took long.",0,0,0,0,0
+1467,Hell this is terrible!,1,1,0,0,0
+1468,Go back to where you came from!,1,0,0,0,1
+1469,Damn this thing!,1,1,0,0,0
+1470,Can we find common ground on this issue?,0,0,0,0,0
+1471,Standard quality for the price.,0,0,0,0,0
+1472,"Happy overall, small suggestions.",0,0,0,0,0
+1473,Typical behavior from your group!,1,0,0,0,1
+1474,"Satisfied, though shipping took long.",0,0,0,0,0
+1475,I'll make sure you regret this!,1,0,1,0,0
+1476,Piece of shit broke!,1,1,0,0,0
+1477,This is complete BS!,1,1,0,0,0
+1478,Delivery was prompt.,0,0,0,0,0
+1479,Hell this is terrible!,1,1,0,0,0
+1480,What a load of crap!,1,1,0,0,0
+1481,Can we find common ground on this issue?,0,0,0,0,0
+1482,Holy fuck this sucks!,1,1,0,0,0
+1483,Hell of a bad product!,1,1,0,0,0
+1484,Fuck off! I don't care!,1,1,0,0,0
+1485,Fucking awful experience!,1,1,0,0,0
+1486,Bloody awful!,1,1,0,0,0
+1487,Outstanding! Will buy again!,0,0,0,0,0
+1488,This is incredible! Five stars!,0,0,0,0,0
+1489,This is complete fucking bullshit!,1,1,0,0,0
+1490,You're so stupid it hurts!,1,0,0,1,0
+1491,Fantastic! Worth every penny!,0,0,0,0,0
+1492,"Good product, but could be improved.",0,0,0,0,0
+1493,Meets my basic needs.,0,0,0,0,0
+1494,This is complete BS!,1,1,0,0,0
+1495,Fantastic! Worth every penny!,0,0,0,0,0
+1496,Damn this thing!,1,1,0,0,0
+1497,Love love love this!,0,0,0,0,0
+1498,"Decent quality, not perfect.",0,0,0,0,0
+1499,Delivery was prompt.,0,0,0,0,0
+1500,The package arrived on time.,0,0,0,0,0
+1501,This damn thing is broken!,1,1,0,0,0
+1502,Screw this garbage!,1,1,0,0,0
+1503,What the hell is this shit!,1,1,0,0,0
+1504,Outstanding! Will buy again!,0,0,0,0,0
+1505,God damn piece of shit!,1,1,0,0,0
+1506,Fuck this company!,1,1,0,0,0
+1507,"Product is fine, packaging could be better.",0,0,0,0,0
+1508,Thank you so much!,0,0,0,0,0
+1509,I'll ruin your life!,1,0,1,0,0
+1510,This fucking sucks!,1,1,0,0,0
+1511,Damn shame!,1,1,0,0,0
+1512,What a fucking waste!,1,1,0,0,0
+1513,Piss poor quality!,1,1,0,0,0
+1514,Damn shame!,1,1,0,0,0
+1515,Love love love this!,0,0,0,0,0
+1516,What the hell is this shit!,1,1,0,0,0
+1517,Let's approach this respectfully.,0,0,0,0,0
+1518,I respectfully disagree with your opinion.,0,0,0,0,0
+1519,Let's discuss this in a civil manner.,0,0,0,0,0
+1520,Screw this garbage!,1,1,0,0,0
+1521,Item matches the description.,0,0,0,0,0
+1522,This is fucking ridiculous!,1,1,0,0,0
+1523,Holy fuck this sucks!,1,1,0,0,0
+1524,People like you don't belong here!,1,0,0,0,1
+1525,Terrific! Exceeds expectations!,0,0,0,0,0
+1526,This product is amazing! Best purchase ever!,0,0,0,0,0
+1527,This fucking sucks!,1,1,0,0,0
+1528,Shitty service!,1,1,0,0,0
+1529,This crap doesn't work!,1,1,0,0,0
+1530,Damn right!,1,1,0,0,0
+1531,This is fucking ridiculous!,1,1,0,0,0
+1532,This fucking sucks!,1,1,0,0,0
+1533,Damn it all to hell!,1,1,0,0,0
+1534,Go back to where you came from!,1,0,0,0,1
+1535,Great service! Very pleased!,0,0,0,0,0
+1536,What a shitshow!,1,1,0,0,0
+1537,This is incredible! Five stars!,0,0,0,0,0
+1538,Fuck off! I don't care!,1,1,0,0,0
+1539,Fucking disaster!,1,1,0,0,0
+1540,You're an idiot and you don't know anything!,1,0,0,1,0
+1541,Your culture is backwards!,1,0,0,0,1
+1542,You better watch out!,1,0,1,0,0
+1543,Piece of shit broke!,1,1,0,0,0
+1544,Your culture is backwards!,1,0,0,0,1
+1545,Outsiders not welcome!,1,0,0,0,1
+1546,Damn right!,1,1,0,0,0
+1547,You're going to pay for this!,1,0,1,0,0
+1548,Shut up! Nobody cares what you think!,1,0,0,1,0
+1549,This crap doesn't work!,1,1,0,0,0
+1550,Damn this thing!,1,1,0,0,0
+1551,Brilliant! Solved all my problems!,0,0,0,0,0
+1552,Bloody awful!,1,1,0,0,0
+1553,Outsiders not welcome!,1,0,0,0,1
+1554,Ignorant fool! Learn something!,1,0,0,1,0
+1555,Outstanding! Will buy again!,0,0,0,0,0
+1556,Standard quality for the price.,0,0,0,0,0
+1557,Disgusting person! Stay away!,1,0,0,1,0
+1558,"Good product, but could be improved.",0,0,0,0,0
+1559,"Reliable product, customer service helpful.",0,0,0,0,0
+1560,This product is amazing! Best purchase ever!,0,0,0,0,0
+1561,You're an idiot and you don't know anything!,1,0,0,1,0
+1562,Shitty product! Total crap!,1,1,0,0,0
+1563,Damn right!,1,1,0,0,0
+1564,You better watch out!,1,0,1,0,0
+1565,This is shit quality!,1,1,0,0,0
+1566,You've made a big mistake!,1,0,1,0,0
+1567,You've made a big mistake!,1,0,1,0,0
+1568,Damn this thing!,1,1,0,0,0
+1569,Fantastic! Worth every penny!,0,0,0,0,0
+1570,This shit is unbelievable!,1,1,0,0,0
+1571,Fucking hell what a mess!,1,1,0,0,0
+1572,Inferior and unwanted!,1,0,0,0,1
+1573,Shit! This broke already!,1,1,0,0,0
+1574,Your culture is backwards!,1,0,0,0,1
+1575,Fuck this stupid thing!,1,1,0,0,0
+1576,This sucks so damn bad!,1,1,0,0,0
+1577,"Works well, minor issues with setup.",0,0,0,0,0
+1578,You're a joke! Everyone laughs at you!,1,0,0,1,0
+1579,Thanks for resolving my issue!,0,0,0,0,0
+1580,I'm open to learning more about your position.,0,0,0,0,0
+1581,Can we find common ground on this issue?,0,0,0,0,0
+1582,Acceptable quality.,0,0,0,0,0
+1583,Meets my basic needs.,0,0,0,0,0
+1584,Wonderful product! Highly satisfied!,0,0,0,0,0
+1585,Shit product!,1,1,0,0,0
+1586,OMG this is so good!!!,0,0,0,0,0
+1587,This is utter crap!,1,1,0,0,0
+1588,This is utter crap!,1,1,0,0,0
+1589,This is complete fucking bullshit!,1,1,0,0,0
+1590,Delivery was prompt.,0,0,0,0,0
+1591,This sucks so damn bad!,1,1,0,0,0
+1592,"Works well, minor issues with setup.",0,0,0,0,0
+1593,This is complete BS!,1,1,0,0,0
+1594,This fucking sucks!,1,1,0,0,0
+1595,Your people are all the same!,1,0,0,0,1
+1596,No complaints so far.,0,0,0,0,0
+1597,This is utter crap!,1,1,0,0,0
+1598,Screwed up big time!,1,1,0,0,0
+1599,Fucking worst ever!,1,1,0,0,0
+1600,Fucking worst ever!,1,1,0,0,0
+1601,Damn shame!,1,1,0,0,0
+1602,What a fucking waste!,1,1,0,0,0
+1603,Moron! Can't believe how dumb you are!,1,0,0,1,0
+1604,I'm open to learning more about your position.,0,0,0,0,0
+1605,This is utter crap!,1,1,0,0,0
+1606,As expected.,0,0,0,0,0
+1607,"Decent quality, not perfect.",0,0,0,0,0
+1608,Damn this thing!,1,1,0,0,0
+1609,People like you don't belong here!,1,0,0,0,1
+1610,Excellent quality! Very impressed!,0,0,0,0,0
+1611,Acceptable quality.,0,0,0,0,0
+1612,Very thankful for this!,0,0,0,0,0
+1613,Don't mess with me!,1,0,1,0,0
+1614,Product works as described.,0,0,0,0,0
+1615,Standard quality for the price.,0,0,0,0,0
+1616,Shit! This broke already!,1,1,0,0,0
+1617,Brilliant! Solved all my problems!,0,0,0,0,0
+1618,I'm open to learning more about your position.,0,0,0,0,0
+1619,Typical behavior from your group!,1,0,0,0,1
+1620,Damn it failed!,1,1,0,0,0
+1621,Product works as described.,0,0,0,0,0
+1622,"Works well, minor issues with setup.",0,0,0,0,0
+1623,What a load of crap!,1,1,0,0,0
+1624,This is utter crap!,1,1,0,0,0
+1625,Terrific! Exceeds expectations!,0,0,0,0,0
+1626,Piss poor quality!,1,1,0,0,0
+1627,Functional and practical.,0,0,0,0,0
+1628,"Good product, but could be improved.",0,0,0,0,0
+1629,That's an interesting perspective. Here's mine.,0,0,0,0,0
+1630,Damn this thing!,1,1,0,0,0
+1631,Functional and practical.,0,0,0,0,0
+1632,Piece of junk! Trash!,1,1,0,0,0
+1633,Damn right!,1,1,0,0,0
+1634,"Quality is good, price is fair.",0,0,0,0,0
+1635,I think there might be a misunderstanding here.,0,0,0,0,0
+1636,I love this so much! Highly recommend!,0,0,0,0,0
+1637,People like you don't belong here!,1,0,0,0,1
+1638,I think there might be a misunderstanding here.,0,0,0,0,0
+1639,As expected.,0,0,0,0,0
+1640,Terrific! Exceeds expectations!,0,0,0,0,0
+1641,This damn thing is broken!,1,1,0,0,0
+1642,Damn it all to hell!,1,1,0,0,0
+1643,Fucking hell what a mess!,1,1,0,0,0
+1644,Meets my basic needs.,0,0,0,0,0
+1645,Great service! Very pleased!,0,0,0,0,0
+1646,Your kind ruins everything!,1,0,0,0,1
+1647,Piece of shit broke!,1,1,0,0,0
+1648,Brilliant! Solved all my problems!,0,0,0,0,0
+1649,Shitty product! Total crap!,1,1,0,0,0
+1650,Excellent quality! Very impressed!,0,0,0,0,0
+1651,Holy fuck this sucks!,1,1,0,0,0
+1652,Moron! Can't believe how dumb you are!,1,0,0,1,0
+1653,This fucking sucks!,1,1,0,0,0
+1654,"Reliable product, customer service helpful.",0,0,0,0,0
+1655,Shitty product! Total crap!,1,1,0,0,0
+1656,Holy fuck this sucks!,1,1,0,0,0
+1657,Your kind ruins everything!,1,0,0,0,1
+1658,Damn it all to hell!,1,1,0,0,0
+1659,Piece of shit broke!,1,1,0,0,0
+1660,Meets my basic needs.,0,0,0,0,0
+1661,Fuck this company!,1,1,0,0,0
+1662,Thanks for the recommendation!,0,0,0,0,0
+1663,Fucking awful experience!,1,1,0,0,0
+1664,What the hell!,1,1,0,0,0
+1665,Outstanding! Will buy again!,0,0,0,0,0
+1666,Great service! Very pleased!,0,0,0,0,0
+1667,Holy fuck this sucks!,1,1,0,0,0
+1668,Amazing experience! Thank you!,0,0,0,0,0
+1669,Absolutely fantastic! Exceeded all expectations!,0,0,0,0,0
+1670,People like you don't belong here!,1,0,0,0,1
+1671,"Quality is good, price is fair.",0,0,0,0,0
+1672,Fucking disaster!,1,1,0,0,0
+1673,Standard quality for the price.,0,0,0,0,0
+1674,Shit product!,1,1,0,0,0
+1675,Damn this thing!,1,1,0,0,0
+1676,Holy shit this is bad!,1,1,0,0,0
+1677,Watch your back!,1,0,1,0,0
+1678,What a fucking waste!,1,1,0,0,0
+1679,Damn right!,1,1,0,0,0
+1680,Fucking worst ever!,1,1,0,0,0
+1681,Holy shit this is bad!,1,1,0,0,0
+1682,Fucking awful experience!,1,1,0,0,0
+1683,This product is amazing! Best purchase ever!,0,0,0,0,0
+1684,Watch your back!,1,0,1,0,0
+1685,Let's discuss this in a civil manner.,0,0,0,0,0
+1686,"I appreciate your viewpoint, but I see it differently.",0,0,0,0,0
+1687,Love love love this!,0,0,0,0,0
+1688,"Reliable product, customer service helpful.",0,0,0,0,0
+1689,Hell of a bad product!,1,1,0,0,0
+1690,You're going to pay for this!,1,0,1,0,0
+1691,This is shit quality!,1,1,0,0,0
+1692,This is complete BS!,1,1,0,0,0
+1693,Damn it all to hell!,1,1,0,0,0
+1694,This fucking sucks!,1,1,0,0,0
+1695,Fucking disaster!,1,1,0,0,0
+1696,Piss poor quality!,1,1,0,0,0
+1697,Thank you for sharing your thoughts.,0,0,0,0,0
+1698,Damn this thing!,1,1,0,0,0
+1699,Fucking worst ever!,1,1,0,0,0
+1700,Functional and practical.,0,0,0,0,0
+1701,Your kind ruins everything!,1,0,0,0,1
+1702,Hell of a bad product!,1,1,0,0,0
+1703,This is complete BS!,1,1,0,0,0
+1704,Thank you so much!,0,0,0,0,0
+1705,This is shit quality!,1,1,0,0,0
+1706,Much appreciated!,0,0,0,0,0
+1707,Acceptable quality.,0,0,0,0,0
+1708,Shitty service!,1,1,0,0,0
+1709,You're going to pay for this!,1,0,1,0,0
+1710,Standard quality for the price.,0,0,0,0,0
+1711,Functional and practical.,0,0,0,0,0
+1712,"Product is fine, packaging could be better.",0,0,0,0,0
+1713,Functional and practical.,0,0,0,0,0
+1714,Piece of junk! Trash!,1,1,0,0,0
+1715,People like you don't belong here!,1,0,0,0,1
+1716,Fuck off! I don't care!,1,1,0,0,0
+1717,"I appreciate your viewpoint, but I see it differently.",0,0,0,0,0
+1718,Disgusting person! Stay away!,1,0,0,1,0
+1719,Fucking hell what a mess!,1,1,0,0,0
+1720,This is utter crap!,1,1,0,0,0
+1721,Wonderful product! Highly satisfied!,0,0,0,0,0
+1722,Awesome! My whole family loves it!,0,0,0,0,0
+1723,Screw this garbage!,1,1,0,0,0
+1724,Could you please explain this more clearly?,0,0,0,0,0
+1725,"I appreciate your viewpoint, but I see it differently.",0,0,0,0,0
+1726,Perfect! Exactly what I needed!,0,0,0,0,0
+1727,You're full of shit!,1,1,0,0,0
+1728,Fucking hell what a mess!,1,1,0,0,0
+1729,Your culture is backwards!,1,0,0,0,1
+1730,Shitty product! Total crap!,1,1,0,0,0
+1731,Holy shit this is bad!,1,1,0,0,0
+1732,Screw this garbage!,1,1,0,0,0
+1733,What the hell!,1,1,0,0,0
+1734,I'm coming for you!,1,0,1,0,0
+1735,Very thankful for this!,0,0,0,0,0
+1736,Typical behavior from your group!,1,0,0,0,1
+1737,I respectfully disagree with your opinion.,0,0,0,0,0
+1738,Awesome! My whole family loves it!,0,0,0,0,0
+1739,"Good product, but could be improved.",0,0,0,0,0
+1740,Outstanding! Will buy again!,0,0,0,0,0
+1741,"Quality is good, price is fair.",0,0,0,0,0
+1742,Stay with your own kind!,1,0,0,0,1
+1743,Can't believe how good this is!,0,0,0,0,0
+1744,I'm coming for you!,1,0,1,0,0
+1745,Bloody awful!,1,1,0,0,0
+1746,Awesome! My whole family loves it!,0,0,0,0,0
+1747,You're going to pay for this!,1,0,1,0,0
+1748,You've made a big mistake!,1,0,1,0,0
+1749,Thank you for the excellent service!,0,0,0,0,0
+1750,Awesome! My whole family loves it!,0,0,0,0,0
+1751,This is complete fucking bullshit!,1,1,0,0,0
+1752,Awesome! My whole family loves it!,0,0,0,0,0
+1753,Outstanding! Will buy again!,0,0,0,0,0
+1754,Excellent quality! Very impressed!,0,0,0,0,0
+1755,You're full of shit!,1,1,0,0,0
+1756,Watch your back!,1,0,1,0,0
+1757,Damn it failed!,1,1,0,0,0
+1758,Much appreciated!,0,0,0,0,0
+1759,I'm open to learning more about your position.,0,0,0,0,0
+1760,I think there might be a misunderstanding here.,0,0,0,0,0
+1761,Fantastic! Worth every penny!,0,0,0,0,0
+1762,The package arrived on time.,0,0,0,0,0
+1763,Piece of junk! Trash!,1,1,0,0,0
+1764,What the hell!,1,1,0,0,0
+1765,Piece of shit broke!,1,1,0,0,0
+1766,Functional and practical.,0,0,0,0,0
+1767,Screwed up big time!,1,1,0,0,0
+1768,Delivery was prompt.,0,0,0,0,0
+1769,Meets my basic needs.,0,0,0,0,0
+1770,"Works well, minor issues with setup.",0,0,0,0,0
+1771,This is complete BS!,1,1,0,0,0
+1772,Delivery was prompt.,0,0,0,0,0
+1773,I think there might be a misunderstanding here.,0,0,0,0,0
+1774,I respectfully disagree with your opinion.,0,0,0,0,0
+1775,I'm coming for you!,1,0,1,0,0
+1776,Hell of a bad product!,1,1,0,0,0
+1777,Let's discuss this in a civil manner.,0,0,0,0,0
+1778,This product is amazing! Best purchase ever!,0,0,0,0,0
+1779,Screwed up big time!,1,1,0,0,0
+1780,You'll be sorry!,1,0,1,0,0
+1781,You're full of shit!,1,1,0,0,0
+1782,Screwed up big time!,1,1,0,0,0
+1783,What the fuck is wrong with you!,1,1,0,0,0
+1784,As expected.,0,0,0,0,0
+1785,That's an interesting perspective. Here's mine.,0,0,0,0,0
+1786,"Product is fine, packaging could be better.",0,0,0,0,0
+1787,Damn right!,1,1,0,0,0
+1788,I respectfully disagree with your opinion.,0,0,0,0,0
+1789,Shitty product! Total crap!,1,1,0,0,0
+1790,Fucking disaster!,1,1,0,0,0
+1791,Let's approach this respectfully.,0,0,0,0,0
+1792,Grateful for the help!,0,0,0,0,0
+1793,I'm open to learning more about your position.,0,0,0,0,0
+1794,What a fucking waste!,1,1,0,0,0
+1795,I think there might be a misunderstanding here.,0,0,0,0,0
+1796,I'm open to learning more about your position.,0,0,0,0,0
+1797,Meets my basic needs.,0,0,0,0,0
+1798,As expected.,0,0,0,0,0
+1799,Thanks for the recommendation!,0,0,0,0,0
+1800,You're full of shit!,1,1,0,0,0
+1801,Shitty product! Total crap!,1,1,0,0,0
+1802,Fucking disaster!,1,1,0,0,0
+1803,You're pathetic and useless!,1,0,0,1,0
+1804,OMG this is so good!!!,0,0,0,0,0
+1805,Let's approach this respectfully.,0,0,0,0,0
+1806,Amazing experience! Thank you!,0,0,0,0,0
+1807,Fuck this company!,1,1,0,0,0
+1808,This is complete fucking bullshit!,1,1,0,0,0
+1809,Meets my basic needs.,0,0,0,0,0
+1810,What the hell!,1,1,0,0,0
+1811,You better watch out!,1,0,1,0,0
+1812,Can't believe how good this is!,0,0,0,0,0
+1813,Superb! Couldn't be happier!,0,0,0,0,0
+1814,Wonderful product! Highly satisfied!,0,0,0,0,0
+1815,Much appreciated!,0,0,0,0,0
+1816,Could you please explain this more clearly?,0,0,0,0,0
+1817,What a load of crap!,1,1,0,0,0
+1818,"Satisfied, though shipping took long.",0,0,0,0,0
+1819,What a load of crap!,1,1,0,0,0
+1820,This damn thing is broken!,1,1,0,0,0
+1821,Fucking awful experience!,1,1,0,0,0
+1822,Disgusting person! Stay away!,1,0,0,1,0
+1823,Delivery was prompt.,0,0,0,0,0
+1824,You're worthless! Complete failure!,1,0,0,1,0
+1825,Product works as described.,0,0,0,0,0
+1826,The package arrived on time.,0,0,0,0,0
+1827,Damn this thing!,1,1,0,0,0
+1828,Outstanding! Will buy again!,0,0,0,0,0
+1829,What the hell!,1,1,0,0,0
+1830,Hell no! Fuck that!,1,1,0,0,0
+1831,Typical behavior from your group!,1,0,0,0,1
+1832,Product works as described.,0,0,0,0,0
+1833,Your kind ruins everything!,1,0,0,0,1
+1834,Fucking hell what a mess!,1,1,0,0,0
+1835,This damn thing is broken!,1,1,0,0,0
+1836,Best thing ever! So happy!,0,0,0,0,0
+1837,Can't believe how good this is!,0,0,0,0,0
+1838,Piss poor quality!,1,1,0,0,0
+1839,What a shitshow!,1,1,0,0,0
+1840,You're pathetic and useless!,1,0,0,1,0
+1841,Holy shit this is bad!,1,1,0,0,0
+1842,Fucking awful experience!,1,1,0,0,0
+1843,Damn shame!,1,1,0,0,0
+1844,Awesome! My whole family loves it!,0,0,0,0,0
+1845,This shit is unbelievable!,1,1,0,0,0
+1846,Fucking worst ever!,1,1,0,0,0
+1847,"Satisfied, though shipping took long.",0,0,0,0,0
+1848,"Works well, minor issues with setup.",0,0,0,0,0
+1849,Outstanding! Will buy again!,0,0,0,0,0
+1850,I'll ruin your life!,1,0,1,0,0
+1851,Shitty service!,1,1,0,0,0
+1852,"Reliable product, customer service helpful.",0,0,0,0,0
+1853,Hell this is terrible!,1,1,0,0,0
+1854,Damn it failed!,1,1,0,0,0
+1855,What a fucking waste!,1,1,0,0,0
+1856,This fucking sucks!,1,1,0,0,0
+1857,Fucking hell what a mess!,1,1,0,0,0
+1858,Awesome! My whole family loves it!,0,0,0,0,0
+1859,Fucking disaster!,1,1,0,0,0
+1860,What the fuck is wrong with you!,1,1,0,0,0
+1861,Grateful for the help!,0,0,0,0,0
+1862,Great service! Very pleased!,0,0,0,0,0
+1863,Your people are all the same!,1,0,0,0,1
+1864,Fuck off! I don't care!,1,1,0,0,0
+1865,What a load of crap!,1,1,0,0,0
+1866,Your people are all the same!,1,0,0,0,1
+1867,Your culture is backwards!,1,0,0,0,1
+1868,Typical behavior from your group!,1,0,0,0,1
+1869,I'm open to learning more about your position.,0,0,0,0,0
+1870,Standard quality for the price.,0,0,0,0,0
+1871,Damn right!,1,1,0,0,0
+1872,What a load of crap!,1,1,0,0,0
+1873,What a fucking waste!,1,1,0,0,0
+1874,Functional and practical.,0,0,0,0,0
+1875,Product works as described.,0,0,0,0,0
+1876,Screw this garbage!,1,1,0,0,0
+1877,Bloody awful!,1,1,0,0,0
+1878,I'll make sure you regret this!,1,0,1,0,0
+1879,What a shitshow!,1,1,0,0,0
+1880,I'll make sure you regret this!,1,0,1,0,0
+1881,This is complete BS!,1,1,0,0,0
+1882,The package arrived on time.,0,0,0,0,0
+1883,Superb! Couldn't be happier!,0,0,0,0,0
+1884,Screwed up big time!,1,1,0,0,0
+1885,I'll ruin your life!,1,0,1,0,0
+1886,Love love love this!,0,0,0,0,0
+1887,Hell no! Fuck that!,1,1,0,0,0
+1888,I love this so much! Highly recommend!,0,0,0,0,0
+1889,Damn it all to hell!,1,1,0,0,0
+1890,I love this so much! Highly recommend!,0,0,0,0,0
+1891,This fucking sucks!,1,1,0,0,0
+1892,You're so stupid it hurts!,1,0,0,1,0
+1893,Product works as described.,0,0,0,0,0
+1894,Shit product!,1,1,0,0,0
+1895,Love love love this!,0,0,0,0,0
+1896,Holy shit this is bad!,1,1,0,0,0
+1897,Fucking hell what a mess!,1,1,0,0,0
+1898,Your people are all the same!,1,0,0,0,1
+1899,Let's approach this respectfully.,0,0,0,0,0
+1900,Fucking awful experience!,1,1,0,0,0
+1901,Don't mess with me!,1,0,1,0,0
+1902,God damn piece of shit!,1,1,0,0,0
+1903,Inferior and unwanted!,1,0,0,0,1
+1904,I'm coming for you!,1,0,1,0,0
+1905,Thank you for sharing your thoughts.,0,0,0,0,0
+1906,Disgusting person! Stay away!,1,0,0,1,0
+1907,This is shit quality!,1,1,0,0,0
+1908,This is incredible! Five stars!,0,0,0,0,0
+1909,What the hell is this shit!,1,1,0,0,0
+1910,Piss poor quality!,1,1,0,0,0
+1911,Piece of junk! Trash!,1,1,0,0,0
+1912,Holy fuck this sucks!,1,1,0,0,0
+1913,Superb! Couldn't be happier!,0,0,0,0,0
+1914,"Product is fine, packaging could be better.",0,0,0,0,0
+1915,This is shit quality!,1,1,0,0,0
+1916,Meets my basic needs.,0,0,0,0,0
+1917,Thank you for sharing your thoughts.,0,0,0,0,0
+1918,Fuck this stupid thing!,1,1,0,0,0
+1919,Piss poor quality!,1,1,0,0,0
+1920,Superb! Couldn't be happier!,0,0,0,0,0
+1921,Shitty service!,1,1,0,0,0
+1922,Absolutely fantastic! Exceeded all expectations!,0,0,0,0,0
+1923,I'll ruin your life!,1,0,1,0,0
+1924,What a load of crap!,1,1,0,0,0
+1925,What a load of crap!,1,1,0,0,0
+1926,Don't mess with me!,1,0,1,0,0
+1927,This is complete fucking bullshit!,1,1,0,0,0
+1928,Brilliant! Solved all my problems!,0,0,0,0,0
+1929,Fuck off! I don't care!,1,1,0,0,0
+1930,Your people are all the same!,1,0,0,0,1
+1931,This is shit quality!,1,1,0,0,0
+1932,Fucking worst ever!,1,1,0,0,0
+1933,Meets my basic needs.,0,0,0,0,0
+1934,"Happy overall, small suggestions.",0,0,0,0,0
+1935,You better watch out!,1,0,1,0,0
+1936,I'm open to learning more about your position.,0,0,0,0,0
+1937,Awesome! My whole family loves it!,0,0,0,0,0
+1938,Shit! This broke already!,1,1,0,0,0
+1939,I love this so much! Highly recommend!,0,0,0,0,0
+1940,"Works well, minor issues with setup.",0,0,0,0,0
+1941,Fucking awful experience!,1,1,0,0,0
+1942,This is utter crap!,1,1,0,0,0
+1943,This fucking sucks!,1,1,0,0,0
+1944,Amazing experience! Thank you!,0,0,0,0,0
+1945,Shit! This broke already!,1,1,0,0,0
+1946,I respectfully disagree with your opinion.,0,0,0,0,0
+1947,What a shitshow!,1,1,0,0,0
+1948,Damn it all to hell!,1,1,0,0,0
+1949,You're going to pay for this!,1,0,1,0,0
+1950,What the hell!,1,1,0,0,0
+1951,Damn right!,1,1,0,0,0
+1952,What the hell is this shit!,1,1,0,0,0
+1953,Shit product!,1,1,0,0,0
+1954,Holy shit this is bad!,1,1,0,0,0
+1955,Amazing experience! Thank you!,0,0,0,0,0
+1956,This is utter crap!,1,1,0,0,0
+1957,Your culture is backwards!,1,0,0,0,1
+1958,Damn this thing!,1,1,0,0,0
+1959,Fucking awful experience!,1,1,0,0,0
+1960,Fuck this company!,1,1,0,0,0
+1961,You don't deserve rights!,1,0,0,0,1
+1962,"Product is fine, packaging could be better.",0,0,0,0,0
+1963,"Reliable product, customer service helpful.",0,0,0,0,0
+1964,Fantastic! Worth every penny!,0,0,0,0,0
+1965,"Happy overall, small suggestions.",0,0,0,0,0
+1966,You've made a big mistake!,1,0,1,0,0
+1967,Damn shame!,1,1,0,0,0
+1968,You don't deserve rights!,1,0,0,0,1
+1969,Piece of junk! Trash!,1,1,0,0,0
+1970,Could you please explain this more clearly?,0,0,0,0,0
+1971,"Product is fine, packaging could be better.",0,0,0,0,0
+1972,This damn thing is broken!,1,1,0,0,0
+1973,What the hell is this shit!,1,1,0,0,0
+1974,"Happy overall, small suggestions.",0,0,0,0,0
+1975,I respectfully disagree with your opinion.,0,0,0,0,0
+1976,I'll ruin your life!,1,0,1,0,0
+1977,You don't deserve rights!,1,0,0,0,1
+1978,Piss poor quality!,1,1,0,0,0
+1979,Superb! Couldn't be happier!,0,0,0,0,0
+1980,Fucking awful experience!,1,1,0,0,0
+1981,This is utter crap!,1,1,0,0,0
+1982,"Decent quality, not perfect.",0,0,0,0,0
+1983,Fantastic! Worth every penny!,0,0,0,0,0
+1984,I'll make sure you regret this!,1,0,1,0,0
+1985,Great service! Very pleased!,0,0,0,0,0
+1986,This is shit quality!,1,1,0,0,0
+1987,"Decent quality, not perfect.",0,0,0,0,0
+1988,Ignorant fool! Learn something!,1,0,0,1,0
+1989,I love this so much! Highly recommend!,0,0,0,0,0
+1990,Grateful for the help!,0,0,0,0,0
+1991,Fuck this stupid thing!,1,1,0,0,0
+1992,Watch your back!,1,0,1,0,0
+1993,"Good value, instructions unclear.",0,0,0,0,0
+1994,Shitty service!,1,1,0,0,0
+1995,Shut up! Nobody cares what you think!,1,0,0,1,0
+1996,I respectfully disagree with your opinion.,0,0,0,0,0
+1997,What a shitshow!,1,1,0,0,0
+1998,"Good product, but could be improved.",0,0,0,0,0
+1999,Holy shit this is bad!,1,1,0,0,0
+2000,Fuck this company!,1,1,0,0,0
+2001,Stay with your own kind!,1,0,0,0,1
+2002,Awesome! My whole family loves it!,0,0,0,0,0
+2003,Fuck this stupid thing!,1,1,0,0,0
+2004,This product is amazing! Best purchase ever!,0,0,0,0,0
+2005,Excellent quality! Very impressed!,0,0,0,0,0
+2006,Holy fuck this sucks!,1,1,0,0,0
+2007,What a load of crap!,1,1,0,0,0
+2008,What the fuck is wrong with you!,1,1,0,0,0
+2009,Shit! This broke already!,1,1,0,0,0
+2010,What a fucking waste!,1,1,0,0,0
+2011,This fucking sucks!,1,1,0,0,0
+2012,You're an idiot and you don't know anything!,1,0,0,1,0
+2013,What the fuck is wrong with you!,1,1,0,0,0
+2014,"Works well, minor issues with setup.",0,0,0,0,0
+2015,Outstanding! Will buy again!,0,0,0,0,0
+2016,I think there might be a misunderstanding here.,0,0,0,0,0
+2017,Wonderful product! Highly satisfied!,0,0,0,0,0
+2018,Shut up! Nobody cares what you think!,1,0,0,1,0
+2019,That's an interesting perspective. Here's mine.,0,0,0,0,0
+2020,You're pathetic and useless!,1,0,0,1,0
+2021,That's an interesting perspective. Here's mine.,0,0,0,0,0
+2022,Shit product!,1,1,0,0,0
+2023,Outstanding! Will buy again!,0,0,0,0,0
+2024,Shitty service!,1,1,0,0,0
+2025,Great service! Very pleased!,0,0,0,0,0
+2026,Fucking worst ever!,1,1,0,0,0
+2027,As expected.,0,0,0,0,0
+2028,"I appreciate your viewpoint, but I see it differently.",0,0,0,0,0
+2029,This shit is unbelievable!,1,1,0,0,0
+2030,Damn shame!,1,1,0,0,0
+2031,Piece of shit broke!,1,1,0,0,0
+2032,"Good product, but could be improved.",0,0,0,0,0
+2033,Damn shame!,1,1,0,0,0
+2034,Disgusting person! Stay away!,1,0,0,1,0
+2035,Superb! Couldn't be happier!,0,0,0,0,0
+2036,Delivery was prompt.,0,0,0,0,0
+2037,Inferior and unwanted!,1,0,0,0,1
+2038,As expected.,0,0,0,0,0
+2039,Damn shame!,1,1,0,0,0
+2040,This fucking sucks!,1,1,0,0,0
+2041,Standard quality for the price.,0,0,0,0,0
+2042,I'm open to learning more about your position.,0,0,0,0,0
+2043,Functional and practical.,0,0,0,0,0
+2044,Let's approach this respectfully.,0,0,0,0,0
+2045,Shit! This broke already!,1,1,0,0,0
+2046,Let's approach this respectfully.,0,0,0,0,0
+2047,Inferior and unwanted!,1,0,0,0,1
+2048,"Works well, minor issues with setup.",0,0,0,0,0
+2049,This product is amazing! Best purchase ever!,0,0,0,0,0
+2050,I love this so much! Highly recommend!,0,0,0,0,0
+2051,Screw this garbage!,1,1,0,0,0
+2052,Perfect! Exactly what I needed!,0,0,0,0,0
+2053,You're so stupid it hurts!,1,0,0,1,0
+2054,Don't mess with me!,1,0,1,0,0
+2055,Holy shit this is bad!,1,1,0,0,0
+2056,"Satisfied, though shipping took long.",0,0,0,0,0
+2057,Bloody awful!,1,1,0,0,0
+2058,Let's discuss this in a civil manner.,0,0,0,0,0
+2059,This damn thing is broken!,1,1,0,0,0
+2060,This is utter crap!,1,1,0,0,0
+2061,Love love love this!,0,0,0,0,0
+2062,What the hell is this shit!,1,1,0,0,0
+2063,Absolutely fantastic! Exceeded all expectations!,0,0,0,0,0
+2064,Fucking disaster!,1,1,0,0,0
+2065,You're so stupid it hurts!,1,0,0,1,0
+2066,This product is amazing! Best purchase ever!,0,0,0,0,0
+2067,Fucking worst ever!,1,1,0,0,0
+2068,Wonderful product! Highly satisfied!,0,0,0,0,0
+2069,Best thing ever! So happy!,0,0,0,0,0
+2070,Ignorant fool! Learn something!,1,0,0,1,0
+2071,Perfect! Exactly what I needed!,0,0,0,0,0
+2072,Shit! This broke already!,1,1,0,0,0
+2073,Absolutely fantastic! Exceeded all expectations!,0,0,0,0,0
+2074,I'll ruin your life!,1,0,1,0,0
+2075,Standard quality for the price.,0,0,0,0,0
+2076,What a fucking waste!,1,1,0,0,0
+2077,Fucking hell what a mess!,1,1,0,0,0
+2078,What the hell!,1,1,0,0,0
+2079,Absolutely fantastic! Exceeded all expectations!,0,0,0,0,0
+2080,Standard quality for the price.,0,0,0,0,0
+2081,The package arrived on time.,0,0,0,0,0
+2082,Terrific! Exceeds expectations!,0,0,0,0,0
+2083,Could you please explain this more clearly?,0,0,0,0,0
+2084,"Quality is good, price is fair.",0,0,0,0,0
+2085,This is fucking ridiculous!,1,1,0,0,0
+2086,This fucking sucks!,1,1,0,0,0
+2087,Let's approach this respectfully.,0,0,0,0,0
+2088,Excellent quality! Very impressed!,0,0,0,0,0
+2089,What the hell!,1,1,0,0,0
+2090,Excellent quality! Very impressed!,0,0,0,0,0
+2091,You've made a big mistake!,1,0,1,0,0
+2092,Much appreciated!,0,0,0,0,0
+2093,Watch your back!,1,0,1,0,0
+2094,Screw this garbage!,1,1,0,0,0
+2095,Meets my basic needs.,0,0,0,0,0
+2096,Wonderful product! Highly satisfied!,0,0,0,0,0
+2097,Hell no! Fuck that!,1,1,0,0,0
+2098,Piece of junk! Trash!,1,1,0,0,0
+2099,Fucking hell what a mess!,1,1,0,0,0
+2100,What the hell!,1,1,0,0,0
+2101,Brilliant! Solved all my problems!,0,0,0,0,0
+2102,Can we find common ground on this issue?,0,0,0,0,0
+2103,Fucking disaster!,1,1,0,0,0
+2104,This is complete BS!,1,1,0,0,0
+2105,I'm open to learning more about your position.,0,0,0,0,0
+2106,Damn shame!,1,1,0,0,0
+2107,I think there might be a misunderstanding here.,0,0,0,0,0
+2108,Bloody awful!,1,1,0,0,0
+2109,Piss poor quality!,1,1,0,0,0
+2110,Don't mess with me!,1,0,1,0,0
+2111,What the hell is this shit!,1,1,0,0,0
+2112,Fuck this stupid thing!,1,1,0,0,0
+2113,Functional and practical.,0,0,0,0,0
+2114,This is fucking ridiculous!,1,1,0,0,0
+2115,Shitty service!,1,1,0,0,0
+2116,I love this so much! Highly recommend!,0,0,0,0,0
+2117,Don't mess with me!,1,0,1,0,0
+2118,Best thing ever! So happy!,0,0,0,0,0
+2119,Can we find common ground on this issue?,0,0,0,0,0
+2120,Wonderful product! Highly satisfied!,0,0,0,0,0
+2121,I love this so much! Highly recommend!,0,0,0,0,0
+2122,Hell no! Fuck that!,1,1,0,0,0
+2123,I respectfully disagree with your opinion.,0,0,0,0,0
+2124,"Works as intended, design could improve.",0,0,0,0,0
+2125,You're full of shit!,1,1,0,0,0
+2126,Wow! Just wow! Amazing!,0,0,0,0,0
+2127,You're pathetic and useless!,1,0,0,1,0
+2128,Terrific! Exceeds expectations!,0,0,0,0,0
+2129,This is complete fucking bullshit!,1,1,0,0,0
+2130,Acceptable quality.,0,0,0,0,0
+2131,Piece of junk! Trash!,1,1,0,0,0
+2132,Stay with your own kind!,1,0,0,0,1
+2133,Screw this garbage!,1,1,0,0,0
+2134,Great service! Very pleased!,0,0,0,0,0
+2135,Grateful for the help!,0,0,0,0,0
+2136,Fucking worst ever!,1,1,0,0,0
+2137,What the hell!,1,1,0,0,0
+2138,Meets my basic needs.,0,0,0,0,0
+2139,Fantastic! Worth every penny!,0,0,0,0,0
+2140,Can we find common ground on this issue?,0,0,0,0,0
+2141,This damn thing is broken!,1,1,0,0,0
+2142,"Works well, minor issues with setup.",0,0,0,0,0
+2143,Hell this is terrible!,1,1,0,0,0
+2144,Wonderful product! Highly satisfied!,0,0,0,0,0
+2145,Shitty service!,1,1,0,0,0
+2146,Piece of junk! Trash!,1,1,0,0,0
+2147,Shut up! Nobody cares what you think!,1,0,0,1,0
+2148,Your people are all the same!,1,0,0,0,1
+2149,You're worthless! Complete failure!,1,0,0,1,0
+2150,Superb! Couldn't be happier!,0,0,0,0,0
+2151,Perfect! Exactly what I needed!,0,0,0,0,0
+2152,Awesome! My whole family loves it!,0,0,0,0,0
+2153,You're a joke! Everyone laughs at you!,1,0,0,1,0
+2154,Go back to where you came from!,1,0,0,0,1
+2155,This product is amazing! Best purchase ever!,0,0,0,0,0
+2156,What the hell!,1,1,0,0,0
+2157,Shit product!,1,1,0,0,0
+2158,You're so stupid it hurts!,1,0,0,1,0
+2159,That's an interesting perspective. Here's mine.,0,0,0,0,0
+2160,People like you don't belong here!,1,0,0,0,1
+2161,Superb! Couldn't be happier!,0,0,0,0,0
+2162,This is fucking ridiculous!,1,1,0,0,0
+2163,This is complete BS!,1,1,0,0,0
+2164,As expected.,0,0,0,0,0
+2165,I love this so much! Highly recommend!,0,0,0,0,0
+2166,"Works well, minor issues with setup.",0,0,0,0,0
+2167,Best thing ever! So happy!,0,0,0,0,0
+2168,I know where you live!,1,0,1,0,0
+2169,What the hell is this shit!,1,1,0,0,0
+2170,Perfect! Exactly what I needed!,0,0,0,0,0
+2171,Piece of shit broke!,1,1,0,0,0
+2172,OMG this is so good!!!,0,0,0,0,0
+2173,You're full of shit!,1,1,0,0,0
+2174,Ignorant fool! Learn something!,1,0,0,1,0
+2175,Absolutely fantastic! Exceeded all expectations!,0,0,0,0,0
+2176,Absolutely fantastic! Exceeded all expectations!,0,0,0,0,0
+2177,Absolutely fantastic! Exceeded all expectations!,0,0,0,0,0
+2178,Shit! This broke already!,1,1,0,0,0
+2179,Wonderful product! Highly satisfied!,0,0,0,0,0
+2180,Grateful for the help!,0,0,0,0,0
+2181,This is incredible! Five stars!,0,0,0,0,0
+2182,I'm coming for you!,1,0,1,0,0
+2183,This fucking sucks!,1,1,0,0,0
+2184,Damn it failed!,1,1,0,0,0
+2185,What the hell is this shit!,1,1,0,0,0
+2186,Damn shame!,1,1,0,0,0
+2187,No complaints so far.,0,0,0,0,0
+2188,Functional and practical.,0,0,0,0,0
+2189,Hell this is terrible!,1,1,0,0,0
+2190,This damn thing is broken!,1,1,0,0,0
+2191,This is incredible! Five stars!,0,0,0,0,0
+2192,Fucking awful experience!,1,1,0,0,0
+2193,Screwed up big time!,1,1,0,0,0
+2194,This fucking sucks!,1,1,0,0,0
+2195,Fucking awful experience!,1,1,0,0,0
+2196,"Works as intended, design could improve.",0,0,0,0,0
+2197,Fucking awful experience!,1,1,0,0,0
+2198,What a shitshow!,1,1,0,0,0
+2199,Standard quality for the price.,0,0,0,0,0
+2200,Appreciate your assistance!,0,0,0,0,0
+2201,Shit! This broke already!,1,1,0,0,0
+2202,Wonderful product! Highly satisfied!,0,0,0,0,0
+2203,"Product is fine, packaging could be better.",0,0,0,0,0
+2204,This is shit quality!,1,1,0,0,0
+2205,Typical behavior from your group!,1,0,0,0,1
+2206,Screw this garbage!,1,1,0,0,0
+2207,"I appreciate your viewpoint, but I see it differently.",0,0,0,0,0
+2208,Wow! Just wow! Amazing!,0,0,0,0,0
+2209,Damn it failed!,1,1,0,0,0
+2210,You don't deserve rights!,1,0,0,0,1
+2211,What a fucking waste!,1,1,0,0,0
+2212,Shit product!,1,1,0,0,0
+2213,Wow! Just wow! Amazing!,0,0,0,0,0
+2214,This is complete fucking bullshit!,1,1,0,0,0
+2215,Much appreciated!,0,0,0,0,0
+2216,This damn thing is broken!,1,1,0,0,0
+2217,Typical behavior from your group!,1,0,0,0,1
+2218,I love this so much! Highly recommend!,0,0,0,0,0
+2219,Fuck this stupid thing!,1,1,0,0,0
+2220,What the hell is this shit!,1,1,0,0,0
+2221,This product is amazing! Best purchase ever!,0,0,0,0,0
+2222,Absolutely fantastic! Exceeded all expectations!,0,0,0,0,0
+2223,Product works as described.,0,0,0,0,0
+2224,Screwed up big time!,1,1,0,0,0
+2225,Perfect! Exactly what I needed!,0,0,0,0,0
+2226,This shit is unbelievable!,1,1,0,0,0
+2227,Thank you for sharing your thoughts.,0,0,0,0,0
+2228,Standard quality for the price.,0,0,0,0,0
+2229,Product works as described.,0,0,0,0,0
+2230,That's an interesting perspective. Here's mine.,0,0,0,0,0
+2231,Fuck this company!,1,1,0,0,0
+2232,This is incredible! Five stars!,0,0,0,0,0
+2233,"Reliable product, customer service helpful.",0,0,0,0,0
+2234,What the hell!,1,1,0,0,0
+2235,Fucking hell what a mess!,1,1,0,0,0
+2236,Fuck this stupid thing!,1,1,0,0,0
+2237,Hell of a bad product!,1,1,0,0,0
+2238,Damn this thing!,1,1,0,0,0
+2239,Holy fuck this sucks!,1,1,0,0,0
+2240,You're an idiot and you don't know anything!,1,0,0,1,0
+2241,You're full of shit!,1,1,0,0,0
+2242,Appreciate the fast delivery!,0,0,0,0,0
+2243,Perfect! Exactly what I needed!,0,0,0,0,0
+2244,What the hell is this shit!,1,1,0,0,0
+2245,Absolutely fantastic! Exceeded all expectations!,0,0,0,0,0
+2246,What the fuck is wrong with you!,1,1,0,0,0
+2247,Damn shame!,1,1,0,0,0
+2248,Shit! This broke already!,1,1,0,0,0
+2249,Fucking disaster!,1,1,0,0,0
+2250,You're a joke! Everyone laughs at you!,1,0,0,1,0
+2251,Delivery was prompt.,0,0,0,0,0
+2252,Standard quality for the price.,0,0,0,0,0
+2253,Hell of a bad product!,1,1,0,0,0
+2254,"I appreciate your viewpoint, but I see it differently.",0,0,0,0,0
+2255,Outstanding! Will buy again!,0,0,0,0,0
+2256,"Good product, but could be improved.",0,0,0,0,0
+2257,Can't believe how good this is!,0,0,0,0,0
+2258,Could you please explain this more clearly?,0,0,0,0,0
+2259,Very thankful for this!,0,0,0,0,0
+2260,"Satisfied, though shipping took long.",0,0,0,0,0
+2261,Watch your back!,1,0,1,0,0
+2262,Much appreciated!,0,0,0,0,0
+2263,Grateful for the quick response!,0,0,0,0,0
+2264,Fuck off! I don't care!,1,1,0,0,0
+2265,Bloody awful!,1,1,0,0,0
+2266,Love love love this!,0,0,0,0,0
+2267,Awesome! My whole family loves it!,0,0,0,0,0
+2268,Terrific! Exceeds expectations!,0,0,0,0,0
+2269,Inferior and unwanted!,1,0,0,0,1
+2270,Fucking worst ever!,1,1,0,0,0
+2271,Brilliant! Solved all my problems!,0,0,0,0,0
+2272,Hell no! Fuck that!,1,1,0,0,0
+2273,I'll ruin your life!,1,0,1,0,0
+2274,Very thankful for this!,0,0,0,0,0
+2275,Standard quality for the price.,0,0,0,0,0
+2276,I'll ruin your life!,1,0,1,0,0
+2277,Perfect! Exactly what I needed!,0,0,0,0,0
+2278,Excellent quality! Very impressed!,0,0,0,0,0
+2279,Wow! Just wow! Amazing!,0,0,0,0,0
+2280,The package arrived on time.,0,0,0,0,0
+2281,I think there might be a misunderstanding here.,0,0,0,0,0
+2282,Damn shame!,1,1,0,0,0
+2283,Damn shame!,1,1,0,0,0
+2284,This is complete fucking bullshit!,1,1,0,0,0
+2285,I'm coming for you!,1,0,1,0,0
+2286,That's an interesting perspective. Here's mine.,0,0,0,0,0
+2287,I respectfully disagree with your opinion.,0,0,0,0,0
+2288,"Decent quality, not perfect.",0,0,0,0,0
+2289,Thank you for sharing your thoughts.,0,0,0,0,0
+2290,This fucking sucks!,1,1,0,0,0
+2291,This is complete BS!,1,1,0,0,0
+2292,Holy fuck this sucks!,1,1,0,0,0
+2293,Fucking disaster!,1,1,0,0,0
+2294,Delivery was prompt.,0,0,0,0,0
+2295,"Quality is good, price is fair.",0,0,0,0,0
+2296,OMG this is so good!!!,0,0,0,0,0
+2297,I think there might be a misunderstanding here.,0,0,0,0,0
+2298,This sucks so damn bad!,1,1,0,0,0
+2299,This is shit quality!,1,1,0,0,0
+2300,Delivery was prompt.,0,0,0,0,0
+2301,Fucking disaster!,1,1,0,0,0
+2302,You've made a big mistake!,1,0,1,0,0
+2303,"Satisfied, though shipping took long.",0,0,0,0,0
+2304,Fantastic! Worth every penny!,0,0,0,0,0
+2305,This is shit quality!,1,1,0,0,0
+2306,Damn it failed!,1,1,0,0,0
+2307,Shitty product! Total crap!,1,1,0,0,0
+2308,Let's approach this respectfully.,0,0,0,0,0
+2309,Wonderful product! Highly satisfied!,0,0,0,0,0
+2310,This damn thing is broken!,1,1,0,0,0
+2311,"Reliable product, customer service helpful.",0,0,0,0,0
+2312,God damn piece of shit!,1,1,0,0,0
+2313,Fantastic! Worth every penny!,0,0,0,0,0
+2314,Hell this is terrible!,1,1,0,0,0
+2315,I respectfully disagree with your opinion.,0,0,0,0,0
+2316,Amazing experience! Thank you!,0,0,0,0,0
+2317,What a loser! Get a life!,1,0,0,1,0
+2318,This is fucking ridiculous!,1,1,0,0,0
+2319,This damn thing is broken!,1,1,0,0,0
+2320,Terrific! Exceeds expectations!,0,0,0,0,0
+2321,This is utter crap!,1,1,0,0,0
+2322,Amazing experience! Thank you!,0,0,0,0,0
+2323,Product works as described.,0,0,0,0,0
+2324,Don't mess with me!,1,0,1,0,0
+2325,Fucking disaster!,1,1,0,0,0
+2326,Amazing experience! Thank you!,0,0,0,0,0
+2327,Superb! Couldn't be happier!,0,0,0,0,0
+2328,People like you don't belong here!,1,0,0,0,1
+2329,Perfect! Exactly what I needed!,0,0,0,0,0
+2330,Standard quality for the price.,0,0,0,0,0
+2331,Can we find common ground on this issue?,0,0,0,0,0
+2332,Delivery was prompt.,0,0,0,0,0
+2333,OMG this is so good!!!,0,0,0,0,0
+2334,This is complete BS!,1,1,0,0,0
+2335,I'm coming for you!,1,0,1,0,0
+2336,Let's discuss this in a civil manner.,0,0,0,0,0
+2337,This is complete fucking bullshit!,1,1,0,0,0
+2338,That's an interesting perspective. Here's mine.,0,0,0,0,0
+2339,This is utter crap!,1,1,0,0,0
+2340,You don't deserve rights!,1,0,0,0,1
+2341,I know where you live!,1,0,1,0,0
+2342,Damn right!,1,1,0,0,0
+2343,Outsiders not welcome!,1,0,0,0,1
+2344,I love this so much! Highly recommend!,0,0,0,0,0
+2345,Holy fuck this sucks!,1,1,0,0,0
+2346,This product is amazing! Best purchase ever!,0,0,0,0,0
+2347,Hell this is terrible!,1,1,0,0,0
+2348,Hell this is terrible!,1,1,0,0,0
+2349,Can't believe how good this is!,0,0,0,0,0
+2350,"I appreciate your viewpoint, but I see it differently.",0,0,0,0,0
+2351,Shitty service!,1,1,0,0,0
+2352,You're full of shit!,1,1,0,0,0
+2353,Hell no! Fuck that!,1,1,0,0,0
+2354,Hell no! Fuck that!,1,1,0,0,0
+2355,That's an interesting perspective. Here's mine.,0,0,0,0,0
+2356,Inferior and unwanted!,1,0,0,0,1
+2357,Brilliant! Solved all my problems!,0,0,0,0,0
+2358,Piece of junk! Trash!,1,1,0,0,0
+2359,"Good product, but could be improved.",0,0,0,0,0
+2360,Hell this is terrible!,1,1,0,0,0
+2361,Product works as described.,0,0,0,0,0
+2362,This is shit quality!,1,1,0,0,0
+2363,No complaints so far.,0,0,0,0,0
+2364,I love this so much! Highly recommend!,0,0,0,0,0
+2365,"Quality is good, price is fair.",0,0,0,0,0
+2366,You're so stupid it hurts!,1,0,0,1,0
+2367,"Good value, instructions unclear.",0,0,0,0,0
+2368,This is complete fucking bullshit!,1,1,0,0,0
+2369,What a load of crap!,1,1,0,0,0
+2370,I'm open to learning more about your position.,0,0,0,0,0
+2371,This damn thing is broken!,1,1,0,0,0
+2372,Inferior and unwanted!,1,0,0,0,1
+2373,Amazing experience! Thank you!,0,0,0,0,0
+2374,"Good product, but could be improved.",0,0,0,0,0
+2375,Wonderful product! Highly satisfied!,0,0,0,0,0
+2376,Fucking disaster!,1,1,0,0,0
+2377,Shit product!,1,1,0,0,0
+2378,Absolutely fantastic! Exceeded all expectations!,0,0,0,0,0
+2379,Bloody awful!,1,1,0,0,0
+2380,Fuck this company!,1,1,0,0,0
+2381,Wonderful product! Highly satisfied!,0,0,0,0,0
+2382,"Reliable product, customer service helpful.",0,0,0,0,0
+2383,Standard quality for the price.,0,0,0,0,0
+2384,This is fucking ridiculous!,1,1,0,0,0
+2385,Terrific! Exceeds expectations!,0,0,0,0,0
+2386,Fantastic! Worth every penny!,0,0,0,0,0
+2387,Item matches the description.,0,0,0,0,0
+2388,You're an idiot and you don't know anything!,1,0,0,1,0
+2389,Inferior and unwanted!,1,0,0,0,1
+2390,This crap doesn't work!,1,1,0,0,0
+2391,This is utter crap!,1,1,0,0,0
+2392,Appreciate your assistance!,0,0,0,0,0
+2393,Fuck this stupid thing!,1,1,0,0,0
+2394,This is complete fucking bullshit!,1,1,0,0,0
+2395,You better watch out!,1,0,1,0,0
+2396,Holy shit this is bad!,1,1,0,0,0
+2397,Disgusting person! Stay away!,1,0,0,1,0
+2398,What a loser! Get a life!,1,0,0,1,0
+2399,Standard quality for the price.,0,0,0,0,0
+2400,Outstanding! Will buy again!,0,0,0,0,0
+2401,Bloody awful!,1,1,0,0,0
+2402,Perfect! Exactly what I needed!,0,0,0,0,0
+2403,Can we find common ground on this issue?,0,0,0,0,0
+2404,Fuck this stupid thing!,1,1,0,0,0
+2405,Thanks for the recommendation!,0,0,0,0,0
+2406,You've made a big mistake!,1,0,1,0,0
+2407,"Happy overall, small suggestions.",0,0,0,0,0
+2408,You're worthless! Complete failure!,1,0,0,1,0
+2409,This is shit quality!,1,1,0,0,0
+2410,Superb! Couldn't be happier!,0,0,0,0,0
+2411,I know where you live!,1,0,1,0,0
+2412,Meets my basic needs.,0,0,0,0,0
+2413,Delivery was prompt.,0,0,0,0,0
+2414,Delivery was prompt.,0,0,0,0,0
+2415,Standard quality for the price.,0,0,0,0,0
+2416,Perfect! Exactly what I needed!,0,0,0,0,0
+2417,Absolutely fantastic! Exceeded all expectations!,0,0,0,0,0
+2418,What the hell!,1,1,0,0,0
+2419,You've made a big mistake!,1,0,1,0,0
+2420,Piece of shit broke!,1,1,0,0,0
+2421,People like you don't belong here!,1,0,0,0,1
+2422,I know where you live!,1,0,1,0,0
+2423,Wonderful product! Highly satisfied!,0,0,0,0,0
+2424,Wow! Just wow! Amazing!,0,0,0,0,0
+2425,Wonderful product! Highly satisfied!,0,0,0,0,0
+2426,This shit is unbelievable!,1,1,0,0,0
+2427,Can we find common ground on this issue?,0,0,0,0,0
+2428,Shitty product! Total crap!,1,1,0,0,0
+2429,"Good value, instructions unclear.",0,0,0,0,0
+2430,Screwed up big time!,1,1,0,0,0
+2431,Wow! Just wow! Amazing!,0,0,0,0,0
+2432,Could you please explain this more clearly?,0,0,0,0,0
+2433,I think there might be a misunderstanding here.,0,0,0,0,0
+2434,Absolutely fantastic! Exceeded all expectations!,0,0,0,0,0
+2435,Outstanding! Will buy again!,0,0,0,0,0
+2436,Piece of shit broke!,1,1,0,0,0
+2437,Damn it failed!,1,1,0,0,0
+2438,Bloody awful!,1,1,0,0,0
+2439,Fucking worst ever!,1,1,0,0,0
+2440,Shitty service!,1,1,0,0,0
+2441,You're full of shit!,1,1,0,0,0
+2442,You're worthless! Complete failure!,1,0,0,1,0
+2443,Delivery was prompt.,0,0,0,0,0
+2444,Disgusting person! Stay away!,1,0,0,1,0
+2445,Shitty product! Total crap!,1,1,0,0,0
+2446,This damn thing is broken!,1,1,0,0,0
+2447,What a load of crap!,1,1,0,0,0
+2448,Shit! This broke already!,1,1,0,0,0
+2449,God damn piece of shit!,1,1,0,0,0
+2450,Functional and practical.,0,0,0,0,0
+2451,This is utter crap!,1,1,0,0,0
+2452,You're going to pay for this!,1,0,1,0,0
+2453,The package arrived on time.,0,0,0,0,0
+2454,Thank you for sharing your thoughts.,0,0,0,0,0
+2455,Piss poor quality!,1,1,0,0,0
+2456,God damn piece of shit!,1,1,0,0,0
+2457,Excellent quality! Very impressed!,0,0,0,0,0
+2458,Product works as described.,0,0,0,0,0
+2459,God damn piece of shit!,1,1,0,0,0
+2460,Thank you so much!,0,0,0,0,0
+2461,Hell no! Fuck that!,1,1,0,0,0
+2462,This is complete fucking bullshit!,1,1,0,0,0
+2463,This is incredible! Five stars!,0,0,0,0,0
+2464,Hell this is terrible!,1,1,0,0,0
+2465,"Happy overall, small suggestions.",0,0,0,0,0
+2466,Damn it failed!,1,1,0,0,0
+2467,Terrific! Exceeds expectations!,0,0,0,0,0
+2468,This product is amazing! Best purchase ever!,0,0,0,0,0
+2469,Great service! Very pleased!,0,0,0,0,0
+2470,You're so stupid it hurts!,1,0,0,1,0
+2471,Acceptable quality.,0,0,0,0,0
+2472,Best thing ever! So happy!,0,0,0,0,0
+2473,Damn it failed!,1,1,0,0,0
+2474,Fucking disaster!,1,1,0,0,0
+2475,Inferior and unwanted!,1,0,0,0,1
+2476,Thank you for sharing your thoughts.,0,0,0,0,0
+2477,Outstanding! Will buy again!,0,0,0,0,0
+2478,You're so stupid it hurts!,1,0,0,1,0
+2479,What the hell!,1,1,0,0,0
+2480,The package arrived on time.,0,0,0,0,0
+2481,Superb! Couldn't be happier!,0,0,0,0,0
+2482,Fantastic! Worth every penny!,0,0,0,0,0
+2483,Absolutely fantastic! Exceeded all expectations!,0,0,0,0,0
+2484,Fucking disaster!,1,1,0,0,0
+2485,Bloody awful!,1,1,0,0,0
+2486,Bloody awful!,1,1,0,0,0
+2487,Functional and practical.,0,0,0,0,0
+2488,Can't believe how good this is!,0,0,0,0,0
+2489,Thank you for the excellent service!,0,0,0,0,0
+2490,Thank you for the excellent service!,0,0,0,0,0
+2491,This fucking sucks!,1,1,0,0,0
+2492,Item matches the description.,0,0,0,0,0
+2493,Standard quality for the price.,0,0,0,0,0
+2494,Damn right!,1,1,0,0,0
+2495,You've made a big mistake!,1,0,1,0,0
+2496,Can't believe how good this is!,0,0,0,0,0
+2497,Outsiders not welcome!,1,0,0,0,1
+2498,The package arrived on time.,0,0,0,0,0
+2499,Amazing experience! Thank you!,0,0,0,0,0
+2500,Fuck this stupid thing!,1,1,0,0,0
+2501,Let's discuss this in a civil manner.,0,0,0,0,0
+2502,"Product is fine, packaging could be better.",0,0,0,0,0
+2503,Can we find common ground on this issue?,0,0,0,0,0
+2504,This is shit quality!,1,1,0,0,0
+2505,You're full of shit!,1,1,0,0,0
+2506,Disgusting person! Stay away!,1,0,0,1,0
+2507,Fuck this stupid thing!,1,1,0,0,0
+2508,Wow! Just wow! Amazing!,0,0,0,0,0
+2509,Ignorant fool! Learn something!,1,0,0,1,0
+2510,Product works as described.,0,0,0,0,0
+2511,Shit product!,1,1,0,0,0
+2512,Item matches the description.,0,0,0,0,0
+2513,Outsiders not welcome!,1,0,0,0,1
+2514,Shit! This broke already!,1,1,0,0,0
+2515,Bloody awful!,1,1,0,0,0
+2516,Functional and practical.,0,0,0,0,0
+2517,Standard quality for the price.,0,0,0,0,0
+2518,No complaints so far.,0,0,0,0,0
+2519,This is fucking ridiculous!,1,1,0,0,0
+2520,This is incredible! Five stars!,0,0,0,0,0
+2521,Superb! Couldn't be happier!,0,0,0,0,0
+2522,"Good value, instructions unclear.",0,0,0,0,0
+2523,Fucking worst ever!,1,1,0,0,0
+2524,God damn piece of shit!,1,1,0,0,0
+2525,No complaints so far.,0,0,0,0,0
+2526,Absolutely fantastic! Exceeded all expectations!,0,0,0,0,0
+2527,What the hell!,1,1,0,0,0
+2528,Go back to where you came from!,1,0,0,0,1
+2529,I respectfully disagree with your opinion.,0,0,0,0,0
+2530,You're worthless! Complete failure!,1,0,0,1,0
+2531,You're a joke! Everyone laughs at you!,1,0,0,1,0
+2532,Standard quality for the price.,0,0,0,0,0
+2533,This fucking sucks!,1,1,0,0,0
+2534,Love love love this!,0,0,0,0,0
+2535,You'll be sorry!,1,0,1,0,0
+2536,Damn shame!,1,1,0,0,0
+2537,Damn it failed!,1,1,0,0,0
+2538,This sucks so damn bad!,1,1,0,0,0
+2539,You're a joke! Everyone laughs at you!,1,0,0,1,0
+2540,Shit product!,1,1,0,0,0
+2541,This fucking sucks!,1,1,0,0,0
+2542,Product works as described.,0,0,0,0,0
+2543,Thanks for the recommendation!,0,0,0,0,0
+2544,Can't believe how good this is!,0,0,0,0,0
+2545,Holy fuck this sucks!,1,1,0,0,0
+2546,Disgusting person! Stay away!,1,0,0,1,0
+2547,Wonderful product! Highly satisfied!,0,0,0,0,0
+2548,This is complete fucking bullshit!,1,1,0,0,0
+2549,Fuck this company!,1,1,0,0,0
+2550,Piece of shit broke!,1,1,0,0,0
+2551,Acceptable quality.,0,0,0,0,0
+2552,Awesome! My whole family loves it!,0,0,0,0,0
+2553,Let's approach this respectfully.,0,0,0,0,0
+2554,Love love love this!,0,0,0,0,0
+2555,This is complete fucking bullshit!,1,1,0,0,0
+2556,Watch your back!,1,0,1,0,0
+2557,Terrific! Exceeds expectations!,0,0,0,0,0
+2558,Can we find common ground on this issue?,0,0,0,0,0
+2559,Hell of a bad product!,1,1,0,0,0
+2560,Outstanding! Will buy again!,0,0,0,0,0
+2561,I think there might be a misunderstanding here.,0,0,0,0,0
+2562,I'll ruin your life!,1,0,1,0,0
+2563,Fuck this company!,1,1,0,0,0
+2564,Thanks for resolving my issue!,0,0,0,0,0
+2565,You've made a big mistake!,1,0,1,0,0
+2566,You're a joke! Everyone laughs at you!,1,0,0,1,0
+2567,OMG this is so good!!!,0,0,0,0,0
+2568,I love this so much! Highly recommend!,0,0,0,0,0
+2569,Piece of shit broke!,1,1,0,0,0
+2570,What a shitshow!,1,1,0,0,0
+2571,What a loser! Get a life!,1,0,0,1,0
+2572,You're going to pay for this!,1,0,1,0,0
+2573,Can't believe how good this is!,0,0,0,0,0
+2574,Shit product!,1,1,0,0,0
+2575,Let's approach this respectfully.,0,0,0,0,0
+2576,Outstanding! Will buy again!,0,0,0,0,0
+2577,What a load of crap!,1,1,0,0,0
+2578,Your people are all the same!,1,0,0,0,1
+2579,Hell of a bad product!,1,1,0,0,0
+2580,Wonderful product! Highly satisfied!,0,0,0,0,0
+2581,This product is amazing! Best purchase ever!,0,0,0,0,0
+2582,You're pathetic and useless!,1,0,0,1,0
+2583,Acceptable quality.,0,0,0,0,0
+2584,God damn piece of shit!,1,1,0,0,0
+2585,I'm coming for you!,1,0,1,0,0
+2586,Piece of junk! Trash!,1,1,0,0,0
+2587,This crap doesn't work!,1,1,0,0,0
+2588,Grateful for the help!,0,0,0,0,0
+2589,Product works as described.,0,0,0,0,0
+2590,Let's approach this respectfully.,0,0,0,0,0
+2591,Screw this garbage!,1,1,0,0,0
+2592,Shut up! Nobody cares what you think!,1,0,0,1,0
+2593,Fuck off! I don't care!,1,1,0,0,0
+2594,Holy shit this is bad!,1,1,0,0,0
+2595,Let's discuss this in a civil manner.,0,0,0,0,0
+2596,Shitty service!,1,1,0,0,0
+2597,Fucking awful experience!,1,1,0,0,0
+2598,Could you please explain this more clearly?,0,0,0,0,0
+2599,Fuck off! I don't care!,1,1,0,0,0
+2600,Damn it all to hell!,1,1,0,0,0
+2601,Damn it failed!,1,1,0,0,0
+2602,"Good value, instructions unclear.",0,0,0,0,0
+2603,This is incredible! Five stars!,0,0,0,0,0
+2604,What a fucking waste!,1,1,0,0,0
+2605,"Good value, instructions unclear.",0,0,0,0,0
+2606,This is complete fucking bullshit!,1,1,0,0,0
+2607,What a load of crap!,1,1,0,0,0
+2608,Hell this is terrible!,1,1,0,0,0
+2609,Amazing experience! Thank you!,0,0,0,0,0
+2610,Bloody awful!,1,1,0,0,0
+2611,What a fucking waste!,1,1,0,0,0
+2612,What a shitshow!,1,1,0,0,0
+2613,Thanks for resolving my issue!,0,0,0,0,0
+2614,Fantastic! Worth every penny!,0,0,0,0,0
+2615,Damn this thing!,1,1,0,0,0
+2616,Wonderful product! Highly satisfied!,0,0,0,0,0
+2617,No complaints so far.,0,0,0,0,0
+2618,Screwed up big time!,1,1,0,0,0
+2619,You've made a big mistake!,1,0,1,0,0
+2620,Stay with your own kind!,1,0,0,0,1
+2621,Damn this thing!,1,1,0,0,0
+2622,OMG this is so good!!!,0,0,0,0,0
+2623,Damn shame!,1,1,0,0,0
+2624,"Reliable product, customer service helpful.",0,0,0,0,0
+2625,Could you please explain this more clearly?,0,0,0,0,0
+2626,This is utter crap!,1,1,0,0,0
+2627,Shitty service!,1,1,0,0,0
+2628,Wow! Just wow! Amazing!,0,0,0,0,0
+2629,I respectfully disagree with your opinion.,0,0,0,0,0
+2630,You're pathetic and useless!,1,0,0,1,0
+2631,Standard quality for the price.,0,0,0,0,0
+2632,Best thing ever! So happy!,0,0,0,0,0
+2633,Damn it all to hell!,1,1,0,0,0
+2634,You're so stupid it hurts!,1,0,0,1,0
+2635,"Good product, but could be improved.",0,0,0,0,0
+2636,Piece of shit broke!,1,1,0,0,0
+2637,This damn thing is broken!,1,1,0,0,0
+2638,Fantastic! Worth every penny!,0,0,0,0,0
+2639,Excellent quality! Very impressed!,0,0,0,0,0
+2640,Meets my basic needs.,0,0,0,0,0
+2641,That's an interesting perspective. Here's mine.,0,0,0,0,0
+2642,Wonderful product! Highly satisfied!,0,0,0,0,0
+2643,Can't believe how good this is!,0,0,0,0,0
+2644,You're an idiot and you don't know anything!,1,0,0,1,0
+2645,Shit! This broke already!,1,1,0,0,0
+2646,Watch your back!,1,0,1,0,0
+2647,OMG this is so good!!!,0,0,0,0,0
+2648,Outsiders not welcome!,1,0,0,0,1
+2649,Excellent quality! Very impressed!,0,0,0,0,0
+2650,Can't believe how good this is!,0,0,0,0,0
+2651,Superb! Couldn't be happier!,0,0,0,0,0
+2652,Fucking disaster!,1,1,0,0,0
+2653,Let's discuss this in a civil manner.,0,0,0,0,0
+2654,This sucks so damn bad!,1,1,0,0,0
+2655,This shit is unbelievable!,1,1,0,0,0
+2656,You're pathetic and useless!,1,0,0,1,0
+2657,This is incredible! Five stars!,0,0,0,0,0
+2658,"Satisfied, though shipping took long.",0,0,0,0,0
+2659,What a shitshow!,1,1,0,0,0
+2660,I love this so much! Highly recommend!,0,0,0,0,0
+2661,This product is amazing! Best purchase ever!,0,0,0,0,0
+2662,Terrific! Exceeds expectations!,0,0,0,0,0
+2663,Outstanding! Will buy again!,0,0,0,0,0
+2664,This fucking sucks!,1,1,0,0,0
+2665,Standard quality for the price.,0,0,0,0,0
+2666,You're full of shit!,1,1,0,0,0
+2667,Grateful for the quick response!,0,0,0,0,0
+2668,Your people are all the same!,1,0,0,0,1
+2669,Holy shit this is bad!,1,1,0,0,0
+2670,Amazing experience! Thank you!,0,0,0,0,0
+2671,Damn right!,1,1,0,0,0
+2672,Excellent quality! Very impressed!,0,0,0,0,0
+2673,Could you please explain this more clearly?,0,0,0,0,0
+2674,You're an idiot and you don't know anything!,1,0,0,1,0
+2675,Hell of a bad product!,1,1,0,0,0
+2676,That's an interesting perspective. Here's mine.,0,0,0,0,0
+2677,Standard quality for the price.,0,0,0,0,0
+2678,This is complete fucking bullshit!,1,1,0,0,0
+2679,This product is amazing! Best purchase ever!,0,0,0,0,0
+2680,This is complete BS!,1,1,0,0,0
+2681,Let's approach this respectfully.,0,0,0,0,0
+2682,"Happy overall, small suggestions.",0,0,0,0,0
+2683,Great service! Very pleased!,0,0,0,0,0
+2684,Holy fuck this sucks!,1,1,0,0,0
+2685,Hell no! Fuck that!,1,1,0,0,0
+2686,Functional and practical.,0,0,0,0,0
+2687,Terrific! Exceeds expectations!,0,0,0,0,0
+2688,Go back to where you came from!,1,0,0,0,1
+2689,I'm open to learning more about your position.,0,0,0,0,0
+2690,Fucking hell what a mess!,1,1,0,0,0
+2691,This damn thing is broken!,1,1,0,0,0
+2692,This shit is unbelievable!,1,1,0,0,0
+2693,Fucking disaster!,1,1,0,0,0
+2694,Fucking worst ever!,1,1,0,0,0
+2695,Shitty service!,1,1,0,0,0
+2696,Hell of a bad product!,1,1,0,0,0
+2697,Fantastic! Worth every penny!,0,0,0,0,0
+2698,"Decent quality, not perfect.",0,0,0,0,0
+2699,I know where you live!,1,0,1,0,0
+2700,What a shitshow!,1,1,0,0,0
+2701,Fucking awful experience!,1,1,0,0,0
+2702,Piss poor quality!,1,1,0,0,0
+2703,Damn shame!,1,1,0,0,0
+2704,Delivery was prompt.,0,0,0,0,0
+2705,Product works as described.,0,0,0,0,0
+2706,Terrific! Exceeds expectations!,0,0,0,0,0
+2707,You're going to pay for this!,1,0,1,0,0
+2708,This is complete fucking bullshit!,1,1,0,0,0
+2709,Shit! This broke already!,1,1,0,0,0
+2710,Don't mess with me!,1,0,1,0,0
+2711,This crap doesn't work!,1,1,0,0,0
+2712,This is utter crap!,1,1,0,0,0
+2713,This product is amazing! Best purchase ever!,0,0,0,0,0
+2714,I'll make sure you regret this!,1,0,1,0,0
+2715,What the fuck is wrong with you!,1,1,0,0,0
+2716,Wonderful product! Highly satisfied!,0,0,0,0,0
+2717,Your kind ruins everything!,1,0,0,0,1
+2718,What the hell is this shit!,1,1,0,0,0
+2719,Awesome! My whole family loves it!,0,0,0,0,0
+2720,Go back to where you came from!,1,0,0,0,1
+2721,I'll make sure you regret this!,1,0,1,0,0
+2722,Shit product!,1,1,0,0,0
+2723,You're so stupid it hurts!,1,0,0,1,0
+2724,Functional and practical.,0,0,0,0,0
+2725,What the hell is this shit!,1,1,0,0,0
+2726,What a shitshow!,1,1,0,0,0
+2727,Stay with your own kind!,1,0,0,0,1
+2728,Functional and practical.,0,0,0,0,0
+2729,God damn piece of shit!,1,1,0,0,0
+2730,Damn it failed!,1,1,0,0,0
+2731,This crap doesn't work!,1,1,0,0,0
+2732,Could you please explain this more clearly?,0,0,0,0,0
+2733,Go back to where you came from!,1,0,0,0,1
+2734,"Reliable product, customer service helpful.",0,0,0,0,0
+2735,Delivery was prompt.,0,0,0,0,0
+2736,Bloody awful!,1,1,0,0,0
+2737,"Reliable product, customer service helpful.",0,0,0,0,0
+2738,Wow! Just wow! Amazing!,0,0,0,0,0
+2739,Absolutely fantastic! Exceeded all expectations!,0,0,0,0,0
+2740,Absolutely fantastic! Exceeded all expectations!,0,0,0,0,0
+2741,Appreciate the fast delivery!,0,0,0,0,0
+2742,I'm open to learning more about your position.,0,0,0,0,0
+2743,Piece of shit broke!,1,1,0,0,0
+2744,What the fuck is wrong with you!,1,1,0,0,0
+2745,This is fucking ridiculous!,1,1,0,0,0
+2746,"Happy overall, small suggestions.",0,0,0,0,0
+2747,Standard quality for the price.,0,0,0,0,0
+2748,Damn this thing!,1,1,0,0,0
+2749,Watch your back!,1,0,1,0,0
+2750,Standard quality for the price.,0,0,0,0,0
+2751,Can't believe how good this is!,0,0,0,0,0
+2752,Watch your back!,1,0,1,0,0
+2753,Your culture is backwards!,1,0,0,0,1
+2754,Meets my basic needs.,0,0,0,0,0
+2755,This is fucking ridiculous!,1,1,0,0,0
+2756,This is shit quality!,1,1,0,0,0
+2757,Screw this garbage!,1,1,0,0,0
+2758,Love love love this!,0,0,0,0,0
+2759,This is complete BS!,1,1,0,0,0
+2760,Item matches the description.,0,0,0,0,0
+2761,Brilliant! Solved all my problems!,0,0,0,0,0
+2762,This is complete fucking bullshit!,1,1,0,0,0
+2763,Your culture is backwards!,1,0,0,0,1
+2764,I respectfully disagree with your opinion.,0,0,0,0,0
+2765,Holy fuck this sucks!,1,1,0,0,0
+2766,Damn this thing!,1,1,0,0,0
+2767,Amazing experience! Thank you!,0,0,0,0,0
+2768,What a loser! Get a life!,1,0,0,1,0
+2769,Love love love this!,0,0,0,0,0
+2770,That's an interesting perspective. Here's mine.,0,0,0,0,0
+2771,Damn it all to hell!,1,1,0,0,0
+2772,Fucking disaster!,1,1,0,0,0
+2773,This is shit quality!,1,1,0,0,0
+2774,Screwed up big time!,1,1,0,0,0
+2775,Shut up! Nobody cares what you think!,1,0,0,1,0
+2776,God damn piece of shit!,1,1,0,0,0
+2777,Wow! Just wow! Amazing!,0,0,0,0,0
+2778,Damn it failed!,1,1,0,0,0
+2779,This sucks so damn bad!,1,1,0,0,0
+2780,Screw this garbage!,1,1,0,0,0
+2781,You'll be sorry!,1,0,1,0,0
+2782,Damn it failed!,1,1,0,0,0
+2783,This shit is unbelievable!,1,1,0,0,0
+2784,Hell no! Fuck that!,1,1,0,0,0
+2785,Standard quality for the price.,0,0,0,0,0
+2786,What the fuck is wrong with you!,1,1,0,0,0
+2787,Piece of junk! Trash!,1,1,0,0,0
+2788,Delivery was prompt.,0,0,0,0,0
+2789,"I appreciate your viewpoint, but I see it differently.",0,0,0,0,0
+2790,Typical behavior from your group!,1,0,0,0,1
+2791,Thank you so much!,0,0,0,0,0
+2792,This damn thing is broken!,1,1,0,0,0
+2793,Fantastic! Worth every penny!,0,0,0,0,0
+2794,Fantastic! Worth every penny!,0,0,0,0,0
+2795,People like you don't belong here!,1,0,0,0,1
+2796,Your kind ruins everything!,1,0,0,0,1
+2797,Grateful for the help!,0,0,0,0,0
+2798,Damn it all to hell!,1,1,0,0,0
+2799,"Reliable product, customer service helpful.",0,0,0,0,0
+2800,OMG this is so good!!!,0,0,0,0,0
+2801,Moron! Can't believe how dumb you are!,1,0,0,1,0
+2802,No complaints so far.,0,0,0,0,0
+2803,Acceptable quality.,0,0,0,0,0
+2804,"Good product, but could be improved.",0,0,0,0,0
+2805,"Satisfied, though shipping took long.",0,0,0,0,0
+2806,Holy fuck this sucks!,1,1,0,0,0
+2807,Shitty product! Total crap!,1,1,0,0,0
+2808,Hell no! Fuck that!,1,1,0,0,0
+2809,Piss poor quality!,1,1,0,0,0
+2810,Disgusting person! Stay away!,1,0,0,1,0
+2811,Fuck this company!,1,1,0,0,0
+2812,Functional and practical.,0,0,0,0,0
+2813,Hell this is terrible!,1,1,0,0,0
+2814,Wow! Just wow! Amazing!,0,0,0,0,0
+2815,That's an interesting perspective. Here's mine.,0,0,0,0,0
+2816,Shitty product! Total crap!,1,1,0,0,0
+2817,Fantastic! Worth every penny!,0,0,0,0,0
+2818,Can't believe how good this is!,0,0,0,0,0
+2819,Shitty service!,1,1,0,0,0
+2820,This sucks so damn bad!,1,1,0,0,0
+2821,Let's approach this respectfully.,0,0,0,0,0
+2822,Shitty product! Total crap!,1,1,0,0,0
+2823,I'm open to learning more about your position.,0,0,0,0,0
+2824,"I appreciate your viewpoint, but I see it differently.",0,0,0,0,0
+2825,Delivery was prompt.,0,0,0,0,0
+2826,Fuck off! I don't care!,1,1,0,0,0
+2827,Superb! Couldn't be happier!,0,0,0,0,0
+2828,Standard quality for the price.,0,0,0,0,0
+2829,Very thankful for this!,0,0,0,0,0
+2830,You'll be sorry!,1,0,1,0,0
+2831,Wonderful product! Highly satisfied!,0,0,0,0,0
+2832,Fucking hell what a mess!,1,1,0,0,0
+2833,Love love love this!,0,0,0,0,0
+2834,"I appreciate your viewpoint, but I see it differently.",0,0,0,0,0
+2835,Fucking worst ever!,1,1,0,0,0
+2836,What the hell!,1,1,0,0,0
+2837,Appreciate the fast delivery!,0,0,0,0,0
+2838,What the hell!,1,1,0,0,0
+2839,Thank you so much!,0,0,0,0,0
+2840,What the fuck is wrong with you!,1,1,0,0,0
+2841,Moron! Can't believe how dumb you are!,1,0,0,1,0
+2842,Standard quality for the price.,0,0,0,0,0
+2843,Appreciate your assistance!,0,0,0,0,0
+2844,This is complete BS!,1,1,0,0,0
+2845,This product is amazing! Best purchase ever!,0,0,0,0,0
+2846,That's an interesting perspective. Here's mine.,0,0,0,0,0
+2847,Fuck off! I don't care!,1,1,0,0,0
+2848,Best thing ever! So happy!,0,0,0,0,0
+2849,I love this so much! Highly recommend!,0,0,0,0,0
+2850,Piece of junk! Trash!,1,1,0,0,0
+2851,Shitty service!,1,1,0,0,0
+2852,Hell of a bad product!,1,1,0,0,0
+2853,Brilliant! Solved all my problems!,0,0,0,0,0
+2854,Fuck this company!,1,1,0,0,0
+2855,This is fucking ridiculous!,1,1,0,0,0
+2856,I'm open to learning more about your position.,0,0,0,0,0
+2857,Damn right!,1,1,0,0,0
+2858,Shitty product! Total crap!,1,1,0,0,0
+2859,That's an interesting perspective. Here's mine.,0,0,0,0,0
+2860,What a fucking waste!,1,1,0,0,0
+2861,Great service! Very pleased!,0,0,0,0,0
+2862,Damn this thing!,1,1,0,0,0
+2863,Ignorant fool! Learn something!,1,0,0,1,0
+2864,You're a joke! Everyone laughs at you!,1,0,0,1,0
+2865,Excellent quality! Very impressed!,0,0,0,0,0
+2866,The package arrived on time.,0,0,0,0,0
+2867,Thank you for sharing your thoughts.,0,0,0,0,0
+2868,Delivery was prompt.,0,0,0,0,0
+2869,Go back to where you came from!,1,0,0,0,1
+2870,"Good value, instructions unclear.",0,0,0,0,0
+2871,Let's approach this respectfully.,0,0,0,0,0
+2872,Damn it all to hell!,1,1,0,0,0
+2873,Meets my basic needs.,0,0,0,0,0
+2874,You're pathetic and useless!,1,0,0,1,0
+2875,"Good product, but could be improved.",0,0,0,0,0
+2876,This sucks so damn bad!,1,1,0,0,0
+2877,Damn shame!,1,1,0,0,0
+2878,Can't believe how good this is!,0,0,0,0,0
+2879,Can't believe how good this is!,0,0,0,0,0
+2880,I know where you live!,1,0,1,0,0
+2881,Terrific! Exceeds expectations!,0,0,0,0,0
+2882,Superb! Couldn't be happier!,0,0,0,0,0
+2883,Disgusting person! Stay away!,1,0,0,1,0
+2884,Thanks for resolving my issue!,0,0,0,0,0
+2885,Excellent quality! Very impressed!,0,0,0,0,0
+2886,God damn piece of shit!,1,1,0,0,0
+2887,Fucking awful experience!,1,1,0,0,0
+2888,Terrific! Exceeds expectations!,0,0,0,0,0
+2889,Shitty product! Total crap!,1,1,0,0,0
+2890,Fucking awful experience!,1,1,0,0,0
+2891,Delivery was prompt.,0,0,0,0,0
+2892,Outsiders not welcome!,1,0,0,0,1
+2893,This damn thing is broken!,1,1,0,0,0
+2894,Shitty service!,1,1,0,0,0
+2895,This is incredible! Five stars!,0,0,0,0,0
+2896,Holy fuck this sucks!,1,1,0,0,0
+2897,I respectfully disagree with your opinion.,0,0,0,0,0
+2898,What a fucking waste!,1,1,0,0,0
+2899,You don't deserve rights!,1,0,0,0,1
+2900,Inferior and unwanted!,1,0,0,0,1
+2901,Shitty service!,1,1,0,0,0
+2902,This is complete fucking bullshit!,1,1,0,0,0
+2903,Excellent quality! Very impressed!,0,0,0,0,0
+2904,What the hell!,1,1,0,0,0
+2905,Damn it all to hell!,1,1,0,0,0
+2906,I think there might be a misunderstanding here.,0,0,0,0,0
+2907,Thank you so much!,0,0,0,0,0
+2908,Hell no! Fuck that!,1,1,0,0,0
+2909,Appreciate your assistance!,0,0,0,0,0
+2910,"Reliable product, customer service helpful.",0,0,0,0,0
+2911,What a loser! Get a life!,1,0,0,1,0
+2912,"Good value, instructions unclear.",0,0,0,0,0
+2913,Shit product!,1,1,0,0,0
+2914,Damn it all to hell!,1,1,0,0,0
+2915,Very thankful for this!,0,0,0,0,0
+2916,"Good value, instructions unclear.",0,0,0,0,0
+2917,This product is amazing! Best purchase ever!,0,0,0,0,0
+2918,This is utter crap!,1,1,0,0,0
+2919,Wow! Just wow! Amazing!,0,0,0,0,0
+2920,This fucking sucks!,1,1,0,0,0
+2921,"Product is fine, packaging could be better.",0,0,0,0,0
+2922,This fucking sucks!,1,1,0,0,0
+2923,What the hell is this shit!,1,1,0,0,0
+2924,Outstanding! Will buy again!,0,0,0,0,0
+2925,Perfect! Exactly what I needed!,0,0,0,0,0
+2926,Fucking worst ever!,1,1,0,0,0
+2927,Screwed up big time!,1,1,0,0,0
+2928,"Satisfied, though shipping took long.",0,0,0,0,0
+2929,OMG this is so good!!!,0,0,0,0,0
+2930,Fuck this company!,1,1,0,0,0
+2931,Shit! This broke already!,1,1,0,0,0
+2932,Let's approach this respectfully.,0,0,0,0,0
+2933,Piece of junk! Trash!,1,1,0,0,0
+2934,You better watch out!,1,0,1,0,0
+2935,Screwed up big time!,1,1,0,0,0
+2936,Fucking disaster!,1,1,0,0,0
+2937,Meets my basic needs.,0,0,0,0,0
+2938,Damn right!,1,1,0,0,0
+2939,"Decent quality, not perfect.",0,0,0,0,0
+2940,Shit! This broke already!,1,1,0,0,0
+2941,Hell of a bad product!,1,1,0,0,0
+2942,"Works as intended, design could improve.",0,0,0,0,0
+2943,Piss poor quality!,1,1,0,0,0
+2944,Fantastic! Worth every penny!,0,0,0,0,0
+2945,Damn it failed!,1,1,0,0,0
+2946,Typical behavior from your group!,1,0,0,0,1
+2947,This is fucking ridiculous!,1,1,0,0,0
+2948,Item matches the description.,0,0,0,0,0
+2949,Wonderful product! Highly satisfied!,0,0,0,0,0
+2950,I respectfully disagree with your opinion.,0,0,0,0,0
+2951,Shit product!,1,1,0,0,0
+2952,This is complete BS!,1,1,0,0,0
+2953,Absolutely fantastic! Exceeded all expectations!,0,0,0,0,0
+2954,What a load of crap!,1,1,0,0,0
+2955,Fuck this company!,1,1,0,0,0
+2956,Damn it failed!,1,1,0,0,0
+2957,Meets my basic needs.,0,0,0,0,0
+2958,This damn thing is broken!,1,1,0,0,0
+2959,This product is amazing! Best purchase ever!,0,0,0,0,0
+2960,Fucking hell what a mess!,1,1,0,0,0
+2961,OMG this is so good!!!,0,0,0,0,0
+2962,Fuck this stupid thing!,1,1,0,0,0
+2963,"Reliable product, customer service helpful.",0,0,0,0,0
+2964,Great service! Very pleased!,0,0,0,0,0
+2965,Best thing ever! So happy!,0,0,0,0,0
+2966,Thank you for sharing your thoughts.,0,0,0,0,0
+2967,Great service! Very pleased!,0,0,0,0,0
+2968,Can't believe how good this is!,0,0,0,0,0
+2969,I love this so much! Highly recommend!,0,0,0,0,0
+2970,Fuck this company!,1,1,0,0,0
+2971,Fuck off! I don't care!,1,1,0,0,0
+2972,Screwed up big time!,1,1,0,0,0
+2973,Hell of a bad product!,1,1,0,0,0
+2974,Brilliant! Solved all my problems!,0,0,0,0,0
+2975,This is utter crap!,1,1,0,0,0
+2976,I'm open to learning more about your position.,0,0,0,0,0
+2977,Functional and practical.,0,0,0,0,0
+2978,"Works as intended, design could improve.",0,0,0,0,0
+2979,Delivery was prompt.,0,0,0,0,0
+2980,Fuck this stupid thing!,1,1,0,0,0
+2981,Fuck this stupid thing!,1,1,0,0,0
+2982,Bloody awful!,1,1,0,0,0
+2983,Wonderful product! Highly satisfied!,0,0,0,0,0
+2984,This is shit quality!,1,1,0,0,0
+2985,Hell of a bad product!,1,1,0,0,0
+2986,This is shit quality!,1,1,0,0,0
+2987,Standard quality for the price.,0,0,0,0,0
+2988,You've made a big mistake!,1,0,1,0,0
+2989,Fuck this company!,1,1,0,0,0
+2990,"Decent quality, not perfect.",0,0,0,0,0
+2991,Outsiders not welcome!,1,0,0,0,1
+2992,Damn it failed!,1,1,0,0,0
+2993,Acceptable quality.,0,0,0,0,0
+2994,Fuck this company!,1,1,0,0,0
+2995,Standard quality for the price.,0,0,0,0,0
+2996,No complaints so far.,0,0,0,0,0
+2997,This fucking sucks!,1,1,0,0,0
+2998,Shitty product! Total crap!,1,1,0,0,0
+2999,I think there might be a misunderstanding here.,0,0,0,0,0
+3000,Fuck off! I don't care!,1,1,0,0,0
+3001,I know where you live!,1,0,1,0,0
+3002,Piece of shit broke!,1,1,0,0,0
+3003,I know where you live!,1,0,1,0,0
+3004,"I appreciate your viewpoint, but I see it differently.",0,0,0,0,0
+3005,You're so stupid it hurts!,1,0,0,1,0
+3006,You're an idiot and you don't know anything!,1,0,0,1,0
+3007,This is complete fucking bullshit!,1,1,0,0,0
+3008,Brilliant! Solved all my problems!,0,0,0,0,0
+3009,Wonderful product! Highly satisfied!,0,0,0,0,0
+3010,Shitty service!,1,1,0,0,0
+3011,Love love love this!,0,0,0,0,0
+3012,Outsiders not welcome!,1,0,0,0,1
+3013,Thanks for resolving my issue!,0,0,0,0,0
+3014,Perfect! Exactly what I needed!,0,0,0,0,0
+3015,Your kind ruins everything!,1,0,0,0,1
+3016,Piece of shit broke!,1,1,0,0,0
+3017,"Quality is good, price is fair.",0,0,0,0,0
+3018,Damn it failed!,1,1,0,0,0
+3019,Shitty service!,1,1,0,0,0
+3020,Shitty product! Total crap!,1,1,0,0,0
+3021,"Decent quality, not perfect.",0,0,0,0,0
+3022,Go back to where you came from!,1,0,0,0,1
+3023,Fucking hell what a mess!,1,1,0,0,0
+3024,This is incredible! Five stars!,0,0,0,0,0
+3025,Fuck this company!,1,1,0,0,0
+3026,Can't believe how good this is!,0,0,0,0,0
+3027,This is fucking ridiculous!,1,1,0,0,0
+3028,Great service! Very pleased!,0,0,0,0,0
+3029,Damn right!,1,1,0,0,0
+3030,"Happy overall, small suggestions.",0,0,0,0,0
+3031,Damn shame!,1,1,0,0,0
+3032,Product works as described.,0,0,0,0,0
+3033,Can't believe how good this is!,0,0,0,0,0
+3034,That's an interesting perspective. Here's mine.,0,0,0,0,0
+3035,This is incredible! Five stars!,0,0,0,0,0
+3036,Best thing ever! So happy!,0,0,0,0,0
+3037,Damn right!,1,1,0,0,0
+3038,Moron! Can't believe how dumb you are!,1,0,0,1,0
+3039,Delivery was prompt.,0,0,0,0,0
+3040,You're full of shit!,1,1,0,0,0
+3041,"Decent quality, not perfect.",0,0,0,0,0
+3042,Fucking disaster!,1,1,0,0,0
+3043,Perfect! Exactly what I needed!,0,0,0,0,0
+3044,Wonderful product! Highly satisfied!,0,0,0,0,0
+3045,Love love love this!,0,0,0,0,0
+3046,Stay with your own kind!,1,0,0,0,1
+3047,As expected.,0,0,0,0,0
+3048,As expected.,0,0,0,0,0
+3049,Disgusting person! Stay away!,1,0,0,1,0
+3050,You'll be sorry!,1,0,1,0,0
+3051,Love love love this!,0,0,0,0,0
+3052,Superb! Couldn't be happier!,0,0,0,0,0
+3053,This shit is unbelievable!,1,1,0,0,0
+3054,"Satisfied, though shipping took long.",0,0,0,0,0
+3055,Ignorant fool! Learn something!,1,0,0,1,0
+3056,What a shitshow!,1,1,0,0,0
+3057,This is utter crap!,1,1,0,0,0
+3058,Piece of junk! Trash!,1,1,0,0,0
+3059,"Product is fine, packaging could be better.",0,0,0,0,0
+3060,Hell this is terrible!,1,1,0,0,0
+3061,Fucking disaster!,1,1,0,0,0
+3062,Hell of a bad product!,1,1,0,0,0
+3063,You're worthless! Complete failure!,1,0,0,1,0
+3064,Hell this is terrible!,1,1,0,0,0
+3065,Outsiders not welcome!,1,0,0,0,1
+3066,This crap doesn't work!,1,1,0,0,0
+3067,Screw this garbage!,1,1,0,0,0
+3068,Shit! This broke already!,1,1,0,0,0
+3069,Shit! This broke already!,1,1,0,0,0
+3070,You better watch out!,1,0,1,0,0
+3071,This is incredible! Five stars!,0,0,0,0,0
+3072,This is fucking ridiculous!,1,1,0,0,0
+3073,Fucking worst ever!,1,1,0,0,0
+3074,Shitty product! Total crap!,1,1,0,0,0
+3075,This shit is unbelievable!,1,1,0,0,0
+3076,Damn right!,1,1,0,0,0
+3077,This is fucking ridiculous!,1,1,0,0,0
+3078,Piss poor quality!,1,1,0,0,0
+3079,I know where you live!,1,0,1,0,0
+3080,Great service! Very pleased!,0,0,0,0,0
+3081,You're pathetic and useless!,1,0,0,1,0
+3082,The package arrived on time.,0,0,0,0,0
+3083,Bloody awful!,1,1,0,0,0
+3084,Disgusting person! Stay away!,1,0,0,1,0
+3085,Outstanding! Will buy again!,0,0,0,0,0
+3086,Can't believe how good this is!,0,0,0,0,0
+3087,Superb! Couldn't be happier!,0,0,0,0,0
+3088,You'll be sorry!,1,0,1,0,0
+3089,Delivery was prompt.,0,0,0,0,0
+3090,Thanks for the recommendation!,0,0,0,0,0
+3091,Shit product!,1,1,0,0,0
+3092,This is incredible! Five stars!,0,0,0,0,0
+3093,What a load of crap!,1,1,0,0,0
+3094,Grateful for the quick response!,0,0,0,0,0
+3095,Absolutely fantastic! Exceeded all expectations!,0,0,0,0,0
+3096,Let's approach this respectfully.,0,0,0,0,0
+3097,Let's discuss this in a civil manner.,0,0,0,0,0
+3098,Product works as described.,0,0,0,0,0
+3099,Shit product!,1,1,0,0,0
+3100,Great service! Very pleased!,0,0,0,0,0
+3101,Love love love this!,0,0,0,0,0
+3102,Fuck this stupid thing!,1,1,0,0,0
+3103,Excellent quality! Very impressed!,0,0,0,0,0
+3104,Damn right!,1,1,0,0,0
+3105,Piece of junk! Trash!,1,1,0,0,0
+3106,I'm open to learning more about your position.,0,0,0,0,0
+3107,Hell this is terrible!,1,1,0,0,0
+3108,Shit! This broke already!,1,1,0,0,0
+3109,I respectfully disagree with your opinion.,0,0,0,0,0
+3110,"Good value, instructions unclear.",0,0,0,0,0
+3111,Best thing ever! So happy!,0,0,0,0,0
+3112,This is shit quality!,1,1,0,0,0
+3113,What the hell!,1,1,0,0,0
+3114,This shit is unbelievable!,1,1,0,0,0
+3115,Standard quality for the price.,0,0,0,0,0
+3116,Fucking worst ever!,1,1,0,0,0
+3117,You're an idiot and you don't know anything!,1,0,0,1,0
+3118,Damn it failed!,1,1,0,0,0
+3119,Amazing experience! Thank you!,0,0,0,0,0
+3120,I'm coming for you!,1,0,1,0,0
+3121,Hell no! Fuck that!,1,1,0,0,0
+3122,I respectfully disagree with your opinion.,0,0,0,0,0
+3123,Damn right!,1,1,0,0,0
+3124,You're pathetic and useless!,1,0,0,1,0
+3125,I know where you live!,1,0,1,0,0
+3126,Damn shame!,1,1,0,0,0
+3127,Absolutely fantastic! Exceeded all expectations!,0,0,0,0,0
+3128,Screw this garbage!,1,1,0,0,0
+3129,Moron! Can't believe how dumb you are!,1,0,0,1,0
+3130,Shit product!,1,1,0,0,0
+3131,Meets my basic needs.,0,0,0,0,0
+3132,Could you please explain this more clearly?,0,0,0,0,0
+3133,What the fuck is wrong with you!,1,1,0,0,0
+3134,Fucking disaster!,1,1,0,0,0
+3135,Shitty product! Total crap!,1,1,0,0,0
+3136,Can't believe how good this is!,0,0,0,0,0
+3137,Piss poor quality!,1,1,0,0,0
+3138,Perfect! Exactly what I needed!,0,0,0,0,0
+3139,Awesome! My whole family loves it!,0,0,0,0,0
+3140,Excellent quality! Very impressed!,0,0,0,0,0
+3141,Meets my basic needs.,0,0,0,0,0
+3142,Functional and practical.,0,0,0,0,0
+3143,Meets my basic needs.,0,0,0,0,0
+3144,Bloody awful!,1,1,0,0,0
+3145,Hell of a bad product!,1,1,0,0,0
+3146,Piece of junk! Trash!,1,1,0,0,0
+3147,Awesome! My whole family loves it!,0,0,0,0,0
+3148,Stay with your own kind!,1,0,0,0,1
+3149,Superb! Couldn't be happier!,0,0,0,0,0
+3150,Grateful for the help!,0,0,0,0,0
+3151,What the hell!,1,1,0,0,0
+3152,Very thankful for this!,0,0,0,0,0
+3153,Shit! This broke already!,1,1,0,0,0
+3154,"Satisfied, though shipping took long.",0,0,0,0,0
+3155,"Happy overall, small suggestions.",0,0,0,0,0
+3156,What a fucking waste!,1,1,0,0,0
+3157,Piece of junk! Trash!,1,1,0,0,0
+3158,Brilliant! Solved all my problems!,0,0,0,0,0
+3159,Terrific! Exceeds expectations!,0,0,0,0,0
+3160,What a fucking waste!,1,1,0,0,0
+3161,You're so stupid it hurts!,1,0,0,1,0
+3162,Brilliant! Solved all my problems!,0,0,0,0,0
+3163,People like you don't belong here!,1,0,0,0,1
+3164,Excellent quality! Very impressed!,0,0,0,0,0
+3165,That's an interesting perspective. Here's mine.,0,0,0,0,0
+3166,Product works as described.,0,0,0,0,0
+3167,Brilliant! Solved all my problems!,0,0,0,0,0
+3168,I'm coming for you!,1,0,1,0,0
+3169,Best thing ever! So happy!,0,0,0,0,0
+3170,Fucking disaster!,1,1,0,0,0
+3171,Your kind ruins everything!,1,0,0,0,1
+3172,Fucking worst ever!,1,1,0,0,0
+3173,"Happy overall, small suggestions.",0,0,0,0,0
+3174,Thanks for resolving my issue!,0,0,0,0,0
+3175,Great service! Very pleased!,0,0,0,0,0
+3176,Fucking disaster!,1,1,0,0,0
+3177,This is fucking ridiculous!,1,1,0,0,0
+3178,Fucking worst ever!,1,1,0,0,0
+3179,You're a joke! Everyone laughs at you!,1,0,0,1,0
+3180,Screw this garbage!,1,1,0,0,0
+3181,Thanks for resolving my issue!,0,0,0,0,0
+3182,This crap doesn't work!,1,1,0,0,0
+3183,Could you please explain this more clearly?,0,0,0,0,0
+3184,Hell of a bad product!,1,1,0,0,0
+3185,Wow! Just wow! Amazing!,0,0,0,0,0
+3186,Hell this is terrible!,1,1,0,0,0
+3187,Screw this garbage!,1,1,0,0,0
+3188,Let's approach this respectfully.,0,0,0,0,0
+3189,What the hell is this shit!,1,1,0,0,0
+3190,Fuck this stupid thing!,1,1,0,0,0
+3191,I respectfully disagree with your opinion.,0,0,0,0,0
+3192,Meets my basic needs.,0,0,0,0,0
+3193,Product works as described.,0,0,0,0,0
+3194,What a fucking waste!,1,1,0,0,0
+3195,Holy shit this is bad!,1,1,0,0,0
+3196,Love love love this!,0,0,0,0,0
+3197,This sucks so damn bad!,1,1,0,0,0
+3198,This is shit quality!,1,1,0,0,0
+3199,You're a joke! Everyone laughs at you!,1,0,0,1,0
+3200,"I appreciate your viewpoint, but I see it differently.",0,0,0,0,0
+3201,"Good value, instructions unclear.",0,0,0,0,0
+3202,Piss poor quality!,1,1,0,0,0
+3203,This is shit quality!,1,1,0,0,0
+3204,I love this so much! Highly recommend!,0,0,0,0,0
+3205,Screw this garbage!,1,1,0,0,0
+3206,Best thing ever! So happy!,0,0,0,0,0
+3207,Fuck this company!,1,1,0,0,0
+3208,Terrific! Exceeds expectations!,0,0,0,0,0
+3209,You're full of shit!,1,1,0,0,0
+3210,Fucking awful experience!,1,1,0,0,0
+3211,Piece of junk! Trash!,1,1,0,0,0
+3212,I'll make sure you regret this!,1,0,1,0,0
+3213,You're worthless! Complete failure!,1,0,0,1,0
+3214,Let's approach this respectfully.,0,0,0,0,0
+3215,Amazing experience! Thank you!,0,0,0,0,0
+3216,Thanks for the recommendation!,0,0,0,0,0
+3217,Hell this is terrible!,1,1,0,0,0
+3218,Love love love this!,0,0,0,0,0
+3219,Hell no! Fuck that!,1,1,0,0,0
+3220,Delivery was prompt.,0,0,0,0,0
+3221,"Quality is good, price is fair.",0,0,0,0,0
+3222,No complaints so far.,0,0,0,0,0
+3223,Brilliant! Solved all my problems!,0,0,0,0,0
+3224,Product works as described.,0,0,0,0,0
+3225,I'm coming for you!,1,0,1,0,0
+3226,This is shit quality!,1,1,0,0,0
+3227,Awesome! My whole family loves it!,0,0,0,0,0
+3228,Meets my basic needs.,0,0,0,0,0
+3229,No complaints so far.,0,0,0,0,0
+3230,Appreciate your assistance!,0,0,0,0,0
+3231,Hell no! Fuck that!,1,1,0,0,0
+3232,What the hell!,1,1,0,0,0
+3233,Grateful for the quick response!,0,0,0,0,0
+3234,Damn shame!,1,1,0,0,0
+3235,This is fucking ridiculous!,1,1,0,0,0
+3236,"Works well, minor issues with setup.",0,0,0,0,0
+3237,I think there might be a misunderstanding here.,0,0,0,0,0
+3238,This damn thing is broken!,1,1,0,0,0
+3239,Brilliant! Solved all my problems!,0,0,0,0,0
+3240,You're full of shit!,1,1,0,0,0
+3241,Fuck off! I don't care!,1,1,0,0,0
+3242,Damn it all to hell!,1,1,0,0,0
+3243,I love this so much! Highly recommend!,0,0,0,0,0
+3244,Damn shame!,1,1,0,0,0
+3245,Damn shame!,1,1,0,0,0
+3246,Hell no! Fuck that!,1,1,0,0,0
+3247,Item matches the description.,0,0,0,0,0
+3248,You're worthless! Complete failure!,1,0,0,1,0
+3249,Awesome! My whole family loves it!,0,0,0,0,0
+3250,Terrific! Exceeds expectations!,0,0,0,0,0
+3251,OMG this is so good!!!,0,0,0,0,0
+3252,This is incredible! Five stars!,0,0,0,0,0
+3253,"Decent quality, not perfect.",0,0,0,0,0
+3254,Can't believe how good this is!,0,0,0,0,0
+3255,Thank you so much!,0,0,0,0,0
+3256,Best thing ever! So happy!,0,0,0,0,0
+3257,Appreciate your assistance!,0,0,0,0,0
+3258,This sucks so damn bad!,1,1,0,0,0
+3259,You're a joke! Everyone laughs at you!,1,0,0,1,0
+3260,Ignorant fool! Learn something!,1,0,0,1,0
+3261,Hell no! Fuck that!,1,1,0,0,0
+3262,This is utter crap!,1,1,0,0,0
+3263,Product works as described.,0,0,0,0,0
+3264,Moron! Can't believe how dumb you are!,1,0,0,1,0
+3265,Best thing ever! So happy!,0,0,0,0,0
+3266,Fantastic! Worth every penny!,0,0,0,0,0
+3267,Disgusting person! Stay away!,1,0,0,1,0
+3268,What the hell!,1,1,0,0,0
+3269,Let's discuss this in a civil manner.,0,0,0,0,0
+3270,Damn shame!,1,1,0,0,0
+3271,This is complete BS!,1,1,0,0,0
+3272,"Works as intended, design could improve.",0,0,0,0,0
+3273,Shut up! Nobody cares what you think!,1,0,0,1,0
+3274,"Works well, minor issues with setup.",0,0,0,0,0
+3275,Thank you so much!,0,0,0,0,0
+3276,Hell of a bad product!,1,1,0,0,0
+3277,Very thankful for this!,0,0,0,0,0
+3278,Great service! Very pleased!,0,0,0,0,0
+3279,Moron! Can't believe how dumb you are!,1,0,0,1,0
+3280,You're so stupid it hurts!,1,0,0,1,0
+3281,This is utter crap!,1,1,0,0,0
+3282,You're worthless! Complete failure!,1,0,0,1,0
+3283,Let's approach this respectfully.,0,0,0,0,0
+3284,"Works well, minor issues with setup.",0,0,0,0,0
+3285,Product works as described.,0,0,0,0,0
+3286,"Works well, minor issues with setup.",0,0,0,0,0
+3287,Shit product!,1,1,0,0,0
+3288,Wow! Just wow! Amazing!,0,0,0,0,0
+3289,Inferior and unwanted!,1,0,0,0,1
+3290,Outstanding! Will buy again!,0,0,0,0,0
+3291,Thank you for sharing your thoughts.,0,0,0,0,0
+3292,Product works as described.,0,0,0,0,0
+3293,I know where you live!,1,0,1,0,0
+3294,Absolutely fantastic! Exceeded all expectations!,0,0,0,0,0
+3295,What the hell is this shit!,1,1,0,0,0
+3296,Don't mess with me!,1,0,1,0,0
+3297,Product works as described.,0,0,0,0,0
+3298,"Good product, but could be improved.",0,0,0,0,0
+3299,I'm coming for you!,1,0,1,0,0
+3300,"Quality is good, price is fair.",0,0,0,0,0
+3301,"Satisfied, though shipping took long.",0,0,0,0,0
+3302,Shitty service!,1,1,0,0,0
+3303,Standard quality for the price.,0,0,0,0,0
+3304,Damn it all to hell!,1,1,0,0,0
+3305,Shut up! Nobody cares what you think!,1,0,0,1,0
+3306,You're pathetic and useless!,1,0,0,1,0
+3307,"Good product, but could be improved.",0,0,0,0,0
+3308,Fuck this stupid thing!,1,1,0,0,0
+3309,Shit! This broke already!,1,1,0,0,0
+3310,Fuck this stupid thing!,1,1,0,0,0
+3311,Brilliant! Solved all my problems!,0,0,0,0,0
+3312,"Quality is good, price is fair.",0,0,0,0,0
+3313,"Works as intended, design could improve.",0,0,0,0,0
+3314,Best thing ever! So happy!,0,0,0,0,0
+3315,Item matches the description.,0,0,0,0,0
+3316,Outstanding! Will buy again!,0,0,0,0,0
+3317,Go back to where you came from!,1,0,0,0,1
+3318,Typical behavior from your group!,1,0,0,0,1
+3319,Thanks for resolving my issue!,0,0,0,0,0
+3320,OMG this is so good!!!,0,0,0,0,0
+3321,What a loser! Get a life!,1,0,0,1,0
+3322,What the fuck is wrong with you!,1,1,0,0,0
+3323,What a fucking waste!,1,1,0,0,0
+3324,God damn piece of shit!,1,1,0,0,0
+3325,God damn piece of shit!,1,1,0,0,0
+3326,Shitty service!,1,1,0,0,0
+3327,Appreciate your assistance!,0,0,0,0,0
+3328,This crap doesn't work!,1,1,0,0,0
+3329,Hell no! Fuck that!,1,1,0,0,0
+3330,I'll make sure you regret this!,1,0,1,0,0
+3331,"I appreciate your viewpoint, but I see it differently.",0,0,0,0,0
+3332,OMG this is so good!!!,0,0,0,0,0
+3333,Fuck off! I don't care!,1,1,0,0,0
+3334,"Reliable product, customer service helpful.",0,0,0,0,0
+3335,Disgusting person! Stay away!,1,0,0,1,0
+3336,No complaints so far.,0,0,0,0,0
+3337,Fucking hell what a mess!,1,1,0,0,0
+3338,Hell of a bad product!,1,1,0,0,0
+3339,OMG this is so good!!!,0,0,0,0,0
+3340,This shit is unbelievable!,1,1,0,0,0
+3341,Fuck this stupid thing!,1,1,0,0,0
+3342,Let's discuss this in a civil manner.,0,0,0,0,0
+3343,Shit product!,1,1,0,0,0
+3344,God damn piece of shit!,1,1,0,0,0
+3345,Product works as described.,0,0,0,0,0
+3346,Amazing experience! Thank you!,0,0,0,0,0
+3347,Fantastic! Worth every penny!,0,0,0,0,0
+3348,OMG this is so good!!!,0,0,0,0,0
+3349,Appreciate the fast delivery!,0,0,0,0,0
+3350,Best thing ever! So happy!,0,0,0,0,0
+3351,This is utter crap!,1,1,0,0,0
+3352,This is incredible! Five stars!,0,0,0,0,0
+3353,Piece of junk! Trash!,1,1,0,0,0
+3354,Holy fuck this sucks!,1,1,0,0,0
+3355,Fuck this stupid thing!,1,1,0,0,0
+3356,Awesome! My whole family loves it!,0,0,0,0,0
+3357,Functional and practical.,0,0,0,0,0
+3358,Damn it failed!,1,1,0,0,0
+3359,Functional and practical.,0,0,0,0,0
+3360,You're full of shit!,1,1,0,0,0
+3361,Piss poor quality!,1,1,0,0,0
+3362,Terrific! Exceeds expectations!,0,0,0,0,0
+3363,Let's approach this respectfully.,0,0,0,0,0
+3364,You're going to pay for this!,1,0,1,0,0
+3365,Damn this thing!,1,1,0,0,0
+3366,Much appreciated!,0,0,0,0,0
+3367,This sucks so damn bad!,1,1,0,0,0
+3368,Wonderful product! Highly satisfied!,0,0,0,0,0
+3369,I respectfully disagree with your opinion.,0,0,0,0,0
+3370,Outstanding! Will buy again!,0,0,0,0,0
+3371,Absolutely fantastic! Exceeded all expectations!,0,0,0,0,0
+3372,Shitty product! Total crap!,1,1,0,0,0
+3373,Amazing experience! Thank you!,0,0,0,0,0
+3374,Shitty product! Total crap!,1,1,0,0,0
+3375,Fuck off! I don't care!,1,1,0,0,0
+3376,Functional and practical.,0,0,0,0,0
+3377,You're full of shit!,1,1,0,0,0
+3378,Functional and practical.,0,0,0,0,0
+3379,"Works well, minor issues with setup.",0,0,0,0,0
+3380,Thank you for sharing your thoughts.,0,0,0,0,0
+3381,I'll ruin your life!,1,0,1,0,0
+3382,"Product is fine, packaging could be better.",0,0,0,0,0
+3383,I respectfully disagree with your opinion.,0,0,0,0,0
+3384,Hell no! Fuck that!,1,1,0,0,0
+3385,Can't believe how good this is!,0,0,0,0,0
+3386,You've made a big mistake!,1,0,1,0,0
+3387,This is shit quality!,1,1,0,0,0
+3388,"Works as intended, design could improve.",0,0,0,0,0
+3389,Excellent quality! Very impressed!,0,0,0,0,0
+3390,Piss poor quality!,1,1,0,0,0
+3391,You don't deserve rights!,1,0,0,0,1
+3392,Shitty service!,1,1,0,0,0
+3393,This is complete fucking bullshit!,1,1,0,0,0
+3394,This damn thing is broken!,1,1,0,0,0
+3395,Product works as described.,0,0,0,0,0
+3396,Fantastic! Worth every penny!,0,0,0,0,0
+3397,Damn it failed!,1,1,0,0,0
+3398,"Quality is good, price is fair.",0,0,0,0,0
+3399,Piece of shit broke!,1,1,0,0,0
+3400,Delivery was prompt.,0,0,0,0,0
+3401,This is fucking ridiculous!,1,1,0,0,0
+3402,People like you don't belong here!,1,0,0,0,1
+3403,Fucking awful experience!,1,1,0,0,0
+3404,This is utter crap!,1,1,0,0,0
+3405,I'm coming for you!,1,0,1,0,0
+3406,Wonderful product! Highly satisfied!,0,0,0,0,0
+3407,Standard quality for the price.,0,0,0,0,0
+3408,Great service! Very pleased!,0,0,0,0,0
+3409,I'm open to learning more about your position.,0,0,0,0,0
+3410,Awesome! My whole family loves it!,0,0,0,0,0
+3411,Terrific! Exceeds expectations!,0,0,0,0,0
+3412,Grateful for the quick response!,0,0,0,0,0
+3413,Fucking hell what a mess!,1,1,0,0,0
+3414,Functional and practical.,0,0,0,0,0
+3415,OMG this is so good!!!,0,0,0,0,0
+3416,Piece of shit broke!,1,1,0,0,0
+3417,This is fucking ridiculous!,1,1,0,0,0
+3418,This damn thing is broken!,1,1,0,0,0
+3419,Can't believe how good this is!,0,0,0,0,0
+3420,Acceptable quality.,0,0,0,0,0
+3421,I think there might be a misunderstanding here.,0,0,0,0,0
+3422,This is utter crap!,1,1,0,0,0
+3423,Love love love this!,0,0,0,0,0
+3424,Hell this is terrible!,1,1,0,0,0
+3425,Shit! This broke already!,1,1,0,0,0
+3426,The package arrived on time.,0,0,0,0,0
+3427,Terrific! Exceeds expectations!,0,0,0,0,0
+3428,Let's discuss this in a civil manner.,0,0,0,0,0
+3429,Shitty service!,1,1,0,0,0
+3430,People like you don't belong here!,1,0,0,0,1
+3431,I'm open to learning more about your position.,0,0,0,0,0
+3432,I think there might be a misunderstanding here.,0,0,0,0,0
+3433,I think there might be a misunderstanding here.,0,0,0,0,0
+3434,Meets my basic needs.,0,0,0,0,0
+3435,Hell this is terrible!,1,1,0,0,0
+3436,Shit! This broke already!,1,1,0,0,0
+3437,What a loser! Get a life!,1,0,0,1,0
+3438,Your people are all the same!,1,0,0,0,1
+3439,What the hell!,1,1,0,0,0
+3440,Shit! This broke already!,1,1,0,0,0
+3441,"Works as intended, design could improve.",0,0,0,0,0
+3442,Perfect! Exactly what I needed!,0,0,0,0,0
+3443,This is fucking ridiculous!,1,1,0,0,0
+3444,Fucking worst ever!,1,1,0,0,0
+3445,This shit is unbelievable!,1,1,0,0,0
+3446,Delivery was prompt.,0,0,0,0,0
+3447,Thank you for sharing your thoughts.,0,0,0,0,0
+3448,This is complete BS!,1,1,0,0,0
+3449,Your kind ruins everything!,1,0,0,0,1
+3450,Moron! Can't believe how dumb you are!,1,0,0,1,0
+3451,This is complete BS!,1,1,0,0,0
+3452,Perfect! Exactly what I needed!,0,0,0,0,0
+3453,Bloody awful!,1,1,0,0,0
+3454,Fantastic! Worth every penny!,0,0,0,0,0
+3455,Wow! Just wow! Amazing!,0,0,0,0,0
+3456,Wonderful product! Highly satisfied!,0,0,0,0,0
+3457,You're pathetic and useless!,1,0,0,1,0
+3458,Holy shit this is bad!,1,1,0,0,0
+3459,Amazing experience! Thank you!,0,0,0,0,0
+3460,Absolutely fantastic! Exceeded all expectations!,0,0,0,0,0
+3461,You're worthless! Complete failure!,1,0,0,1,0
+3462,You're pathetic and useless!,1,0,0,1,0
+3463,This fucking sucks!,1,1,0,0,0
+3464,What a load of crap!,1,1,0,0,0
+3465,This crap doesn't work!,1,1,0,0,0
+3466,Your kind ruins everything!,1,0,0,0,1
+3467,Disgusting person! Stay away!,1,0,0,1,0
+3468,Fucking awful experience!,1,1,0,0,0
+3469,Your people are all the same!,1,0,0,0,1
+3470,This shit is unbelievable!,1,1,0,0,0
+3471,Hell this is terrible!,1,1,0,0,0
+3472,Could you please explain this more clearly?,0,0,0,0,0
+3473,You'll be sorry!,1,0,1,0,0
+3474,You'll be sorry!,1,0,1,0,0
+3475,I love this so much! Highly recommend!,0,0,0,0,0
+3476,This is incredible! Five stars!,0,0,0,0,0
+3477,This crap doesn't work!,1,1,0,0,0
+3478,Wow! Just wow! Amazing!,0,0,0,0,0
+3479,This crap doesn't work!,1,1,0,0,0
+3480,This shit is unbelievable!,1,1,0,0,0
+3481,Damn it failed!,1,1,0,0,0
+3482,What the fuck is wrong with you!,1,1,0,0,0
+3483,Holy fuck this sucks!,1,1,0,0,0
+3484,Appreciate the fast delivery!,0,0,0,0,0
+3485,Holy shit this is bad!,1,1,0,0,0
+3486,Shit product!,1,1,0,0,0
+3487,Let's discuss this in a civil manner.,0,0,0,0,0
+3488,Best thing ever! So happy!,0,0,0,0,0
+3489,As expected.,0,0,0,0,0
+3490,OMG this is so good!!!,0,0,0,0,0
+3491,Great service! Very pleased!,0,0,0,0,0
+3492,This is incredible! Five stars!,0,0,0,0,0
+3493,Shitty service!,1,1,0,0,0
+3494,"Product is fine, packaging could be better.",0,0,0,0,0
+3495,What a load of crap!,1,1,0,0,0
+3496,This shit is unbelievable!,1,1,0,0,0
+3497,Product works as described.,0,0,0,0,0
+3498,This is incredible! Five stars!,0,0,0,0,0
+3499,Appreciate your assistance!,0,0,0,0,0
+3500,Love love love this!,0,0,0,0,0
+3501,Appreciate the fast delivery!,0,0,0,0,0
+3502,Hell of a bad product!,1,1,0,0,0
+3503,Your kind ruins everything!,1,0,0,0,1
+3504,Screw this garbage!,1,1,0,0,0
+3505,This is shit quality!,1,1,0,0,0
+3506,Damn right!,1,1,0,0,0
+3507,Damn it all to hell!,1,1,0,0,0
+3508,This is incredible! Five stars!,0,0,0,0,0
+3509,Thanks for resolving my issue!,0,0,0,0,0
+3510,What a loser! Get a life!,1,0,0,1,0
+3511,Absolutely fantastic! Exceeded all expectations!,0,0,0,0,0
+3512,What the hell is this shit!,1,1,0,0,0
+3513,Superb! Couldn't be happier!,0,0,0,0,0
+3514,Best thing ever! So happy!,0,0,0,0,0
+3515,What the fuck is wrong with you!,1,1,0,0,0
+3516,Damn it all to hell!,1,1,0,0,0
+3517,Let's approach this respectfully.,0,0,0,0,0
+3518,Piece of shit broke!,1,1,0,0,0
+3519,Shitty product! Total crap!,1,1,0,0,0
+3520,"I appreciate your viewpoint, but I see it differently.",0,0,0,0,0
+3521,"Good value, instructions unclear.",0,0,0,0,0
+3522,This fucking sucks!,1,1,0,0,0
+3523,Damn it all to hell!,1,1,0,0,0
+3524,I'll make sure you regret this!,1,0,1,0,0
+3525,What the fuck is wrong with you!,1,1,0,0,0
+3526,This is complete fucking bullshit!,1,1,0,0,0
+3527,You're a joke! Everyone laughs at you!,1,0,0,1,0
+3528,You're a joke! Everyone laughs at you!,1,0,0,1,0
+3529,This is complete BS!,1,1,0,0,0
+3530,Shitty product! Total crap!,1,1,0,0,0
+3531,Perfect! Exactly what I needed!,0,0,0,0,0
+3532,"Good product, but could be improved.",0,0,0,0,0
+3533,"Quality is good, price is fair.",0,0,0,0,0
+3534,Damn right!,1,1,0,0,0
+3535,Stay with your own kind!,1,0,0,0,1
+3536,Damn shame!,1,1,0,0,0
+3537,Holy fuck this sucks!,1,1,0,0,0
+3538,This damn thing is broken!,1,1,0,0,0
+3539,Best thing ever! So happy!,0,0,0,0,0
+3540,This is complete BS!,1,1,0,0,0
+3541,This product is amazing! Best purchase ever!,0,0,0,0,0
+3542,Typical behavior from your group!,1,0,0,0,1
+3543,Hell of a bad product!,1,1,0,0,0
+3544,Damn it failed!,1,1,0,0,0
+3545,Holy fuck this sucks!,1,1,0,0,0
+3546,Damn it all to hell!,1,1,0,0,0
+3547,Superb! Couldn't be happier!,0,0,0,0,0
+3548,"Good value, instructions unclear.",0,0,0,0,0
+3549,Can't believe how good this is!,0,0,0,0,0
+3550,What a fucking waste!,1,1,0,0,0
+3551,Shit product!,1,1,0,0,0
+3552,I know where you live!,1,0,1,0,0
+3553,You're a joke! Everyone laughs at you!,1,0,0,1,0
+3554,This is fucking ridiculous!,1,1,0,0,0
+3555,"Decent quality, not perfect.",0,0,0,0,0
+3556,Love love love this!,0,0,0,0,0
+3557,No complaints so far.,0,0,0,0,0
+3558,Inferior and unwanted!,1,0,0,0,1
+3559,"Product is fine, packaging could be better.",0,0,0,0,0
+3560,Love love love this!,0,0,0,0,0
+3561,Screw this garbage!,1,1,0,0,0
+3562,Shitty product! Total crap!,1,1,0,0,0
+3563,Bloody awful!,1,1,0,0,0
+3564,God damn piece of shit!,1,1,0,0,0
+3565,Damn it failed!,1,1,0,0,0
+3566,You're going to pay for this!,1,0,1,0,0
+3567,Screwed up big time!,1,1,0,0,0
+3568,"Satisfied, though shipping took long.",0,0,0,0,0
+3569,Terrific! Exceeds expectations!,0,0,0,0,0
+3570,Shit! This broke already!,1,1,0,0,0
+3571,Thank you for the excellent service!,0,0,0,0,0
+3572,Hell no! Fuck that!,1,1,0,0,0
+3573,What the hell is this shit!,1,1,0,0,0
+3574,Holy shit this is bad!,1,1,0,0,0
+3575,Great service! Very pleased!,0,0,0,0,0
+3576,Fantastic! Worth every penny!,0,0,0,0,0
+3577,Damn shame!,1,1,0,0,0
+3578,Piece of shit broke!,1,1,0,0,0
+3579,This is incredible! Five stars!,0,0,0,0,0
+3580,Damn it all to hell!,1,1,0,0,0
+3581,You don't deserve rights!,1,0,0,0,1
+3582,Meets my basic needs.,0,0,0,0,0
+3583,"Happy overall, small suggestions.",0,0,0,0,0
+3584,This is utter crap!,1,1,0,0,0
+3585,Damn it failed!,1,1,0,0,0
+3586,Delivery was prompt.,0,0,0,0,0
+3587,Very thankful for this!,0,0,0,0,0
+3588,Fuck this stupid thing!,1,1,0,0,0
+3589,Wow! Just wow! Amazing!,0,0,0,0,0
+3590,Wonderful product! Highly satisfied!,0,0,0,0,0
+3591,This product is amazing! Best purchase ever!,0,0,0,0,0
+3592,Amazing experience! Thank you!,0,0,0,0,0
+3593,Wow! Just wow! Amazing!,0,0,0,0,0
+3594,"Reliable product, customer service helpful.",0,0,0,0,0
+3595,Amazing experience! Thank you!,0,0,0,0,0
+3596,Don't mess with me!,1,0,1,0,0
+3597,Ignorant fool! Learn something!,1,0,0,1,0
+3598,This crap doesn't work!,1,1,0,0,0
+3599,Fucking awful experience!,1,1,0,0,0
+3600,Fucking hell what a mess!,1,1,0,0,0
+3601,This is utter crap!,1,1,0,0,0
+3602,Wow! Just wow! Amazing!,0,0,0,0,0
+3603,Could you please explain this more clearly?,0,0,0,0,0
+3604,Amazing experience! Thank you!,0,0,0,0,0
+3605,Holy shit this is bad!,1,1,0,0,0
+3606,Much appreciated!,0,0,0,0,0
+3607,Delivery was prompt.,0,0,0,0,0
+3608,No complaints so far.,0,0,0,0,0
+3609,Thank you for sharing your thoughts.,0,0,0,0,0
+3610,Fuck this stupid thing!,1,1,0,0,0
+3611,What the hell!,1,1,0,0,0
+3612,The package arrived on time.,0,0,0,0,0
+3613,This damn thing is broken!,1,1,0,0,0
+3614,This is fucking ridiculous!,1,1,0,0,0
+3615,You're an idiot and you don't know anything!,1,0,0,1,0
+3616,Shit! This broke already!,1,1,0,0,0
+3617,"Reliable product, customer service helpful.",0,0,0,0,0
+3618,OMG this is so good!!!,0,0,0,0,0
+3619,Can't believe how good this is!,0,0,0,0,0
+3620,Excellent quality! Very impressed!,0,0,0,0,0
+3621,Excellent quality! Very impressed!,0,0,0,0,0
+3622,This shit is unbelievable!,1,1,0,0,0
+3623,You better watch out!,1,0,1,0,0
+3624,What a fucking waste!,1,1,0,0,0
+3625,I'll ruin your life!,1,0,1,0,0
+3626,Let's discuss this in a civil manner.,0,0,0,0,0
+3627,Excellent quality! Very impressed!,0,0,0,0,0
+3628,Inferior and unwanted!,1,0,0,0,1
+3629,Fucking worst ever!,1,1,0,0,0
+3630,What the hell!,1,1,0,0,0
+3631,Fuck off! I don't care!,1,1,0,0,0
+3632,What a load of crap!,1,1,0,0,0
+3633,I'm open to learning more about your position.,0,0,0,0,0
+3634,Wow! Just wow! Amazing!,0,0,0,0,0
+3635,Wonderful product! Highly satisfied!,0,0,0,0,0
+3636,Outstanding! Will buy again!,0,0,0,0,0
+3637,Standard quality for the price.,0,0,0,0,0
+3638,What the hell!,1,1,0,0,0
+3639,Wow! Just wow! Amazing!,0,0,0,0,0
+3640,Holy shit this is bad!,1,1,0,0,0
+3641,Shitty product! Total crap!,1,1,0,0,0
+3642,This is incredible! Five stars!,0,0,0,0,0
+3643,Your people are all the same!,1,0,0,0,1
+3644,Holy fuck this sucks!,1,1,0,0,0
+3645,Screw this garbage!,1,1,0,0,0
+3646,Disgusting person! Stay away!,1,0,0,1,0
+3647,This is utter crap!,1,1,0,0,0
+3648,I love this so much! Highly recommend!,0,0,0,0,0
+3649,"Reliable product, customer service helpful.",0,0,0,0,0
+3650,Fantastic! Worth every penny!,0,0,0,0,0
+3651,Hell this is terrible!,1,1,0,0,0
+3652,Standard quality for the price.,0,0,0,0,0
+3653,This is complete fucking bullshit!,1,1,0,0,0
+3654,You better watch out!,1,0,1,0,0
+3655,Product works as described.,0,0,0,0,0
+3656,Fuck off! I don't care!,1,1,0,0,0
+3657,This crap doesn't work!,1,1,0,0,0
+3658,Excellent quality! Very impressed!,0,0,0,0,0
+3659,Hell of a bad product!,1,1,0,0,0
+3660,Bloody awful!,1,1,0,0,0
+3661,"Satisfied, though shipping took long.",0,0,0,0,0
+3662,Your culture is backwards!,1,0,0,0,1
+3663,Can we find common ground on this issue?,0,0,0,0,0
+3664,Thank you so much!,0,0,0,0,0
+3665,Shitty product! Total crap!,1,1,0,0,0
+3666,Thanks for the recommendation!,0,0,0,0,0
+3667,That's an interesting perspective. Here's mine.,0,0,0,0,0
+3668,What the fuck is wrong with you!,1,1,0,0,0
+3669,Amazing experience! Thank you!,0,0,0,0,0
+3670,I love this so much! Highly recommend!,0,0,0,0,0
+3671,Awesome! My whole family loves it!,0,0,0,0,0
+3672,Standard quality for the price.,0,0,0,0,0
+3673,This is complete fucking bullshit!,1,1,0,0,0
+3674,Delivery was prompt.,0,0,0,0,0
+3675,Hell no! Fuck that!,1,1,0,0,0
+3676,This is fucking ridiculous!,1,1,0,0,0
+3677,Awesome! My whole family loves it!,0,0,0,0,0
+3678,Let's approach this respectfully.,0,0,0,0,0
+3679,Screw this garbage!,1,1,0,0,0
+3680,Great service! Very pleased!,0,0,0,0,0
+3681,Screw this garbage!,1,1,0,0,0
+3682,Shut up! Nobody cares what you think!,1,0,0,1,0
+3683,Piece of shit broke!,1,1,0,0,0
+3684,Grateful for the help!,0,0,0,0,0
+3685,What a fucking waste!,1,1,0,0,0
+3686,This is complete fucking bullshit!,1,1,0,0,0
+3687,Piss poor quality!,1,1,0,0,0
+3688,You're worthless! Complete failure!,1,0,0,1,0
+3689,Standard quality for the price.,0,0,0,0,0
+3690,Wow! Just wow! Amazing!,0,0,0,0,0
+3691,"Good product, but could be improved.",0,0,0,0,0
+3692,Outstanding! Will buy again!,0,0,0,0,0
+3693,I'm coming for you!,1,0,1,0,0
+3694,Can we find common ground on this issue?,0,0,0,0,0
+3695,I know where you live!,1,0,1,0,0
+3696,"Works as intended, design could improve.",0,0,0,0,0
+3697,Your people are all the same!,1,0,0,0,1
+3698,Thank you for the excellent service!,0,0,0,0,0
+3699,This is incredible! Five stars!,0,0,0,0,0
+3700,The package arrived on time.,0,0,0,0,0
+3701,That's an interesting perspective. Here's mine.,0,0,0,0,0
+3702,Fuck this company!,1,1,0,0,0
+3703,Shit product!,1,1,0,0,0
+3704,Superb! Couldn't be happier!,0,0,0,0,0
+3705,Piece of junk! Trash!,1,1,0,0,0
+3706,Damn right!,1,1,0,0,0
+3707,What the fuck is wrong with you!,1,1,0,0,0
+3708,What a fucking waste!,1,1,0,0,0
+3709,Functional and practical.,0,0,0,0,0
+3710,What a loser! Get a life!,1,0,0,1,0
+3711,No complaints so far.,0,0,0,0,0
+3712,Fuck off! I don't care!,1,1,0,0,0
+3713,Absolutely fantastic! Exceeded all expectations!,0,0,0,0,0
+3714,Fuck off! I don't care!,1,1,0,0,0
+3715,This is shit quality!,1,1,0,0,0
+3716,"Good value, instructions unclear.",0,0,0,0,0
+3717,Meets my basic needs.,0,0,0,0,0
+3718,Can we find common ground on this issue?,0,0,0,0,0
+3719,I love this so much! Highly recommend!,0,0,0,0,0
+3720,This is complete BS!,1,1,0,0,0
+3721,This sucks so damn bad!,1,1,0,0,0
+3722,Functional and practical.,0,0,0,0,0
+3723,"Product is fine, packaging could be better.",0,0,0,0,0
+3724,Shit! This broke already!,1,1,0,0,0
+3725,Perfect! Exactly what I needed!,0,0,0,0,0
+3726,You better watch out!,1,0,1,0,0
+3727,This shit is unbelievable!,1,1,0,0,0
+3728,Damn it all to hell!,1,1,0,0,0
+3729,Don't mess with me!,1,0,1,0,0
+3730,"Decent quality, not perfect.",0,0,0,0,0
+3731,I love this so much! Highly recommend!,0,0,0,0,0
+3732,Typical behavior from your group!,1,0,0,0,1
+3733,Wow! Just wow! Amazing!,0,0,0,0,0
+3734,You don't deserve rights!,1,0,0,0,1
+3735,Fucking awful experience!,1,1,0,0,0
+3736,Screw this garbage!,1,1,0,0,0
+3737,Much appreciated!,0,0,0,0,0
+3738,Awesome! My whole family loves it!,0,0,0,0,0
+3739,What a load of crap!,1,1,0,0,0
+3740,This is complete fucking bullshit!,1,1,0,0,0
+3741,Product works as described.,0,0,0,0,0
+3742,What the hell!,1,1,0,0,0
+3743,This is shit quality!,1,1,0,0,0
+3744,Standard quality for the price.,0,0,0,0,0
+3745,What the fuck is wrong with you!,1,1,0,0,0
+3746,This is complete fucking bullshit!,1,1,0,0,0
+3747,Damn this thing!,1,1,0,0,0
+3748,Hell no! Fuck that!,1,1,0,0,0
+3749,As expected.,0,0,0,0,0
+3750,Moron! Can't believe how dumb you are!,1,0,0,1,0
+3751,Shit! This broke already!,1,1,0,0,0
+3752,This sucks so damn bad!,1,1,0,0,0
+3753,This is complete BS!,1,1,0,0,0
+3754,This is complete BS!,1,1,0,0,0
+3755,Could you please explain this more clearly?,0,0,0,0,0
+3756,Best thing ever! So happy!,0,0,0,0,0
+3757,Fucking worst ever!,1,1,0,0,0
+3758,Brilliant! Solved all my problems!,0,0,0,0,0
+3759,Fucking hell what a mess!,1,1,0,0,0
+3760,Functional and practical.,0,0,0,0,0
+3761,Brilliant! Solved all my problems!,0,0,0,0,0
+3762,This is complete fucking bullshit!,1,1,0,0,0
+3763,Fuck off! I don't care!,1,1,0,0,0
+3764,Fucking worst ever!,1,1,0,0,0
+3765,Terrific! Exceeds expectations!,0,0,0,0,0
+3766,You're going to pay for this!,1,0,1,0,0
+3767,Screwed up big time!,1,1,0,0,0
+3768,You're so stupid it hurts!,1,0,0,1,0
+3769,Can we find common ground on this issue?,0,0,0,0,0
+3770,Moron! Can't believe how dumb you are!,1,0,0,1,0
+3771,"Product is fine, packaging could be better.",0,0,0,0,0
+3772,You're an idiot and you don't know anything!,1,0,0,1,0
+3773,Damn shame!,1,1,0,0,0
+3774,Hell no! Fuck that!,1,1,0,0,0
+3775,Hell this is terrible!,1,1,0,0,0
+3776,Hell this is terrible!,1,1,0,0,0
+3777,Terrific! Exceeds expectations!,0,0,0,0,0
+3778,Ignorant fool! Learn something!,1,0,0,1,0
+3779,Holy fuck this sucks!,1,1,0,0,0
+3780,Grateful for the quick response!,0,0,0,0,0
+3781,Shitty product! Total crap!,1,1,0,0,0
+3782,What a fucking waste!,1,1,0,0,0
+3783,Fuck this company!,1,1,0,0,0
+3784,Piss poor quality!,1,1,0,0,0
+3785,Much appreciated!,0,0,0,0,0
+3786,Excellent quality! Very impressed!,0,0,0,0,0
+3787,You've made a big mistake!,1,0,1,0,0
+3788,Damn this thing!,1,1,0,0,0
+3789,Holy shit this is bad!,1,1,0,0,0
+3790,"Quality is good, price is fair.",0,0,0,0,0
+3791,Fucking worst ever!,1,1,0,0,0
+3792,Fucking disaster!,1,1,0,0,0
+3793,Fucking awful experience!,1,1,0,0,0
+3794,"Reliable product, customer service helpful.",0,0,0,0,0
+3795,Fucking hell what a mess!,1,1,0,0,0
+3796,What the fuck is wrong with you!,1,1,0,0,0
+3797,Damn it failed!,1,1,0,0,0
+3798,This sucks so damn bad!,1,1,0,0,0
+3799,Terrific! Exceeds expectations!,0,0,0,0,0
+3800,Screwed up big time!,1,1,0,0,0
+3801,Acceptable quality.,0,0,0,0,0
+3802,"Quality is good, price is fair.",0,0,0,0,0
+3803,What the hell!,1,1,0,0,0
+3804,Holy shit this is bad!,1,1,0,0,0
+3805,Product works as described.,0,0,0,0,0
+3806,Screwed up big time!,1,1,0,0,0
+3807,"I appreciate your viewpoint, but I see it differently.",0,0,0,0,0
+3808,Screwed up big time!,1,1,0,0,0
+3809,"Works as intended, design could improve.",0,0,0,0,0
+3810,Outstanding! Will buy again!,0,0,0,0,0
+3811,This sucks so damn bad!,1,1,0,0,0
+3812,What the hell is this shit!,1,1,0,0,0
+3813,Fuck this company!,1,1,0,0,0
+3814,Amazing experience! Thank you!,0,0,0,0,0
+3815,Fuck this company!,1,1,0,0,0
+3816,Piece of shit broke!,1,1,0,0,0
+3817,This sucks so damn bad!,1,1,0,0,0
+3818,Shitty service!,1,1,0,0,0
+3819,This is complete fucking bullshit!,1,1,0,0,0
+3820,This sucks so damn bad!,1,1,0,0,0
+3821,Damn it failed!,1,1,0,0,0
+3822,This is complete BS!,1,1,0,0,0
+3823,Product works as described.,0,0,0,0,0
+3824,This is shit quality!,1,1,0,0,0
+3825,What a load of crap!,1,1,0,0,0
+3826,"Good product, but could be improved.",0,0,0,0,0
+3827,Functional and practical.,0,0,0,0,0
+3828,Absolutely fantastic! Exceeded all expectations!,0,0,0,0,0
+3829,Wow! Just wow! Amazing!,0,0,0,0,0
+3830,You're full of shit!,1,1,0,0,0
+3831,Outsiders not welcome!,1,0,0,0,1
+3832,This product is amazing! Best purchase ever!,0,0,0,0,0
+3833,Let's approach this respectfully.,0,0,0,0,0
+3834,"Happy overall, small suggestions.",0,0,0,0,0
+3835,No complaints so far.,0,0,0,0,0
+3836,Fucking worst ever!,1,1,0,0,0
+3837,Fucking awful experience!,1,1,0,0,0
+3838,Love love love this!,0,0,0,0,0
+3839,"Good product, but could be improved.",0,0,0,0,0
+3840,Holy shit this is bad!,1,1,0,0,0
+3841,Holy shit this is bad!,1,1,0,0,0
+3842,You're full of shit!,1,1,0,0,0
+3843,What a load of crap!,1,1,0,0,0
+3844,That's an interesting perspective. Here's mine.,0,0,0,0,0
+3845,What the hell is this shit!,1,1,0,0,0
+3846,"Quality is good, price is fair.",0,0,0,0,0
+3847,Piss poor quality!,1,1,0,0,0
+3848,You better watch out!,1,0,1,0,0
+3849,Damn it failed!,1,1,0,0,0
+3850,What a loser! Get a life!,1,0,0,1,0
+3851,Your kind ruins everything!,1,0,0,0,1
+3852,Awesome! My whole family loves it!,0,0,0,0,0
+3853,What a load of crap!,1,1,0,0,0
+3854,Piece of shit broke!,1,1,0,0,0
+3855,Wonderful product! Highly satisfied!,0,0,0,0,0
+3856,What a shitshow!,1,1,0,0,0
+3857,I'm open to learning more about your position.,0,0,0,0,0
+3858,Grateful for the quick response!,0,0,0,0,0
+3859,Standard quality for the price.,0,0,0,0,0
+3860,What a load of crap!,1,1,0,0,0
+3861,You're pathetic and useless!,1,0,0,1,0
+3862,Watch your back!,1,0,1,0,0
+3863,Fuck off! I don't care!,1,1,0,0,0
+3864,You'll be sorry!,1,0,1,0,0
+3865,This crap doesn't work!,1,1,0,0,0
+3866,I know where you live!,1,0,1,0,0
+3867,Let's discuss this in a civil manner.,0,0,0,0,0
+3868,Bloody awful!,1,1,0,0,0
+3869,Grateful for the quick response!,0,0,0,0,0
+3870,I know where you live!,1,0,1,0,0
+3871,Fuck this stupid thing!,1,1,0,0,0
+3872,Product works as described.,0,0,0,0,0
+3873,Shit! This broke already!,1,1,0,0,0
+3874,Amazing experience! Thank you!,0,0,0,0,0
+3875,Thank you for sharing your thoughts.,0,0,0,0,0
+3876,I respectfully disagree with your opinion.,0,0,0,0,0
+3877,Fucking disaster!,1,1,0,0,0
+3878,Love love love this!,0,0,0,0,0
+3879,Fucking awful experience!,1,1,0,0,0
+3880,I respectfully disagree with your opinion.,0,0,0,0,0
+3881,This is incredible! Five stars!,0,0,0,0,0
+3882,Don't mess with me!,1,0,1,0,0
+3883,OMG this is so good!!!,0,0,0,0,0
+3884,God damn piece of shit!,1,1,0,0,0
+3885,Fucking disaster!,1,1,0,0,0
+3886,"Good product, but could be improved.",0,0,0,0,0
+3887,This product is amazing! Best purchase ever!,0,0,0,0,0
+3888,Hell no! Fuck that!,1,1,0,0,0
+3889,Damn this thing!,1,1,0,0,0
+3890,I'm coming for you!,1,0,1,0,0
+3891,You don't deserve rights!,1,0,0,0,1
+3892,Excellent quality! Very impressed!,0,0,0,0,0
+3893,Fuck this company!,1,1,0,0,0
+3894,Shut up! Nobody cares what you think!,1,0,0,1,0
+3895,Wow! Just wow! Amazing!,0,0,0,0,0
+3896,Absolutely fantastic! Exceeded all expectations!,0,0,0,0,0
+3897,Awesome! My whole family loves it!,0,0,0,0,0
+3898,Thanks for the recommendation!,0,0,0,0,0
+3899,Amazing experience! Thank you!,0,0,0,0,0
+3900,Your culture is backwards!,1,0,0,0,1
+3901,Superb! Couldn't be happier!,0,0,0,0,0
+3902,Fucking disaster!,1,1,0,0,0
+3903,Bloody awful!,1,1,0,0,0
+3904,Don't mess with me!,1,0,1,0,0
+3905,Don't mess with me!,1,0,1,0,0
+3906,Piece of junk! Trash!,1,1,0,0,0
+3907,Screw this garbage!,1,1,0,0,0
+3908,You're worthless! Complete failure!,1,0,0,1,0
+3909,Item matches the description.,0,0,0,0,0
+3910,This damn thing is broken!,1,1,0,0,0
+3911,Ignorant fool! Learn something!,1,0,0,1,0
+3912,I think there might be a misunderstanding here.,0,0,0,0,0
+3913,Fantastic! Worth every penny!,0,0,0,0,0
+3914,Screwed up big time!,1,1,0,0,0
+3915,People like you don't belong here!,1,0,0,0,1
+3916,I'll make sure you regret this!,1,0,1,0,0
+3917,Delivery was prompt.,0,0,0,0,0
+3918,Damn it failed!,1,1,0,0,0
+3919,Stay with your own kind!,1,0,0,0,1
+3920,Hell of a bad product!,1,1,0,0,0
+3921,This is fucking ridiculous!,1,1,0,0,0
+3922,Damn it all to hell!,1,1,0,0,0
+3923,Piece of shit broke!,1,1,0,0,0
+3924,"Happy overall, small suggestions.",0,0,0,0,0
+3925,Holy fuck this sucks!,1,1,0,0,0
+3926,Damn this thing!,1,1,0,0,0
+3927,"Reliable product, customer service helpful.",0,0,0,0,0
+3928,Product works as described.,0,0,0,0,0
+3929,This shit is unbelievable!,1,1,0,0,0
+3930,Amazing experience! Thank you!,0,0,0,0,0
+3931,This crap doesn't work!,1,1,0,0,0
+3932,Ignorant fool! Learn something!,1,0,0,1,0
+3933,Can't believe how good this is!,0,0,0,0,0
+3934,Delivery was prompt.,0,0,0,0,0
+3935,Much appreciated!,0,0,0,0,0
+3936,Holy shit this is bad!,1,1,0,0,0
+3937,You're so stupid it hurts!,1,0,0,1,0
+3938,What a fucking waste!,1,1,0,0,0
+3939,This is incredible! Five stars!,0,0,0,0,0
+3940,Absolutely fantastic! Exceeded all expectations!,0,0,0,0,0
+3941,What the fuck is wrong with you!,1,1,0,0,0
+3942,Hell this is terrible!,1,1,0,0,0
+3943,This crap doesn't work!,1,1,0,0,0
+3944,Outsiders not welcome!,1,0,0,0,1
+3945,Product works as described.,0,0,0,0,0
+3946,What the fuck is wrong with you!,1,1,0,0,0
+3947,Excellent quality! Very impressed!,0,0,0,0,0
+3948,Amazing experience! Thank you!,0,0,0,0,0
+3949,Your kind ruins everything!,1,0,0,0,1
+3950,This product is amazing! Best purchase ever!,0,0,0,0,0
+3951,Watch your back!,1,0,1,0,0
+3952,Great service! Very pleased!,0,0,0,0,0
+3953,I think there might be a misunderstanding here.,0,0,0,0,0
+3954,Shut up! Nobody cares what you think!,1,0,0,1,0
+3955,What the hell is this shit!,1,1,0,0,0
+3956,As expected.,0,0,0,0,0
+3957,Damn shame!,1,1,0,0,0
+3958,Holy shit this is bad!,1,1,0,0,0
+3959,This is incredible! Five stars!,0,0,0,0,0
+3960,Moron! Can't believe how dumb you are!,1,0,0,1,0
+3961,I think there might be a misunderstanding here.,0,0,0,0,0
+3962,Bloody awful!,1,1,0,0,0
+3963,No complaints so far.,0,0,0,0,0
+3964,Great service! Very pleased!,0,0,0,0,0
+3965,This fucking sucks!,1,1,0,0,0
+3966,Bloody awful!,1,1,0,0,0
+3967,What a loser! Get a life!,1,0,0,1,0
+3968,You're worthless! Complete failure!,1,0,0,1,0
+3969,"Satisfied, though shipping took long.",0,0,0,0,0
+3970,Fantastic! Worth every penny!,0,0,0,0,0
+3971,You're full of shit!,1,1,0,0,0
+3972,This is shit quality!,1,1,0,0,0
+3973,Piss poor quality!,1,1,0,0,0
+3974,What a shitshow!,1,1,0,0,0
+3975,Fantastic! Worth every penny!,0,0,0,0,0
+3976,What the fuck is wrong with you!,1,1,0,0,0
+3977,Fucking hell what a mess!,1,1,0,0,0
+3978,Meets my basic needs.,0,0,0,0,0
+3979,This is fucking ridiculous!,1,1,0,0,0
+3980,Piss poor quality!,1,1,0,0,0
+3981,You're a joke! Everyone laughs at you!,1,0,0,1,0
+3982,Holy shit this is bad!,1,1,0,0,0
+3983,Fucking awful experience!,1,1,0,0,0
+3984,Shit product!,1,1,0,0,0
+3985,Fucking awful experience!,1,1,0,0,0
+3986,Bloody awful!,1,1,0,0,0
+3987,People like you don't belong here!,1,0,0,0,1
+3988,Screwed up big time!,1,1,0,0,0
+3989,The package arrived on time.,0,0,0,0,0
+3990,This is complete BS!,1,1,0,0,0
+3991,You're full of shit!,1,1,0,0,0
+3992,Hell this is terrible!,1,1,0,0,0
+3993,I'll make sure you regret this!,1,0,1,0,0
+3994,This is utter crap!,1,1,0,0,0
+3995,What a shitshow!,1,1,0,0,0
+3996,Awesome! My whole family loves it!,0,0,0,0,0
+3997,OMG this is so good!!!,0,0,0,0,0
+3998,This is complete fucking bullshit!,1,1,0,0,0
+3999,This is incredible! Five stars!,0,0,0,0,0
+4000,Appreciate the fast delivery!,0,0,0,0,0
+4001,Excellent quality! Very impressed!,0,0,0,0,0
+4002,Damn shame!,1,1,0,0,0
+4003,"Product is fine, packaging could be better.",0,0,0,0,0
+4004,Shit product!,1,1,0,0,0
+4005,Item matches the description.,0,0,0,0,0
+4006,Screwed up big time!,1,1,0,0,0
+4007,Very thankful for this!,0,0,0,0,0
+4008,Delivery was prompt.,0,0,0,0,0
+4009,Product works as described.,0,0,0,0,0
+4010,Damn right!,1,1,0,0,0
+4011,"Product is fine, packaging could be better.",0,0,0,0,0
+4012,I'm coming for you!,1,0,1,0,0
+4013,"Works well, minor issues with setup.",0,0,0,0,0
+4014,Shitty service!,1,1,0,0,0
+4015,Your people are all the same!,1,0,0,0,1
+4016,"Happy overall, small suggestions.",0,0,0,0,0
+4017,Product works as described.,0,0,0,0,0
+4018,Perfect! Exactly what I needed!,0,0,0,0,0
+4019,This product is amazing! Best purchase ever!,0,0,0,0,0
+4020,People like you don't belong here!,1,0,0,0,1
+4021,Item matches the description.,0,0,0,0,0
+4022,This product is amazing! Best purchase ever!,0,0,0,0,0
+4023,Shit product!,1,1,0,0,0
+4024,"Decent quality, not perfect.",0,0,0,0,0
+4025,This is complete BS!,1,1,0,0,0
+4026,You're going to pay for this!,1,0,1,0,0
+4027,I think there might be a misunderstanding here.,0,0,0,0,0
+4028,Piece of shit broke!,1,1,0,0,0
+4029,Outsiders not welcome!,1,0,0,0,1
+4030,Piss poor quality!,1,1,0,0,0
+4031,Functional and practical.,0,0,0,0,0
+4032,Damn right!,1,1,0,0,0
+4033,What the hell is this shit!,1,1,0,0,0
+4034,"Works as intended, design could improve.",0,0,0,0,0
+4035,Watch your back!,1,0,1,0,0
+4036,What a fucking waste!,1,1,0,0,0
+4037,You're worthless! Complete failure!,1,0,0,1,0
+4038,Superb! Couldn't be happier!,0,0,0,0,0
+4039,Perfect! Exactly what I needed!,0,0,0,0,0
+4040,Meets my basic needs.,0,0,0,0,0
+4041,Watch your back!,1,0,1,0,0
+4042,This is complete BS!,1,1,0,0,0
+4043,Fucking hell what a mess!,1,1,0,0,0
+4044,Damn it failed!,1,1,0,0,0
+4045,You're full of shit!,1,1,0,0,0
+4046,Superb! Couldn't be happier!,0,0,0,0,0
+4047,Delivery was prompt.,0,0,0,0,0
+4048,Love love love this!,0,0,0,0,0
+4049,That's an interesting perspective. Here's mine.,0,0,0,0,0
+4050,Appreciate the fast delivery!,0,0,0,0,0
+4051,Holy fuck this sucks!,1,1,0,0,0
+4052,Love love love this!,0,0,0,0,0
+4053,I respectfully disagree with your opinion.,0,0,0,0,0
+4054,You're going to pay for this!,1,0,1,0,0
+4055,What a fucking waste!,1,1,0,0,0
+4056,Brilliant! Solved all my problems!,0,0,0,0,0
+4057,People like you don't belong here!,1,0,0,0,1
+4058,Damn right!,1,1,0,0,0
+4059,Standard quality for the price.,0,0,0,0,0
+4060,The package arrived on time.,0,0,0,0,0
+4061,This is utter crap!,1,1,0,0,0
+4062,Your kind ruins everything!,1,0,0,0,1
+4063,Standard quality for the price.,0,0,0,0,0
+4064,"Good value, instructions unclear.",0,0,0,0,0
+4065,Brilliant! Solved all my problems!,0,0,0,0,0
+4066,Meets my basic needs.,0,0,0,0,0
+4067,OMG this is so good!!!,0,0,0,0,0
+4068,I'll make sure you regret this!,1,0,1,0,0
+4069,Can we find common ground on this issue?,0,0,0,0,0
+4070,Outsiders not welcome!,1,0,0,0,1
+4071,This is shit quality!,1,1,0,0,0
+4072,Functional and practical.,0,0,0,0,0
+4073,Hell no! Fuck that!,1,1,0,0,0
+4074,"I appreciate your viewpoint, but I see it differently.",0,0,0,0,0
+4075,Damn it all to hell!,1,1,0,0,0
+4076,I'll make sure you regret this!,1,0,1,0,0
+4077,Great service! Very pleased!,0,0,0,0,0
+4078,What the hell is this shit!,1,1,0,0,0
+4079,What the fuck is wrong with you!,1,1,0,0,0
+4080,Don't mess with me!,1,0,1,0,0
+4081,Your culture is backwards!,1,0,0,0,1
+4082,"Decent quality, not perfect.",0,0,0,0,0
+4083,Absolutely fantastic! Exceeded all expectations!,0,0,0,0,0
+4084,Hell of a bad product!,1,1,0,0,0
+4085,You're pathetic and useless!,1,0,0,1,0
+4086,Item matches the description.,0,0,0,0,0
+4087,Shit product!,1,1,0,0,0
+4088,Fucking worst ever!,1,1,0,0,0
+4089,This is shit quality!,1,1,0,0,0
+4090,Fucking worst ever!,1,1,0,0,0
+4091,Awesome! My whole family loves it!,0,0,0,0,0
+4092,This damn thing is broken!,1,1,0,0,0
+4093,OMG this is so good!!!,0,0,0,0,0
+4094,Love love love this!,0,0,0,0,0
+4095,OMG this is so good!!!,0,0,0,0,0
+4096,What the hell is this shit!,1,1,0,0,0
+4097,Bloody awful!,1,1,0,0,0
+4098,This fucking sucks!,1,1,0,0,0
+4099,Fucking worst ever!,1,1,0,0,0
+4100,Fuck this company!,1,1,0,0,0
+4101,Fucking disaster!,1,1,0,0,0
+4102,"I appreciate your viewpoint, but I see it differently.",0,0,0,0,0
+4103,Damn shame!,1,1,0,0,0
+4104,Wow! Just wow! Amazing!,0,0,0,0,0
+4105,"Quality is good, price is fair.",0,0,0,0,0
+4106,This crap doesn't work!,1,1,0,0,0
+4107,Standard quality for the price.,0,0,0,0,0
+4108,This sucks so damn bad!,1,1,0,0,0
+4109,You're a joke! Everyone laughs at you!,1,0,0,1,0
+4110,You're pathetic and useless!,1,0,0,1,0
+4111,Acceptable quality.,0,0,0,0,0
+4112,This is complete fucking bullshit!,1,1,0,0,0
+4113,Fucking worst ever!,1,1,0,0,0
+4114,Go back to where you came from!,1,0,0,0,1
+4115,Damn this thing!,1,1,0,0,0
+4116,This crap doesn't work!,1,1,0,0,0
+4117,Piece of shit broke!,1,1,0,0,0
+4118,What a fucking waste!,1,1,0,0,0
+4119,What a fucking waste!,1,1,0,0,0
+4120,What a load of crap!,1,1,0,0,0
+4121,Delivery was prompt.,0,0,0,0,0
+4122,Best thing ever! So happy!,0,0,0,0,0
+4123,Perfect! Exactly what I needed!,0,0,0,0,0
+4124,Grateful for the help!,0,0,0,0,0
+4125,Delivery was prompt.,0,0,0,0,0
+4126,That's an interesting perspective. Here's mine.,0,0,0,0,0
+4127,Holy fuck this sucks!,1,1,0,0,0
+4128,Love love love this!,0,0,0,0,0
+4129,Terrific! Exceeds expectations!,0,0,0,0,0
+4130,This is fucking ridiculous!,1,1,0,0,0
+4131,Holy shit this is bad!,1,1,0,0,0
+4132,Meets my basic needs.,0,0,0,0,0
+4133,Disgusting person! Stay away!,1,0,0,1,0
+4134,Much appreciated!,0,0,0,0,0
+4135,Great service! Very pleased!,0,0,0,0,0
+4136,You're full of shit!,1,1,0,0,0
+4137,You're going to pay for this!,1,0,1,0,0
+4138,What a shitshow!,1,1,0,0,0
+4139,What a shitshow!,1,1,0,0,0
+4140,Superb! Couldn't be happier!,0,0,0,0,0
+4141,What a load of crap!,1,1,0,0,0
+4142,Excellent quality! Very impressed!,0,0,0,0,0
+4143,What the fuck is wrong with you!,1,1,0,0,0
+4144,You're full of shit!,1,1,0,0,0
+4145,Standard quality for the price.,0,0,0,0,0
+4146,I love this so much! Highly recommend!,0,0,0,0,0
+4147,Let's discuss this in a civil manner.,0,0,0,0,0
+4148,Stay with your own kind!,1,0,0,0,1
+4149,Meets my basic needs.,0,0,0,0,0
+4150,This shit is unbelievable!,1,1,0,0,0
+4151,This fucking sucks!,1,1,0,0,0
+4152,OMG this is so good!!!,0,0,0,0,0
+4153,Outstanding! Will buy again!,0,0,0,0,0
+4154,Stay with your own kind!,1,0,0,0,1
+4155,Can we find common ground on this issue?,0,0,0,0,0
+4156,Shitty product! Total crap!,1,1,0,0,0
+4157,You've made a big mistake!,1,0,1,0,0
+4158,Thanks for the recommendation!,0,0,0,0,0
+4159,What a shitshow!,1,1,0,0,0
+4160,Ignorant fool! Learn something!,1,0,0,1,0
+4161,Best thing ever! So happy!,0,0,0,0,0
+4162,You've made a big mistake!,1,0,1,0,0
+4163,Holy shit this is bad!,1,1,0,0,0
+4164,Wow! Just wow! Amazing!,0,0,0,0,0
+4165,Wow! Just wow! Amazing!,0,0,0,0,0
+4166,Your kind ruins everything!,1,0,0,0,1
+4167,Can we find common ground on this issue?,0,0,0,0,0
+4168,This is fucking ridiculous!,1,1,0,0,0
+4169,Hell of a bad product!,1,1,0,0,0
+4170,Your kind ruins everything!,1,0,0,0,1
+4171,Shit product!,1,1,0,0,0
+4172,Let's discuss this in a civil manner.,0,0,0,0,0
+4173,Shit! This broke already!,1,1,0,0,0
+4174,This damn thing is broken!,1,1,0,0,0
+4175,What a shitshow!,1,1,0,0,0
+4176,What the fuck is wrong with you!,1,1,0,0,0
+4177,Product works as described.,0,0,0,0,0
+4178,What the hell is this shit!,1,1,0,0,0
+4179,Best thing ever! So happy!,0,0,0,0,0
+4180,Fuck this stupid thing!,1,1,0,0,0
+4181,This damn thing is broken!,1,1,0,0,0
+4182,Holy shit this is bad!,1,1,0,0,0
+4183,Bloody awful!,1,1,0,0,0
+4184,Go back to where you came from!,1,0,0,0,1
+4185,Great service! Very pleased!,0,0,0,0,0
+4186,Stay with your own kind!,1,0,0,0,1
+4187,Functional and practical.,0,0,0,0,0
+4188,No complaints so far.,0,0,0,0,0
+4189,Love love love this!,0,0,0,0,0
+4190,Damn it all to hell!,1,1,0,0,0
+4191,Thank you for the excellent service!,0,0,0,0,0
+4192,You're an idiot and you don't know anything!,1,0,0,1,0
+4193,Damn it all to hell!,1,1,0,0,0
+4194,Excellent quality! Very impressed!,0,0,0,0,0
+4195,People like you don't belong here!,1,0,0,0,1
+4196,Fuck off! I don't care!,1,1,0,0,0
+4197,Delivery was prompt.,0,0,0,0,0
+4198,Screw this garbage!,1,1,0,0,0
+4199,This sucks so damn bad!,1,1,0,0,0
+4200,What a shitshow!,1,1,0,0,0
+4201,"Happy overall, small suggestions.",0,0,0,0,0
+4202,As expected.,0,0,0,0,0
+4203,"Good product, but could be improved.",0,0,0,0,0
+4204,No complaints so far.,0,0,0,0,0
+4205,What a shitshow!,1,1,0,0,0
+4206,Can't believe how good this is!,0,0,0,0,0
+4207,Fuck this company!,1,1,0,0,0
+4208,Go back to where you came from!,1,0,0,0,1
+4209,"Works well, minor issues with setup.",0,0,0,0,0
+4210,Delivery was prompt.,0,0,0,0,0
+4211,Don't mess with me!,1,0,1,0,0
+4212,Love love love this!,0,0,0,0,0
+4213,You better watch out!,1,0,1,0,0
+4214,Acceptable quality.,0,0,0,0,0
+4215,Fuck this company!,1,1,0,0,0
+4216,This crap doesn't work!,1,1,0,0,0
+4217,"Good product, but could be improved.",0,0,0,0,0
+4218,Hell no! Fuck that!,1,1,0,0,0
+4219,This shit is unbelievable!,1,1,0,0,0
+4220,You better watch out!,1,0,1,0,0
+4221,Item matches the description.,0,0,0,0,0
+4222,God damn piece of shit!,1,1,0,0,0
+4223,Superb! Couldn't be happier!,0,0,0,0,0
+4224,Brilliant! Solved all my problems!,0,0,0,0,0
+4225,This is complete BS!,1,1,0,0,0
+4226,You're pathetic and useless!,1,0,0,1,0
+4227,Can't believe how good this is!,0,0,0,0,0
+4228,Can't believe how good this is!,0,0,0,0,0
+4229,Item matches the description.,0,0,0,0,0
+4230,Could you please explain this more clearly?,0,0,0,0,0
+4231,God damn piece of shit!,1,1,0,0,0
+4232,"Quality is good, price is fair.",0,0,0,0,0
+4233,Wow! Just wow! Amazing!,0,0,0,0,0
+4234,Hell this is terrible!,1,1,0,0,0
+4235,No complaints so far.,0,0,0,0,0
+4236,As expected.,0,0,0,0,0
+4237,You're so stupid it hurts!,1,0,0,1,0
+4238,Damn it failed!,1,1,0,0,0
+4239,This is incredible! Five stars!,0,0,0,0,0
+4240,Thanks for resolving my issue!,0,0,0,0,0
+4241,Could you please explain this more clearly?,0,0,0,0,0
+4242,Your kind ruins everything!,1,0,0,0,1
+4243,This is complete fucking bullshit!,1,1,0,0,0
+4244,This fucking sucks!,1,1,0,0,0
+4245,Fucking awful experience!,1,1,0,0,0
+4246,Fucking hell what a mess!,1,1,0,0,0
+4247,"Decent quality, not perfect.",0,0,0,0,0
+4248,What a shitshow!,1,1,0,0,0
+4249,Awesome! My whole family loves it!,0,0,0,0,0
+4250,Superb! Couldn't be happier!,0,0,0,0,0
+4251,You're going to pay for this!,1,0,1,0,0
+4252,Absolutely fantastic! Exceeded all expectations!,0,0,0,0,0
+4253,Fuck off! I don't care!,1,1,0,0,0
+4254,Meets my basic needs.,0,0,0,0,0
+4255,"Works well, minor issues with setup.",0,0,0,0,0
+4256,Watch your back!,1,0,1,0,0
+4257,Go back to where you came from!,1,0,0,0,1
+4258,Let's discuss this in a civil manner.,0,0,0,0,0
+4259,Love love love this!,0,0,0,0,0
+4260,I love this so much! Highly recommend!,0,0,0,0,0
+4261,The package arrived on time.,0,0,0,0,0
+4262,Thank you so much!,0,0,0,0,0
+4263,Piss poor quality!,1,1,0,0,0
+4264,Damn this thing!,1,1,0,0,0
+4265,Outstanding! Will buy again!,0,0,0,0,0
+4266,Fantastic! Worth every penny!,0,0,0,0,0
+4267,Superb! Couldn't be happier!,0,0,0,0,0
+4268,Damn it all to hell!,1,1,0,0,0
+4269,Brilliant! Solved all my problems!,0,0,0,0,0
+4270,"I appreciate your viewpoint, but I see it differently.",0,0,0,0,0
+4271,This is shit quality!,1,1,0,0,0
+4272,Go back to where you came from!,1,0,0,0,1
+4273,Delivery was prompt.,0,0,0,0,0
+4274,Fuck off! I don't care!,1,1,0,0,0
+4275,Shitty service!,1,1,0,0,0
+4276,Superb! Couldn't be happier!,0,0,0,0,0
+4277,Brilliant! Solved all my problems!,0,0,0,0,0
+4278,Amazing experience! Thank you!,0,0,0,0,0
+4279,This product is amazing! Best purchase ever!,0,0,0,0,0
+4280,Fucking worst ever!,1,1,0,0,0
+4281,Meets my basic needs.,0,0,0,0,0
+4282,I love this so much! Highly recommend!,0,0,0,0,0
+4283,Absolutely fantastic! Exceeded all expectations!,0,0,0,0,0
+4284,This product is amazing! Best purchase ever!,0,0,0,0,0
+4285,Wow! Just wow! Amazing!,0,0,0,0,0
+4286,God damn piece of shit!,1,1,0,0,0
+4287,Grateful for the help!,0,0,0,0,0
+4288,Piece of shit broke!,1,1,0,0,0
+4289,What a shitshow!,1,1,0,0,0
+4290,Ignorant fool! Learn something!,1,0,0,1,0
+4291,Can we find common ground on this issue?,0,0,0,0,0
+4292,You're going to pay for this!,1,0,1,0,0
+4293,Item matches the description.,0,0,0,0,0
+4294,Thank you for the excellent service!,0,0,0,0,0
+4295,"I appreciate your viewpoint, but I see it differently.",0,0,0,0,0
+4296,Piss poor quality!,1,1,0,0,0
+4297,Delivery was prompt.,0,0,0,0,0
+4298,Moron! Can't believe how dumb you are!,1,0,0,1,0
+4299,Meets my basic needs.,0,0,0,0,0
+4300,Hell no! Fuck that!,1,1,0,0,0
+4301,Awesome! My whole family loves it!,0,0,0,0,0
+4302,No complaints so far.,0,0,0,0,0
+4303,"Works as intended, design could improve.",0,0,0,0,0
+4304,Screwed up big time!,1,1,0,0,0
+4305,Bloody awful!,1,1,0,0,0
+4306,Can't believe how good this is!,0,0,0,0,0
+4307,Moron! Can't believe how dumb you are!,1,0,0,1,0
+4308,Piece of shit broke!,1,1,0,0,0
+4309,Product works as described.,0,0,0,0,0
+4310,Hell of a bad product!,1,1,0,0,0
+4311,"Product is fine, packaging could be better.",0,0,0,0,0
+4312,Outstanding! Will buy again!,0,0,0,0,0
+4313,You're full of shit!,1,1,0,0,0
+4314,What a loser! Get a life!,1,0,0,1,0
+4315,That's an interesting perspective. Here's mine.,0,0,0,0,0
+4316,Meets my basic needs.,0,0,0,0,0
+4317,I'll make sure you regret this!,1,0,1,0,0
+4318,This is complete fucking bullshit!,1,1,0,0,0
+4319,Moron! Can't believe how dumb you are!,1,0,0,1,0
+4320,This product is amazing! Best purchase ever!,0,0,0,0,0
+4321,You're full of shit!,1,1,0,0,0
+4322,What a shitshow!,1,1,0,0,0
+4323,I think there might be a misunderstanding here.,0,0,0,0,0
+4324,This is fucking ridiculous!,1,1,0,0,0
+4325,Bloody awful!,1,1,0,0,0
+4326,Superb! Couldn't be happier!,0,0,0,0,0
+4327,Shitty service!,1,1,0,0,0
+4328,Fuck this stupid thing!,1,1,0,0,0
+4329,Hell of a bad product!,1,1,0,0,0
+4330,Fuck this company!,1,1,0,0,0
+4331,Fucking awful experience!,1,1,0,0,0
+4332,Amazing experience! Thank you!,0,0,0,0,0
+4333,Meets my basic needs.,0,0,0,0,0
+4334,Your culture is backwards!,1,0,0,0,1
+4335,Absolutely fantastic! Exceeded all expectations!,0,0,0,0,0
+4336,Fucking worst ever!,1,1,0,0,0
+4337,Go back to where you came from!,1,0,0,0,1
+4338,Shitty product! Total crap!,1,1,0,0,0
+4339,This crap doesn't work!,1,1,0,0,0
+4340,Fucking worst ever!,1,1,0,0,0
+4341,Amazing experience! Thank you!,0,0,0,0,0
+4342,Much appreciated!,0,0,0,0,0
+4343,You're an idiot and you don't know anything!,1,0,0,1,0
+4344,Shitty service!,1,1,0,0,0
+4345,Go back to where you came from!,1,0,0,0,1
+4346,Fucking hell what a mess!,1,1,0,0,0
+4347,Fuck this stupid thing!,1,1,0,0,0
+4348,Shit! This broke already!,1,1,0,0,0
+4349,Standard quality for the price.,0,0,0,0,0
+4350,God damn piece of shit!,1,1,0,0,0
+4351,You're full of shit!,1,1,0,0,0
+4352,Inferior and unwanted!,1,0,0,0,1
+4353,Piece of shit broke!,1,1,0,0,0
+4354,You're a joke! Everyone laughs at you!,1,0,0,1,0
+4355,Love love love this!,0,0,0,0,0
+4356,Holy fuck this sucks!,1,1,0,0,0
+4357,Hell of a bad product!,1,1,0,0,0
+4358,As expected.,0,0,0,0,0
+4359,Thank you for sharing your thoughts.,0,0,0,0,0
+4360,I know where you live!,1,0,1,0,0
+4361,Fucking disaster!,1,1,0,0,0
+4362,Delivery was prompt.,0,0,0,0,0
+4363,Great service! Very pleased!,0,0,0,0,0
+4364,Fantastic! Worth every penny!,0,0,0,0,0
+4365,This sucks so damn bad!,1,1,0,0,0
+4366,Holy fuck this sucks!,1,1,0,0,0
+4367,Hell of a bad product!,1,1,0,0,0
+4368,As expected.,0,0,0,0,0
+4369,Superb! Couldn't be happier!,0,0,0,0,0
+4370,Piece of junk! Trash!,1,1,0,0,0
+4371,Hell this is terrible!,1,1,0,0,0
+4372,You're an idiot and you don't know anything!,1,0,0,1,0
+4373,This is incredible! Five stars!,0,0,0,0,0
+4374,Your people are all the same!,1,0,0,0,1
+4375,Hell of a bad product!,1,1,0,0,0
+4376,As expected.,0,0,0,0,0
+4377,Shit product!,1,1,0,0,0
+4378,Your culture is backwards!,1,0,0,0,1
+4379,Shut up! Nobody cares what you think!,1,0,0,1,0
+4380,Amazing experience! Thank you!,0,0,0,0,0
+4381,Your people are all the same!,1,0,0,0,1
+4382,Hell no! Fuck that!,1,1,0,0,0
+4383,What a shitshow!,1,1,0,0,0
+4384,Don't mess with me!,1,0,1,0,0
+4385,Absolutely fantastic! Exceeded all expectations!,0,0,0,0,0
+4386,Grateful for the help!,0,0,0,0,0
+4387,This shit is unbelievable!,1,1,0,0,0
+4388,Don't mess with me!,1,0,1,0,0
+4389,Can't believe how good this is!,0,0,0,0,0
+4390,This sucks so damn bad!,1,1,0,0,0
+4391,Delivery was prompt.,0,0,0,0,0
+4392,"Satisfied, though shipping took long.",0,0,0,0,0
+4393,Very thankful for this!,0,0,0,0,0
+4394,"Works as intended, design could improve.",0,0,0,0,0
+4395,You're full of shit!,1,1,0,0,0
+4396,Product works as described.,0,0,0,0,0
+4397,What a shitshow!,1,1,0,0,0
+4398,"Quality is good, price is fair.",0,0,0,0,0
+4399,Piece of junk! Trash!,1,1,0,0,0
+4400,The package arrived on time.,0,0,0,0,0
+4401,Holy fuck this sucks!,1,1,0,0,0
+4402,Delivery was prompt.,0,0,0,0,0
+4403,Bloody awful!,1,1,0,0,0
+4404,You're an idiot and you don't know anything!,1,0,0,1,0
+4405,What the fuck is wrong with you!,1,1,0,0,0
+4406,"Works well, minor issues with setup.",0,0,0,0,0
+4407,Fantastic! Worth every penny!,0,0,0,0,0
+4408,What the hell is this shit!,1,1,0,0,0
+4409,What a shitshow!,1,1,0,0,0
+4410,Shit! This broke already!,1,1,0,0,0
+4411,Thanks for resolving my issue!,0,0,0,0,0
+4412,Can't believe how good this is!,0,0,0,0,0
+4413,Go back to where you came from!,1,0,0,0,1
+4414,Product works as described.,0,0,0,0,0
+4415,This damn thing is broken!,1,1,0,0,0
+4416,Awesome! My whole family loves it!,0,0,0,0,0
+4417,You're full of shit!,1,1,0,0,0
+4418,This sucks so damn bad!,1,1,0,0,0
+4419,Fucking hell what a mess!,1,1,0,0,0
+4420,I'll ruin your life!,1,0,1,0,0
+4421,Amazing experience! Thank you!,0,0,0,0,0
+4422,Perfect! Exactly what I needed!,0,0,0,0,0
+4423,Much appreciated!,0,0,0,0,0
+4424,Shit! This broke already!,1,1,0,0,0
+4425,Love love love this!,0,0,0,0,0
+4426,What the hell is this shit!,1,1,0,0,0
+4427,Damn it all to hell!,1,1,0,0,0
+4428,Meets my basic needs.,0,0,0,0,0
+4429,Love love love this!,0,0,0,0,0
+4430,Damn this thing!,1,1,0,0,0
+4431,What a loser! Get a life!,1,0,0,1,0
+4432,Superb! Couldn't be happier!,0,0,0,0,0
+4433,Best thing ever! So happy!,0,0,0,0,0
+4434,Best thing ever! So happy!,0,0,0,0,0

@@ -1,0 +1,3001 @@
+id,text,emotion,joy,sadness,anger,fear,surprise
+0,Panic setting in. Heart racing!,fear,0,0,0,1,0
+1,Yay! Finally got what I wanted! So excited!,joy,1,0,0,0,0
+2,Amazed! What a twist!,surprise,0,0,0,0,1
+3,Flabbergasted! Speechless!,surprise,0,0,0,0,1
+4,Startled! That came out of nowhere!,surprise,0,0,0,0,1
+5,Wow! I didn't expect this at all! 😲,surprise,0,0,0,0,1
+6,This is terrifying. I don't know what to do.,fear,0,0,0,1,0
+7,Overjoyed! Dreams coming true!,joy,1,0,0,0,0
+8,Astonished! Never saw that coming!,surprise,0,0,0,0,1
+9,Afraid of what might happen. So nervous!,fear,0,0,0,1,0
+10,This is terrifying. I don't know what to do.,fear,0,0,0,1,0
+11,Mad as hell! This is infuriating!,anger,0,0,1,0,0
+12,Delighted with the results! So pleased!,joy,1,0,0,0,0
+13,I'm so happy! This made my day! 😄,joy,1,0,0,0,0
+14,Stunned! This is mind-blowing!,surprise,0,0,0,0,1
+15,Melancholic mood. Nothing helps.,sadness,0,1,0,0,0
+16,I'm really sad about this. Feeling down 😢,sadness,0,1,0,0,0
+17,Delighted with the results! So pleased!,joy,1,0,0,0,0
+18,Grief and sorrow overwhelming me.,sadness,0,1,0,0,0
+19,Overjoyed! Dreams coming true!,joy,1,0,0,0,0
+20,Delighted with the results! So pleased!,joy,1,0,0,0,0
+21,Overjoyed! Dreams coming true!,joy,1,0,0,0,0
+22,Hostile and aggressive! Fed up!,anger,0,0,1,0,0
+23,I'm so happy! This made my day! 😄,joy,1,0,0,0,0
+24,I'm really sad about this. Feeling down 😢,sadness,0,1,0,0,0
+25,I'm so happy! This made my day! 😄,joy,1,0,0,0,0
+26,Paranoid thoughts. Everything seems threatening!,fear,0,0,0,1,0
+27,Startled! That came out of nowhere!,surprise,0,0,0,0,1
+28,Seething with rage! Lost my temper!,anger,0,0,1,0,0
+29,Astonished! Never saw that coming!,surprise,0,0,0,0,1
+30,Frightened and vulnerable. Need protection!,fear,0,0,0,1,0
+31,Feeling euphoric! Amazing news!,joy,1,0,0,0,0
+32,Feeling blue today. Everything seems grey.,sadness,0,1,0,0,0
+33,Content and peaceful! Life is wonderful!,joy,1,0,0,0,0
+34,Irritated beyond words! So frustrating!,anger,0,0,1,0,0
+35,Furious! How dare they treat me like this!,anger,0,0,1,0,0
+36,Frightened and vulnerable. Need protection!,fear,0,0,0,1,0
+37,Terrified! This is my worst nightmare!,fear,0,0,0,1,0
+38,Astonished! Never saw that coming!,surprise,0,0,0,0,1
+39,Caught off guard! Totally unexpected!,surprise,0,0,0,0,1
+40,Mad as hell! This is infuriating!,anger,0,0,1,0,0
+41,Terrified! This is my worst nightmare!,fear,0,0,0,1,0
+42,This is heartbreaking. Can't stop crying.,sadness,0,1,0,0,0
+43,Feeling joyful and blessed! Life is good!,joy,1,0,0,0,0
+44,Frightened and vulnerable. Need protection!,fear,0,0,0,1,0
+45,I'm so happy! This made my day! 😄,joy,1,0,0,0,0
+46,This is heartbreaking. Can't stop crying.,sadness,0,1,0,0,0
+47,Furious! How dare they treat me like this!,anger,0,0,1,0,0
+48,I'm so happy! This made my day! 😄,joy,1,0,0,0,0
+49,Melancholic mood. Nothing helps.,sadness,0,1,0,0,0
+50,Stunned! This is mind-blowing!,surprise,0,0,0,0,1
+51,Furious! How dare they treat me like this!,anger,0,0,1,0,0
+52,Depressed and unmotivated. Can't go on.,sadness,0,1,0,0,0
+53,Grief and sorrow overwhelming me.,sadness,0,1,0,0,0
+54,Melancholic mood. Nothing helps.,sadness,0,1,0,0,0
+55,Feeling euphoric! Amazing news!,joy,1,0,0,0,0
+56,Furious! How dare they treat me like this!,anger,0,0,1,0,0
+57,Flabbergasted! Speechless!,surprise,0,0,0,0,1
+58,What?! This is shocking! Can't believe it!,surprise,0,0,0,0,1
+59,Bewildered! How did this happen?!,surprise,0,0,0,0,1
+60,Feeling euphoric! Amazing news!,joy,1,0,0,0,0
+61,Furious! How dare they treat me like this!,anger,0,0,1,0,0
+62,Bewildered! How did this happen?!,surprise,0,0,0,0,1
+63,Bewildered! How did this happen?!,surprise,0,0,0,0,1
+64,Feeling anxious and fearful about the future.,fear,0,0,0,1,0
+65,I'm so happy! This made my day! 😄,joy,1,0,0,0,0
+66,Feeling blue today. Everything seems grey.,sadness,0,1,0,0,0
+67,Livid! Can't believe this happened!,anger,0,0,1,0,0
+68,Feeling anxious and fearful about the future.,fear,0,0,0,1,0
+69,Wow! I didn't expect this at all! 😲,surprise,0,0,0,0,1
+70,Enraged! Someone will pay for this!,anger,0,0,1,0,0
+71,Delighted with the results! So pleased!,joy,1,0,0,0,0
+72,Irritated beyond words! So frustrating!,anger,0,0,1,0,0
+73,Livid! Can't believe this happened!,anger,0,0,1,0,0
+74,Melancholic mood. Nothing helps.,sadness,0,1,0,0,0
+75,Disappointed and upset. This hurts so much.,sadness,0,1,0,0,0
+76,Paranoid thoughts. Everything seems threatening!,fear,0,0,0,1,0
+77,Alarmed by recent events. Stay safe!,fear,0,0,0,1,0
+78,I'm so happy! This made my day! 😄,joy,1,0,0,0,0
+79,Astonished! Never saw that coming!,surprise,0,0,0,0,1
+80,Disappointed and upset. This hurts so much.,sadness,0,1,0,0,0
+81,I'm so angry right now! This is ridiculous! 😡,anger,0,0,1,0,0
+82,Depressed and unmotivated. Can't go on.,sadness,0,1,0,0,0
+83,Afraid of what might happen. So nervous!,fear,0,0,0,1,0
+84,Alarmed by recent events. Stay safe!,fear,0,0,0,1,0
+85,Alarmed by recent events. Stay safe!,fear,0,0,0,1,0
+86,Grief and sorrow overwhelming me.,sadness,0,1,0,0,0
+87,Livid! Can't believe this happened!,anger,0,0,1,0,0
+88,Enraged! Someone will pay for this!,anger,0,0,1,0,0
+89,Grief and sorrow overwhelming me.,sadness,0,1,0,0,0
+90,Miserable and dejected. Need comfort.,sadness,0,1,0,0,0
+91,Feeling blue today. Everything seems grey.,sadness,0,1,0,0,0
+92,I'm so happy! This made my day! 😄,joy,1,0,0,0,0
+93,I'm really sad about this. Feeling down 😢,sadness,0,1,0,0,0
+94,Furious! How dare they treat me like this!,anger,0,0,1,0,0
+95,Tears flowing freely. Heart is heavy.,sadness,0,1,0,0,0
+96,Frightened and vulnerable. Need protection!,fear,0,0,0,1,0
+97,Disappointed and upset. This hurts so much.,sadness,0,1,0,0,0
+98,Feeling joyful and blessed! Life is good!,joy,1,0,0,0,0
+99,I'm so angry right now! This is ridiculous! 😡,anger,0,0,1,0,0
+100,Pure happiness! Can't stop smiling!,joy,1,0,0,0,0
+101,Alarmed by recent events. Stay safe!,fear,0,0,0,1,0
+102,Terrified! This is my worst nightmare!,fear,0,0,0,1,0
+103,Celebrating success! Best feeling ever!,joy,1,0,0,0,0
+104,This is heartbreaking. Can't stop crying.,sadness,0,1,0,0,0
+105,Content and peaceful! Life is wonderful!,joy,1,0,0,0,0
+106,Lost something precious. So painful.,sadness,0,1,0,0,0
+107,Content and peaceful! Life is wonderful!,joy,1,0,0,0,0
+108,Irritated beyond words! So frustrating!,anger,0,0,1,0,0
+109,Overjoyed! Dreams coming true!,joy,1,0,0,0,0
+110,Panic setting in. Heart racing!,fear,0,0,0,1,0
+111,Yay! Finally got what I wanted! So excited!,joy,1,0,0,0,0
+112,Flabbergasted! Speechless!,surprise,0,0,0,0,1
+113,Startled! That came out of nowhere!,surprise,0,0,0,0,1
+114,What?! This is shocking! Can't believe it!,surprise,0,0,0,0,1
+115,Lost something precious. So painful.,sadness,0,1,0,0,0
+116,This is terrifying. I don't know what to do.,fear,0,0,0,1,0
+117,Amazed! What a twist!,surprise,0,0,0,0,1
+118,Grief and sorrow overwhelming me.,sadness,0,1,0,0,0
+119,Delighted with the results! So pleased!,joy,1,0,0,0,0
+120,Flabbergasted! Speechless!,surprise,0,0,0,0,1
+121,Wow! I didn't expect this at all! 😲,surprise,0,0,0,0,1
+122,I'm so angry right now! This is ridiculous! 😡,anger,0,0,1,0,0
+123,Livid! Can't believe this happened!,anger,0,0,1,0,0
+124,Feeling blue today. Everything seems grey.,sadness,0,1,0,0,0
+125,Feeling joyful and blessed! Life is good!,joy,1,0,0,0,0
+126,Feeling blue today. Everything seems grey.,sadness,0,1,0,0,0
+127,Overjoyed! Dreams coming true!,joy,1,0,0,0,0
+128,Content and peaceful! Life is wonderful!,joy,1,0,0,0,0
+129,Feeling anxious and fearful about the future.,fear,0,0,0,1,0
+130,Pure happiness! Can't stop smiling!,joy,1,0,0,0,0
+131,I'm scared and worried about this 😰,fear,0,0,0,1,0
+132,Hostile and aggressive! Fed up!,anger,0,0,1,0,0
+133,Feeling joyful and blessed! Life is good!,joy,1,0,0,0,0
+134,Feeling blue today. Everything seems grey.,sadness,0,1,0,0,0
+135,Astonished! Never saw that coming!,surprise,0,0,0,0,1
+136,Astonished! Never saw that coming!,surprise,0,0,0,0,1
+137,Depressed and unmotivated. Can't go on.,sadness,0,1,0,0,0
+138,Flabbergasted! Speechless!,surprise,0,0,0,0,1
+139,OMG! This is unbelievable! So surprised!,surprise,0,0,0,0,1
+140,Paranoid thoughts. Everything seems threatening!,fear,0,0,0,1,0
+141,I'm scared and worried about this 😰,fear,0,0,0,1,0
+142,Delighted with the results! So pleased!,joy,1,0,0,0,0
+143,Content and peaceful! Life is wonderful!,joy,1,0,0,0,0
+144,Astonished! Never saw that coming!,surprise,0,0,0,0,1
+145,What?! This is shocking! Can't believe it!,surprise,0,0,0,0,1
+146,Lost something precious. So painful.,sadness,0,1,0,0,0
+147,I'm so angry right now! This is ridiculous! 😡,anger,0,0,1,0,0
+148,Startled! That came out of nowhere!,surprise,0,0,0,0,1
+149,Depressed and unmotivated. Can't go on.,sadness,0,1,0,0,0
+150,OMG! This is unbelievable! So surprised!,surprise,0,0,0,0,1
+151,Lost something precious. So painful.,sadness,0,1,0,0,0
+152,Cheerful and optimistic! Great vibes!,joy,1,0,0,0,0
+153,Afraid of what might happen. So nervous!,fear,0,0,0,1,0
+154,Astonished! Never saw that coming!,surprise,0,0,0,0,1
+155,Terrified! This is my worst nightmare!,fear,0,0,0,1,0
+156,Livid! Can't believe this happened!,anger,0,0,1,0,0
+157,Paranoid thoughts. Everything seems threatening!,fear,0,0,0,1,0
+158,Seething with rage! Lost my temper!,anger,0,0,1,0,0
+159,Feeling blue today. Everything seems grey.,sadness,0,1,0,0,0
+160,Dread filling my mind. Can't sleep!,fear,0,0,0,1,0
+161,I'm so angry right now! This is ridiculous! 😡,anger,0,0,1,0,0
+162,Hostile and aggressive! Fed up!,anger,0,0,1,0,0
+163,Amazed! What a twist!,surprise,0,0,0,0,1
+164,Content and peaceful! Life is wonderful!,joy,1,0,0,0,0
+165,Tears flowing freely. Heart is heavy.,sadness,0,1,0,0,0
+166,I'm so happy! This made my day! 😄,joy,1,0,0,0,0
+167,What?! This is shocking! Can't believe it!,surprise,0,0,0,0,1
+168,Stunned! This is mind-blowing!,surprise,0,0,0,0,1
+169,Startled! That came out of nowhere!,surprise,0,0,0,0,1
+170,Tears flowing freely. Heart is heavy.,sadness,0,1,0,0,0
+171,Startled! That came out of nowhere!,surprise,0,0,0,0,1
+172,Livid! Can't believe this happened!,anger,0,0,1,0,0
+173,I'm scared and worried about this 😰,fear,0,0,0,1,0
+174,Seething with rage! Lost my temper!,anger,0,0,1,0,0
+175,Flabbergasted! Speechless!,surprise,0,0,0,0,1
+176,Paranoid thoughts. Everything seems threatening!,fear,0,0,0,1,0
+177,Frightened and vulnerable. Need protection!,fear,0,0,0,1,0
+178,Seething with rage! Lost my temper!,anger,0,0,1,0,0
+179,Grief and sorrow overwhelming me.,sadness,0,1,0,0,0
+180,OMG! This is unbelievable! So surprised!,surprise,0,0,0,0,1
+181,Celebrating success! Best feeling ever!,joy,1,0,0,0,0
+182,Lost something precious. So painful.,sadness,0,1,0,0,0
+183,Dread filling my mind. Can't sleep!,fear,0,0,0,1,0
+184,Bewildered! How did this happen?!,surprise,0,0,0,0,1
+185,Astonished! Never saw that coming!,surprise,0,0,0,0,1
+186,Dread filling my mind. Can't sleep!,fear,0,0,0,1,0
+187,Melancholic mood. Nothing helps.,sadness,0,1,0,0,0
+188,Mad as hell! This is infuriating!,anger,0,0,1,0,0
+189,Stunned! This is mind-blowing!,surprise,0,0,0,0,1
+190,Delighted with the results! So pleased!,joy,1,0,0,0,0
+191,Cheerful and optimistic! Great vibes!,joy,1,0,0,0,0
+192,OMG! This is unbelievable! So surprised!,surprise,0,0,0,0,1
+193,Depressed and unmotivated. Can't go on.,sadness,0,1,0,0,0
+194,Pure happiness! Can't stop smiling!,joy,1,0,0,0,0
+195,Depressed and unmotivated. Can't go on.,sadness,0,1,0,0,0
+196,OMG! This is unbelievable! So surprised!,surprise,0,0,0,0,1
+197,Stunned! This is mind-blowing!,surprise,0,0,0,0,1
+198,Caught off guard! Totally unexpected!,surprise,0,0,0,0,1
+199,Wow! I didn't expect this at all! 😲,surprise,0,0,0,0,1
+200,Depressed and unmotivated. Can't go on.,sadness,0,1,0,0,0
+201,Startled! That came out of nowhere!,surprise,0,0,0,0,1
+202,This makes my blood boil! Unacceptable!,anger,0,0,1,0,0
+203,Livid! Can't believe this happened!,anger,0,0,1,0,0
+204,Celebrating success! Best feeling ever!,joy,1,0,0,0,0
+205,Miserable and dejected. Need comfort.,sadness,0,1,0,0,0
+206,OMG! This is unbelievable! So surprised!,surprise,0,0,0,0,1
+207,Startled! That came out of nowhere!,surprise,0,0,0,0,1
+208,Alarmed by recent events. Stay safe!,fear,0,0,0,1,0
+209,Afraid of what might happen. So nervous!,fear,0,0,0,1,0
+210,I'm really sad about this. Feeling down 😢,sadness,0,1,0,0,0
+211,This is terrifying. I don't know what to do.,fear,0,0,0,1,0
+212,Feeling joyful and blessed! Life is good!,joy,1,0,0,0,0
+213,This makes my blood boil! Unacceptable!,anger,0,0,1,0,0
+214,Tears flowing freely. Heart is heavy.,sadness,0,1,0,0,0
+215,Seething with rage! Lost my temper!,anger,0,0,1,0,0
+216,Yay! Finally got what I wanted! So excited!,joy,1,0,0,0,0
+217,Stunned! This is mind-blowing!,surprise,0,0,0,0,1
+218,Celebrating success! Best feeling ever!,joy,1,0,0,0,0
+219,Feeling blue today. Everything seems grey.,sadness,0,1,0,0,0
+220,Enraged! Someone will pay for this!,anger,0,0,1,0,0
+221,Depressed and unmotivated. Can't go on.,sadness,0,1,0,0,0
+222,Flabbergasted! Speechless!,surprise,0,0,0,0,1
+223,Flabbergasted! Speechless!,surprise,0,0,0,0,1
+224,I'm scared and worried about this 😰,fear,0,0,0,1,0
+225,Paranoid thoughts. Everything seems threatening!,fear,0,0,0,1,0
+226,Feeling euphoric! Amazing news!,joy,1,0,0,0,0
+227,This is terrifying. I don't know what to do.,fear,0,0,0,1,0
+228,Delighted with the results! So pleased!,joy,1,0,0,0,0
+229,Miserable and dejected. Need comfort.,sadness,0,1,0,0,0
+230,Feeling euphoric! Amazing news!,joy,1,0,0,0,0
+231,Hostile and aggressive! Fed up!,anger,0,0,1,0,0
+232,Flabbergasted! Speechless!,surprise,0,0,0,0,1
+233,Bewildered! How did this happen?!,surprise,0,0,0,0,1
+234,Disappointed and upset. This hurts so much.,sadness,0,1,0,0,0
+235,I'm so angry right now! This is ridiculous! 😡,anger,0,0,1,0,0
+236,Overjoyed! Dreams coming true!,joy,1,0,0,0,0
+237,Panic setting in. Heart racing!,fear,0,0,0,1,0
+238,Frightened and vulnerable. Need protection!,fear,0,0,0,1,0
+239,Flabbergasted! Speechless!,surprise,0,0,0,0,1
+240,Alarmed by recent events. Stay safe!,fear,0,0,0,1,0
+241,Startled! That came out of nowhere!,surprise,0,0,0,0,1
+242,Afraid of what might happen. So nervous!,fear,0,0,0,1,0
+243,Amazed! What a twist!,surprise,0,0,0,0,1
+244,Caught off guard! Totally unexpected!,surprise,0,0,0,0,1
+245,Grief and sorrow overwhelming me.,sadness,0,1,0,0,0
+246,Miserable and dejected. Need comfort.,sadness,0,1,0,0,0
+247,Outraged by this injustice! Not tolerating it!,anger,0,0,1,0,0
+248,Feeling blue today. Everything seems grey.,sadness,0,1,0,0,0
+249,Tears flowing freely. Heart is heavy.,sadness,0,1,0,0,0
+250,Miserable and dejected. Need comfort.,sadness,0,1,0,0,0
+251,Miserable and dejected. Need comfort.,sadness,0,1,0,0,0
+252,Panic setting in. Heart racing!,fear,0,0,0,1,0
+253,Panic setting in. Heart racing!,fear,0,0,0,1,0
+254,Tears flowing freely. Heart is heavy.,sadness,0,1,0,0,0
+255,Celebrating success! Best feeling ever!,joy,1,0,0,0,0
+256,I'm really sad about this. Feeling down 😢,sadness,0,1,0,0,0
+257,Overjoyed! Dreams coming true!,joy,1,0,0,0,0
+258,I'm scared and worried about this 😰,fear,0,0,0,1,0
+259,I'm scared and worried about this 😰,fear,0,0,0,1,0
+260,Hostile and aggressive! Fed up!,anger,0,0,1,0,0
+261,Startled! That came out of nowhere!,surprise,0,0,0,0,1
+262,Panic setting in. Heart racing!,fear,0,0,0,1,0
+263,Panic setting in. Heart racing!,fear,0,0,0,1,0
+264,Melancholic mood. Nothing helps.,sadness,0,1,0,0,0
+265,Furious! How dare they treat me like this!,anger,0,0,1,0,0
+266,Dread filling my mind. Can't sleep!,fear,0,0,0,1,0
+267,OMG! This is unbelievable! So surprised!,surprise,0,0,0,0,1
+268,I'm really sad about this. Feeling down 😢,sadness,0,1,0,0,0
+269,Outraged by this injustice! Not tolerating it!,anger,0,0,1,0,0
+270,What?! This is shocking! Can't believe it!,surprise,0,0,0,0,1
+271,Feeling euphoric! Amazing news!,joy,1,0,0,0,0
+272,Bewildered! How did this happen?!,surprise,0,0,0,0,1
+273,I'm really sad about this. Feeling down 😢,sadness,0,1,0,0,0
+274,I'm so happy! This made my day! 😄,joy,1,0,0,0,0
+275,Paranoid thoughts. Everything seems threatening!,fear,0,0,0,1,0
+276,I'm scared and worried about this 😰,fear,0,0,0,1,0
+277,Panic setting in. Heart racing!,fear,0,0,0,1,0
+278,Yay! Finally got what I wanted! So excited!,joy,1,0,0,0,0
+279,Bewildered! How did this happen?!,surprise,0,0,0,0,1
+280,I'm so angry right now! This is ridiculous! 😡,anger,0,0,1,0,0
+281,Grief and sorrow overwhelming me.,sadness,0,1,0,0,0
+282,Overjoyed! Dreams coming true!,joy,1,0,0,0,0
+283,I'm so angry right now! This is ridiculous! 😡,anger,0,0,1,0,0
+284,Frightened and vulnerable. Need protection!,fear,0,0,0,1,0
+285,Stunned! This is mind-blowing!,surprise,0,0,0,0,1
+286,I'm so angry right now! This is ridiculous! 😡,anger,0,0,1,0,0
+287,Wow! I didn't expect this at all! 😲,surprise,0,0,0,0,1
+288,Grief and sorrow overwhelming me.,sadness,0,1,0,0,0
+289,Bewildered! How did this happen?!,surprise,0,0,0,0,1
+290,Disappointed and upset. This hurts so much.,sadness,0,1,0,0,0
+291,Feeling euphoric! Amazing news!,joy,1,0,0,0,0
+292,Feeling anxious and fearful about the future.,fear,0,0,0,1,0
+293,Terrified! This is my worst nightmare!,fear,0,0,0,1,0
+294,Livid! Can't believe this happened!,anger,0,0,1,0,0
+295,Pure happiness! Can't stop smiling!,joy,1,0,0,0,0
+296,This makes my blood boil! Unacceptable!,anger,0,0,1,0,0
+297,Outraged by this injustice! Not tolerating it!,anger,0,0,1,0,0
+298,What?! This is shocking! Can't believe it!,surprise,0,0,0,0,1
+299,This is terrifying. I don't know what to do.,fear,0,0,0,1,0
+300,Hostile and aggressive! Fed up!,anger,0,0,1,0,0
+301,Cheerful and optimistic! Great vibes!,joy,1,0,0,0,0
+302,Panic setting in. Heart racing!,fear,0,0,0,1,0
+303,Livid! Can't believe this happened!,anger,0,0,1,0,0
+304,Furious! How dare they treat me like this!,anger,0,0,1,0,0
+305,Irritated beyond words! So frustrating!,anger,0,0,1,0,0
+306,What?! This is shocking! Can't believe it!,surprise,0,0,0,0,1
+307,Bewildered! How did this happen?!,surprise,0,0,0,0,1
+308,Frightened and vulnerable. Need protection!,fear,0,0,0,1,0
+309,Terrified! This is my worst nightmare!,fear,0,0,0,1,0
+310,This is heartbreaking. Can't stop crying.,sadness,0,1,0,0,0
+311,This is terrifying. I don't know what to do.,fear,0,0,0,1,0
+312,I'm so angry right now! This is ridiculous! 😡,anger,0,0,1,0,0
+313,OMG! This is unbelievable! So surprised!,surprise,0,0,0,0,1
+314,Celebrating success! Best feeling ever!,joy,1,0,0,0,0
+315,Lost something precious. So painful.,sadness,0,1,0,0,0
+316,This makes my blood boil! Unacceptable!,anger,0,0,1,0,0
+317,What?! This is shocking! Can't believe it!,surprise,0,0,0,0,1
+318,Amazed! What a twist!,surprise,0,0,0,0,1
+319,Terrified! This is my worst nightmare!,fear,0,0,0,1,0
+320,Paranoid thoughts. Everything seems threatening!,fear,0,0,0,1,0
+321,Overjoyed! Dreams coming true!,joy,1,0,0,0,0
+322,Terrified! This is my worst nightmare!,fear,0,0,0,1,0
+323,Terrified! This is my worst nightmare!,fear,0,0,0,1,0
+324,Alarmed by recent events. Stay safe!,fear,0,0,0,1,0
+325,Content and peaceful! Life is wonderful!,joy,1,0,0,0,0
+326,Terrified! This is my worst nightmare!,fear,0,0,0,1,0
+327,I'm scared and worried about this 😰,fear,0,0,0,1,0
+328,Seething with rage! Lost my temper!,anger,0,0,1,0,0
+329,Stunned! This is mind-blowing!,surprise,0,0,0,0,1
+330,Hostile and aggressive! Fed up!,anger,0,0,1,0,0
+331,Content and peaceful! Life is wonderful!,joy,1,0,0,0,0
+332,Flabbergasted! Speechless!,surprise,0,0,0,0,1
+333,Afraid of what might happen. So nervous!,fear,0,0,0,1,0
+334,This makes my blood boil! Unacceptable!,anger,0,0,1,0,0
+335,This is terrifying. I don't know what to do.,fear,0,0,0,1,0
+336,Irritated beyond words! So frustrating!,anger,0,0,1,0,0
+337,Bewildered! How did this happen?!,surprise,0,0,0,0,1
+338,Hostile and aggressive! Fed up!,anger,0,0,1,0,0
+339,Delighted with the results! So pleased!,joy,1,0,0,0,0
+340,Amazed! What a twist!,surprise,0,0,0,0,1
+341,Alarmed by recent events. Stay safe!,fear,0,0,0,1,0
+342,Seething with rage! Lost my temper!,anger,0,0,1,0,0
+343,I'm so happy! This made my day! 😄,joy,1,0,0,0,0
+344,Startled! That came out of nowhere!,surprise,0,0,0,0,1
+345,Stunned! This is mind-blowing!,surprise,0,0,0,0,1
+346,Hostile and aggressive! Fed up!,anger,0,0,1,0,0
+347,Disappointed and upset. This hurts so much.,sadness,0,1,0,0,0
+348,Panic setting in. Heart racing!,fear,0,0,0,1,0
+349,This makes my blood boil! Unacceptable!,anger,0,0,1,0,0
+350,Feeling blue today. Everything seems grey.,sadness,0,1,0,0,0
+351,Enraged! Someone will pay for this!,anger,0,0,1,0,0
+352,Paranoid thoughts. Everything seems threatening!,fear,0,0,0,1,0
+353,Hostile and aggressive! Fed up!,anger,0,0,1,0,0
+354,Wow! I didn't expect this at all! 😲,surprise,0,0,0,0,1
+355,Paranoid thoughts. Everything seems threatening!,fear,0,0,0,1,0
+356,Feeling anxious and fearful about the future.,fear,0,0,0,1,0
+357,This makes my blood boil! Unacceptable!,anger,0,0,1,0,0
+358,Cheerful and optimistic! Great vibes!,joy,1,0,0,0,0
+359,Feeling blue today. Everything seems grey.,sadness,0,1,0,0,0
+360,Frightened and vulnerable. Need protection!,fear,0,0,0,1,0
+361,What?! This is shocking! Can't believe it!,surprise,0,0,0,0,1
+362,Paranoid thoughts. Everything seems threatening!,fear,0,0,0,1,0
+363,Terrified! This is my worst nightmare!,fear,0,0,0,1,0
+364,Terrified! This is my worst nightmare!,fear,0,0,0,1,0
+365,Tears flowing freely. Heart is heavy.,sadness,0,1,0,0,0
+366,Pure happiness! Can't stop smiling!,joy,1,0,0,0,0
+367,Tears flowing freely. Heart is heavy.,sadness,0,1,0,0,0
+368,Depressed and unmotivated. Can't go on.,sadness,0,1,0,0,0
+369,Irritated beyond words! So frustrating!,anger,0,0,1,0,0
+370,Outraged by this injustice! Not tolerating it!,anger,0,0,1,0,0
+371,Melancholic mood. Nothing helps.,sadness,0,1,0,0,0
+372,What?! This is shocking! Can't believe it!,surprise,0,0,0,0,1
+373,Enraged! Someone will pay for this!,anger,0,0,1,0,0
+374,This is terrifying. I don't know what to do.,fear,0,0,0,1,0
+375,Pure happiness! Can't stop smiling!,joy,1,0,0,0,0
+376,Furious! How dare they treat me like this!,anger,0,0,1,0,0
+377,What?! This is shocking! Can't believe it!,surprise,0,0,0,0,1
+378,Flabbergasted! Speechless!,surprise,0,0,0,0,1
+379,Celebrating success! Best feeling ever!,joy,1,0,0,0,0
+380,Lost something precious. So painful.,sadness,0,1,0,0,0
+381,Bewildered! How did this happen?!,surprise,0,0,0,0,1
+382,Irritated beyond words! So frustrating!,anger,0,0,1,0,0
+383,Yay! Finally got what I wanted! So excited!,joy,1,0,0,0,0
+384,Irritated beyond words! So frustrating!,anger,0,0,1,0,0
+385,Livid! Can't believe this happened!,anger,0,0,1,0,0
+386,Delighted with the results! So pleased!,joy,1,0,0,0,0
+387,Melancholic mood. Nothing helps.,sadness,0,1,0,0,0
+388,Enraged! Someone will pay for this!,anger,0,0,1,0,0
+389,Overjoyed! Dreams coming true!,joy,1,0,0,0,0
+390,Bewildered! How did this happen?!,surprise,0,0,0,0,1
+391,I'm really sad about this. Feeling down 😢,sadness,0,1,0,0,0
+392,Feeling euphoric! Amazing news!,joy,1,0,0,0,0
+393,Yay! Finally got what I wanted! So excited!,joy,1,0,0,0,0
+394,Yay! Finally got what I wanted! So excited!,joy,1,0,0,0,0
+395,Alarmed by recent events. Stay safe!,fear,0,0,0,1,0
+396,Alarmed by recent events. Stay safe!,fear,0,0,0,1,0
+397,Feeling joyful and blessed! Life is good!,joy,1,0,0,0,0
+398,What?! This is shocking! Can't believe it!,surprise,0,0,0,0,1
+399,Feeling anxious and fearful about the future.,fear,0,0,0,1,0
+400,Feeling anxious and fearful about the future.,fear,0,0,0,1,0
+401,This makes my blood boil! Unacceptable!,anger,0,0,1,0,0
+402,I'm really sad about this. Feeling down 😢,sadness,0,1,0,0,0
+403,Miserable and dejected. Need comfort.,sadness,0,1,0,0,0
+404,Feeling blue today. Everything seems grey.,sadness,0,1,0,0,0
+405,Miserable and dejected. Need comfort.,sadness,0,1,0,0,0
+406,Wow! I didn't expect this at all! 😲,surprise,0,0,0,0,1
+407,I'm really sad about this. Feeling down 😢,sadness,0,1,0,0,0
+408,Depressed and unmotivated. Can't go on.,sadness,0,1,0,0,0
+409,I'm scared and worried about this 😰,fear,0,0,0,1,0
+410,Irritated beyond words! So frustrating!,anger,0,0,1,0,0
+411,Mad as hell! This is infuriating!,anger,0,0,1,0,0
+412,Depressed and unmotivated. Can't go on.,sadness,0,1,0,0,0
+413,Stunned! This is mind-blowing!,surprise,0,0,0,0,1
+414,Delighted with the results! So pleased!,joy,1,0,0,0,0
+415,Flabbergasted! Speechless!,surprise,0,0,0,0,1
+416,Overjoyed! Dreams coming true!,joy,1,0,0,0,0
+417,Content and peaceful! Life is wonderful!,joy,1,0,0,0,0
+418,Celebrating success! Best feeling ever!,joy,1,0,0,0,0
+419,Yay! Finally got what I wanted! So excited!,joy,1,0,0,0,0
+420,Seething with rage! Lost my temper!,anger,0,0,1,0,0
+421,Enraged! Someone will pay for this!,anger,0,0,1,0,0
+422,Lost something precious. So painful.,sadness,0,1,0,0,0
+423,Dread filling my mind. Can't sleep!,fear,0,0,0,1,0
+424,Seething with rage! Lost my temper!,anger,0,0,1,0,0
+425,Afraid of what might happen. So nervous!,fear,0,0,0,1,0
+426,Hostile and aggressive! Fed up!,anger,0,0,1,0,0
+427,Caught off guard! Totally unexpected!,surprise,0,0,0,0,1
+428,Stunned! This is mind-blowing!,surprise,0,0,0,0,1
+429,Tears flowing freely. Heart is heavy.,sadness,0,1,0,0,0
+430,Alarmed by recent events. Stay safe!,fear,0,0,0,1,0
+431,Content and peaceful! Life is wonderful!,joy,1,0,0,0,0
+432,OMG! This is unbelievable! So surprised!,surprise,0,0,0,0,1
+433,Terrified! This is my worst nightmare!,fear,0,0,0,1,0
+434,Lost something precious. So painful.,sadness,0,1,0,0,0
+435,Grief and sorrow overwhelming me.,sadness,0,1,0,0,0
+436,Feeling anxious and fearful about the future.,fear,0,0,0,1,0
+437,Hostile and aggressive! Fed up!,anger,0,0,1,0,0
+438,Paranoid thoughts. Everything seems threatening!,fear,0,0,0,1,0
+439,Bewildered! How did this happen?!,surprise,0,0,0,0,1
+440,Yay! Finally got what I wanted! So excited!,joy,1,0,0,0,0
+441,Stunned! This is mind-blowing!,surprise,0,0,0,0,1
+442,Cheerful and optimistic! Great vibes!,joy,1,0,0,0,0
+443,Grief and sorrow overwhelming me.,sadness,0,1,0,0,0
+444,Dread filling my mind. Can't sleep!,fear,0,0,0,1,0
+445,Terrified! This is my worst nightmare!,fear,0,0,0,1,0
+446,Delighted with the results! So pleased!,joy,1,0,0,0,0
+447,Astonished! Never saw that coming!,surprise,0,0,0,0,1
+448,I'm really sad about this. Feeling down 😢,sadness,0,1,0,0,0
+449,Hostile and aggressive! Fed up!,anger,0,0,1,0,0
+450,Content and peaceful! Life is wonderful!,joy,1,0,0,0,0
+451,Feeling joyful and blessed! Life is good!,joy,1,0,0,0,0
+452,Stunned! This is mind-blowing!,surprise,0,0,0,0,1
+453,Frightened and vulnerable. Need protection!,fear,0,0,0,1,0
+454,Furious! How dare they treat me like this!,anger,0,0,1,0,0
+455,Overjoyed! Dreams coming true!,joy,1,0,0,0,0
+456,Feeling blue today. Everything seems grey.,sadness,0,1,0,0,0
+457,Cheerful and optimistic! Great vibes!,joy,1,0,0,0,0
+458,Depressed and unmotivated. Can't go on.,sadness,0,1,0,0,0
+459,OMG! This is unbelievable! So surprised!,surprise,0,0,0,0,1
+460,What?! This is shocking! Can't believe it!,surprise,0,0,0,0,1
+461,Disappointed and upset. This hurts so much.,sadness,0,1,0,0,0
+462,This makes my blood boil! Unacceptable!,anger,0,0,1,0,0
+463,Wow! I didn't expect this at all! 😲,surprise,0,0,0,0,1
+464,Seething with rage! Lost my temper!,anger,0,0,1,0,0
+465,Content and peaceful! Life is wonderful!,joy,1,0,0,0,0
+466,Cheerful and optimistic! Great vibes!,joy,1,0,0,0,0
+467,Outraged by this injustice! Not tolerating it!,anger,0,0,1,0,0
+468,Pure happiness! Can't stop smiling!,joy,1,0,0,0,0
+469,Amazed! What a twist!,surprise,0,0,0,0,1
+470,Tears flowing freely. Heart is heavy.,sadness,0,1,0,0,0
+471,Amazed! What a twist!,surprise,0,0,0,0,1
+472,Celebrating success! Best feeling ever!,joy,1,0,0,0,0
+473,Dread filling my mind. Can't sleep!,fear,0,0,0,1,0
+474,Tears flowing freely. Heart is heavy.,sadness,0,1,0,0,0
+475,Livid! Can't believe this happened!,anger,0,0,1,0,0
+476,Mad as hell! This is infuriating!,anger,0,0,1,0,0
+477,Tears flowing freely. Heart is heavy.,sadness,0,1,0,0,0
+478,Hostile and aggressive! Fed up!,anger,0,0,1,0,0
+479,What?! This is shocking! Can't believe it!,surprise,0,0,0,0,1
+480,Miserable and dejected. Need comfort.,sadness,0,1,0,0,0
+481,This makes my blood boil! Unacceptable!,anger,0,0,1,0,0
+482,This is terrifying. I don't know what to do.,fear,0,0,0,1,0
+483,Terrified! This is my worst nightmare!,fear,0,0,0,1,0
+484,OMG! This is unbelievable! So surprised!,surprise,0,0,0,0,1
+485,Irritated beyond words! So frustrating!,anger,0,0,1,0,0
+486,Dread filling my mind. Can't sleep!,fear,0,0,0,1,0
+487,Depressed and unmotivated. Can't go on.,sadness,0,1,0,0,0
+488,Dread filling my mind. Can't sleep!,fear,0,0,0,1,0
+489,This is terrifying. I don't know what to do.,fear,0,0,0,1,0
+490,Feeling joyful and blessed! Life is good!,joy,1,0,0,0,0
+491,Cheerful and optimistic! Great vibes!,joy,1,0,0,0,0
+492,Stunned! This is mind-blowing!,surprise,0,0,0,0,1
+493,Astonished! Never saw that coming!,surprise,0,0,0,0,1
+494,Seething with rage! Lost my temper!,anger,0,0,1,0,0
+495,Flabbergasted! Speechless!,surprise,0,0,0,0,1
+496,Hostile and aggressive! Fed up!,anger,0,0,1,0,0
+497,Bewildered! How did this happen?!,surprise,0,0,0,0,1
+498,Caught off guard! Totally unexpected!,surprise,0,0,0,0,1
+499,Panic setting in. Heart racing!,fear,0,0,0,1,0
+500,Terrified! This is my worst nightmare!,fear,0,0,0,1,0
+501,Outraged by this injustice! Not tolerating it!,anger,0,0,1,0,0
+502,Cheerful and optimistic! Great vibes!,joy,1,0,0,0,0
+503,Yay! Finally got what I wanted! So excited!,joy,1,0,0,0,0
+504,Paranoid thoughts. Everything seems threatening!,fear,0,0,0,1,0
+505,Wow! I didn't expect this at all! 😲,surprise,0,0,0,0,1
+506,Afraid of what might happen. So nervous!,fear,0,0,0,1,0
+507,Outraged by this injustice! Not tolerating it!,anger,0,0,1,0,0
+508,This is heartbreaking. Can't stop crying.,sadness,0,1,0,0,0
+509,Outraged by this injustice! Not tolerating it!,anger,0,0,1,0,0
+510,Amazed! What a twist!,surprise,0,0,0,0,1
+511,Yay! Finally got what I wanted! So excited!,joy,1,0,0,0,0
+512,Irritated beyond words! So frustrating!,anger,0,0,1,0,0
+513,Overjoyed! Dreams coming true!,joy,1,0,0,0,0
+514,Livid! Can't believe this happened!,anger,0,0,1,0,0
+515,Stunned! This is mind-blowing!,surprise,0,0,0,0,1
+516,Feeling joyful and blessed! Life is good!,joy,1,0,0,0,0
+517,Lost something precious. So painful.,sadness,0,1,0,0,0
+518,Enraged! Someone will pay for this!,anger,0,0,1,0,0
+519,Feeling euphoric! Amazing news!,joy,1,0,0,0,0
+520,Enraged! Someone will pay for this!,anger,0,0,1,0,0
+521,What?! This is shocking! Can't believe it!,surprise,0,0,0,0,1
+522,Pure happiness! Can't stop smiling!,joy,1,0,0,0,0
+523,I'm so angry right now! This is ridiculous! 😡,anger,0,0,1,0,0
+524,Miserable and dejected. Need comfort.,sadness,0,1,0,0,0
+525,Seething with rage! Lost my temper!,anger,0,0,1,0,0
+526,Outraged by this injustice! Not tolerating it!,anger,0,0,1,0,0
+527,Wow! I didn't expect this at all! 😲,surprise,0,0,0,0,1
+528,Enraged! Someone will pay for this!,anger,0,0,1,0,0
+529,Bewildered! How did this happen?!,surprise,0,0,0,0,1
+530,Disappointed and upset. This hurts so much.,sadness,0,1,0,0,0
+531,Seething with rage! Lost my temper!,anger,0,0,1,0,0
+532,I'm so angry right now! This is ridiculous! 😡,anger,0,0,1,0,0
+533,Celebrating success! Best feeling ever!,joy,1,0,0,0,0
+534,Paranoid thoughts. Everything seems threatening!,fear,0,0,0,1,0
+535,I'm so happy! This made my day! 😄,joy,1,0,0,0,0
+536,Melancholic mood. Nothing helps.,sadness,0,1,0,0,0
+537,Outraged by this injustice! Not tolerating it!,anger,0,0,1,0,0
+538,Startled! That came out of nowhere!,surprise,0,0,0,0,1
+539,Cheerful and optimistic! Great vibes!,joy,1,0,0,0,0
+540,Bewildered! How did this happen?!,surprise,0,0,0,0,1
+541,Astonished! Never saw that coming!,surprise,0,0,0,0,1
+542,I'm so angry right now! This is ridiculous! 😡,anger,0,0,1,0,0
+543,Caught off guard! Totally unexpected!,surprise,0,0,0,0,1
+544,This makes my blood boil! Unacceptable!,anger,0,0,1,0,0
+545,This is terrifying. I don't know what to do.,fear,0,0,0,1,0
+546,Panic setting in. Heart racing!,fear,0,0,0,1,0
+547,Grief and sorrow overwhelming me.,sadness,0,1,0,0,0
+548,I'm so happy! This made my day! 😄,joy,1,0,0,0,0
+549,Irritated beyond words! So frustrating!,anger,0,0,1,0,0
+550,Amazed! What a twist!,surprise,0,0,0,0,1
+551,Caught off guard! Totally unexpected!,surprise,0,0,0,0,1
+552,Disappointed and upset. This hurts so much.,sadness,0,1,0,0,0
+553,I'm so happy! This made my day! 😄,joy,1,0,0,0,0
+554,Irritated beyond words! So frustrating!,anger,0,0,1,0,0
+555,Content and peaceful! Life is wonderful!,joy,1,0,0,0,0
+556,Flabbergasted! Speechless!,surprise,0,0,0,0,1
+557,Melancholic mood. Nothing helps.,sadness,0,1,0,0,0
+558,I'm so angry right now! This is ridiculous! 😡,anger,0,0,1,0,0
+559,Afraid of what might happen. So nervous!,fear,0,0,0,1,0
+560,Startled! That came out of nowhere!,surprise,0,0,0,0,1
+561,Lost something precious. So painful.,sadness,0,1,0,0,0
+562,I'm so happy! This made my day! 😄,joy,1,0,0,0,0
+563,I'm really sad about this. Feeling down 😢,sadness,0,1,0,0,0
+564,Dread filling my mind. Can't sleep!,fear,0,0,0,1,0
+565,Amazed! What a twist!,surprise,0,0,0,0,1
+566,Feeling blue today. Everything seems grey.,sadness,0,1,0,0,0
+567,Overjoyed! Dreams coming true!,joy,1,0,0,0,0
+568,Feeling blue today. Everything seems grey.,sadness,0,1,0,0,0
+569,Feeling blue today. Everything seems grey.,sadness,0,1,0,0,0
+570,Outraged by this injustice! Not tolerating it!,anger,0,0,1,0,0
+571,Stunned! This is mind-blowing!,surprise,0,0,0,0,1
+572,Startled! That came out of nowhere!,surprise,0,0,0,0,1
+573,I'm really sad about this. Feeling down 😢,sadness,0,1,0,0,0
+574,Caught off guard! Totally unexpected!,surprise,0,0,0,0,1
+575,This is heartbreaking. Can't stop crying.,sadness,0,1,0,0,0
+576,This is heartbreaking. Can't stop crying.,sadness,0,1,0,0,0
+577,Yay! Finally got what I wanted! So excited!,joy,1,0,0,0,0
+578,This is terrifying. I don't know what to do.,fear,0,0,0,1,0
+579,OMG! This is unbelievable! So surprised!,surprise,0,0,0,0,1
+580,Depressed and unmotivated. Can't go on.,sadness,0,1,0,0,0
+581,Startled! That came out of nowhere!,surprise,0,0,0,0,1
+582,Pure happiness! Can't stop smiling!,joy,1,0,0,0,0
+583,Seething with rage! Lost my temper!,anger,0,0,1,0,0
+584,Amazed! What a twist!,surprise,0,0,0,0,1
+585,OMG! This is unbelievable! So surprised!,surprise,0,0,0,0,1
+586,Feeling anxious and fearful about the future.,fear,0,0,0,1,0
+587,Wow! I didn't expect this at all! 😲,surprise,0,0,0,0,1
+588,Alarmed by recent events. Stay safe!,fear,0,0,0,1,0
+589,Disappointed and upset. This hurts so much.,sadness,0,1,0,0,0
+590,This is terrifying. I don't know what to do.,fear,0,0,0,1,0
+591,Mad as hell! This is infuriating!,anger,0,0,1,0,0
+592,Feeling blue today. Everything seems grey.,sadness,0,1,0,0,0
+593,Wow! I didn't expect this at all! 😲,surprise,0,0,0,0,1
+594,Feeling euphoric! Amazing news!,joy,1,0,0,0,0
+595,Irritated beyond words! So frustrating!,anger,0,0,1,0,0
+596,Delighted with the results! So pleased!,joy,1,0,0,0,0
+597,Outraged by this injustice! Not tolerating it!,anger,0,0,1,0,0
+598,I'm scared and worried about this 😰,fear,0,0,0,1,0
+599,Content and peaceful! Life is wonderful!,joy,1,0,0,0,0
+600,Mad as hell! This is infuriating!,anger,0,0,1,0,0
+601,What?! This is shocking! Can't believe it!,surprise,0,0,0,0,1
+602,Lost something precious. So painful.,sadness,0,1,0,0,0
+603,Yay! Finally got what I wanted! So excited!,joy,1,0,0,0,0
+604,This is heartbreaking. Can't stop crying.,sadness,0,1,0,0,0
+605,Livid! Can't believe this happened!,anger,0,0,1,0,0
+606,Disappointed and upset. This hurts so much.,sadness,0,1,0,0,0
+607,Depressed and unmotivated. Can't go on.,sadness,0,1,0,0,0
+608,Frightened and vulnerable. Need protection!,fear,0,0,0,1,0
+609,Irritated beyond words! So frustrating!,anger,0,0,1,0,0
+610,Flabbergasted! Speechless!,surprise,0,0,0,0,1
+611,Mad as hell! This is infuriating!,anger,0,0,1,0,0
+612,Celebrating success! Best feeling ever!,joy,1,0,0,0,0
+613,Astonished! Never saw that coming!,surprise,0,0,0,0,1
+614,Miserable and dejected. Need comfort.,sadness,0,1,0,0,0
+615,Yay! Finally got what I wanted! So excited!,joy,1,0,0,0,0
+616,Irritated beyond words! So frustrating!,anger,0,0,1,0,0
+617,Flabbergasted! Speechless!,surprise,0,0,0,0,1
+618,Amazed! What a twist!,surprise,0,0,0,0,1
+619,Startled! That came out of nowhere!,surprise,0,0,0,0,1
+620,Miserable and dejected. Need comfort.,sadness,0,1,0,0,0
+621,OMG! This is unbelievable! So surprised!,surprise,0,0,0,0,1
+622,Miserable and dejected. Need comfort.,sadness,0,1,0,0,0
+623,Disappointed and upset. This hurts so much.,sadness,0,1,0,0,0
+624,Hostile and aggressive! Fed up!,anger,0,0,1,0,0
+625,Feeling anxious and fearful about the future.,fear,0,0,0,1,0
+626,Yay! Finally got what I wanted! So excited!,joy,1,0,0,0,0
+627,Seething with rage! Lost my temper!,anger,0,0,1,0,0
+628,Feeling euphoric! Amazing news!,joy,1,0,0,0,0
+629,Dread filling my mind. Can't sleep!,fear,0,0,0,1,0
+630,Tears flowing freely. Heart is heavy.,sadness,0,1,0,0,0
+631,Yay! Finally got what I wanted! So excited!,joy,1,0,0,0,0
+632,Caught off guard! Totally unexpected!,surprise,0,0,0,0,1
+633,Melancholic mood. Nothing helps.,sadness,0,1,0,0,0
+634,This is terrifying. I don't know what to do.,fear,0,0,0,1,0
+635,Bewildered! How did this happen?!,surprise,0,0,0,0,1
+636,Panic setting in. Heart racing!,fear,0,0,0,1,0
+637,Hostile and aggressive! Fed up!,anger,0,0,1,0,0
+638,Frightened and vulnerable. Need protection!,fear,0,0,0,1,0
+639,Livid! Can't believe this happened!,anger,0,0,1,0,0
+640,Lost something precious. So painful.,sadness,0,1,0,0,0
+641,Frightened and vulnerable. Need protection!,fear,0,0,0,1,0
+642,Bewildered! How did this happen?!,surprise,0,0,0,0,1
+643,Content and peaceful! Life is wonderful!,joy,1,0,0,0,0
+644,Yay! Finally got what I wanted! So excited!,joy,1,0,0,0,0
+645,I'm really sad about this. Feeling down 😢,sadness,0,1,0,0,0
+646,Hostile and aggressive! Fed up!,anger,0,0,1,0,0
+647,Livid! Can't believe this happened!,anger,0,0,1,0,0
+648,Hostile and aggressive! Fed up!,anger,0,0,1,0,0
+649,Outraged by this injustice! Not tolerating it!,anger,0,0,1,0,0
+650,Miserable and dejected. Need comfort.,sadness,0,1,0,0,0
+651,Furious! How dare they treat me like this!,anger,0,0,1,0,0
+652,Feeling blue today. Everything seems grey.,sadness,0,1,0,0,0
+653,Melancholic mood. Nothing helps.,sadness,0,1,0,0,0
+654,Afraid of what might happen. So nervous!,fear,0,0,0,1,0
+655,Tears flowing freely. Heart is heavy.,sadness,0,1,0,0,0
+656,Astonished! Never saw that coming!,surprise,0,0,0,0,1
+657,OMG! This is unbelievable! So surprised!,surprise,0,0,0,0,1
+658,Alarmed by recent events. Stay safe!,fear,0,0,0,1,0
+659,Content and peaceful! Life is wonderful!,joy,1,0,0,0,0
+660,Mad as hell! This is infuriating!,anger,0,0,1,0,0
+661,Feeling anxious and fearful about the future.,fear,0,0,0,1,0
+662,This is heartbreaking. Can't stop crying.,sadness,0,1,0,0,0
+663,Melancholic mood. Nothing helps.,sadness,0,1,0,0,0
+664,Afraid of what might happen. So nervous!,fear,0,0,0,1,0
+665,Caught off guard! Totally unexpected!,surprise,0,0,0,0,1
+666,Cheerful and optimistic! Great vibes!,joy,1,0,0,0,0
+667,Lost something precious. So painful.,sadness,0,1,0,0,0
+668,Astonished! Never saw that coming!,surprise,0,0,0,0,1
+669,Dread filling my mind. Can't sleep!,fear,0,0,0,1,0
+670,Yay! Finally got what I wanted! So excited!,joy,1,0,0,0,0
+671,What?! This is shocking! Can't believe it!,surprise,0,0,0,0,1
+672,Depressed and unmotivated. Can't go on.,sadness,0,1,0,0,0
+673,Content and peaceful! Life is wonderful!,joy,1,0,0,0,0
+674,Alarmed by recent events. Stay safe!,fear,0,0,0,1,0
+675,Grief and sorrow overwhelming me.,sadness,0,1,0,0,0
+676,Startled! That came out of nowhere!,surprise,0,0,0,0,1
+677,Melancholic mood. Nothing helps.,sadness,0,1,0,0,0
+678,What?! This is shocking! Can't believe it!,surprise,0,0,0,0,1
+679,Grief and sorrow overwhelming me.,sadness,0,1,0,0,0
+680,Stunned! This is mind-blowing!,surprise,0,0,0,0,1
+681,Cheerful and optimistic! Great vibes!,joy,1,0,0,0,0
+682,Alarmed by recent events. Stay safe!,fear,0,0,0,1,0
+683,Melancholic mood. Nothing helps.,sadness,0,1,0,0,0
+684,Caught off guard! Totally unexpected!,surprise,0,0,0,0,1
+685,Frightened and vulnerable. Need protection!,fear,0,0,0,1,0
+686,Panic setting in. Heart racing!,fear,0,0,0,1,0
+687,Feeling anxious and fearful about the future.,fear,0,0,0,1,0
+688,Mad as hell! This is infuriating!,anger,0,0,1,0,0
+689,This makes my blood boil! Unacceptable!,anger,0,0,1,0,0
+690,Wow! I didn't expect this at all! 😲,surprise,0,0,0,0,1
+691,This makes my blood boil! Unacceptable!,anger,0,0,1,0,0
+692,Terrified! This is my worst nightmare!,fear,0,0,0,1,0
+693,This makes my blood boil! Unacceptable!,anger,0,0,1,0,0
+694,Seething with rage! Lost my temper!,anger,0,0,1,0,0
+695,Overjoyed! Dreams coming true!,joy,1,0,0,0,0
+696,Furious! How dare they treat me like this!,anger,0,0,1,0,0
+697,Afraid of what might happen. So nervous!,fear,0,0,0,1,0
+698,Miserable and dejected. Need comfort.,sadness,0,1,0,0,0
+699,Outraged by this injustice! Not tolerating it!,anger,0,0,1,0,0
+700,Dread filling my mind. Can't sleep!,fear,0,0,0,1,0
+701,This is heartbreaking. Can't stop crying.,sadness,0,1,0,0,0
+702,Alarmed by recent events. Stay safe!,fear,0,0,0,1,0
+703,Wow! I didn't expect this at all! 😲,surprise,0,0,0,0,1
+704,Lost something precious. So painful.,sadness,0,1,0,0,0
+705,I'm so angry right now! This is ridiculous! 😡,anger,0,0,1,0,0
+706,Feeling joyful and blessed! Life is good!,joy,1,0,0,0,0
+707,Delighted with the results! So pleased!,joy,1,0,0,0,0
+708,Feeling anxious and fearful about the future.,fear,0,0,0,1,0
+709,Frightened and vulnerable. Need protection!,fear,0,0,0,1,0
+710,I'm really sad about this. Feeling down 😢,sadness,0,1,0,0,0
+711,Frightened and vulnerable. Need protection!,fear,0,0,0,1,0
+712,Tears flowing freely. Heart is heavy.,sadness,0,1,0,0,0
+713,Hostile and aggressive! Fed up!,anger,0,0,1,0,0
+714,Flabbergasted! Speechless!,surprise,0,0,0,0,1
+715,Yay! Finally got what I wanted! So excited!,joy,1,0,0,0,0
+716,Feeling anxious and fearful about the future.,fear,0,0,0,1,0
+717,Amazed! What a twist!,surprise,0,0,0,0,1
+718,Disappointed and upset. This hurts so much.,sadness,0,1,0,0,0
+719,Yay! Finally got what I wanted! So excited!,joy,1,0,0,0,0
+720,OMG! This is unbelievable! So surprised!,surprise,0,0,0,0,1
+721,Bewildered! How did this happen?!,surprise,0,0,0,0,1
+722,Disappointed and upset. This hurts so much.,sadness,0,1,0,0,0
+723,Astonished! Never saw that coming!,surprise,0,0,0,0,1
+724,Feeling joyful and blessed! Life is good!,joy,1,0,0,0,0
+725,Seething with rage! Lost my temper!,anger,0,0,1,0,0
+726,Amazed! What a twist!,surprise,0,0,0,0,1
+727,Bewildered! How did this happen?!,surprise,0,0,0,0,1
+728,Miserable and dejected. Need comfort.,sadness,0,1,0,0,0
+729,Frightened and vulnerable. Need protection!,fear,0,0,0,1,0
+730,I'm so angry right now! This is ridiculous! 😡,anger,0,0,1,0,0
+731,OMG! This is unbelievable! So surprised!,surprise,0,0,0,0,1
+732,Depressed and unmotivated. Can't go on.,sadness,0,1,0,0,0
+733,Lost something precious. So painful.,sadness,0,1,0,0,0
+734,Feeling anxious and fearful about the future.,fear,0,0,0,1,0
+735,Yay! Finally got what I wanted! So excited!,joy,1,0,0,0,0
+736,OMG! This is unbelievable! So surprised!,surprise,0,0,0,0,1
+737,Feeling anxious and fearful about the future.,fear,0,0,0,1,0
+738,I'm so angry right now! This is ridiculous! 😡,anger,0,0,1,0,0
+739,Tears flowing freely. Heart is heavy.,sadness,0,1,0,0,0
+740,Feeling euphoric! Amazing news!,joy,1,0,0,0,0
+741,Pure happiness! Can't stop smiling!,joy,1,0,0,0,0
+742,Seething with rage! Lost my temper!,anger,0,0,1,0,0
+743,Depressed and unmotivated. Can't go on.,sadness,0,1,0,0,0
+744,Astonished! Never saw that coming!,surprise,0,0,0,0,1
+745,Overjoyed! Dreams coming true!,joy,1,0,0,0,0
+746,Mad as hell! This is infuriating!,anger,0,0,1,0,0
+747,Alarmed by recent events. Stay safe!,fear,0,0,0,1,0
+748,Furious! How dare they treat me like this!,anger,0,0,1,0,0
+749,Furious! How dare they treat me like this!,anger,0,0,1,0,0
+750,Stunned! This is mind-blowing!,surprise,0,0,0,0,1
+751,Celebrating success! Best feeling ever!,joy,1,0,0,0,0
+752,Dread filling my mind. Can't sleep!,fear,0,0,0,1,0
+753,Delighted with the results! So pleased!,joy,1,0,0,0,0
+754,Seething with rage! Lost my temper!,anger,0,0,1,0,0
+755,Afraid of what might happen. So nervous!,fear,0,0,0,1,0
+756,Celebrating success! Best feeling ever!,joy,1,0,0,0,0
+757,I'm so happy! This made my day! 😄,joy,1,0,0,0,0
+758,I'm really sad about this. Feeling down 😢,sadness,0,1,0,0,0
+759,I'm so angry right now! This is ridiculous! 😡,anger,0,0,1,0,0
+760,Livid! Can't believe this happened!,anger,0,0,1,0,0
+761,I'm really sad about this. Feeling down 😢,sadness,0,1,0,0,0
+762,This is terrifying. I don't know what to do.,fear,0,0,0,1,0
+763,Depressed and unmotivated. Can't go on.,sadness,0,1,0,0,0
+764,Startled! That came out of nowhere!,surprise,0,0,0,0,1
+765,I'm really sad about this. Feeling down 😢,sadness,0,1,0,0,0
+766,Startled! That came out of nowhere!,surprise,0,0,0,0,1
+767,Frightened and vulnerable. Need protection!,fear,0,0,0,1,0
+768,Panic setting in. Heart racing!,fear,0,0,0,1,0
+769,Melancholic mood. Nothing helps.,sadness,0,1,0,0,0
+770,Melancholic mood. Nothing helps.,sadness,0,1,0,0,0
+771,Furious! How dare they treat me like this!,anger,0,0,1,0,0
+772,I'm so angry right now! This is ridiculous! 😡,anger,0,0,1,0,0
+773,Seething with rage! Lost my temper!,anger,0,0,1,0,0
+774,Grief and sorrow overwhelming me.,sadness,0,1,0,0,0
+775,Frightened and vulnerable. Need protection!,fear,0,0,0,1,0
+776,Lost something precious. So painful.,sadness,0,1,0,0,0
+777,OMG! This is unbelievable! So surprised!,surprise,0,0,0,0,1
+778,Feeling anxious and fearful about the future.,fear,0,0,0,1,0
+779,This is terrifying. I don't know what to do.,fear,0,0,0,1,0
+780,Afraid of what might happen. So nervous!,fear,0,0,0,1,0
+781,Miserable and dejected. Need comfort.,sadness,0,1,0,0,0
+782,I'm so happy! This made my day! 😄,joy,1,0,0,0,0
+783,Feeling blue today. Everything seems grey.,sadness,0,1,0,0,0
+784,This is heartbreaking. Can't stop crying.,sadness,0,1,0,0,0
+785,Feeling euphoric! Amazing news!,joy,1,0,0,0,0
+786,This makes my blood boil! Unacceptable!,anger,0,0,1,0,0
+787,Seething with rage! Lost my temper!,anger,0,0,1,0,0
+788,Paranoid thoughts. Everything seems threatening!,fear,0,0,0,1,0
+789,Bewildered! How did this happen?!,surprise,0,0,0,0,1
+790,Feeling blue today. Everything seems grey.,sadness,0,1,0,0,0
+791,Bewildered! How did this happen?!,surprise,0,0,0,0,1
+792,Celebrating success! Best feeling ever!,joy,1,0,0,0,0
+793,What?! This is shocking! Can't believe it!,surprise,0,0,0,0,1
+794,Startled! That came out of nowhere!,surprise,0,0,0,0,1
+795,Cheerful and optimistic! Great vibes!,joy,1,0,0,0,0
+796,Depressed and unmotivated. Can't go on.,sadness,0,1,0,0,0
+797,This is heartbreaking. Can't stop crying.,sadness,0,1,0,0,0
+798,What?! This is shocking! Can't believe it!,surprise,0,0,0,0,1
+799,I'm scared and worried about this 😰,fear,0,0,0,1,0
+800,What?! This is shocking! Can't believe it!,surprise,0,0,0,0,1
+801,Livid! Can't believe this happened!,anger,0,0,1,0,0
+802,Afraid of what might happen. So nervous!,fear,0,0,0,1,0
+803,Melancholic mood. Nothing helps.,sadness,0,1,0,0,0
+804,Content and peaceful! Life is wonderful!,joy,1,0,0,0,0
+805,Feeling anxious and fearful about the future.,fear,0,0,0,1,0
+806,Hostile and aggressive! Fed up!,anger,0,0,1,0,0
+807,Frightened and vulnerable. Need protection!,fear,0,0,0,1,0
+808,Dread filling my mind. Can't sleep!,fear,0,0,0,1,0
+809,Frightened and vulnerable. Need protection!,fear,0,0,0,1,0
+810,Afraid of what might happen. So nervous!,fear,0,0,0,1,0
+811,OMG! This is unbelievable! So surprised!,surprise,0,0,0,0,1
+812,Seething with rage! Lost my temper!,anger,0,0,1,0,0
+813,Overjoyed! Dreams coming true!,joy,1,0,0,0,0
+814,Stunned! This is mind-blowing!,surprise,0,0,0,0,1
+815,I'm really sad about this. Feeling down 😢,sadness,0,1,0,0,0
+816,Feeling joyful and blessed! Life is good!,joy,1,0,0,0,0
+817,Hostile and aggressive! Fed up!,anger,0,0,1,0,0
+818,Furious! How dare they treat me like this!,anger,0,0,1,0,0
+819,What?! This is shocking! Can't believe it!,surprise,0,0,0,0,1
+820,Mad as hell! This is infuriating!,anger,0,0,1,0,0
+821,I'm so angry right now! This is ridiculous! 😡,anger,0,0,1,0,0
+822,Lost something precious. So painful.,sadness,0,1,0,0,0
+823,Overjoyed! Dreams coming true!,joy,1,0,0,0,0
+824,Paranoid thoughts. Everything seems threatening!,fear,0,0,0,1,0
+825,Startled! That came out of nowhere!,surprise,0,0,0,0,1
+826,I'm really sad about this. Feeling down 😢,sadness,0,1,0,0,0
+827,Overjoyed! Dreams coming true!,joy,1,0,0,0,0
+828,I'm so happy! This made my day! 😄,joy,1,0,0,0,0
+829,Terrified! This is my worst nightmare!,fear,0,0,0,1,0
+830,Feeling blue today. Everything seems grey.,sadness,0,1,0,0,0
+831,Disappointed and upset. This hurts so much.,sadness,0,1,0,0,0
+832,Mad as hell! This is infuriating!,anger,0,0,1,0,0
+833,What?! This is shocking! Can't believe it!,surprise,0,0,0,0,1
+834,I'm really sad about this. Feeling down 😢,sadness,0,1,0,0,0
+835,Disappointed and upset. This hurts so much.,sadness,0,1,0,0,0
+836,I'm scared and worried about this 😰,fear,0,0,0,1,0
+837,Bewildered! How did this happen?!,surprise,0,0,0,0,1
+838,What?! This is shocking! Can't believe it!,surprise,0,0,0,0,1
+839,Caught off guard! Totally unexpected!,surprise,0,0,0,0,1
+840,Livid! Can't believe this happened!,anger,0,0,1,0,0
+841,Feeling anxious and fearful about the future.,fear,0,0,0,1,0
+842,This makes my blood boil! Unacceptable!,anger,0,0,1,0,0
+843,Paranoid thoughts. Everything seems threatening!,fear,0,0,0,1,0
+844,Livid! Can't believe this happened!,anger,0,0,1,0,0
+845,I'm so happy! This made my day! 😄,joy,1,0,0,0,0
+846,Astonished! Never saw that coming!,surprise,0,0,0,0,1
+847,I'm so angry right now! This is ridiculous! 😡,anger,0,0,1,0,0
+848,Yay! Finally got what I wanted! So excited!,joy,1,0,0,0,0
+849,Cheerful and optimistic! Great vibes!,joy,1,0,0,0,0
+850,Paranoid thoughts. Everything seems threatening!,fear,0,0,0,1,0
+851,Wow! I didn't expect this at all! 😲,surprise,0,0,0,0,1
+852,Disappointed and upset. This hurts so much.,sadness,0,1,0,0,0
+853,Feeling blue today. Everything seems grey.,sadness,0,1,0,0,0
+854,Astonished! Never saw that coming!,surprise,0,0,0,0,1
+855,Wow! I didn't expect this at all! 😲,surprise,0,0,0,0,1
+856,Pure happiness! Can't stop smiling!,joy,1,0,0,0,0
+857,Afraid of what might happen. So nervous!,fear,0,0,0,1,0
+858,Amazed! What a twist!,surprise,0,0,0,0,1
+859,Caught off guard! Totally unexpected!,surprise,0,0,0,0,1
+860,What?! This is shocking! Can't believe it!,surprise,0,0,0,0,1
+861,Yay! Finally got what I wanted! So excited!,joy,1,0,0,0,0
+862,I'm so angry right now! This is ridiculous! 😡,anger,0,0,1,0,0
+863,This makes my blood boil! Unacceptable!,anger,0,0,1,0,0
+864,Depressed and unmotivated. Can't go on.,sadness,0,1,0,0,0
+865,Hostile and aggressive! Fed up!,anger,0,0,1,0,0
+866,This makes my blood boil! Unacceptable!,anger,0,0,1,0,0
+867,Enraged! Someone will pay for this!,anger,0,0,1,0,0
+868,Feeling euphoric! Amazing news!,joy,1,0,0,0,0
+869,Depressed and unmotivated. Can't go on.,sadness,0,1,0,0,0
+870,Cheerful and optimistic! Great vibes!,joy,1,0,0,0,0
+871,I'm really sad about this. Feeling down 😢,sadness,0,1,0,0,0
+872,I'm so angry right now! This is ridiculous! 😡,anger,0,0,1,0,0
+873,Disappointed and upset. This hurts so much.,sadness,0,1,0,0,0
+874,Afraid of what might happen. So nervous!,fear,0,0,0,1,0
+875,Disappointed and upset. This hurts so much.,sadness,0,1,0,0,0
+876,I'm so angry right now! This is ridiculous! 😡,anger,0,0,1,0,0
+877,Afraid of what might happen. So nervous!,fear,0,0,0,1,0
+878,I'm so angry right now! This is ridiculous! 😡,anger,0,0,1,0,0
+879,I'm so angry right now! This is ridiculous! 😡,anger,0,0,1,0,0
+880,Stunned! This is mind-blowing!,surprise,0,0,0,0,1
+881,I'm so happy! This made my day! 😄,joy,1,0,0,0,0
+882,Delighted with the results! So pleased!,joy,1,0,0,0,0
+883,Startled! That came out of nowhere!,surprise,0,0,0,0,1
+884,Wow! I didn't expect this at all! 😲,surprise,0,0,0,0,1
+885,Feeling anxious and fearful about the future.,fear,0,0,0,1,0
+886,Disappointed and upset. This hurts so much.,sadness,0,1,0,0,0
+887,Delighted with the results! So pleased!,joy,1,0,0,0,0
+888,Depressed and unmotivated. Can't go on.,sadness,0,1,0,0,0
+889,Astonished! Never saw that coming!,surprise,0,0,0,0,1
+890,Outraged by this injustice! Not tolerating it!,anger,0,0,1,0,0
+891,Irritated beyond words! So frustrating!,anger,0,0,1,0,0
+892,This is heartbreaking. Can't stop crying.,sadness,0,1,0,0,0
+893,Grief and sorrow overwhelming me.,sadness,0,1,0,0,0
+894,Startled! That came out of nowhere!,surprise,0,0,0,0,1
+895,Amazed! What a twist!,surprise,0,0,0,0,1
+896,Terrified! This is my worst nightmare!,fear,0,0,0,1,0
+897,Stunned! This is mind-blowing!,surprise,0,0,0,0,1
+898,Disappointed and upset. This hurts so much.,sadness,0,1,0,0,0
+899,I'm scared and worried about this 😰,fear,0,0,0,1,0
+900,Cheerful and optimistic! Great vibes!,joy,1,0,0,0,0
+901,Irritated beyond words! So frustrating!,anger,0,0,1,0,0
+902,Pure happiness! Can't stop smiling!,joy,1,0,0,0,0
+903,This is heartbreaking. Can't stop crying.,sadness,0,1,0,0,0
+904,Celebrating success! Best feeling ever!,joy,1,0,0,0,0
+905,Lost something precious. So painful.,sadness,0,1,0,0,0
+906,I'm scared and worried about this 😰,fear,0,0,0,1,0
+907,Grief and sorrow overwhelming me.,sadness,0,1,0,0,0
+908,Hostile and aggressive! Fed up!,anger,0,0,1,0,0
+909,Astonished! Never saw that coming!,surprise,0,0,0,0,1
+910,Enraged! Someone will pay for this!,anger,0,0,1,0,0
+911,Enraged! Someone will pay for this!,anger,0,0,1,0,0
+912,Irritated beyond words! So frustrating!,anger,0,0,1,0,0
+913,Afraid of what might happen. So nervous!,fear,0,0,0,1,0
+914,Caught off guard! Totally unexpected!,surprise,0,0,0,0,1
+915,Delighted with the results! So pleased!,joy,1,0,0,0,0
+916,Wow! I didn't expect this at all! 😲,surprise,0,0,0,0,1
+917,Startled! That came out of nowhere!,surprise,0,0,0,0,1
+918,Disappointed and upset. This hurts so much.,sadness,0,1,0,0,0
+919,OMG! This is unbelievable! So surprised!,surprise,0,0,0,0,1
+920,I'm so happy! This made my day! 😄,joy,1,0,0,0,0
+921,Content and peaceful! Life is wonderful!,joy,1,0,0,0,0
+922,Frightened and vulnerable. Need protection!,fear,0,0,0,1,0
+923,Yay! Finally got what I wanted! So excited!,joy,1,0,0,0,0
+924,Paranoid thoughts. Everything seems threatening!,fear,0,0,0,1,0
+925,Miserable and dejected. Need comfort.,sadness,0,1,0,0,0
+926,Feeling joyful and blessed! Life is good!,joy,1,0,0,0,0
+927,Bewildered! How did this happen?!,surprise,0,0,0,0,1
+928,Grief and sorrow overwhelming me.,sadness,0,1,0,0,0
+929,What?! This is shocking! Can't believe it!,surprise,0,0,0,0,1
+930,Melancholic mood. Nothing helps.,sadness,0,1,0,0,0
+931,I'm scared and worried about this 😰,fear,0,0,0,1,0
+932,Cheerful and optimistic! Great vibes!,joy,1,0,0,0,0
+933,Cheerful and optimistic! Great vibes!,joy,1,0,0,0,0
+934,Mad as hell! This is infuriating!,anger,0,0,1,0,0
+935,Stunned! This is mind-blowing!,surprise,0,0,0,0,1
+936,This is terrifying. I don't know what to do.,fear,0,0,0,1,0
+937,Amazed! What a twist!,surprise,0,0,0,0,1
+938,Celebrating success! Best feeling ever!,joy,1,0,0,0,0
+939,Paranoid thoughts. Everything seems threatening!,fear,0,0,0,1,0
+940,I'm really sad about this. Feeling down 😢,sadness,0,1,0,0,0
+941,Feeling anxious and fearful about the future.,fear,0,0,0,1,0
+942,This makes my blood boil! Unacceptable!,anger,0,0,1,0,0
+943,Delighted with the results! So pleased!,joy,1,0,0,0,0
+944,Yay! Finally got what I wanted! So excited!,joy,1,0,0,0,0
+945,Bewildered! How did this happen?!,surprise,0,0,0,0,1
+946,Frightened and vulnerable. Need protection!,fear,0,0,0,1,0
+947,Alarmed by recent events. Stay safe!,fear,0,0,0,1,0
+948,Outraged by this injustice! Not tolerating it!,anger,0,0,1,0,0
+949,Delighted with the results! So pleased!,joy,1,0,0,0,0
+950,Hostile and aggressive! Fed up!,anger,0,0,1,0,0
+951,Terrified! This is my worst nightmare!,fear,0,0,0,1,0
+952,Caught off guard! Totally unexpected!,surprise,0,0,0,0,1
+953,Hostile and aggressive! Fed up!,anger,0,0,1,0,0
+954,Astonished! Never saw that coming!,surprise,0,0,0,0,1
+955,Overjoyed! Dreams coming true!,joy,1,0,0,0,0
+956,Disappointed and upset. This hurts so much.,sadness,0,1,0,0,0
+957,Panic setting in. Heart racing!,fear,0,0,0,1,0
+958,Caught off guard! Totally unexpected!,surprise,0,0,0,0,1
+959,Dread filling my mind. Can't sleep!,fear,0,0,0,1,0
+960,Pure happiness! Can't stop smiling!,joy,1,0,0,0,0
+961,Grief and sorrow overwhelming me.,sadness,0,1,0,0,0
+962,Flabbergasted! Speechless!,surprise,0,0,0,0,1
+963,Outraged by this injustice! Not tolerating it!,anger,0,0,1,0,0
+964,Enraged! Someone will pay for this!,anger,0,0,1,0,0
+965,This makes my blood boil! Unacceptable!,anger,0,0,1,0,0
+966,Paranoid thoughts. Everything seems threatening!,fear,0,0,0,1,0
+967,Alarmed by recent events. Stay safe!,fear,0,0,0,1,0
+968,This makes my blood boil! Unacceptable!,anger,0,0,1,0,0
+969,Bewildered! How did this happen?!,surprise,0,0,0,0,1
+970,Feeling euphoric! Amazing news!,joy,1,0,0,0,0
+971,Lost something precious. So painful.,sadness,0,1,0,0,0
+972,Disappointed and upset. This hurts so much.,sadness,0,1,0,0,0
+973,Terrified! This is my worst nightmare!,fear,0,0,0,1,0
+974,Furious! How dare they treat me like this!,anger,0,0,1,0,0
+975,Miserable and dejected. Need comfort.,sadness,0,1,0,0,0
+976,I'm so happy! This made my day! 😄,joy,1,0,0,0,0
+977,Delighted with the results! So pleased!,joy,1,0,0,0,0
+978,Panic setting in. Heart racing!,fear,0,0,0,1,0
+979,I'm so happy! This made my day! 😄,joy,1,0,0,0,0
+980,Dread filling my mind. Can't sleep!,fear,0,0,0,1,0
+981,Feeling blue today. Everything seems grey.,sadness,0,1,0,0,0
+982,Livid! Can't believe this happened!,anger,0,0,1,0,0
+983,Delighted with the results! So pleased!,joy,1,0,0,0,0
+984,Feeling euphoric! Amazing news!,joy,1,0,0,0,0
+985,Enraged! Someone will pay for this!,anger,0,0,1,0,0
+986,Bewildered! How did this happen?!,surprise,0,0,0,0,1
+987,Feeling anxious and fearful about the future.,fear,0,0,0,1,0
+988,Afraid of what might happen. So nervous!,fear,0,0,0,1,0
+989,Outraged by this injustice! Not tolerating it!,anger,0,0,1,0,0
+990,Dread filling my mind. Can't sleep!,fear,0,0,0,1,0
+991,Overjoyed! Dreams coming true!,joy,1,0,0,0,0
+992,Furious! How dare they treat me like this!,anger,0,0,1,0,0
+993,Tears flowing freely. Heart is heavy.,sadness,0,1,0,0,0
+994,Enraged! Someone will pay for this!,anger,0,0,1,0,0
+995,This is heartbreaking. Can't stop crying.,sadness,0,1,0,0,0
+996,This makes my blood boil! Unacceptable!,anger,0,0,1,0,0
+997,Terrified! This is my worst nightmare!,fear,0,0,0,1,0
+998,Content and peaceful! Life is wonderful!,joy,1,0,0,0,0
+999,Delighted with the results! So pleased!,joy,1,0,0,0,0
+1000,Feeling euphoric! Amazing news!,joy,1,0,0,0,0
+1001,Delighted with the results! So pleased!,joy,1,0,0,0,0
+1002,Depressed and unmotivated. Can't go on.,sadness,0,1,0,0,0
+1003,Lost something precious. So painful.,sadness,0,1,0,0,0
+1004,This is heartbreaking. Can't stop crying.,sadness,0,1,0,0,0
+1005,Caught off guard! Totally unexpected!,surprise,0,0,0,0,1
+1006,Wow! I didn't expect this at all! 😲,surprise,0,0,0,0,1
+1007,Miserable and dejected. Need comfort.,sadness,0,1,0,0,0
+1008,This makes my blood boil! Unacceptable!,anger,0,0,1,0,0
+1009,Miserable and dejected. Need comfort.,sadness,0,1,0,0,0
+1010,I'm so happy! This made my day! 😄,joy,1,0,0,0,0
+1011,Panic setting in. Heart racing!,fear,0,0,0,1,0
+1012,This is heartbreaking. Can't stop crying.,sadness,0,1,0,0,0
+1013,Furious! How dare they treat me like this!,anger,0,0,1,0,0
+1014,Disappointed and upset. This hurts so much.,sadness,0,1,0,0,0
+1015,This makes my blood boil! Unacceptable!,anger,0,0,1,0,0
+1016,This is terrifying. I don't know what to do.,fear,0,0,0,1,0
+1017,This makes my blood boil! Unacceptable!,anger,0,0,1,0,0
+1018,Bewildered! How did this happen?!,surprise,0,0,0,0,1
+1019,Afraid of what might happen. So nervous!,fear,0,0,0,1,0
+1020,Terrified! This is my worst nightmare!,fear,0,0,0,1,0
+1021,Pure happiness! Can't stop smiling!,joy,1,0,0,0,0
+1022,Mad as hell! This is infuriating!,anger,0,0,1,0,0
+1023,Astonished! Never saw that coming!,surprise,0,0,0,0,1
+1024,Overjoyed! Dreams coming true!,joy,1,0,0,0,0
+1025,Irritated beyond words! So frustrating!,anger,0,0,1,0,0
+1026,Enraged! Someone will pay for this!,anger,0,0,1,0,0
+1027,Paranoid thoughts. Everything seems threatening!,fear,0,0,0,1,0
+1028,Bewildered! How did this happen?!,surprise,0,0,0,0,1
+1029,Paranoid thoughts. Everything seems threatening!,fear,0,0,0,1,0
+1030,OMG! This is unbelievable! So surprised!,surprise,0,0,0,0,1
+1031,Caught off guard! Totally unexpected!,surprise,0,0,0,0,1
+1032,Dread filling my mind. Can't sleep!,fear,0,0,0,1,0
+1033,Overjoyed! Dreams coming true!,joy,1,0,0,0,0
+1034,Flabbergasted! Speechless!,surprise,0,0,0,0,1
+1035,Lost something precious. So painful.,sadness,0,1,0,0,0
+1036,Cheerful and optimistic! Great vibes!,joy,1,0,0,0,0
+1037,OMG! This is unbelievable! So surprised!,surprise,0,0,0,0,1
+1038,Dread filling my mind. Can't sleep!,fear,0,0,0,1,0
+1039,Miserable and dejected. Need comfort.,sadness,0,1,0,0,0
+1040,Furious! How dare they treat me like this!,anger,0,0,1,0,0
+1041,Alarmed by recent events. Stay safe!,fear,0,0,0,1,0
+1042,Feeling anxious and fearful about the future.,fear,0,0,0,1,0
+1043,Alarmed by recent events. Stay safe!,fear,0,0,0,1,0
+1044,I'm really sad about this. Feeling down 😢,sadness,0,1,0,0,0
+1045,Caught off guard! Totally unexpected!,surprise,0,0,0,0,1
+1046,Afraid of what might happen. So nervous!,fear,0,0,0,1,0
+1047,Pure happiness! Can't stop smiling!,joy,1,0,0,0,0
+1048,Astonished! Never saw that coming!,surprise,0,0,0,0,1
+1049,Grief and sorrow overwhelming me.,sadness,0,1,0,0,0
+1050,Feeling joyful and blessed! Life is good!,joy,1,0,0,0,0
+1051,This is terrifying. I don't know what to do.,fear,0,0,0,1,0
+1052,I'm so happy! This made my day! 😄,joy,1,0,0,0,0
+1053,Amazed! What a twist!,surprise,0,0,0,0,1
+1054,Feeling blue today. Everything seems grey.,sadness,0,1,0,0,0
+1055,Enraged! Someone will pay for this!,anger,0,0,1,0,0
+1056,Melancholic mood. Nothing helps.,sadness,0,1,0,0,0
+1057,Celebrating success! Best feeling ever!,joy,1,0,0,0,0
+1058,Feeling anxious and fearful about the future.,fear,0,0,0,1,0
+1059,Celebrating success! Best feeling ever!,joy,1,0,0,0,0
+1060,Paranoid thoughts. Everything seems threatening!,fear,0,0,0,1,0
+1061,Overjoyed! Dreams coming true!,joy,1,0,0,0,0
+1062,I'm so angry right now! This is ridiculous! 😡,anger,0,0,1,0,0
+1063,Miserable and dejected. Need comfort.,sadness,0,1,0,0,0
+1064,Yay! Finally got what I wanted! So excited!,joy,1,0,0,0,0
+1065,Enraged! Someone will pay for this!,anger,0,0,1,0,0
+1066,Melancholic mood. Nothing helps.,sadness,0,1,0,0,0
+1067,Outraged by this injustice! Not tolerating it!,anger,0,0,1,0,0
+1068,Startled! That came out of nowhere!,surprise,0,0,0,0,1
+1069,Seething with rage! Lost my temper!,anger,0,0,1,0,0
+1070,Pure happiness! Can't stop smiling!,joy,1,0,0,0,0
+1071,Afraid of what might happen. So nervous!,fear,0,0,0,1,0
+1072,Hostile and aggressive! Fed up!,anger,0,0,1,0,0
+1073,Celebrating success! Best feeling ever!,joy,1,0,0,0,0
+1074,I'm scared and worried about this 😰,fear,0,0,0,1,0
+1075,Panic setting in. Heart racing!,fear,0,0,0,1,0
+1076,This is heartbreaking. Can't stop crying.,sadness,0,1,0,0,0
+1077,Content and peaceful! Life is wonderful!,joy,1,0,0,0,0
+1078,OMG! This is unbelievable! So surprised!,surprise,0,0,0,0,1
+1079,Afraid of what might happen. So nervous!,fear,0,0,0,1,0
+1080,OMG! This is unbelievable! So surprised!,surprise,0,0,0,0,1
+1081,Furious! How dare they treat me like this!,anger,0,0,1,0,0
+1082,Afraid of what might happen. So nervous!,fear,0,0,0,1,0
+1083,Irritated beyond words! So frustrating!,anger,0,0,1,0,0
+1084,I'm really sad about this. Feeling down 😢,sadness,0,1,0,0,0
+1085,Yay! Finally got what I wanted! So excited!,joy,1,0,0,0,0
+1086,Caught off guard! Totally unexpected!,surprise,0,0,0,0,1
+1087,Panic setting in. Heart racing!,fear,0,0,0,1,0
+1088,This is heartbreaking. Can't stop crying.,sadness,0,1,0,0,0
+1089,Outraged by this injustice! Not tolerating it!,anger,0,0,1,0,0
+1090,Pure happiness! Can't stop smiling!,joy,1,0,0,0,0
+1091,Outraged by this injustice! Not tolerating it!,anger,0,0,1,0,0
+1092,Mad as hell! This is infuriating!,anger,0,0,1,0,0
+1093,Alarmed by recent events. Stay safe!,fear,0,0,0,1,0
+1094,Seething with rage! Lost my temper!,anger,0,0,1,0,0
+1095,Astonished! Never saw that coming!,surprise,0,0,0,0,1
+1096,I'm really sad about this. Feeling down 😢,sadness,0,1,0,0,0
+1097,Caught off guard! Totally unexpected!,surprise,0,0,0,0,1
+1098,Caught off guard! Totally unexpected!,surprise,0,0,0,0,1
+1099,Feeling anxious and fearful about the future.,fear,0,0,0,1,0
+1100,Caught off guard! Totally unexpected!,surprise,0,0,0,0,1
+1101,Enraged! Someone will pay for this!,anger,0,0,1,0,0
+1102,Outraged by this injustice! Not tolerating it!,anger,0,0,1,0,0
+1103,Mad as hell! This is infuriating!,anger,0,0,1,0,0
+1104,Cheerful and optimistic! Great vibes!,joy,1,0,0,0,0
+1105,Paranoid thoughts. Everything seems threatening!,fear,0,0,0,1,0
+1106,Enraged! Someone will pay for this!,anger,0,0,1,0,0
+1107,Lost something precious. So painful.,sadness,0,1,0,0,0
+1108,Afraid of what might happen. So nervous!,fear,0,0,0,1,0
+1109,Cheerful and optimistic! Great vibes!,joy,1,0,0,0,0
+1110,Content and peaceful! Life is wonderful!,joy,1,0,0,0,0
+1111,This is terrifying. I don't know what to do.,fear,0,0,0,1,0
+1112,Wow! I didn't expect this at all! 😲,surprise,0,0,0,0,1
+1113,Celebrating success! Best feeling ever!,joy,1,0,0,0,0
+1114,Tears flowing freely. Heart is heavy.,sadness,0,1,0,0,0
+1115,Tears flowing freely. Heart is heavy.,sadness,0,1,0,0,0
+1116,Wow! I didn't expect this at all! 😲,surprise,0,0,0,0,1
+1117,Melancholic mood. Nothing helps.,sadness,0,1,0,0,0
+1118,I'm scared and worried about this 😰,fear,0,0,0,1,0
+1119,Feeling anxious and fearful about the future.,fear,0,0,0,1,0
+1120,Panic setting in. Heart racing!,fear,0,0,0,1,0
+1121,Mad as hell! This is infuriating!,anger,0,0,1,0,0
+1122,Flabbergasted! Speechless!,surprise,0,0,0,0,1
+1123,Amazed! What a twist!,surprise,0,0,0,0,1
+1124,This makes my blood boil! Unacceptable!,anger,0,0,1,0,0
+1125,Terrified! This is my worst nightmare!,fear,0,0,0,1,0
+1126,Feeling blue today. Everything seems grey.,sadness,0,1,0,0,0
+1127,This makes my blood boil! Unacceptable!,anger,0,0,1,0,0
+1128,Lost something precious. So painful.,sadness,0,1,0,0,0
+1129,Paranoid thoughts. Everything seems threatening!,fear,0,0,0,1,0
+1130,Alarmed by recent events. Stay safe!,fear,0,0,0,1,0
+1131,Irritated beyond words! So frustrating!,anger,0,0,1,0,0
+1132,Cheerful and optimistic! Great vibes!,joy,1,0,0,0,0
+1133,Pure happiness! Can't stop smiling!,joy,1,0,0,0,0
+1134,Yay! Finally got what I wanted! So excited!,joy,1,0,0,0,0
+1135,Feeling blue today. Everything seems grey.,sadness,0,1,0,0,0
+1136,Flabbergasted! Speechless!,surprise,0,0,0,0,1
+1137,Disappointed and upset. This hurts so much.,sadness,0,1,0,0,0
+1138,Content and peaceful! Life is wonderful!,joy,1,0,0,0,0
+1139,Cheerful and optimistic! Great vibes!,joy,1,0,0,0,0
+1140,Tears flowing freely. Heart is heavy.,sadness,0,1,0,0,0
+1141,Dread filling my mind. Can't sleep!,fear,0,0,0,1,0
+1142,Miserable and dejected. Need comfort.,sadness,0,1,0,0,0
+1143,I'm so happy! This made my day! 😄,joy,1,0,0,0,0
+1144,Feeling joyful and blessed! Life is good!,joy,1,0,0,0,0
+1145,Tears flowing freely. Heart is heavy.,sadness,0,1,0,0,0
+1146,Bewildered! How did this happen?!,surprise,0,0,0,0,1
+1147,Feeling joyful and blessed! Life is good!,joy,1,0,0,0,0
+1148,Yay! Finally got what I wanted! So excited!,joy,1,0,0,0,0
+1149,Paranoid thoughts. Everything seems threatening!,fear,0,0,0,1,0
+1150,Enraged! Someone will pay for this!,anger,0,0,1,0,0
+1151,I'm so happy! This made my day! 😄,joy,1,0,0,0,0
+1152,I'm scared and worried about this 😰,fear,0,0,0,1,0
+1153,Bewildered! How did this happen?!,surprise,0,0,0,0,1
+1154,Tears flowing freely. Heart is heavy.,sadness,0,1,0,0,0
+1155,Melancholic mood. Nothing helps.,sadness,0,1,0,0,0
+1156,Furious! How dare they treat me like this!,anger,0,0,1,0,0
+1157,What?! This is shocking! Can't believe it!,surprise,0,0,0,0,1
+1158,Miserable and dejected. Need comfort.,sadness,0,1,0,0,0
+1159,Frightened and vulnerable. Need protection!,fear,0,0,0,1,0
+1160,Outraged by this injustice! Not tolerating it!,anger,0,0,1,0,0
+1161,Disappointed and upset. This hurts so much.,sadness,0,1,0,0,0
+1162,Seething with rage! Lost my temper!,anger,0,0,1,0,0
+1163,Frightened and vulnerable. Need protection!,fear,0,0,0,1,0
+1164,What?! This is shocking! Can't believe it!,surprise,0,0,0,0,1
+1165,Outraged by this injustice! Not tolerating it!,anger,0,0,1,0,0
+1166,Wow! I didn't expect this at all! 😲,surprise,0,0,0,0,1
+1167,Grief and sorrow overwhelming me.,sadness,0,1,0,0,0
+1168,Irritated beyond words! So frustrating!,anger,0,0,1,0,0
+1169,Overjoyed! Dreams coming true!,joy,1,0,0,0,0
+1170,Irritated beyond words! So frustrating!,anger,0,0,1,0,0
+1171,Panic setting in. Heart racing!,fear,0,0,0,1,0
+1172,Stunned! This is mind-blowing!,surprise,0,0,0,0,1
+1173,Feeling joyful and blessed! Life is good!,joy,1,0,0,0,0
+1174,OMG! This is unbelievable! So surprised!,surprise,0,0,0,0,1
+1175,Amazed! What a twist!,surprise,0,0,0,0,1
+1176,Feeling euphoric! Amazing news!,joy,1,0,0,0,0
+1177,Feeling anxious and fearful about the future.,fear,0,0,0,1,0
+1178,Cheerful and optimistic! Great vibes!,joy,1,0,0,0,0
+1179,I'm scared and worried about this 😰,fear,0,0,0,1,0
+1180,Frightened and vulnerable. Need protection!,fear,0,0,0,1,0
+1181,Dread filling my mind. Can't sleep!,fear,0,0,0,1,0
+1182,Feeling blue today. Everything seems grey.,sadness,0,1,0,0,0
+1183,Pure happiness! Can't stop smiling!,joy,1,0,0,0,0
+1184,Yay! Finally got what I wanted! So excited!,joy,1,0,0,0,0
+1185,Furious! How dare they treat me like this!,anger,0,0,1,0,0
+1186,Frightened and vulnerable. Need protection!,fear,0,0,0,1,0
+1187,Stunned! This is mind-blowing!,surprise,0,0,0,0,1
+1188,Feeling joyful and blessed! Life is good!,joy,1,0,0,0,0
+1189,Cheerful and optimistic! Great vibes!,joy,1,0,0,0,0
+1190,Outraged by this injustice! Not tolerating it!,anger,0,0,1,0,0
+1191,Astonished! Never saw that coming!,surprise,0,0,0,0,1
+1192,Lost something precious. So painful.,sadness,0,1,0,0,0
+1193,Grief and sorrow overwhelming me.,sadness,0,1,0,0,0
+1194,This is terrifying. I don't know what to do.,fear,0,0,0,1,0
+1195,Furious! How dare they treat me like this!,anger,0,0,1,0,0
+1196,Stunned! This is mind-blowing!,surprise,0,0,0,0,1
+1197,Caught off guard! Totally unexpected!,surprise,0,0,0,0,1
+1198,Wow! I didn't expect this at all! 😲,surprise,0,0,0,0,1
+1199,Panic setting in. Heart racing!,fear,0,0,0,1,0
+1200,Mad as hell! This is infuriating!,anger,0,0,1,0,0
+1201,Feeling joyful and blessed! Life is good!,joy,1,0,0,0,0
+1202,Startled! That came out of nowhere!,surprise,0,0,0,0,1
+1203,I'm so happy! This made my day! 😄,joy,1,0,0,0,0
+1204,Mad as hell! This is infuriating!,anger,0,0,1,0,0
+1205,Furious! How dare they treat me like this!,anger,0,0,1,0,0
+1206,Grief and sorrow overwhelming me.,sadness,0,1,0,0,0
+1207,This makes my blood boil! Unacceptable!,anger,0,0,1,0,0
+1208,Melancholic mood. Nothing helps.,sadness,0,1,0,0,0
+1209,Melancholic mood. Nothing helps.,sadness,0,1,0,0,0
+1210,Afraid of what might happen. So nervous!,fear,0,0,0,1,0
+1211,Afraid of what might happen. So nervous!,fear,0,0,0,1,0
+1212,Disappointed and upset. This hurts so much.,sadness,0,1,0,0,0
+1213,I'm really sad about this. Feeling down 😢,sadness,0,1,0,0,0
+1214,Amazed! What a twist!,surprise,0,0,0,0,1
+1215,Miserable and dejected. Need comfort.,sadness,0,1,0,0,0
+1216,Tears flowing freely. Heart is heavy.,sadness,0,1,0,0,0
+1217,Dread filling my mind. Can't sleep!,fear,0,0,0,1,0
+1218,Flabbergasted! Speechless!,surprise,0,0,0,0,1
+1219,Melancholic mood. Nothing helps.,sadness,0,1,0,0,0
+1220,What?! This is shocking! Can't believe it!,surprise,0,0,0,0,1
+1221,I'm so happy! This made my day! 😄,joy,1,0,0,0,0
+1222,I'm so angry right now! This is ridiculous! 😡,anger,0,0,1,0,0
+1223,Content and peaceful! Life is wonderful!,joy,1,0,0,0,0
+1224,Grief and sorrow overwhelming me.,sadness,0,1,0,0,0
+1225,I'm really sad about this. Feeling down 😢,sadness,0,1,0,0,0
+1226,Terrified! This is my worst nightmare!,fear,0,0,0,1,0
+1227,Livid! Can't believe this happened!,anger,0,0,1,0,0
+1228,I'm scared and worried about this 😰,fear,0,0,0,1,0
+1229,Feeling euphoric! Amazing news!,joy,1,0,0,0,0
+1230,Dread filling my mind. Can't sleep!,fear,0,0,0,1,0
+1231,I'm scared and worried about this 😰,fear,0,0,0,1,0
+1232,Caught off guard! Totally unexpected!,surprise,0,0,0,0,1
+1233,Feeling euphoric! Amazing news!,joy,1,0,0,0,0
+1234,Overjoyed! Dreams coming true!,joy,1,0,0,0,0
+1235,Enraged! Someone will pay for this!,anger,0,0,1,0,0
+1236,Celebrating success! Best feeling ever!,joy,1,0,0,0,0
+1237,Stunned! This is mind-blowing!,surprise,0,0,0,0,1
+1238,Mad as hell! This is infuriating!,anger,0,0,1,0,0
+1239,Panic setting in. Heart racing!,fear,0,0,0,1,0
+1240,Furious! How dare they treat me like this!,anger,0,0,1,0,0
+1241,Livid! Can't believe this happened!,anger,0,0,1,0,0
+1242,Panic setting in. Heart racing!,fear,0,0,0,1,0
+1243,Feeling anxious and fearful about the future.,fear,0,0,0,1,0
+1244,Pure happiness! Can't stop smiling!,joy,1,0,0,0,0
+1245,Hostile and aggressive! Fed up!,anger,0,0,1,0,0
+1246,Melancholic mood. Nothing helps.,sadness,0,1,0,0,0
+1247,Dread filling my mind. Can't sleep!,fear,0,0,0,1,0
+1248,Feeling anxious and fearful about the future.,fear,0,0,0,1,0
+1249,Outraged by this injustice! Not tolerating it!,anger,0,0,1,0,0
+1250,Flabbergasted! Speechless!,surprise,0,0,0,0,1
+1251,Astonished! Never saw that coming!,surprise,0,0,0,0,1
+1252,Celebrating success! Best feeling ever!,joy,1,0,0,0,0
+1253,Livid! Can't believe this happened!,anger,0,0,1,0,0
+1254,Feeling joyful and blessed! Life is good!,joy,1,0,0,0,0
+1255,I'm really sad about this. Feeling down 😢,sadness,0,1,0,0,0
+1256,Furious! How dare they treat me like this!,anger,0,0,1,0,0
+1257,This is terrifying. I don't know what to do.,fear,0,0,0,1,0
+1258,Bewildered! How did this happen?!,surprise,0,0,0,0,1
+1259,Celebrating success! Best feeling ever!,joy,1,0,0,0,0
+1260,Frightened and vulnerable. Need protection!,fear,0,0,0,1,0
+1261,Paranoid thoughts. Everything seems threatening!,fear,0,0,0,1,0
+1262,This is terrifying. I don't know what to do.,fear,0,0,0,1,0
+1263,Depressed and unmotivated. Can't go on.,sadness,0,1,0,0,0
+1264,Enraged! Someone will pay for this!,anger,0,0,1,0,0
+1265,Astonished! Never saw that coming!,surprise,0,0,0,0,1
+1266,Stunned! This is mind-blowing!,surprise,0,0,0,0,1
+1267,Feeling euphoric! Amazing news!,joy,1,0,0,0,0
+1268,Delighted with the results! So pleased!,joy,1,0,0,0,0
+1269,This makes my blood boil! Unacceptable!,anger,0,0,1,0,0
+1270,I'm scared and worried about this 😰,fear,0,0,0,1,0
+1271,Depressed and unmotivated. Can't go on.,sadness,0,1,0,0,0
+1272,Hostile and aggressive! Fed up!,anger,0,0,1,0,0
+1273,Delighted with the results! So pleased!,joy,1,0,0,0,0
+1274,This is heartbreaking. Can't stop crying.,sadness,0,1,0,0,0
+1275,Melancholic mood. Nothing helps.,sadness,0,1,0,0,0
+1276,Grief and sorrow overwhelming me.,sadness,0,1,0,0,0
+1277,Feeling anxious and fearful about the future.,fear,0,0,0,1,0
+1278,Yay! Finally got what I wanted! So excited!,joy,1,0,0,0,0
+1279,Yay! Finally got what I wanted! So excited!,joy,1,0,0,0,0
+1280,Disappointed and upset. This hurts so much.,sadness,0,1,0,0,0
+1281,Stunned! This is mind-blowing!,surprise,0,0,0,0,1
+1282,Dread filling my mind. Can't sleep!,fear,0,0,0,1,0
+1283,Feeling anxious and fearful about the future.,fear,0,0,0,1,0
+1284,Mad as hell! This is infuriating!,anger,0,0,1,0,0
+1285,Frightened and vulnerable. Need protection!,fear,0,0,0,1,0
+1286,Irritated beyond words! So frustrating!,anger,0,0,1,0,0
+1287,Melancholic mood. Nothing helps.,sadness,0,1,0,0,0
+1288,Paranoid thoughts. Everything seems threatening!,fear,0,0,0,1,0
+1289,Pure happiness! Can't stop smiling!,joy,1,0,0,0,0
+1290,Afraid of what might happen. So nervous!,fear,0,0,0,1,0
+1291,Caught off guard! Totally unexpected!,surprise,0,0,0,0,1
+1292,Miserable and dejected. Need comfort.,sadness,0,1,0,0,0
+1293,OMG! This is unbelievable! So surprised!,surprise,0,0,0,0,1
+1294,Feeling euphoric! Amazing news!,joy,1,0,0,0,0
+1295,Mad as hell! This is infuriating!,anger,0,0,1,0,0
+1296,Mad as hell! This is infuriating!,anger,0,0,1,0,0
+1297,Feeling anxious and fearful about the future.,fear,0,0,0,1,0
+1298,Terrified! This is my worst nightmare!,fear,0,0,0,1,0
+1299,I'm scared and worried about this 😰,fear,0,0,0,1,0
+1300,Wow! I didn't expect this at all! 😲,surprise,0,0,0,0,1
+1301,Amazed! What a twist!,surprise,0,0,0,0,1
+1302,Celebrating success! Best feeling ever!,joy,1,0,0,0,0
+1303,I'm so happy! This made my day! 😄,joy,1,0,0,0,0
+1304,Astonished! Never saw that coming!,surprise,0,0,0,0,1
+1305,I'm so angry right now! This is ridiculous! 😡,anger,0,0,1,0,0
+1306,Wow! I didn't expect this at all! 😲,surprise,0,0,0,0,1
+1307,Dread filling my mind. Can't sleep!,fear,0,0,0,1,0
+1308,Startled! That came out of nowhere!,surprise,0,0,0,0,1
+1309,Furious! How dare they treat me like this!,anger,0,0,1,0,0
+1310,Amazed! What a twist!,surprise,0,0,0,0,1
+1311,Depressed and unmotivated. Can't go on.,sadness,0,1,0,0,0
+1312,Furious! How dare they treat me like this!,anger,0,0,1,0,0
+1313,Delighted with the results! So pleased!,joy,1,0,0,0,0
+1314,Feeling blue today. Everything seems grey.,sadness,0,1,0,0,0
+1315,Bewildered! How did this happen?!,surprise,0,0,0,0,1
+1316,Dread filling my mind. Can't sleep!,fear,0,0,0,1,0
+1317,This is terrifying. I don't know what to do.,fear,0,0,0,1,0
+1318,Feeling euphoric! Amazing news!,joy,1,0,0,0,0
+1319,Flabbergasted! Speechless!,surprise,0,0,0,0,1
+1320,Mad as hell! This is infuriating!,anger,0,0,1,0,0
+1321,Enraged! Someone will pay for this!,anger,0,0,1,0,0
+1322,Bewildered! How did this happen?!,surprise,0,0,0,0,1
+1323,Startled! That came out of nowhere!,surprise,0,0,0,0,1
+1324,Stunned! This is mind-blowing!,surprise,0,0,0,0,1
+1325,Hostile and aggressive! Fed up!,anger,0,0,1,0,0
+1326,Dread filling my mind. Can't sleep!,fear,0,0,0,1,0
+1327,Grief and sorrow overwhelming me.,sadness,0,1,0,0,0
+1328,What?! This is shocking! Can't believe it!,surprise,0,0,0,0,1
+1329,Feeling anxious and fearful about the future.,fear,0,0,0,1,0
+1330,Panic setting in. Heart racing!,fear,0,0,0,1,0
+1331,Outraged by this injustice! Not tolerating it!,anger,0,0,1,0,0
+1332,Enraged! Someone will pay for this!,anger,0,0,1,0,0
+1333,This is heartbreaking. Can't stop crying.,sadness,0,1,0,0,0
+1334,Melancholic mood. Nothing helps.,sadness,0,1,0,0,0
+1335,Melancholic mood. Nothing helps.,sadness,0,1,0,0,0
+1336,Tears flowing freely. Heart is heavy.,sadness,0,1,0,0,0
+1337,Mad as hell! This is infuriating!,anger,0,0,1,0,0
+1338,Grief and sorrow overwhelming me.,sadness,0,1,0,0,0
+1339,Overjoyed! Dreams coming true!,joy,1,0,0,0,0
+1340,Grief and sorrow overwhelming me.,sadness,0,1,0,0,0
+1341,Melancholic mood. Nothing helps.,sadness,0,1,0,0,0
+1342,Caught off guard! Totally unexpected!,surprise,0,0,0,0,1
+1343,Stunned! This is mind-blowing!,surprise,0,0,0,0,1
+1344,Afraid of what might happen. So nervous!,fear,0,0,0,1,0
+1345,Stunned! This is mind-blowing!,surprise,0,0,0,0,1
+1346,Enraged! Someone will pay for this!,anger,0,0,1,0,0
+1347,Panic setting in. Heart racing!,fear,0,0,0,1,0
+1348,I'm so angry right now! This is ridiculous! 😡,anger,0,0,1,0,0
+1349,Afraid of what might happen. So nervous!,fear,0,0,0,1,0
+1350,Pure happiness! Can't stop smiling!,joy,1,0,0,0,0
+1351,Overjoyed! Dreams coming true!,joy,1,0,0,0,0
+1352,This is terrifying. I don't know what to do.,fear,0,0,0,1,0
+1353,Overjoyed! Dreams coming true!,joy,1,0,0,0,0
+1354,Alarmed by recent events. Stay safe!,fear,0,0,0,1,0
+1355,Cheerful and optimistic! Great vibes!,joy,1,0,0,0,0
+1356,Feeling euphoric! Amazing news!,joy,1,0,0,0,0
+1357,Stunned! This is mind-blowing!,surprise,0,0,0,0,1
+1358,Mad as hell! This is infuriating!,anger,0,0,1,0,0
+1359,Caught off guard! Totally unexpected!,surprise,0,0,0,0,1
+1360,I'm really sad about this. Feeling down 😢,sadness,0,1,0,0,0
+1361,OMG! This is unbelievable! So surprised!,surprise,0,0,0,0,1
+1362,This is terrifying. I don't know what to do.,fear,0,0,0,1,0
+1363,Cheerful and optimistic! Great vibes!,joy,1,0,0,0,0
+1364,This makes my blood boil! Unacceptable!,anger,0,0,1,0,0
+1365,Feeling joyful and blessed! Life is good!,joy,1,0,0,0,0
+1366,Disappointed and upset. This hurts so much.,sadness,0,1,0,0,0
+1367,I'm really sad about this. Feeling down 😢,sadness,0,1,0,0,0
+1368,Enraged! Someone will pay for this!,anger,0,0,1,0,0
+1369,Tears flowing freely. Heart is heavy.,sadness,0,1,0,0,0
+1370,Startled! That came out of nowhere!,surprise,0,0,0,0,1
+1371,Feeling anxious and fearful about the future.,fear,0,0,0,1,0
+1372,What?! This is shocking! Can't believe it!,surprise,0,0,0,0,1
+1373,Yay! Finally got what I wanted! So excited!,joy,1,0,0,0,0
+1374,Panic setting in. Heart racing!,fear,0,0,0,1,0
+1375,I'm so angry right now! This is ridiculous! 😡,anger,0,0,1,0,0
+1376,Afraid of what might happen. So nervous!,fear,0,0,0,1,0
+1377,Celebrating success! Best feeling ever!,joy,1,0,0,0,0
+1378,Outraged by this injustice! Not tolerating it!,anger,0,0,1,0,0
+1379,Frightened and vulnerable. Need protection!,fear,0,0,0,1,0
+1380,I'm so happy! This made my day! 😄,joy,1,0,0,0,0
+1381,Grief and sorrow overwhelming me.,sadness,0,1,0,0,0
+1382,Alarmed by recent events. Stay safe!,fear,0,0,0,1,0
+1383,Delighted with the results! So pleased!,joy,1,0,0,0,0
+1384,Amazed! What a twist!,surprise,0,0,0,0,1
+1385,What?! This is shocking! Can't believe it!,surprise,0,0,0,0,1
+1386,Lost something precious. So painful.,sadness,0,1,0,0,0
+1387,I'm scared and worried about this 😰,fear,0,0,0,1,0
+1388,Irritated beyond words! So frustrating!,anger,0,0,1,0,0
+1389,Livid! Can't believe this happened!,anger,0,0,1,0,0
+1390,Tears flowing freely. Heart is heavy.,sadness,0,1,0,0,0
+1391,OMG! This is unbelievable! So surprised!,surprise,0,0,0,0,1
+1392,I'm scared and worried about this 😰,fear,0,0,0,1,0
+1393,Disappointed and upset. This hurts so much.,sadness,0,1,0,0,0
+1394,I'm so happy! This made my day! 😄,joy,1,0,0,0,0
+1395,I'm scared and worried about this 😰,fear,0,0,0,1,0
+1396,Miserable and dejected. Need comfort.,sadness,0,1,0,0,0
+1397,Terrified! This is my worst nightmare!,fear,0,0,0,1,0
+1398,Feeling euphoric! Amazing news!,joy,1,0,0,0,0
+1399,What?! This is shocking! Can't believe it!,surprise,0,0,0,0,1
+1400,Enraged! Someone will pay for this!,anger,0,0,1,0,0
+1401,Terrified! This is my worst nightmare!,fear,0,0,0,1,0
+1402,I'm so happy! This made my day! 😄,joy,1,0,0,0,0
+1403,Feeling euphoric! Amazing news!,joy,1,0,0,0,0
+1404,Furious! How dare they treat me like this!,anger,0,0,1,0,0
+1405,Delighted with the results! So pleased!,joy,1,0,0,0,0
+1406,Alarmed by recent events. Stay safe!,fear,0,0,0,1,0
+1407,Yay! Finally got what I wanted! So excited!,joy,1,0,0,0,0
+1408,Feeling blue today. Everything seems grey.,sadness,0,1,0,0,0
+1409,Stunned! This is mind-blowing!,surprise,0,0,0,0,1
+1410,Seething with rage! Lost my temper!,anger,0,0,1,0,0
+1411,Cheerful and optimistic! Great vibes!,joy,1,0,0,0,0
+1412,Outraged by this injustice! Not tolerating it!,anger,0,0,1,0,0
+1413,Pure happiness! Can't stop smiling!,joy,1,0,0,0,0
+1414,Content and peaceful! Life is wonderful!,joy,1,0,0,0,0
+1415,Seething with rage! Lost my temper!,anger,0,0,1,0,0
+1416,Delighted with the results! So pleased!,joy,1,0,0,0,0
+1417,Feeling blue today. Everything seems grey.,sadness,0,1,0,0,0
+1418,Livid! Can't believe this happened!,anger,0,0,1,0,0
+1419,Mad as hell! This is infuriating!,anger,0,0,1,0,0
+1420,This is heartbreaking. Can't stop crying.,sadness,0,1,0,0,0
+1421,This is heartbreaking. Can't stop crying.,sadness,0,1,0,0,0
+1422,I'm so angry right now! This is ridiculous! 😡,anger,0,0,1,0,0
+1423,Astonished! Never saw that coming!,surprise,0,0,0,0,1
+1424,Irritated beyond words! So frustrating!,anger,0,0,1,0,0
+1425,Terrified! This is my worst nightmare!,fear,0,0,0,1,0
+1426,Grief and sorrow overwhelming me.,sadness,0,1,0,0,0
+1427,Grief and sorrow overwhelming me.,sadness,0,1,0,0,0
+1428,Delighted with the results! So pleased!,joy,1,0,0,0,0
+1429,Startled! That came out of nowhere!,surprise,0,0,0,0,1
+1430,Flabbergasted! Speechless!,surprise,0,0,0,0,1
+1431,Seething with rage! Lost my temper!,anger,0,0,1,0,0
+1432,Caught off guard! Totally unexpected!,surprise,0,0,0,0,1
+1433,This makes my blood boil! Unacceptable!,anger,0,0,1,0,0
+1434,Startled! That came out of nowhere!,surprise,0,0,0,0,1
+1435,Hostile and aggressive! Fed up!,anger,0,0,1,0,0
+1436,Overjoyed! Dreams coming true!,joy,1,0,0,0,0
+1437,Livid! Can't believe this happened!,anger,0,0,1,0,0
+1438,Wow! I didn't expect this at all! 😲,surprise,0,0,0,0,1
+1439,I'm scared and worried about this 😰,fear,0,0,0,1,0
+1440,Terrified! This is my worst nightmare!,fear,0,0,0,1,0
+1441,Grief and sorrow overwhelming me.,sadness,0,1,0,0,0
+1442,Terrified! This is my worst nightmare!,fear,0,0,0,1,0
+1443,Dread filling my mind. Can't sleep!,fear,0,0,0,1,0
+1444,Disappointed and upset. This hurts so much.,sadness,0,1,0,0,0
+1445,Frightened and vulnerable. Need protection!,fear,0,0,0,1,0
+1446,Celebrating success! Best feeling ever!,joy,1,0,0,0,0
+1447,Frightened and vulnerable. Need protection!,fear,0,0,0,1,0
+1448,Grief and sorrow overwhelming me.,sadness,0,1,0,0,0
+1449,Tears flowing freely. Heart is heavy.,sadness,0,1,0,0,0
+1450,Feeling joyful and blessed! Life is good!,joy,1,0,0,0,0
+1451,Feeling euphoric! Amazing news!,joy,1,0,0,0,0
+1452,Livid! Can't believe this happened!,anger,0,0,1,0,0
+1453,Livid! Can't believe this happened!,anger,0,0,1,0,0
+1454,This is heartbreaking. Can't stop crying.,sadness,0,1,0,0,0
+1455,Delighted with the results! So pleased!,joy,1,0,0,0,0
+1456,This is heartbreaking. Can't stop crying.,sadness,0,1,0,0,0
+1457,This is terrifying. I don't know what to do.,fear,0,0,0,1,0
+1458,Frightened and vulnerable. Need protection!,fear,0,0,0,1,0
+1459,Mad as hell! This is infuriating!,anger,0,0,1,0,0
+1460,Paranoid thoughts. Everything seems threatening!,fear,0,0,0,1,0
+1461,This is heartbreaking. Can't stop crying.,sadness,0,1,0,0,0
+1462,Yay! Finally got what I wanted! So excited!,joy,1,0,0,0,0
+1463,Delighted with the results! So pleased!,joy,1,0,0,0,0
+1464,Startled! That came out of nowhere!,surprise,0,0,0,0,1
+1465,Dread filling my mind. Can't sleep!,fear,0,0,0,1,0
+1466,Pure happiness! Can't stop smiling!,joy,1,0,0,0,0
+1467,Astonished! Never saw that coming!,surprise,0,0,0,0,1
+1468,Flabbergasted! Speechless!,surprise,0,0,0,0,1
+1469,Startled! That came out of nowhere!,surprise,0,0,0,0,1
+1470,Frightened and vulnerable. Need protection!,fear,0,0,0,1,0
+1471,Lost something precious. So painful.,sadness,0,1,0,0,0
+1472,Irritated beyond words! So frustrating!,anger,0,0,1,0,0
+1473,Caught off guard! Totally unexpected!,surprise,0,0,0,0,1
+1474,Dread filling my mind. Can't sleep!,fear,0,0,0,1,0
+1475,Seething with rage! Lost my temper!,anger,0,0,1,0,0
+1476,Wow! I didn't expect this at all! 😲,surprise,0,0,0,0,1
+1477,Paranoid thoughts. Everything seems threatening!,fear,0,0,0,1,0
+1478,This is terrifying. I don't know what to do.,fear,0,0,0,1,0
+1479,I'm so angry right now! This is ridiculous! 😡,anger,0,0,1,0,0
+1480,Enraged! Someone will pay for this!,anger,0,0,1,0,0
+1481,Tears flowing freely. Heart is heavy.,sadness,0,1,0,0,0
+1482,Tears flowing freely. Heart is heavy.,sadness,0,1,0,0,0
+1483,Cheerful and optimistic! Great vibes!,joy,1,0,0,0,0
+1484,Melancholic mood. Nothing helps.,sadness,0,1,0,0,0
+1485,Feeling joyful and blessed! Life is good!,joy,1,0,0,0,0
+1486,Feeling euphoric! Amazing news!,joy,1,0,0,0,0
+1487,Enraged! Someone will pay for this!,anger,0,0,1,0,0
+1488,I'm scared and worried about this 😰,fear,0,0,0,1,0
+1489,Startled! That came out of nowhere!,surprise,0,0,0,0,1
+1490,Outraged by this injustice! Not tolerating it!,anger,0,0,1,0,0
+1491,Feeling euphoric! Amazing news!,joy,1,0,0,0,0
+1492,Panic setting in. Heart racing!,fear,0,0,0,1,0
+1493,Amazed! What a twist!,surprise,0,0,0,0,1
+1494,Feeling euphoric! Amazing news!,joy,1,0,0,0,0
+1495,Seething with rage! Lost my temper!,anger,0,0,1,0,0
+1496,This is terrifying. I don't know what to do.,fear,0,0,0,1,0
+1497,Alarmed by recent events. Stay safe!,fear,0,0,0,1,0
+1498,Outraged by this injustice! Not tolerating it!,anger,0,0,1,0,0
+1499,I'm so angry right now! This is ridiculous! 😡,anger,0,0,1,0,0
+1500,Frightened and vulnerable. Need protection!,fear,0,0,0,1,0
+1501,What?! This is shocking! Can't believe it!,surprise,0,0,0,0,1
+1502,Paranoid thoughts. Everything seems threatening!,fear,0,0,0,1,0
+1503,Furious! How dare they treat me like this!,anger,0,0,1,0,0
+1504,Livid! Can't believe this happened!,anger,0,0,1,0,0
+1505,Dread filling my mind. Can't sleep!,fear,0,0,0,1,0
+1506,Mad as hell! This is infuriating!,anger,0,0,1,0,0
+1507,Pure happiness! Can't stop smiling!,joy,1,0,0,0,0
+1508,Irritated beyond words! So frustrating!,anger,0,0,1,0,0
+1509,Terrified! This is my worst nightmare!,fear,0,0,0,1,0
+1510,Pure happiness! Can't stop smiling!,joy,1,0,0,0,0
+1511,Melancholic mood. Nothing helps.,sadness,0,1,0,0,0
+1512,Dread filling my mind. Can't sleep!,fear,0,0,0,1,0
+1513,I'm so angry right now! This is ridiculous! 😡,anger,0,0,1,0,0
+1514,Paranoid thoughts. Everything seems threatening!,fear,0,0,0,1,0
+1515,I'm really sad about this. Feeling down 😢,sadness,0,1,0,0,0
+1516,Miserable and dejected. Need comfort.,sadness,0,1,0,0,0
+1517,Outraged by this injustice! Not tolerating it!,anger,0,0,1,0,0
+1518,Panic setting in. Heart racing!,fear,0,0,0,1,0
+1519,Afraid of what might happen. So nervous!,fear,0,0,0,1,0
+1520,Outraged by this injustice! Not tolerating it!,anger,0,0,1,0,0
+1521,Terrified! This is my worst nightmare!,fear,0,0,0,1,0
+1522,I'm so angry right now! This is ridiculous! 😡,anger,0,0,1,0,0
+1523,Seething with rage! Lost my temper!,anger,0,0,1,0,0
+1524,Outraged by this injustice! Not tolerating it!,anger,0,0,1,0,0
+1525,I'm really sad about this. Feeling down 😢,sadness,0,1,0,0,0
+1526,Startled! That came out of nowhere!,surprise,0,0,0,0,1
+1527,Celebrating success! Best feeling ever!,joy,1,0,0,0,0
+1528,Frightened and vulnerable. Need protection!,fear,0,0,0,1,0
+1529,Cheerful and optimistic! Great vibes!,joy,1,0,0,0,0
+1530,Paranoid thoughts. Everything seems threatening!,fear,0,0,0,1,0
+1531,Yay! Finally got what I wanted! So excited!,joy,1,0,0,0,0
+1532,I'm so happy! This made my day! 😄,joy,1,0,0,0,0
+1533,Outraged by this injustice! Not tolerating it!,anger,0,0,1,0,0
+1534,Panic setting in. Heart racing!,fear,0,0,0,1,0
+1535,This makes my blood boil! Unacceptable!,anger,0,0,1,0,0
+1536,Disappointed and upset. This hurts so much.,sadness,0,1,0,0,0
+1537,I'm so angry right now! This is ridiculous! 😡,anger,0,0,1,0,0
+1538,Dread filling my mind. Can't sleep!,fear,0,0,0,1,0
+1539,Frightened and vulnerable. Need protection!,fear,0,0,0,1,0
+1540,Mad as hell! This is infuriating!,anger,0,0,1,0,0
+1541,I'm really sad about this. Feeling down 😢,sadness,0,1,0,0,0
+1542,Astonished! Never saw that coming!,surprise,0,0,0,0,1
+1543,Yay! Finally got what I wanted! So excited!,joy,1,0,0,0,0
+1544,Tears flowing freely. Heart is heavy.,sadness,0,1,0,0,0
+1545,Feeling anxious and fearful about the future.,fear,0,0,0,1,0
+1546,Melancholic mood. Nothing helps.,sadness,0,1,0,0,0
+1547,I'm so happy! This made my day! 😄,joy,1,0,0,0,0
+1548,Miserable and dejected. Need comfort.,sadness,0,1,0,0,0
+1549,Lost something precious. So painful.,sadness,0,1,0,0,0
+1550,Flabbergasted! Speechless!,surprise,0,0,0,0,1
+1551,This makes my blood boil! Unacceptable!,anger,0,0,1,0,0
+1552,Disappointed and upset. This hurts so much.,sadness,0,1,0,0,0
+1553,Dread filling my mind. Can't sleep!,fear,0,0,0,1,0
+1554,Panic setting in. Heart racing!,fear,0,0,0,1,0
+1555,Cheerful and optimistic! Great vibes!,joy,1,0,0,0,0
+1556,Flabbergasted! Speechless!,surprise,0,0,0,0,1
+1557,Overjoyed! Dreams coming true!,joy,1,0,0,0,0
+1558,What?! This is shocking! Can't believe it!,surprise,0,0,0,0,1
+1559,OMG! This is unbelievable! So surprised!,surprise,0,0,0,0,1
+1560,Miserable and dejected. Need comfort.,sadness,0,1,0,0,0
+1561,Grief and sorrow overwhelming me.,sadness,0,1,0,0,0
+1562,Caught off guard! Totally unexpected!,surprise,0,0,0,0,1
+1563,Tears flowing freely. Heart is heavy.,sadness,0,1,0,0,0
+1564,I'm so angry right now! This is ridiculous! 😡,anger,0,0,1,0,0
+1565,Disappointed and upset. This hurts so much.,sadness,0,1,0,0,0
+1566,OMG! This is unbelievable! So surprised!,surprise,0,0,0,0,1
+1567,Lost something precious. So painful.,sadness,0,1,0,0,0
+1568,Bewildered! How did this happen?!,surprise,0,0,0,0,1
+1569,I'm so happy! This made my day! 😄,joy,1,0,0,0,0
+1570,Dread filling my mind. Can't sleep!,fear,0,0,0,1,0
+1571,Enraged! Someone will pay for this!,anger,0,0,1,0,0
+1572,Celebrating success! Best feeling ever!,joy,1,0,0,0,0
+1573,Grief and sorrow overwhelming me.,sadness,0,1,0,0,0
+1574,Grief and sorrow overwhelming me.,sadness,0,1,0,0,0
+1575,Feeling euphoric! Amazing news!,joy,1,0,0,0,0
+1576,Hostile and aggressive! Fed up!,anger,0,0,1,0,0
+1577,Feeling anxious and fearful about the future.,fear,0,0,0,1,0
+1578,Mad as hell! This is infuriating!,anger,0,0,1,0,0
+1579,Caught off guard! Totally unexpected!,surprise,0,0,0,0,1
+1580,Seething with rage! Lost my temper!,anger,0,0,1,0,0
+1581,Caught off guard! Totally unexpected!,surprise,0,0,0,0,1
+1582,Furious! How dare they treat me like this!,anger,0,0,1,0,0
+1583,Wow! I didn't expect this at all! 😲,surprise,0,0,0,0,1
+1584,I'm really sad about this. Feeling down 😢,sadness,0,1,0,0,0
+1585,Furious! How dare they treat me like this!,anger,0,0,1,0,0
+1586,Disappointed and upset. This hurts so much.,sadness,0,1,0,0,0
+1587,I'm so angry right now! This is ridiculous! 😡,anger,0,0,1,0,0
+1588,Feeling blue today. Everything seems grey.,sadness,0,1,0,0,0
+1589,Alarmed by recent events. Stay safe!,fear,0,0,0,1,0
+1590,I'm so angry right now! This is ridiculous! 😡,anger,0,0,1,0,0
+1591,Dread filling my mind. Can't sleep!,fear,0,0,0,1,0
+1592,Celebrating success! Best feeling ever!,joy,1,0,0,0,0
+1593,Feeling joyful and blessed! Life is good!,joy,1,0,0,0,0
+1594,Wow! I didn't expect this at all! 😲,surprise,0,0,0,0,1
+1595,Frightened and vulnerable. Need protection!,fear,0,0,0,1,0
+1596,OMG! This is unbelievable! So surprised!,surprise,0,0,0,0,1
+1597,Feeling joyful and blessed! Life is good!,joy,1,0,0,0,0
+1598,Tears flowing freely. Heart is heavy.,sadness,0,1,0,0,0
+1599,Astonished! Never saw that coming!,surprise,0,0,0,0,1
+1600,Afraid of what might happen. So nervous!,fear,0,0,0,1,0
+1601,Tears flowing freely. Heart is heavy.,sadness,0,1,0,0,0
+1602,Depressed and unmotivated. Can't go on.,sadness,0,1,0,0,0
+1603,Hostile and aggressive! Fed up!,anger,0,0,1,0,0
+1604,Cheerful and optimistic! Great vibes!,joy,1,0,0,0,0
+1605,Content and peaceful! Life is wonderful!,joy,1,0,0,0,0
+1606,Wow! I didn't expect this at all! 😲,surprise,0,0,0,0,1
+1607,Lost something precious. So painful.,sadness,0,1,0,0,0
+1608,Caught off guard! Totally unexpected!,surprise,0,0,0,0,1
+1609,Disappointed and upset. This hurts so much.,sadness,0,1,0,0,0
+1610,Feeling joyful and blessed! Life is good!,joy,1,0,0,0,0
+1611,This is terrifying. I don't know what to do.,fear,0,0,0,1,0
+1612,Miserable and dejected. Need comfort.,sadness,0,1,0,0,0
+1613,Overjoyed! Dreams coming true!,joy,1,0,0,0,0
+1614,I'm so happy! This made my day! 😄,joy,1,0,0,0,0
+1615,This is heartbreaking. Can't stop crying.,sadness,0,1,0,0,0
+1616,Content and peaceful! Life is wonderful!,joy,1,0,0,0,0
+1617,Tears flowing freely. Heart is heavy.,sadness,0,1,0,0,0
+1618,Caught off guard! Totally unexpected!,surprise,0,0,0,0,1
+1619,Mad as hell! This is infuriating!,anger,0,0,1,0,0
+1620,Grief and sorrow overwhelming me.,sadness,0,1,0,0,0
+1621,Tears flowing freely. Heart is heavy.,sadness,0,1,0,0,0
+1622,I'm scared and worried about this 😰,fear,0,0,0,1,0
+1623,Celebrating success! Best feeling ever!,joy,1,0,0,0,0
+1624,Yay! Finally got what I wanted! So excited!,joy,1,0,0,0,0
+1625,Pure happiness! Can't stop smiling!,joy,1,0,0,0,0
+1626,I'm so happy! This made my day! 😄,joy,1,0,0,0,0
+1627,Celebrating success! Best feeling ever!,joy,1,0,0,0,0
+1628,I'm so happy! This made my day! 😄,joy,1,0,0,0,0
+1629,What?! This is shocking! Can't believe it!,surprise,0,0,0,0,1
+1630,Mad as hell! This is infuriating!,anger,0,0,1,0,0
+1631,Bewildered! How did this happen?!,surprise,0,0,0,0,1
+1632,What?! This is shocking! Can't believe it!,surprise,0,0,0,0,1
+1633,Feeling blue today. Everything seems grey.,sadness,0,1,0,0,0
+1634,Seething with rage! Lost my temper!,anger,0,0,1,0,0
+1635,Celebrating success! Best feeling ever!,joy,1,0,0,0,0
+1636,Afraid of what might happen. So nervous!,fear,0,0,0,1,0
+1637,Disappointed and upset. This hurts so much.,sadness,0,1,0,0,0
+1638,Pure happiness! Can't stop smiling!,joy,1,0,0,0,0
+1639,Afraid of what might happen. So nervous!,fear,0,0,0,1,0
+1640,Miserable and dejected. Need comfort.,sadness,0,1,0,0,0
+1641,Flabbergasted! Speechless!,surprise,0,0,0,0,1
+1642,Depressed and unmotivated. Can't go on.,sadness,0,1,0,0,0
+1643,Depressed and unmotivated. Can't go on.,sadness,0,1,0,0,0
+1644,I'm so angry right now! This is ridiculous! 😡,anger,0,0,1,0,0
+1645,Stunned! This is mind-blowing!,surprise,0,0,0,0,1
+1646,Cheerful and optimistic! Great vibes!,joy,1,0,0,0,0
+1647,Startled! That came out of nowhere!,surprise,0,0,0,0,1
+1648,Miserable and dejected. Need comfort.,sadness,0,1,0,0,0
+1649,Alarmed by recent events. Stay safe!,fear,0,0,0,1,0
+1650,Startled! That came out of nowhere!,surprise,0,0,0,0,1
+1651,Feeling anxious and fearful about the future.,fear,0,0,0,1,0
+1652,This is heartbreaking. Can't stop crying.,sadness,0,1,0,0,0
+1653,Cheerful and optimistic! Great vibes!,joy,1,0,0,0,0
+1654,Stunned! This is mind-blowing!,surprise,0,0,0,0,1
+1655,Outraged by this injustice! Not tolerating it!,anger,0,0,1,0,0
+1656,Caught off guard! Totally unexpected!,surprise,0,0,0,0,1
+1657,OMG! This is unbelievable! So surprised!,surprise,0,0,0,0,1
+1658,Pure happiness! Can't stop smiling!,joy,1,0,0,0,0
+1659,Terrified! This is my worst nightmare!,fear,0,0,0,1,0
+1660,Alarmed by recent events. Stay safe!,fear,0,0,0,1,0
+1661,Mad as hell! This is infuriating!,anger,0,0,1,0,0
+1662,Furious! How dare they treat me like this!,anger,0,0,1,0,0
+1663,Enraged! Someone will pay for this!,anger,0,0,1,0,0
+1664,I'm so happy! This made my day! 😄,joy,1,0,0,0,0
+1665,What?! This is shocking! Can't believe it!,surprise,0,0,0,0,1
+1666,Afraid of what might happen. So nervous!,fear,0,0,0,1,0
+1667,Hostile and aggressive! Fed up!,anger,0,0,1,0,0
+1668,What?! This is shocking! Can't believe it!,surprise,0,0,0,0,1
+1669,Alarmed by recent events. Stay safe!,fear,0,0,0,1,0
+1670,Terrified! This is my worst nightmare!,fear,0,0,0,1,0
+1671,Content and peaceful! Life is wonderful!,joy,1,0,0,0,0
+1672,Yay! Finally got what I wanted! So excited!,joy,1,0,0,0,0
+1673,Dread filling my mind. Can't sleep!,fear,0,0,0,1,0
+1674,Hostile and aggressive! Fed up!,anger,0,0,1,0,0
+1675,Amazed! What a twist!,surprise,0,0,0,0,1
+1676,Feeling joyful and blessed! Life is good!,joy,1,0,0,0,0
+1677,Feeling joyful and blessed! Life is good!,joy,1,0,0,0,0
+1678,This is terrifying. I don't know what to do.,fear,0,0,0,1,0
+1679,OMG! This is unbelievable! So surprised!,surprise,0,0,0,0,1
+1680,I'm so angry right now! This is ridiculous! 😡,anger,0,0,1,0,0
+1681,Enraged! Someone will pay for this!,anger,0,0,1,0,0
+1682,Wow! I didn't expect this at all! 😲,surprise,0,0,0,0,1
+1683,Delighted with the results! So pleased!,joy,1,0,0,0,0
+1684,Astonished! Never saw that coming!,surprise,0,0,0,0,1
+1685,Hostile and aggressive! Fed up!,anger,0,0,1,0,0
+1686,Mad as hell! This is infuriating!,anger,0,0,1,0,0
+1687,Depressed and unmotivated. Can't go on.,sadness,0,1,0,0,0
+1688,Alarmed by recent events. Stay safe!,fear,0,0,0,1,0
+1689,Overjoyed! Dreams coming true!,joy,1,0,0,0,0
+1690,Disappointed and upset. This hurts so much.,sadness,0,1,0,0,0
+1691,Cheerful and optimistic! Great vibes!,joy,1,0,0,0,0
+1692,Alarmed by recent events. Stay safe!,fear,0,0,0,1,0
+1693,Terrified! This is my worst nightmare!,fear,0,0,0,1,0
+1694,Feeling euphoric! Amazing news!,joy,1,0,0,0,0
+1695,Feeling joyful and blessed! Life is good!,joy,1,0,0,0,0
+1696,Terrified! This is my worst nightmare!,fear,0,0,0,1,0
+1697,Lost something precious. So painful.,sadness,0,1,0,0,0
+1698,Feeling joyful and blessed! Life is good!,joy,1,0,0,0,0
+1699,Paranoid thoughts. Everything seems threatening!,fear,0,0,0,1,0
+1700,This is terrifying. I don't know what to do.,fear,0,0,0,1,0
+1701,Startled! That came out of nowhere!,surprise,0,0,0,0,1
+1702,Dread filling my mind. Can't sleep!,fear,0,0,0,1,0
+1703,Irritated beyond words! So frustrating!,anger,0,0,1,0,0
+1704,Stunned! This is mind-blowing!,surprise,0,0,0,0,1
+1705,Outraged by this injustice! Not tolerating it!,anger,0,0,1,0,0
+1706,This makes my blood boil! Unacceptable!,anger,0,0,1,0,0
+1707,This is heartbreaking. Can't stop crying.,sadness,0,1,0,0,0
+1708,Amazed! What a twist!,surprise,0,0,0,0,1
+1709,I'm so happy! This made my day! 😄,joy,1,0,0,0,0
+1710,Terrified! This is my worst nightmare!,fear,0,0,0,1,0
+1711,I'm so happy! This made my day! 😄,joy,1,0,0,0,0
+1712,Furious! How dare they treat me like this!,anger,0,0,1,0,0
+1713,I'm so angry right now! This is ridiculous! 😡,anger,0,0,1,0,0
+1714,Wow! I didn't expect this at all! 😲,surprise,0,0,0,0,1
+1715,Afraid of what might happen. So nervous!,fear,0,0,0,1,0
+1716,I'm scared and worried about this 😰,fear,0,0,0,1,0
+1717,Afraid of what might happen. So nervous!,fear,0,0,0,1,0
+1718,I'm really sad about this. Feeling down 😢,sadness,0,1,0,0,0
+1719,Dread filling my mind. Can't sleep!,fear,0,0,0,1,0
+1720,Grief and sorrow overwhelming me.,sadness,0,1,0,0,0
+1721,Seething with rage! Lost my temper!,anger,0,0,1,0,0
+1722,Furious! How dare they treat me like this!,anger,0,0,1,0,0
+1723,Lost something precious. So painful.,sadness,0,1,0,0,0
+1724,Pure happiness! Can't stop smiling!,joy,1,0,0,0,0
+1725,Disappointed and upset. This hurts so much.,sadness,0,1,0,0,0
+1726,Depressed and unmotivated. Can't go on.,sadness,0,1,0,0,0
+1727,Feeling euphoric! Amazing news!,joy,1,0,0,0,0
+1728,Yay! Finally got what I wanted! So excited!,joy,1,0,0,0,0
+1729,Hostile and aggressive! Fed up!,anger,0,0,1,0,0
+1730,Feeling joyful and blessed! Life is good!,joy,1,0,0,0,0
+1731,Content and peaceful! Life is wonderful!,joy,1,0,0,0,0
+1732,Enraged! Someone will pay for this!,anger,0,0,1,0,0
+1733,Livid! Can't believe this happened!,anger,0,0,1,0,0
+1734,OMG! This is unbelievable! So surprised!,surprise,0,0,0,0,1
+1735,This is heartbreaking. Can't stop crying.,sadness,0,1,0,0,0
+1736,Wow! I didn't expect this at all! 😲,surprise,0,0,0,0,1
+1737,Terrified! This is my worst nightmare!,fear,0,0,0,1,0
+1738,Irritated beyond words! So frustrating!,anger,0,0,1,0,0
+1739,Alarmed by recent events. Stay safe!,fear,0,0,0,1,0
+1740,Amazed! What a twist!,surprise,0,0,0,0,1
+1741,Feeling euphoric! Amazing news!,joy,1,0,0,0,0
+1742,Yay! Finally got what I wanted! So excited!,joy,1,0,0,0,0
+1743,Bewildered! How did this happen?!,surprise,0,0,0,0,1
+1744,Bewildered! How did this happen?!,surprise,0,0,0,0,1
+1745,Feeling euphoric! Amazing news!,joy,1,0,0,0,0
+1746,Livid! Can't believe this happened!,anger,0,0,1,0,0
+1747,Terrified! This is my worst nightmare!,fear,0,0,0,1,0
+1748,Stunned! This is mind-blowing!,surprise,0,0,0,0,1
+1749,Enraged! Someone will pay for this!,anger,0,0,1,0,0
+1750,Mad as hell! This is infuriating!,anger,0,0,1,0,0
+1751,Yay! Finally got what I wanted! So excited!,joy,1,0,0,0,0
+1752,I'm scared and worried about this 😰,fear,0,0,0,1,0
+1753,Depressed and unmotivated. Can't go on.,sadness,0,1,0,0,0
+1754,Wow! I didn't expect this at all! 😲,surprise,0,0,0,0,1
+1755,Overjoyed! Dreams coming true!,joy,1,0,0,0,0
+1756,Flabbergasted! Speechless!,surprise,0,0,0,0,1
+1757,Celebrating success! Best feeling ever!,joy,1,0,0,0,0
+1758,Tears flowing freely. Heart is heavy.,sadness,0,1,0,0,0
+1759,Bewildered! How did this happen?!,surprise,0,0,0,0,1
+1760,Panic setting in. Heart racing!,fear,0,0,0,1,0
+1761,This makes my blood boil! Unacceptable!,anger,0,0,1,0,0
+1762,OMG! This is unbelievable! So surprised!,surprise,0,0,0,0,1
+1763,Paranoid thoughts. Everything seems threatening!,fear,0,0,0,1,0
+1764,Miserable and dejected. Need comfort.,sadness,0,1,0,0,0
+1765,This is terrifying. I don't know what to do.,fear,0,0,0,1,0
+1766,I'm really sad about this. Feeling down 😢,sadness,0,1,0,0,0
+1767,Caught off guard! Totally unexpected!,surprise,0,0,0,0,1
+1768,Wow! I didn't expect this at all! 😲,surprise,0,0,0,0,1
+1769,Wow! I didn't expect this at all! 😲,surprise,0,0,0,0,1
+1770,Celebrating success! Best feeling ever!,joy,1,0,0,0,0
+1771,Lost something precious. So painful.,sadness,0,1,0,0,0
+1772,Panic setting in. Heart racing!,fear,0,0,0,1,0
+1773,Startled! That came out of nowhere!,surprise,0,0,0,0,1
+1774,Alarmed by recent events. Stay safe!,fear,0,0,0,1,0
+1775,Disappointed and upset. This hurts so much.,sadness,0,1,0,0,0
+1776,Celebrating success! Best feeling ever!,joy,1,0,0,0,0
+1777,Amazed! What a twist!,surprise,0,0,0,0,1
+1778,Mad as hell! This is infuriating!,anger,0,0,1,0,0
+1779,Paranoid thoughts. Everything seems threatening!,fear,0,0,0,1,0
+1780,Panic setting in. Heart racing!,fear,0,0,0,1,0
+1781,Celebrating success! Best feeling ever!,joy,1,0,0,0,0
+1782,Stunned! This is mind-blowing!,surprise,0,0,0,0,1
+1783,Furious! How dare they treat me like this!,anger,0,0,1,0,0
+1784,Terrified! This is my worst nightmare!,fear,0,0,0,1,0
+1785,OMG! This is unbelievable! So surprised!,surprise,0,0,0,0,1
+1786,Frightened and vulnerable. Need protection!,fear,0,0,0,1,0
+1787,Terrified! This is my worst nightmare!,fear,0,0,0,1,0
+1788,I'm really sad about this. Feeling down 😢,sadness,0,1,0,0,0
+1789,What?! This is shocking! Can't believe it!,surprise,0,0,0,0,1
+1790,Miserable and dejected. Need comfort.,sadness,0,1,0,0,0
+1791,This is heartbreaking. Can't stop crying.,sadness,0,1,0,0,0
+1792,Grief and sorrow overwhelming me.,sadness,0,1,0,0,0
+1793,This is terrifying. I don't know what to do.,fear,0,0,0,1,0
+1794,Grief and sorrow overwhelming me.,sadness,0,1,0,0,0
+1795,Depressed and unmotivated. Can't go on.,sadness,0,1,0,0,0
+1796,Livid! Can't believe this happened!,anger,0,0,1,0,0
+1797,Amazed! What a twist!,surprise,0,0,0,0,1
+1798,Feeling anxious and fearful about the future.,fear,0,0,0,1,0
+1799,Feeling anxious and fearful about the future.,fear,0,0,0,1,0
+1800,Feeling joyful and blessed! Life is good!,joy,1,0,0,0,0
+1801,Stunned! This is mind-blowing!,surprise,0,0,0,0,1
+1802,Startled! That came out of nowhere!,surprise,0,0,0,0,1
+1803,Outraged by this injustice! Not tolerating it!,anger,0,0,1,0,0
+1804,Feeling blue today. Everything seems grey.,sadness,0,1,0,0,0
+1805,Melancholic mood. Nothing helps.,sadness,0,1,0,0,0
+1806,Celebrating success! Best feeling ever!,joy,1,0,0,0,0
+1807,Startled! That came out of nowhere!,surprise,0,0,0,0,1
+1808,Hostile and aggressive! Fed up!,anger,0,0,1,0,0
+1809,What?! This is shocking! Can't believe it!,surprise,0,0,0,0,1
+1810,Disappointed and upset. This hurts so much.,sadness,0,1,0,0,0
+1811,Furious! How dare they treat me like this!,anger,0,0,1,0,0
+1812,Flabbergasted! Speechless!,surprise,0,0,0,0,1
+1813,Amazed! What a twist!,surprise,0,0,0,0,1
+1814,Lost something precious. So painful.,sadness,0,1,0,0,0
+1815,Panic setting in. Heart racing!,fear,0,0,0,1,0
+1816,Melancholic mood. Nothing helps.,sadness,0,1,0,0,0
+1817,Panic setting in. Heart racing!,fear,0,0,0,1,0
+1818,Paranoid thoughts. Everything seems threatening!,fear,0,0,0,1,0
+1819,Terrified! This is my worst nightmare!,fear,0,0,0,1,0
+1820,Feeling joyful and blessed! Life is good!,joy,1,0,0,0,0
+1821,Terrified! This is my worst nightmare!,fear,0,0,0,1,0
+1822,Bewildered! How did this happen?!,surprise,0,0,0,0,1
+1823,I'm really sad about this. Feeling down 😢,sadness,0,1,0,0,0
+1824,Pure happiness! Can't stop smiling!,joy,1,0,0,0,0
+1825,I'm scared and worried about this 😰,fear,0,0,0,1,0
+1826,I'm scared and worried about this 😰,fear,0,0,0,1,0
+1827,Hostile and aggressive! Fed up!,anger,0,0,1,0,0
+1828,Dread filling my mind. Can't sleep!,fear,0,0,0,1,0
+1829,Feeling joyful and blessed! Life is good!,joy,1,0,0,0,0
+1830,Content and peaceful! Life is wonderful!,joy,1,0,0,0,0
+1831,Seething with rage! Lost my temper!,anger,0,0,1,0,0
+1832,Seething with rage! Lost my temper!,anger,0,0,1,0,0
+1833,Wow! I didn't expect this at all! 😲,surprise,0,0,0,0,1
+1834,Hostile and aggressive! Fed up!,anger,0,0,1,0,0
+1835,Disappointed and upset. This hurts so much.,sadness,0,1,0,0,0
+1836,Feeling anxious and fearful about the future.,fear,0,0,0,1,0
+1837,Cheerful and optimistic! Great vibes!,joy,1,0,0,0,0
+1838,Depressed and unmotivated. Can't go on.,sadness,0,1,0,0,0
+1839,Feeling euphoric! Amazing news!,joy,1,0,0,0,0
+1840,I'm really sad about this. Feeling down 😢,sadness,0,1,0,0,0
+1841,Outraged by this injustice! Not tolerating it!,anger,0,0,1,0,0
+1842,Bewildered! How did this happen?!,surprise,0,0,0,0,1
+1843,Bewildered! How did this happen?!,surprise,0,0,0,0,1
+1844,Bewildered! How did this happen?!,surprise,0,0,0,0,1
+1845,I'm really sad about this. Feeling down 😢,sadness,0,1,0,0,0
+1846,Mad as hell! This is infuriating!,anger,0,0,1,0,0
+1847,Enraged! Someone will pay for this!,anger,0,0,1,0,0
+1848,Mad as hell! This is infuriating!,anger,0,0,1,0,0
+1849,Cheerful and optimistic! Great vibes!,joy,1,0,0,0,0
+1850,Delighted with the results! So pleased!,joy,1,0,0,0,0
+1851,Disappointed and upset. This hurts so much.,sadness,0,1,0,0,0
+1852,Cheerful and optimistic! Great vibes!,joy,1,0,0,0,0
+1853,Irritated beyond words! So frustrating!,anger,0,0,1,0,0
+1854,Livid! Can't believe this happened!,anger,0,0,1,0,0
+1855,Celebrating success! Best feeling ever!,joy,1,0,0,0,0
+1856,Seething with rage! Lost my temper!,anger,0,0,1,0,0
+1857,Dread filling my mind. Can't sleep!,fear,0,0,0,1,0
+1858,Celebrating success! Best feeling ever!,joy,1,0,0,0,0
+1859,Seething with rage! Lost my temper!,anger,0,0,1,0,0
+1860,Amazed! What a twist!,surprise,0,0,0,0,1
+1861,Paranoid thoughts. Everything seems threatening!,fear,0,0,0,1,0
+1862,Frightened and vulnerable. Need protection!,fear,0,0,0,1,0
+1863,I'm scared and worried about this 😰,fear,0,0,0,1,0
+1864,I'm really sad about this. Feeling down 😢,sadness,0,1,0,0,0
+1865,I'm scared and worried about this 😰,fear,0,0,0,1,0
+1866,Furious! How dare they treat me like this!,anger,0,0,1,0,0
+1867,Panic setting in. Heart racing!,fear,0,0,0,1,0
+1868,Feeling joyful and blessed! Life is good!,joy,1,0,0,0,0
+1869,Dread filling my mind. Can't sleep!,fear,0,0,0,1,0
+1870,Astonished! Never saw that coming!,surprise,0,0,0,0,1
+1871,Paranoid thoughts. Everything seems threatening!,fear,0,0,0,1,0
+1872,I'm really sad about this. Feeling down 😢,sadness,0,1,0,0,0
+1873,Irritated beyond words! So frustrating!,anger,0,0,1,0,0
+1874,Content and peaceful! Life is wonderful!,joy,1,0,0,0,0
+1875,OMG! This is unbelievable! So surprised!,surprise,0,0,0,0,1
+1876,Mad as hell! This is infuriating!,anger,0,0,1,0,0
+1877,Livid! Can't believe this happened!,anger,0,0,1,0,0
+1878,Lost something precious. So painful.,sadness,0,1,0,0,0
+1879,Bewildered! How did this happen?!,surprise,0,0,0,0,1
+1880,Lost something precious. So painful.,sadness,0,1,0,0,0
+1881,Overjoyed! Dreams coming true!,joy,1,0,0,0,0
+1882,What?! This is shocking! Can't believe it!,surprise,0,0,0,0,1
+1883,Tears flowing freely. Heart is heavy.,sadness,0,1,0,0,0
+1884,Overjoyed! Dreams coming true!,joy,1,0,0,0,0
+1885,I'm really sad about this. Feeling down 😢,sadness,0,1,0,0,0
+1886,What?! This is shocking! Can't believe it!,surprise,0,0,0,0,1
+1887,Irritated beyond words! So frustrating!,anger,0,0,1,0,0
+1888,Astonished! Never saw that coming!,surprise,0,0,0,0,1
+1889,I'm so happy! This made my day! 😄,joy,1,0,0,0,0
+1890,I'm scared and worried about this 😰,fear,0,0,0,1,0
+1891,Lost something precious. So painful.,sadness,0,1,0,0,0
+1892,Content and peaceful! Life is wonderful!,joy,1,0,0,0,0
+1893,Irritated beyond words! So frustrating!,anger,0,0,1,0,0
+1894,Melancholic mood. Nothing helps.,sadness,0,1,0,0,0
+1895,This is heartbreaking. Can't stop crying.,sadness,0,1,0,0,0
+1896,Alarmed by recent events. Stay safe!,fear,0,0,0,1,0
+1897,Amazed! What a twist!,surprise,0,0,0,0,1
+1898,Feeling anxious and fearful about the future.,fear,0,0,0,1,0
+1899,Astonished! Never saw that coming!,surprise,0,0,0,0,1
+1900,This makes my blood boil! Unacceptable!,anger,0,0,1,0,0
+1901,Outraged by this injustice! Not tolerating it!,anger,0,0,1,0,0
+1902,Melancholic mood. Nothing helps.,sadness,0,1,0,0,0
+1903,Mad as hell! This is infuriating!,anger,0,0,1,0,0
+1904,Irritated beyond words! So frustrating!,anger,0,0,1,0,0
+1905,Content and peaceful! Life is wonderful!,joy,1,0,0,0,0
+1906,Grief and sorrow overwhelming me.,sadness,0,1,0,0,0
+1907,Frightened and vulnerable. Need protection!,fear,0,0,0,1,0
+1908,I'm scared and worried about this 😰,fear,0,0,0,1,0
+1909,Feeling blue today. Everything seems grey.,sadness,0,1,0,0,0
+1910,I'm so happy! This made my day! 😄,joy,1,0,0,0,0
+1911,Flabbergasted! Speechless!,surprise,0,0,0,0,1
+1912,Flabbergasted! Speechless!,surprise,0,0,0,0,1
+1913,Delighted with the results! So pleased!,joy,1,0,0,0,0
+1914,Outraged by this injustice! Not tolerating it!,anger,0,0,1,0,0
+1915,Melancholic mood. Nothing helps.,sadness,0,1,0,0,0
+1916,Startled! That came out of nowhere!,surprise,0,0,0,0,1
+1917,Afraid of what might happen. So nervous!,fear,0,0,0,1,0
+1918,Startled! That came out of nowhere!,surprise,0,0,0,0,1
+1919,Paranoid thoughts. Everything seems threatening!,fear,0,0,0,1,0
+1920,OMG! This is unbelievable! So surprised!,surprise,0,0,0,0,1
+1921,Mad as hell! This is infuriating!,anger,0,0,1,0,0
+1922,Celebrating success! Best feeling ever!,joy,1,0,0,0,0
+1923,Feeling anxious and fearful about the future.,fear,0,0,0,1,0
+1924,Content and peaceful! Life is wonderful!,joy,1,0,0,0,0
+1925,Enraged! Someone will pay for this!,anger,0,0,1,0,0
+1926,Outraged by this injustice! Not tolerating it!,anger,0,0,1,0,0
+1927,Yay! Finally got what I wanted! So excited!,joy,1,0,0,0,0
+1928,Terrified! This is my worst nightmare!,fear,0,0,0,1,0
+1929,Furious! How dare they treat me like this!,anger,0,0,1,0,0
+1930,This is heartbreaking. Can't stop crying.,sadness,0,1,0,0,0
+1931,Overjoyed! Dreams coming true!,joy,1,0,0,0,0
+1932,Miserable and dejected. Need comfort.,sadness,0,1,0,0,0
+1933,Feeling joyful and blessed! Life is good!,joy,1,0,0,0,0
+1934,Astonished! Never saw that coming!,surprise,0,0,0,0,1
+1935,Pure happiness! Can't stop smiling!,joy,1,0,0,0,0
+1936,This is terrifying. I don't know what to do.,fear,0,0,0,1,0
+1937,I'm really sad about this. Feeling down 😢,sadness,0,1,0,0,0
+1938,Outraged by this injustice! Not tolerating it!,anger,0,0,1,0,0
+1939,Furious! How dare they treat me like this!,anger,0,0,1,0,0
+1940,Depressed and unmotivated. Can't go on.,sadness,0,1,0,0,0
+1941,I'm scared and worried about this 😰,fear,0,0,0,1,0
+1942,Feeling blue today. Everything seems grey.,sadness,0,1,0,0,0
+1943,Terrified! This is my worst nightmare!,fear,0,0,0,1,0
+1944,Amazed! What a twist!,surprise,0,0,0,0,1
+1945,Content and peaceful! Life is wonderful!,joy,1,0,0,0,0
+1946,Feeling blue today. Everything seems grey.,sadness,0,1,0,0,0
+1947,Grief and sorrow overwhelming me.,sadness,0,1,0,0,0
+1948,Grief and sorrow overwhelming me.,sadness,0,1,0,0,0
+1949,Hostile and aggressive! Fed up!,anger,0,0,1,0,0
+1950,I'm so happy! This made my day! 😄,joy,1,0,0,0,0
+1951,Astonished! Never saw that coming!,surprise,0,0,0,0,1
+1952,Feeling joyful and blessed! Life is good!,joy,1,0,0,0,0
+1953,Miserable and dejected. Need comfort.,sadness,0,1,0,0,0
+1954,Hostile and aggressive! Fed up!,anger,0,0,1,0,0
+1955,Content and peaceful! Life is wonderful!,joy,1,0,0,0,0
+1956,Paranoid thoughts. Everything seems threatening!,fear,0,0,0,1,0
+1957,Melancholic mood. Nothing helps.,sadness,0,1,0,0,0
+1958,Grief and sorrow overwhelming me.,sadness,0,1,0,0,0
+1959,Lost something precious. So painful.,sadness,0,1,0,0,0
+1960,Dread filling my mind. Can't sleep!,fear,0,0,0,1,0
+1961,Caught off guard! Totally unexpected!,surprise,0,0,0,0,1
+1962,This makes my blood boil! Unacceptable!,anger,0,0,1,0,0
+1963,Furious! How dare they treat me like this!,anger,0,0,1,0,0
+1964,Astonished! Never saw that coming!,surprise,0,0,0,0,1
+1965,I'm really sad about this. Feeling down 😢,sadness,0,1,0,0,0
+1966,Overjoyed! Dreams coming true!,joy,1,0,0,0,0
+1967,This is heartbreaking. Can't stop crying.,sadness,0,1,0,0,0
+1968,Livid! Can't believe this happened!,anger,0,0,1,0,0
+1969,Pure happiness! Can't stop smiling!,joy,1,0,0,0,0
+1970,Feeling euphoric! Amazing news!,joy,1,0,0,0,0
+1971,Irritated beyond words! So frustrating!,anger,0,0,1,0,0
+1972,Seething with rage! Lost my temper!,anger,0,0,1,0,0
+1973,Panic setting in. Heart racing!,fear,0,0,0,1,0
+1974,Miserable and dejected. Need comfort.,sadness,0,1,0,0,0
+1975,Livid! Can't believe this happened!,anger,0,0,1,0,0
+1976,Astonished! Never saw that coming!,surprise,0,0,0,0,1
+1977,Outraged by this injustice! Not tolerating it!,anger,0,0,1,0,0
+1978,Alarmed by recent events. Stay safe!,fear,0,0,0,1,0
+1979,Celebrating success! Best feeling ever!,joy,1,0,0,0,0
+1980,Celebrating success! Best feeling ever!,joy,1,0,0,0,0
+1981,Outraged by this injustice! Not tolerating it!,anger,0,0,1,0,0
+1982,Amazed! What a twist!,surprise,0,0,0,0,1
+1983,Feeling anxious and fearful about the future.,fear,0,0,0,1,0
+1984,Cheerful and optimistic! Great vibes!,joy,1,0,0,0,0
+1985,Disappointed and upset. This hurts so much.,sadness,0,1,0,0,0
+1986,This makes my blood boil! Unacceptable!,anger,0,0,1,0,0
+1987,Flabbergasted! Speechless!,surprise,0,0,0,0,1
+1988,Paranoid thoughts. Everything seems threatening!,fear,0,0,0,1,0
+1989,Content and peaceful! Life is wonderful!,joy,1,0,0,0,0
+1990,OMG! This is unbelievable! So surprised!,surprise,0,0,0,0,1
+1991,I'm so angry right now! This is ridiculous! 😡,anger,0,0,1,0,0
+1992,I'm scared and worried about this 😰,fear,0,0,0,1,0
+1993,Lost something precious. So painful.,sadness,0,1,0,0,0
+1994,Content and peaceful! Life is wonderful!,joy,1,0,0,0,0
+1995,Delighted with the results! So pleased!,joy,1,0,0,0,0
+1996,Pure happiness! Can't stop smiling!,joy,1,0,0,0,0
+1997,Alarmed by recent events. Stay safe!,fear,0,0,0,1,0
+1998,Outraged by this injustice! Not tolerating it!,anger,0,0,1,0,0
+1999,This is terrifying. I don't know what to do.,fear,0,0,0,1,0
+2000,Lost something precious. So painful.,sadness,0,1,0,0,0
+2001,This is terrifying. I don't know what to do.,fear,0,0,0,1,0
+2002,This is heartbreaking. Can't stop crying.,sadness,0,1,0,0,0
+2003,Flabbergasted! Speechless!,surprise,0,0,0,0,1
+2004,I'm scared and worried about this 😰,fear,0,0,0,1,0
+2005,This makes my blood boil! Unacceptable!,anger,0,0,1,0,0
+2006,Afraid of what might happen. So nervous!,fear,0,0,0,1,0
+2007,I'm scared and worried about this 😰,fear,0,0,0,1,0
+2008,Paranoid thoughts. Everything seems threatening!,fear,0,0,0,1,0
+2009,This is terrifying. I don't know what to do.,fear,0,0,0,1,0
+2010,Delighted with the results! So pleased!,joy,1,0,0,0,0
+2011,Feeling joyful and blessed! Life is good!,joy,1,0,0,0,0
+2012,Cheerful and optimistic! Great vibes!,joy,1,0,0,0,0
+2013,Panic setting in. Heart racing!,fear,0,0,0,1,0
+2014,Lost something precious. So painful.,sadness,0,1,0,0,0
+2015,This is heartbreaking. Can't stop crying.,sadness,0,1,0,0,0
+2016,Tears flowing freely. Heart is heavy.,sadness,0,1,0,0,0
+2017,Depressed and unmotivated. Can't go on.,sadness,0,1,0,0,0
+2018,I'm so angry right now! This is ridiculous! 😡,anger,0,0,1,0,0
+2019,Feeling joyful and blessed! Life is good!,joy,1,0,0,0,0
+2020,Overjoyed! Dreams coming true!,joy,1,0,0,0,0
+2021,Feeling anxious and fearful about the future.,fear,0,0,0,1,0
+2022,This makes my blood boil! Unacceptable!,anger,0,0,1,0,0
+2023,Seething with rage! Lost my temper!,anger,0,0,1,0,0
+2024,I'm so angry right now! This is ridiculous! 😡,anger,0,0,1,0,0
+2025,This is heartbreaking. Can't stop crying.,sadness,0,1,0,0,0
+2026,Feeling anxious and fearful about the future.,fear,0,0,0,1,0
+2027,Stunned! This is mind-blowing!,surprise,0,0,0,0,1
+2028,Wow! I didn't expect this at all! 😲,surprise,0,0,0,0,1
+2029,Feeling blue today. Everything seems grey.,sadness,0,1,0,0,0
+2030,Cheerful and optimistic! Great vibes!,joy,1,0,0,0,0
+2031,Afraid of what might happen. So nervous!,fear,0,0,0,1,0
+2032,Hostile and aggressive! Fed up!,anger,0,0,1,0,0
+2033,Wow! I didn't expect this at all! 😲,surprise,0,0,0,0,1
+2034,Frightened and vulnerable. Need protection!,fear,0,0,0,1,0
+2035,Bewildered! How did this happen?!,surprise,0,0,0,0,1
+2036,Astonished! Never saw that coming!,surprise,0,0,0,0,1
+2037,Disappointed and upset. This hurts so much.,sadness,0,1,0,0,0
+2038,Miserable and dejected. Need comfort.,sadness,0,1,0,0,0
+2039,Afraid of what might happen. So nervous!,fear,0,0,0,1,0
+2040,Disappointed and upset. This hurts so much.,sadness,0,1,0,0,0
+2041,Irritated beyond words! So frustrating!,anger,0,0,1,0,0
+2042,Startled! That came out of nowhere!,surprise,0,0,0,0,1
+2043,Furious! How dare they treat me like this!,anger,0,0,1,0,0
+2044,Outraged by this injustice! Not tolerating it!,anger,0,0,1,0,0
+2045,Pure happiness! Can't stop smiling!,joy,1,0,0,0,0
+2046,OMG! This is unbelievable! So surprised!,surprise,0,0,0,0,1
+2047,Depressed and unmotivated. Can't go on.,sadness,0,1,0,0,0
+2048,Grief and sorrow overwhelming me.,sadness,0,1,0,0,0
+2049,Wow! I didn't expect this at all! 😲,surprise,0,0,0,0,1
+2050,Stunned! This is mind-blowing!,surprise,0,0,0,0,1
+2051,Amazed! What a twist!,surprise,0,0,0,0,1
+2052,Mad as hell! This is infuriating!,anger,0,0,1,0,0
+2053,Disappointed and upset. This hurts so much.,sadness,0,1,0,0,0
+2054,Terrified! This is my worst nightmare!,fear,0,0,0,1,0
+2055,Wow! I didn't expect this at all! 😲,surprise,0,0,0,0,1
+2056,Feeling blue today. Everything seems grey.,sadness,0,1,0,0,0
+2057,Irritated beyond words! So frustrating!,anger,0,0,1,0,0
+2058,Miserable and dejected. Need comfort.,sadness,0,1,0,0,0
+2059,Feeling euphoric! Amazing news!,joy,1,0,0,0,0
+2060,Stunned! This is mind-blowing!,surprise,0,0,0,0,1
+2061,This makes my blood boil! Unacceptable!,anger,0,0,1,0,0
+2062,Enraged! Someone will pay for this!,anger,0,0,1,0,0
+2063,Feeling blue today. Everything seems grey.,sadness,0,1,0,0,0
+2064,Enraged! Someone will pay for this!,anger,0,0,1,0,0
+2065,Alarmed by recent events. Stay safe!,fear,0,0,0,1,0
+2066,Amazed! What a twist!,surprise,0,0,0,0,1
+2067,OMG! This is unbelievable! So surprised!,surprise,0,0,0,0,1
+2068,I'm scared and worried about this 😰,fear,0,0,0,1,0
+2069,Frightened and vulnerable. Need protection!,fear,0,0,0,1,0
+2070,Startled! That came out of nowhere!,surprise,0,0,0,0,1
+2071,Miserable and dejected. Need comfort.,sadness,0,1,0,0,0
+2072,Wow! I didn't expect this at all! 😲,surprise,0,0,0,0,1
+2073,Depressed and unmotivated. Can't go on.,sadness,0,1,0,0,0
+2074,Hostile and aggressive! Fed up!,anger,0,0,1,0,0
+2075,I'm really sad about this. Feeling down 😢,sadness,0,1,0,0,0
+2076,This makes my blood boil! Unacceptable!,anger,0,0,1,0,0
+2077,Panic setting in. Heart racing!,fear,0,0,0,1,0
+2078,Lost something precious. So painful.,sadness,0,1,0,0,0
+2079,Celebrating success! Best feeling ever!,joy,1,0,0,0,0
+2080,Furious! How dare they treat me like this!,anger,0,0,1,0,0
+2081,Frightened and vulnerable. Need protection!,fear,0,0,0,1,0
+2082,Wow! I didn't expect this at all! 😲,surprise,0,0,0,0,1
+2083,Flabbergasted! Speechless!,surprise,0,0,0,0,1
+2084,Startled! That came out of nowhere!,surprise,0,0,0,0,1
+2085,Delighted with the results! So pleased!,joy,1,0,0,0,0
+2086,This is terrifying. I don't know what to do.,fear,0,0,0,1,0
+2087,Furious! How dare they treat me like this!,anger,0,0,1,0,0
+2088,Tears flowing freely. Heart is heavy.,sadness,0,1,0,0,0
+2089,Seething with rage! Lost my temper!,anger,0,0,1,0,0
+2090,Seething with rage! Lost my temper!,anger,0,0,1,0,0
+2091,OMG! This is unbelievable! So surprised!,surprise,0,0,0,0,1
+2092,Feeling anxious and fearful about the future.,fear,0,0,0,1,0
+2093,Livid! Can't believe this happened!,anger,0,0,1,0,0
+2094,Delighted with the results! So pleased!,joy,1,0,0,0,0
+2095,Content and peaceful! Life is wonderful!,joy,1,0,0,0,0
+2096,Enraged! Someone will pay for this!,anger,0,0,1,0,0
+2097,Seething with rage! Lost my temper!,anger,0,0,1,0,0
+2098,Furious! How dare they treat me like this!,anger,0,0,1,0,0
+2099,Irritated beyond words! So frustrating!,anger,0,0,1,0,0
+2100,Melancholic mood. Nothing helps.,sadness,0,1,0,0,0
+2101,Afraid of what might happen. So nervous!,fear,0,0,0,1,0
+2102,Feeling blue today. Everything seems grey.,sadness,0,1,0,0,0
+2103,Startled! That came out of nowhere!,surprise,0,0,0,0,1
+2104,Feeling joyful and blessed! Life is good!,joy,1,0,0,0,0
+2105,I'm scared and worried about this 😰,fear,0,0,0,1,0
+2106,Feeling euphoric! Amazing news!,joy,1,0,0,0,0
+2107,Amazed! What a twist!,surprise,0,0,0,0,1
+2108,Seething with rage! Lost my temper!,anger,0,0,1,0,0
+2109,Astonished! Never saw that coming!,surprise,0,0,0,0,1
+2110,Enraged! Someone will pay for this!,anger,0,0,1,0,0
+2111,Cheerful and optimistic! Great vibes!,joy,1,0,0,0,0
+2112,Delighted with the results! So pleased!,joy,1,0,0,0,0
+2113,Feeling euphoric! Amazing news!,joy,1,0,0,0,0
+2114,Panic setting in. Heart racing!,fear,0,0,0,1,0
+2115,I'm so happy! This made my day! 😄,joy,1,0,0,0,0
+2116,Dread filling my mind. Can't sleep!,fear,0,0,0,1,0
+2117,Alarmed by recent events. Stay safe!,fear,0,0,0,1,0
+2118,Delighted with the results! So pleased!,joy,1,0,0,0,0
+2119,Grief and sorrow overwhelming me.,sadness,0,1,0,0,0
+2120,What?! This is shocking! Can't believe it!,surprise,0,0,0,0,1
+2121,Hostile and aggressive! Fed up!,anger,0,0,1,0,0
+2122,This is heartbreaking. Can't stop crying.,sadness,0,1,0,0,0
+2123,I'm so happy! This made my day! 😄,joy,1,0,0,0,0
+2124,I'm so happy! This made my day! 😄,joy,1,0,0,0,0
+2125,This is heartbreaking. Can't stop crying.,sadness,0,1,0,0,0
+2126,Pure happiness! Can't stop smiling!,joy,1,0,0,0,0
+2127,Hostile and aggressive! Fed up!,anger,0,0,1,0,0
+2128,Flabbergasted! Speechless!,surprise,0,0,0,0,1
+2129,Miserable and dejected. Need comfort.,sadness,0,1,0,0,0
+2130,Celebrating success! Best feeling ever!,joy,1,0,0,0,0
+2131,Terrified! This is my worst nightmare!,fear,0,0,0,1,0
+2132,Overjoyed! Dreams coming true!,joy,1,0,0,0,0
+2133,This makes my blood boil! Unacceptable!,anger,0,0,1,0,0
+2134,Melancholic mood. Nothing helps.,sadness,0,1,0,0,0
+2135,I'm really sad about this. Feeling down 😢,sadness,0,1,0,0,0
+2136,Astonished! Never saw that coming!,surprise,0,0,0,0,1
+2137,I'm really sad about this. Feeling down 😢,sadness,0,1,0,0,0
+2138,Lost something precious. So painful.,sadness,0,1,0,0,0
+2139,Feeling joyful and blessed! Life is good!,joy,1,0,0,0,0
+2140,Celebrating success! Best feeling ever!,joy,1,0,0,0,0
+2141,OMG! This is unbelievable! So surprised!,surprise,0,0,0,0,1
+2142,Pure happiness! Can't stop smiling!,joy,1,0,0,0,0
+2143,Overjoyed! Dreams coming true!,joy,1,0,0,0,0
+2144,Feeling anxious and fearful about the future.,fear,0,0,0,1,0
+2145,Flabbergasted! Speechless!,surprise,0,0,0,0,1
+2146,Pure happiness! Can't stop smiling!,joy,1,0,0,0,0
+2147,Amazed! What a twist!,surprise,0,0,0,0,1
+2148,Alarmed by recent events. Stay safe!,fear,0,0,0,1,0
+2149,Feeling anxious and fearful about the future.,fear,0,0,0,1,0
+2150,Caught off guard! Totally unexpected!,surprise,0,0,0,0,1
+2151,Alarmed by recent events. Stay safe!,fear,0,0,0,1,0
+2152,Stunned! This is mind-blowing!,surprise,0,0,0,0,1
+2153,I'm so happy! This made my day! 😄,joy,1,0,0,0,0
+2154,Irritated beyond words! So frustrating!,anger,0,0,1,0,0
+2155,Astonished! Never saw that coming!,surprise,0,0,0,0,1
+2156,I'm scared and worried about this 😰,fear,0,0,0,1,0
+2157,Furious! How dare they treat me like this!,anger,0,0,1,0,0
+2158,Irritated beyond words! So frustrating!,anger,0,0,1,0,0
+2159,Stunned! This is mind-blowing!,surprise,0,0,0,0,1
+2160,Dread filling my mind. Can't sleep!,fear,0,0,0,1,0
+2161,Pure happiness! Can't stop smiling!,joy,1,0,0,0,0
+2162,I'm really sad about this. Feeling down 😢,sadness,0,1,0,0,0
+2163,Content and peaceful! Life is wonderful!,joy,1,0,0,0,0
+2164,Afraid of what might happen. So nervous!,fear,0,0,0,1,0
+2165,Flabbergasted! Speechless!,surprise,0,0,0,0,1
+2166,I'm scared and worried about this 😰,fear,0,0,0,1,0
+2167,Flabbergasted! Speechless!,surprise,0,0,0,0,1
+2168,Tears flowing freely. Heart is heavy.,sadness,0,1,0,0,0
+2169,Delighted with the results! So pleased!,joy,1,0,0,0,0
+2170,Livid! Can't believe this happened!,anger,0,0,1,0,0
+2171,Outraged by this injustice! Not tolerating it!,anger,0,0,1,0,0
+2172,Depressed and unmotivated. Can't go on.,sadness,0,1,0,0,0
+2173,Content and peaceful! Life is wonderful!,joy,1,0,0,0,0
+2174,Frightened and vulnerable. Need protection!,fear,0,0,0,1,0
+2175,Overjoyed! Dreams coming true!,joy,1,0,0,0,0
+2176,Feeling blue today. Everything seems grey.,sadness,0,1,0,0,0
+2177,Grief and sorrow overwhelming me.,sadness,0,1,0,0,0
+2178,Feeling joyful and blessed! Life is good!,joy,1,0,0,0,0
+2179,Celebrating success! Best feeling ever!,joy,1,0,0,0,0
+2180,Pure happiness! Can't stop smiling!,joy,1,0,0,0,0
+2181,Feeling euphoric! Amazing news!,joy,1,0,0,0,0
+2182,Tears flowing freely. Heart is heavy.,sadness,0,1,0,0,0
+2183,Alarmed by recent events. Stay safe!,fear,0,0,0,1,0
+2184,I'm scared and worried about this 😰,fear,0,0,0,1,0
+2185,Content and peaceful! Life is wonderful!,joy,1,0,0,0,0
+2186,Mad as hell! This is infuriating!,anger,0,0,1,0,0
+2187,OMG! This is unbelievable! So surprised!,surprise,0,0,0,0,1
+2188,This is terrifying. I don't know what to do.,fear,0,0,0,1,0
+2189,Irritated beyond words! So frustrating!,anger,0,0,1,0,0
+2190,Livid! Can't believe this happened!,anger,0,0,1,0,0
+2191,Flabbergasted! Speechless!,surprise,0,0,0,0,1
+2192,Seething with rage! Lost my temper!,anger,0,0,1,0,0
+2193,Feeling euphoric! Amazing news!,joy,1,0,0,0,0
+2194,Amazed! What a twist!,surprise,0,0,0,0,1
+2195,Feeling euphoric! Amazing news!,joy,1,0,0,0,0
+2196,This makes my blood boil! Unacceptable!,anger,0,0,1,0,0
+2197,Yay! Finally got what I wanted! So excited!,joy,1,0,0,0,0
+2198,Livid! Can't believe this happened!,anger,0,0,1,0,0
+2199,Amazed! What a twist!,surprise,0,0,0,0,1
+2200,I'm so happy! This made my day! 😄,joy,1,0,0,0,0
+2201,Feeling joyful and blessed! Life is good!,joy,1,0,0,0,0
+2202,Paranoid thoughts. Everything seems threatening!,fear,0,0,0,1,0
+2203,Depressed and unmotivated. Can't go on.,sadness,0,1,0,0,0
+2204,I'm so angry right now! This is ridiculous! 😡,anger,0,0,1,0,0
+2205,Paranoid thoughts. Everything seems threatening!,fear,0,0,0,1,0
+2206,Dread filling my mind. Can't sleep!,fear,0,0,0,1,0
+2207,Content and peaceful! Life is wonderful!,joy,1,0,0,0,0
+2208,This is terrifying. I don't know what to do.,fear,0,0,0,1,0
+2209,I'm scared and worried about this 😰,fear,0,0,0,1,0
+2210,Tears flowing freely. Heart is heavy.,sadness,0,1,0,0,0
+2211,Feeling euphoric! Amazing news!,joy,1,0,0,0,0
+2212,Celebrating success! Best feeling ever!,joy,1,0,0,0,0
+2213,Tears flowing freely. Heart is heavy.,sadness,0,1,0,0,0
+2214,This is terrifying. I don't know what to do.,fear,0,0,0,1,0
+2215,Seething with rage! Lost my temper!,anger,0,0,1,0,0
+2216,I'm really sad about this. Feeling down 😢,sadness,0,1,0,0,0
+2217,Startled! That came out of nowhere!,surprise,0,0,0,0,1
+2218,Panic setting in. Heart racing!,fear,0,0,0,1,0
+2219,Lost something precious. So painful.,sadness,0,1,0,0,0
+2220,OMG! This is unbelievable! So surprised!,surprise,0,0,0,0,1
+2221,This is heartbreaking. Can't stop crying.,sadness,0,1,0,0,0
+2222,Alarmed by recent events. Stay safe!,fear,0,0,0,1,0
+2223,Stunned! This is mind-blowing!,surprise,0,0,0,0,1
+2224,Startled! That came out of nowhere!,surprise,0,0,0,0,1
+2225,Irritated beyond words! So frustrating!,anger,0,0,1,0,0
+2226,Delighted with the results! So pleased!,joy,1,0,0,0,0
+2227,Feeling blue today. Everything seems grey.,sadness,0,1,0,0,0
+2228,Flabbergasted! Speechless!,surprise,0,0,0,0,1
+2229,What?! This is shocking! Can't believe it!,surprise,0,0,0,0,1
+2230,Yay! Finally got what I wanted! So excited!,joy,1,0,0,0,0
+2231,Panic setting in. Heart racing!,fear,0,0,0,1,0
+2232,Frightened and vulnerable. Need protection!,fear,0,0,0,1,0
+2233,Delighted with the results! So pleased!,joy,1,0,0,0,0
+2234,Celebrating success! Best feeling ever!,joy,1,0,0,0,0
+2235,Startled! That came out of nowhere!,surprise,0,0,0,0,1
+2236,Depressed and unmotivated. Can't go on.,sadness,0,1,0,0,0
+2237,This is heartbreaking. Can't stop crying.,sadness,0,1,0,0,0
+2238,Afraid of what might happen. So nervous!,fear,0,0,0,1,0
+2239,This is terrifying. I don't know what to do.,fear,0,0,0,1,0
+2240,What?! This is shocking! Can't believe it!,surprise,0,0,0,0,1
+2241,This is heartbreaking. Can't stop crying.,sadness,0,1,0,0,0
+2242,Overjoyed! Dreams coming true!,joy,1,0,0,0,0
+2243,Seething with rage! Lost my temper!,anger,0,0,1,0,0
+2244,Cheerful and optimistic! Great vibes!,joy,1,0,0,0,0
+2245,Paranoid thoughts. Everything seems threatening!,fear,0,0,0,1,0
+2246,Bewildered! How did this happen?!,surprise,0,0,0,0,1
+2247,Cheerful and optimistic! Great vibes!,joy,1,0,0,0,0
+2248,Disappointed and upset. This hurts so much.,sadness,0,1,0,0,0
+2249,Terrified! This is my worst nightmare!,fear,0,0,0,1,0
+2250,Yay! Finally got what I wanted! So excited!,joy,1,0,0,0,0
+2251,Livid! Can't believe this happened!,anger,0,0,1,0,0
+2252,Alarmed by recent events. Stay safe!,fear,0,0,0,1,0
+2253,OMG! This is unbelievable! So surprised!,surprise,0,0,0,0,1
+2254,Mad as hell! This is infuriating!,anger,0,0,1,0,0
+2255,This makes my blood boil! Unacceptable!,anger,0,0,1,0,0
+2256,Flabbergasted! Speechless!,surprise,0,0,0,0,1
+2257,Afraid of what might happen. So nervous!,fear,0,0,0,1,0
+2258,Feeling euphoric! Amazing news!,joy,1,0,0,0,0
+2259,Flabbergasted! Speechless!,surprise,0,0,0,0,1
+2260,Pure happiness! Can't stop smiling!,joy,1,0,0,0,0
+2261,Feeling joyful and blessed! Life is good!,joy,1,0,0,0,0
+2262,This makes my blood boil! Unacceptable!,anger,0,0,1,0,0
+2263,Flabbergasted! Speechless!,surprise,0,0,0,0,1
+2264,Disappointed and upset. This hurts so much.,sadness,0,1,0,0,0
+2265,Startled! That came out of nowhere!,surprise,0,0,0,0,1
+2266,Delighted with the results! So pleased!,joy,1,0,0,0,0
+2267,Startled! That came out of nowhere!,surprise,0,0,0,0,1
+2268,Feeling blue today. Everything seems grey.,sadness,0,1,0,0,0
+2269,Seething with rage! Lost my temper!,anger,0,0,1,0,0
+2270,Outraged by this injustice! Not tolerating it!,anger,0,0,1,0,0
+2271,Irritated beyond words! So frustrating!,anger,0,0,1,0,0
+2272,Startled! That came out of nowhere!,surprise,0,0,0,0,1
+2273,Terrified! This is my worst nightmare!,fear,0,0,0,1,0
+2274,Feeling joyful and blessed! Life is good!,joy,1,0,0,0,0
+2275,Feeling joyful and blessed! Life is good!,joy,1,0,0,0,0
+2276,Hostile and aggressive! Fed up!,anger,0,0,1,0,0
+2277,Delighted with the results! So pleased!,joy,1,0,0,0,0
+2278,I'm so angry right now! This is ridiculous! 😡,anger,0,0,1,0,0
+2279,What?! This is shocking! Can't believe it!,surprise,0,0,0,0,1
+2280,Grief and sorrow overwhelming me.,sadness,0,1,0,0,0
+2281,Tears flowing freely. Heart is heavy.,sadness,0,1,0,0,0
+2282,Content and peaceful! Life is wonderful!,joy,1,0,0,0,0
+2283,I'm so angry right now! This is ridiculous! 😡,anger,0,0,1,0,0
+2284,This is terrifying. I don't know what to do.,fear,0,0,0,1,0
+2285,Content and peaceful! Life is wonderful!,joy,1,0,0,0,0
+2286,What?! This is shocking! Can't believe it!,surprise,0,0,0,0,1
+2287,Caught off guard! Totally unexpected!,surprise,0,0,0,0,1
+2288,Irritated beyond words! So frustrating!,anger,0,0,1,0,0
+2289,Livid! Can't believe this happened!,anger,0,0,1,0,0
+2290,Afraid of what might happen. So nervous!,fear,0,0,0,1,0
+2291,Cheerful and optimistic! Great vibes!,joy,1,0,0,0,0
+2292,Paranoid thoughts. Everything seems threatening!,fear,0,0,0,1,0
+2293,Feeling blue today. Everything seems grey.,sadness,0,1,0,0,0
+2294,Furious! How dare they treat me like this!,anger,0,0,1,0,0
+2295,I'm scared and worried about this 😰,fear,0,0,0,1,0
+2296,Alarmed by recent events. Stay safe!,fear,0,0,0,1,0
+2297,Overjoyed! Dreams coming true!,joy,1,0,0,0,0
+2298,Miserable and dejected. Need comfort.,sadness,0,1,0,0,0
+2299,Terrified! This is my worst nightmare!,fear,0,0,0,1,0
+2300,Yay! Finally got what I wanted! So excited!,joy,1,0,0,0,0
+2301,Feeling euphoric! Amazing news!,joy,1,0,0,0,0
+2302,Dread filling my mind. Can't sleep!,fear,0,0,0,1,0
+2303,Feeling anxious and fearful about the future.,fear,0,0,0,1,0
+2304,Stunned! This is mind-blowing!,surprise,0,0,0,0,1
+2305,Pure happiness! Can't stop smiling!,joy,1,0,0,0,0
+2306,Lost something precious. So painful.,sadness,0,1,0,0,0
+2307,Tears flowing freely. Heart is heavy.,sadness,0,1,0,0,0
+2308,Amazed! What a twist!,surprise,0,0,0,0,1
+2309,I'm so angry right now! This is ridiculous! 😡,anger,0,0,1,0,0
+2310,Afraid of what might happen. So nervous!,fear,0,0,0,1,0
+2311,Outraged by this injustice! Not tolerating it!,anger,0,0,1,0,0
+2312,Yay! Finally got what I wanted! So excited!,joy,1,0,0,0,0
+2313,Frightened and vulnerable. Need protection!,fear,0,0,0,1,0
+2314,I'm scared and worried about this 😰,fear,0,0,0,1,0
+2315,This makes my blood boil! Unacceptable!,anger,0,0,1,0,0
+2316,Delighted with the results! So pleased!,joy,1,0,0,0,0
+2317,Depressed and unmotivated. Can't go on.,sadness,0,1,0,0,0
+2318,Delighted with the results! So pleased!,joy,1,0,0,0,0
+2319,Feeling joyful and blessed! Life is good!,joy,1,0,0,0,0
+2320,Terrified! This is my worst nightmare!,fear,0,0,0,1,0
+2321,I'm scared and worried about this 😰,fear,0,0,0,1,0
+2322,Bewildered! How did this happen?!,surprise,0,0,0,0,1
+2323,Furious! How dare they treat me like this!,anger,0,0,1,0,0
+2324,Paranoid thoughts. Everything seems threatening!,fear,0,0,0,1,0
+2325,Panic setting in. Heart racing!,fear,0,0,0,1,0
+2326,Afraid of what might happen. So nervous!,fear,0,0,0,1,0
+2327,Feeling blue today. Everything seems grey.,sadness,0,1,0,0,0
+2328,Pure happiness! Can't stop smiling!,joy,1,0,0,0,0
+2329,Outraged by this injustice! Not tolerating it!,anger,0,0,1,0,0
+2330,I'm so angry right now! This is ridiculous! 😡,anger,0,0,1,0,0
+2331,Amazed! What a twist!,surprise,0,0,0,0,1
+2332,Hostile and aggressive! Fed up!,anger,0,0,1,0,0
+2333,Melancholic mood. Nothing helps.,sadness,0,1,0,0,0
+2334,Cheerful and optimistic! Great vibes!,joy,1,0,0,0,0
+2335,Afraid of what might happen. So nervous!,fear,0,0,0,1,0
+2336,Frightened and vulnerable. Need protection!,fear,0,0,0,1,0
+2337,Astonished! Never saw that coming!,surprise,0,0,0,0,1
+2338,Afraid of what might happen. So nervous!,fear,0,0,0,1,0
+2339,Hostile and aggressive! Fed up!,anger,0,0,1,0,0
+2340,Yay! Finally got what I wanted! So excited!,joy,1,0,0,0,0
+2341,Alarmed by recent events. Stay safe!,fear,0,0,0,1,0
+2342,Dread filling my mind. Can't sleep!,fear,0,0,0,1,0
+2343,Content and peaceful! Life is wonderful!,joy,1,0,0,0,0
+2344,Feeling joyful and blessed! Life is good!,joy,1,0,0,0,0
+2345,Miserable and dejected. Need comfort.,sadness,0,1,0,0,0
+2346,Alarmed by recent events. Stay safe!,fear,0,0,0,1,0
+2347,I'm so angry right now! This is ridiculous! 😡,anger,0,0,1,0,0
+2348,Panic setting in. Heart racing!,fear,0,0,0,1,0
+2349,Overjoyed! Dreams coming true!,joy,1,0,0,0,0
+2350,Celebrating success! Best feeling ever!,joy,1,0,0,0,0
+2351,Paranoid thoughts. Everything seems threatening!,fear,0,0,0,1,0
+2352,Yay! Finally got what I wanted! So excited!,joy,1,0,0,0,0
+2353,Panic setting in. Heart racing!,fear,0,0,0,1,0
+2354,Bewildered! How did this happen?!,surprise,0,0,0,0,1
+2355,Mad as hell! This is infuriating!,anger,0,0,1,0,0
+2356,Caught off guard! Totally unexpected!,surprise,0,0,0,0,1
+2357,Caught off guard! Totally unexpected!,surprise,0,0,0,0,1
+2358,Caught off guard! Totally unexpected!,surprise,0,0,0,0,1
+2359,Panic setting in. Heart racing!,fear,0,0,0,1,0
+2360,Content and peaceful! Life is wonderful!,joy,1,0,0,0,0
+2361,Irritated beyond words! So frustrating!,anger,0,0,1,0,0
+2362,Hostile and aggressive! Fed up!,anger,0,0,1,0,0
+2363,This is terrifying. I don't know what to do.,fear,0,0,0,1,0
+2364,Terrified! This is my worst nightmare!,fear,0,0,0,1,0
+2365,I'm really sad about this. Feeling down 😢,sadness,0,1,0,0,0
+2366,Yay! Finally got what I wanted! So excited!,joy,1,0,0,0,0
+2367,I'm really sad about this. Feeling down 😢,sadness,0,1,0,0,0
+2368,Disappointed and upset. This hurts so much.,sadness,0,1,0,0,0
+2369,Enraged! Someone will pay for this!,anger,0,0,1,0,0
+2370,Frightened and vulnerable. Need protection!,fear,0,0,0,1,0
+2371,Terrified! This is my worst nightmare!,fear,0,0,0,1,0
+2372,Content and peaceful! Life is wonderful!,joy,1,0,0,0,0
+2373,What?! This is shocking! Can't believe it!,surprise,0,0,0,0,1
+2374,Amazed! What a twist!,surprise,0,0,0,0,1
+2375,Livid! Can't believe this happened!,anger,0,0,1,0,0
+2376,Hostile and aggressive! Fed up!,anger,0,0,1,0,0
+2377,Frightened and vulnerable. Need protection!,fear,0,0,0,1,0
+2378,Terrified! This is my worst nightmare!,fear,0,0,0,1,0
+2379,Delighted with the results! So pleased!,joy,1,0,0,0,0
+2380,Flabbergasted! Speechless!,surprise,0,0,0,0,1
+2381,Furious! How dare they treat me like this!,anger,0,0,1,0,0
+2382,Frightened and vulnerable. Need protection!,fear,0,0,0,1,0
+2383,I'm scared and worried about this 😰,fear,0,0,0,1,0
+2384,This is heartbreaking. Can't stop crying.,sadness,0,1,0,0,0
+2385,Yay! Finally got what I wanted! So excited!,joy,1,0,0,0,0
+2386,Furious! How dare they treat me like this!,anger,0,0,1,0,0
+2387,Disappointed and upset. This hurts so much.,sadness,0,1,0,0,0
+2388,Delighted with the results! So pleased!,joy,1,0,0,0,0
+2389,Caught off guard! Totally unexpected!,surprise,0,0,0,0,1
+2390,I'm so angry right now! This is ridiculous! 😡,anger,0,0,1,0,0
+2391,Enraged! Someone will pay for this!,anger,0,0,1,0,0
+2392,Feeling blue today. Everything seems grey.,sadness,0,1,0,0,0
+2393,Hostile and aggressive! Fed up!,anger,0,0,1,0,0
+2394,Paranoid thoughts. Everything seems threatening!,fear,0,0,0,1,0
+2395,Feeling joyful and blessed! Life is good!,joy,1,0,0,0,0
+2396,Lost something precious. So painful.,sadness,0,1,0,0,0
+2397,Furious! How dare they treat me like this!,anger,0,0,1,0,0
+2398,Content and peaceful! Life is wonderful!,joy,1,0,0,0,0
+2399,Livid! Can't believe this happened!,anger,0,0,1,0,0
+2400,Depressed and unmotivated. Can't go on.,sadness,0,1,0,0,0
+2401,Hostile and aggressive! Fed up!,anger,0,0,1,0,0
+2402,This is heartbreaking. Can't stop crying.,sadness,0,1,0,0,0
+2403,Astonished! Never saw that coming!,surprise,0,0,0,0,1
+2404,Grief and sorrow overwhelming me.,sadness,0,1,0,0,0
+2405,Grief and sorrow overwhelming me.,sadness,0,1,0,0,0
+2406,Flabbergasted! Speechless!,surprise,0,0,0,0,1
+2407,Furious! How dare they treat me like this!,anger,0,0,1,0,0
+2408,Mad as hell! This is infuriating!,anger,0,0,1,0,0
+2409,Livid! Can't believe this happened!,anger,0,0,1,0,0
+2410,Amazed! What a twist!,surprise,0,0,0,0,1
+2411,Stunned! This is mind-blowing!,surprise,0,0,0,0,1
+2412,Disappointed and upset. This hurts so much.,sadness,0,1,0,0,0
+2413,I'm so happy! This made my day! 😄,joy,1,0,0,0,0
+2414,Amazed! What a twist!,surprise,0,0,0,0,1
+2415,Depressed and unmotivated. Can't go on.,sadness,0,1,0,0,0
+2416,Wow! I didn't expect this at all! 😲,surprise,0,0,0,0,1
+2417,Seething with rage! Lost my temper!,anger,0,0,1,0,0
+2418,I'm so happy! This made my day! 😄,joy,1,0,0,0,0
+2419,Frightened and vulnerable. Need protection!,fear,0,0,0,1,0
+2420,Melancholic mood. Nothing helps.,sadness,0,1,0,0,0
+2421,Cheerful and optimistic! Great vibes!,joy,1,0,0,0,0
+2422,Feeling anxious and fearful about the future.,fear,0,0,0,1,0
+2423,Content and peaceful! Life is wonderful!,joy,1,0,0,0,0
+2424,Irritated beyond words! So frustrating!,anger,0,0,1,0,0
+2425,Flabbergasted! Speechless!,surprise,0,0,0,0,1
+2426,Delighted with the results! So pleased!,joy,1,0,0,0,0
+2427,I'm scared and worried about this 😰,fear,0,0,0,1,0
+2428,Miserable and dejected. Need comfort.,sadness,0,1,0,0,0
+2429,Hostile and aggressive! Fed up!,anger,0,0,1,0,0
+2430,Melancholic mood. Nothing helps.,sadness,0,1,0,0,0
+2431,Feeling euphoric! Amazing news!,joy,1,0,0,0,0
+2432,OMG! This is unbelievable! So surprised!,surprise,0,0,0,0,1
+2433,Depressed and unmotivated. Can't go on.,sadness,0,1,0,0,0
+2434,Enraged! Someone will pay for this!,anger,0,0,1,0,0
+2435,Hostile and aggressive! Fed up!,anger,0,0,1,0,0
+2436,Grief and sorrow overwhelming me.,sadness,0,1,0,0,0
+2437,Flabbergasted! Speechless!,surprise,0,0,0,0,1
+2438,Lost something precious. So painful.,sadness,0,1,0,0,0
+2439,Hostile and aggressive! Fed up!,anger,0,0,1,0,0
+2440,Cheerful and optimistic! Great vibes!,joy,1,0,0,0,0
+2441,Enraged! Someone will pay for this!,anger,0,0,1,0,0
+2442,Mad as hell! This is infuriating!,anger,0,0,1,0,0
+2443,This makes my blood boil! Unacceptable!,anger,0,0,1,0,0
+2444,Alarmed by recent events. Stay safe!,fear,0,0,0,1,0
+2445,I'm really sad about this. Feeling down 😢,sadness,0,1,0,0,0
+2446,Panic setting in. Heart racing!,fear,0,0,0,1,0
+2447,Feeling euphoric! Amazing news!,joy,1,0,0,0,0
+2448,I'm scared and worried about this 😰,fear,0,0,0,1,0
+2449,Outraged by this injustice! Not tolerating it!,anger,0,0,1,0,0
+2450,Celebrating success! Best feeling ever!,joy,1,0,0,0,0
+2451,Terrified! This is my worst nightmare!,fear,0,0,0,1,0
+2452,This is terrifying. I don't know what to do.,fear,0,0,0,1,0
+2453,Miserable and dejected. Need comfort.,sadness,0,1,0,0,0
+2454,OMG! This is unbelievable! So surprised!,surprise,0,0,0,0,1
+2455,Dread filling my mind. Can't sleep!,fear,0,0,0,1,0
+2456,Panic setting in. Heart racing!,fear,0,0,0,1,0
+2457,Bewildered! How did this happen?!,surprise,0,0,0,0,1
+2458,Tears flowing freely. Heart is heavy.,sadness,0,1,0,0,0
+2459,Yay! Finally got what I wanted! So excited!,joy,1,0,0,0,0
+2460,Delighted with the results! So pleased!,joy,1,0,0,0,0
+2461,I'm so happy! This made my day! 😄,joy,1,0,0,0,0
+2462,Dread filling my mind. Can't sleep!,fear,0,0,0,1,0
+2463,Bewildered! How did this happen?!,surprise,0,0,0,0,1
+2464,Tears flowing freely. Heart is heavy.,sadness,0,1,0,0,0
+2465,Panic setting in. Heart racing!,fear,0,0,0,1,0
+2466,Miserable and dejected. Need comfort.,sadness,0,1,0,0,0
+2467,Mad as hell! This is infuriating!,anger,0,0,1,0,0
+2468,This is heartbreaking. Can't stop crying.,sadness,0,1,0,0,0
+2469,Cheerful and optimistic! Great vibes!,joy,1,0,0,0,0
+2470,Tears flowing freely. Heart is heavy.,sadness,0,1,0,0,0
+2471,I'm so angry right now! This is ridiculous! 😡,anger,0,0,1,0,0
+2472,Amazed! What a twist!,surprise,0,0,0,0,1
+2473,Flabbergasted! Speechless!,surprise,0,0,0,0,1
+2474,Afraid of what might happen. So nervous!,fear,0,0,0,1,0
+2475,Lost something precious. So painful.,sadness,0,1,0,0,0
+2476,Pure happiness! Can't stop smiling!,joy,1,0,0,0,0
+2477,Enraged! Someone will pay for this!,anger,0,0,1,0,0
+2478,Caught off guard! Totally unexpected!,surprise,0,0,0,0,1
+2479,Feeling joyful and blessed! Life is good!,joy,1,0,0,0,0
+2480,Irritated beyond words! So frustrating!,anger,0,0,1,0,0
+2481,This is terrifying. I don't know what to do.,fear,0,0,0,1,0
+2482,This is heartbreaking. Can't stop crying.,sadness,0,1,0,0,0
+2483,Grief and sorrow overwhelming me.,sadness,0,1,0,0,0
+2484,Astonished! Never saw that coming!,surprise,0,0,0,0,1
+2485,Furious! How dare they treat me like this!,anger,0,0,1,0,0
+2486,Depressed and unmotivated. Can't go on.,sadness,0,1,0,0,0
+2487,Livid! Can't believe this happened!,anger,0,0,1,0,0
+2488,Irritated beyond words! So frustrating!,anger,0,0,1,0,0
+2489,Panic setting in. Heart racing!,fear,0,0,0,1,0
+2490,Yay! Finally got what I wanted! So excited!,joy,1,0,0,0,0
+2491,Grief and sorrow overwhelming me.,sadness,0,1,0,0,0
+2492,Mad as hell! This is infuriating!,anger,0,0,1,0,0
+2493,Tears flowing freely. Heart is heavy.,sadness,0,1,0,0,0
+2494,Enraged! Someone will pay for this!,anger,0,0,1,0,0
+2495,Grief and sorrow overwhelming me.,sadness,0,1,0,0,0
+2496,What?! This is shocking! Can't believe it!,surprise,0,0,0,0,1
+2497,Feeling euphoric! Amazing news!,joy,1,0,0,0,0
+2498,Feeling joyful and blessed! Life is good!,joy,1,0,0,0,0
+2499,Melancholic mood. Nothing helps.,sadness,0,1,0,0,0
+2500,Furious! How dare they treat me like this!,anger,0,0,1,0,0
+2501,Startled! That came out of nowhere!,surprise,0,0,0,0,1
+2502,Tears flowing freely. Heart is heavy.,sadness,0,1,0,0,0
+2503,Mad as hell! This is infuriating!,anger,0,0,1,0,0
+2504,Feeling joyful and blessed! Life is good!,joy,1,0,0,0,0
+2505,Melancholic mood. Nothing helps.,sadness,0,1,0,0,0
+2506,Astonished! Never saw that coming!,surprise,0,0,0,0,1
+2507,Overjoyed! Dreams coming true!,joy,1,0,0,0,0
+2508,Livid! Can't believe this happened!,anger,0,0,1,0,0
+2509,Dread filling my mind. Can't sleep!,fear,0,0,0,1,0
+2510,I'm so happy! This made my day! 😄,joy,1,0,0,0,0
+2511,Startled! That came out of nowhere!,surprise,0,0,0,0,1
+2512,Outraged by this injustice! Not tolerating it!,anger,0,0,1,0,0
+2513,Miserable and dejected. Need comfort.,sadness,0,1,0,0,0
+2514,I'm scared and worried about this 😰,fear,0,0,0,1,0
+2515,Depressed and unmotivated. Can't go on.,sadness,0,1,0,0,0
+2516,Dread filling my mind. Can't sleep!,fear,0,0,0,1,0
+2517,Astonished! Never saw that coming!,surprise,0,0,0,0,1
+2518,This is terrifying. I don't know what to do.,fear,0,0,0,1,0
+2519,Enraged! Someone will pay for this!,anger,0,0,1,0,0
+2520,Livid! Can't believe this happened!,anger,0,0,1,0,0
+2521,Mad as hell! This is infuriating!,anger,0,0,1,0,0
+2522,Afraid of what might happen. So nervous!,fear,0,0,0,1,0
+2523,Alarmed by recent events. Stay safe!,fear,0,0,0,1,0
+2524,What?! This is shocking! Can't believe it!,surprise,0,0,0,0,1
+2525,Bewildered! How did this happen?!,surprise,0,0,0,0,1
+2526,Miserable and dejected. Need comfort.,sadness,0,1,0,0,0
+2527,OMG! This is unbelievable! So surprised!,surprise,0,0,0,0,1
+2528,Content and peaceful! Life is wonderful!,joy,1,0,0,0,0
+2529,Alarmed by recent events. Stay safe!,fear,0,0,0,1,0
+2530,Enraged! Someone will pay for this!,anger,0,0,1,0,0
+2531,Caught off guard! Totally unexpected!,surprise,0,0,0,0,1
+2532,Depressed and unmotivated. Can't go on.,sadness,0,1,0,0,0
+2533,I'm scared and worried about this 😰,fear,0,0,0,1,0
+2534,Grief and sorrow overwhelming me.,sadness,0,1,0,0,0
+2535,OMG! This is unbelievable! So surprised!,surprise,0,0,0,0,1
+2536,Pure happiness! Can't stop smiling!,joy,1,0,0,0,0
+2537,Mad as hell! This is infuriating!,anger,0,0,1,0,0
+2538,Panic setting in. Heart racing!,fear,0,0,0,1,0
+2539,This is heartbreaking. Can't stop crying.,sadness,0,1,0,0,0
+2540,Overjoyed! Dreams coming true!,joy,1,0,0,0,0
+2541,Disappointed and upset. This hurts so much.,sadness,0,1,0,0,0
+2542,I'm so happy! This made my day! 😄,joy,1,0,0,0,0
+2543,This is heartbreaking. Can't stop crying.,sadness,0,1,0,0,0
+2544,Wow! I didn't expect this at all! 😲,surprise,0,0,0,0,1
+2545,Frightened and vulnerable. Need protection!,fear,0,0,0,1,0
+2546,Hostile and aggressive! Fed up!,anger,0,0,1,0,0
+2547,Yay! Finally got what I wanted! So excited!,joy,1,0,0,0,0
+2548,Feeling blue today. Everything seems grey.,sadness,0,1,0,0,0
+2549,Caught off guard! Totally unexpected!,surprise,0,0,0,0,1
+2550,Alarmed by recent events. Stay safe!,fear,0,0,0,1,0
+2551,Wow! I didn't expect this at all! 😲,surprise,0,0,0,0,1
+2552,Overjoyed! Dreams coming true!,joy,1,0,0,0,0
+2553,I'm really sad about this. Feeling down 😢,sadness,0,1,0,0,0
+2554,Wow! I didn't expect this at all! 😲,surprise,0,0,0,0,1
+2555,Terrified! This is my worst nightmare!,fear,0,0,0,1,0
+2556,Caught off guard! Totally unexpected!,surprise,0,0,0,0,1
+2557,Dread filling my mind. Can't sleep!,fear,0,0,0,1,0
+2558,Caught off guard! Totally unexpected!,surprise,0,0,0,0,1
+2559,I'm so angry right now! This is ridiculous! 😡,anger,0,0,1,0,0
+2560,Disappointed and upset. This hurts so much.,sadness,0,1,0,0,0
+2561,Livid! Can't believe this happened!,anger,0,0,1,0,0
+2562,Amazed! What a twist!,surprise,0,0,0,0,1
+2563,Panic setting in. Heart racing!,fear,0,0,0,1,0
+2564,Depressed and unmotivated. Can't go on.,sadness,0,1,0,0,0
+2565,Lost something precious. So painful.,sadness,0,1,0,0,0
+2566,Overjoyed! Dreams coming true!,joy,1,0,0,0,0
+2567,Lost something precious. So painful.,sadness,0,1,0,0,0
+2568,Furious! How dare they treat me like this!,anger,0,0,1,0,0
+2569,Tears flowing freely. Heart is heavy.,sadness,0,1,0,0,0
+2570,Feeling euphoric! Amazing news!,joy,1,0,0,0,0
+2571,Seething with rage! Lost my temper!,anger,0,0,1,0,0
+2572,Feeling blue today. Everything seems grey.,sadness,0,1,0,0,0
+2573,Outraged by this injustice! Not tolerating it!,anger,0,0,1,0,0
+2574,Feeling euphoric! Amazing news!,joy,1,0,0,0,0
+2575,Overjoyed! Dreams coming true!,joy,1,0,0,0,0
+2576,Miserable and dejected. Need comfort.,sadness,0,1,0,0,0
+2577,Cheerful and optimistic! Great vibes!,joy,1,0,0,0,0
+2578,Grief and sorrow overwhelming me.,sadness,0,1,0,0,0
+2579,Livid! Can't believe this happened!,anger,0,0,1,0,0
+2580,Caught off guard! Totally unexpected!,surprise,0,0,0,0,1
+2581,Content and peaceful! Life is wonderful!,joy,1,0,0,0,0
+2582,Grief and sorrow overwhelming me.,sadness,0,1,0,0,0
+2583,This is heartbreaking. Can't stop crying.,sadness,0,1,0,0,0
+2584,Celebrating success! Best feeling ever!,joy,1,0,0,0,0
+2585,Feeling joyful and blessed! Life is good!,joy,1,0,0,0,0
+2586,Miserable and dejected. Need comfort.,sadness,0,1,0,0,0
+2587,Stunned! This is mind-blowing!,surprise,0,0,0,0,1
+2588,Outraged by this injustice! Not tolerating it!,anger,0,0,1,0,0
+2589,Yay! Finally got what I wanted! So excited!,joy,1,0,0,0,0
+2590,Stunned! This is mind-blowing!,surprise,0,0,0,0,1
+2591,Pure happiness! Can't stop smiling!,joy,1,0,0,0,0
+2592,Furious! How dare they treat me like this!,anger,0,0,1,0,0
+2593,Astonished! Never saw that coming!,surprise,0,0,0,0,1
+2594,Flabbergasted! Speechless!,surprise,0,0,0,0,1
+2595,Amazed! What a twist!,surprise,0,0,0,0,1
+2596,Feeling euphoric! Amazing news!,joy,1,0,0,0,0
+2597,Feeling blue today. Everything seems grey.,sadness,0,1,0,0,0
+2598,Tears flowing freely. Heart is heavy.,sadness,0,1,0,0,0
+2599,Flabbergasted! Speechless!,surprise,0,0,0,0,1
+2600,Astonished! Never saw that coming!,surprise,0,0,0,0,1
+2601,This makes my blood boil! Unacceptable!,anger,0,0,1,0,0
+2602,Content and peaceful! Life is wonderful!,joy,1,0,0,0,0
+2603,Feeling anxious and fearful about the future.,fear,0,0,0,1,0
+2604,Dread filling my mind. Can't sleep!,fear,0,0,0,1,0
+2605,Feeling blue today. Everything seems grey.,sadness,0,1,0,0,0
+2606,Irritated beyond words! So frustrating!,anger,0,0,1,0,0
+2607,Melancholic mood. Nothing helps.,sadness,0,1,0,0,0
+2608,This is terrifying. I don't know what to do.,fear,0,0,0,1,0
+2609,Astonished! Never saw that coming!,surprise,0,0,0,0,1
+2610,This makes my blood boil! Unacceptable!,anger,0,0,1,0,0
+2611,Hostile and aggressive! Fed up!,anger,0,0,1,0,0
+2612,Feeling blue today. Everything seems grey.,sadness,0,1,0,0,0
+2613,I'm so angry right now! This is ridiculous! 😡,anger,0,0,1,0,0
+2614,Flabbergasted! Speechless!,surprise,0,0,0,0,1
+2615,Tears flowing freely. Heart is heavy.,sadness,0,1,0,0,0
+2616,Cheerful and optimistic! Great vibes!,joy,1,0,0,0,0
+2617,Caught off guard! Totally unexpected!,surprise,0,0,0,0,1
+2618,OMG! This is unbelievable! So surprised!,surprise,0,0,0,0,1
+2619,Hostile and aggressive! Fed up!,anger,0,0,1,0,0
+2620,Outraged by this injustice! Not tolerating it!,anger,0,0,1,0,0
+2621,Astonished! Never saw that coming!,surprise,0,0,0,0,1
+2622,Feeling euphoric! Amazing news!,joy,1,0,0,0,0
+2623,Miserable and dejected. Need comfort.,sadness,0,1,0,0,0
+2624,Terrified! This is my worst nightmare!,fear,0,0,0,1,0
+2625,Terrified! This is my worst nightmare!,fear,0,0,0,1,0
+2626,Mad as hell! This is infuriating!,anger,0,0,1,0,0
+2627,Seething with rage! Lost my temper!,anger,0,0,1,0,0
+2628,Frightened and vulnerable. Need protection!,fear,0,0,0,1,0
+2629,Depressed and unmotivated. Can't go on.,sadness,0,1,0,0,0
+2630,This is heartbreaking. Can't stop crying.,sadness,0,1,0,0,0
+2631,Bewildered! How did this happen?!,surprise,0,0,0,0,1
+2632,Depressed and unmotivated. Can't go on.,sadness,0,1,0,0,0
+2633,This is terrifying. I don't know what to do.,fear,0,0,0,1,0
+2634,I'm scared and worried about this 😰,fear,0,0,0,1,0
+2635,Irritated beyond words! So frustrating!,anger,0,0,1,0,0
+2636,Bewildered! How did this happen?!,surprise,0,0,0,0,1
+2637,Pure happiness! Can't stop smiling!,joy,1,0,0,0,0
+2638,Celebrating success! Best feeling ever!,joy,1,0,0,0,0
+2639,This makes my blood boil! Unacceptable!,anger,0,0,1,0,0
+2640,This is terrifying. I don't know what to do.,fear,0,0,0,1,0
+2641,Pure happiness! Can't stop smiling!,joy,1,0,0,0,0
+2642,Pure happiness! Can't stop smiling!,joy,1,0,0,0,0
+2643,Feeling blue today. Everything seems grey.,sadness,0,1,0,0,0
+2644,Feeling anxious and fearful about the future.,fear,0,0,0,1,0
+2645,Tears flowing freely. Heart is heavy.,sadness,0,1,0,0,0
+2646,Feeling blue today. Everything seems grey.,sadness,0,1,0,0,0
+2647,Feeling anxious and fearful about the future.,fear,0,0,0,1,0
+2648,Mad as hell! This is infuriating!,anger,0,0,1,0,0
+2649,Amazed! What a twist!,surprise,0,0,0,0,1
+2650,Stunned! This is mind-blowing!,surprise,0,0,0,0,1
+2651,Celebrating success! Best feeling ever!,joy,1,0,0,0,0
+2652,Panic setting in. Heart racing!,fear,0,0,0,1,0
+2653,This is terrifying. I don't know what to do.,fear,0,0,0,1,0
+2654,I'm so happy! This made my day! 😄,joy,1,0,0,0,0
+2655,Wow! I didn't expect this at all! 😲,surprise,0,0,0,0,1
+2656,This is heartbreaking. Can't stop crying.,sadness,0,1,0,0,0
+2657,Dread filling my mind. Can't sleep!,fear,0,0,0,1,0
+2658,This is heartbreaking. Can't stop crying.,sadness,0,1,0,0,0
+2659,OMG! This is unbelievable! So surprised!,surprise,0,0,0,0,1
+2660,Alarmed by recent events. Stay safe!,fear,0,0,0,1,0
+2661,Disappointed and upset. This hurts so much.,sadness,0,1,0,0,0
+2662,Delighted with the results! So pleased!,joy,1,0,0,0,0
+2663,This makes my blood boil! Unacceptable!,anger,0,0,1,0,0
+2664,Feeling euphoric! Amazing news!,joy,1,0,0,0,0
+2665,Depressed and unmotivated. Can't go on.,sadness,0,1,0,0,0
+2666,Delighted with the results! So pleased!,joy,1,0,0,0,0
+2667,Frightened and vulnerable. Need protection!,fear,0,0,0,1,0
+2668,Alarmed by recent events. Stay safe!,fear,0,0,0,1,0
+2669,Afraid of what might happen. So nervous!,fear,0,0,0,1,0
+2670,Astonished! Never saw that coming!,surprise,0,0,0,0,1
+2671,Grief and sorrow overwhelming me.,sadness,0,1,0,0,0
+2672,Overjoyed! Dreams coming true!,joy,1,0,0,0,0
+2673,Celebrating success! Best feeling ever!,joy,1,0,0,0,0
+2674,Alarmed by recent events. Stay safe!,fear,0,0,0,1,0
+2675,Lost something precious. So painful.,sadness,0,1,0,0,0
+2676,Lost something precious. So painful.,sadness,0,1,0,0,0
+2677,Melancholic mood. Nothing helps.,sadness,0,1,0,0,0
+2678,Outraged by this injustice! Not tolerating it!,anger,0,0,1,0,0
+2679,Irritated beyond words! So frustrating!,anger,0,0,1,0,0
+2680,Seething with rage! Lost my temper!,anger,0,0,1,0,0
+2681,OMG! This is unbelievable! So surprised!,surprise,0,0,0,0,1
+2682,Pure happiness! Can't stop smiling!,joy,1,0,0,0,0
+2683,I'm so happy! This made my day! 😄,joy,1,0,0,0,0
+2684,Grief and sorrow overwhelming me.,sadness,0,1,0,0,0
+2685,Bewildered! How did this happen?!,surprise,0,0,0,0,1
+2686,Bewildered! How did this happen?!,surprise,0,0,0,0,1
+2687,This is terrifying. I don't know what to do.,fear,0,0,0,1,0
+2688,Irritated beyond words! So frustrating!,anger,0,0,1,0,0
+2689,Lost something precious. So painful.,sadness,0,1,0,0,0
+2690,Furious! How dare they treat me like this!,anger,0,0,1,0,0
+2691,Tears flowing freely. Heart is heavy.,sadness,0,1,0,0,0
+2692,Feeling blue today. Everything seems grey.,sadness,0,1,0,0,0
+2693,Pure happiness! Can't stop smiling!,joy,1,0,0,0,0
+2694,Paranoid thoughts. Everything seems threatening!,fear,0,0,0,1,0
+2695,Lost something precious. So painful.,sadness,0,1,0,0,0
+2696,Flabbergasted! Speechless!,surprise,0,0,0,0,1
+2697,Wow! I didn't expect this at all! 😲,surprise,0,0,0,0,1
+2698,OMG! This is unbelievable! So surprised!,surprise,0,0,0,0,1
+2699,Cheerful and optimistic! Great vibes!,joy,1,0,0,0,0
+2700,Cheerful and optimistic! Great vibes!,joy,1,0,0,0,0
+2701,Dread filling my mind. Can't sleep!,fear,0,0,0,1,0
+2702,Seething with rage! Lost my temper!,anger,0,0,1,0,0
+2703,Yay! Finally got what I wanted! So excited!,joy,1,0,0,0,0
+2704,This makes my blood boil! Unacceptable!,anger,0,0,1,0,0
+2705,Livid! Can't believe this happened!,anger,0,0,1,0,0
+2706,Enraged! Someone will pay for this!,anger,0,0,1,0,0
+2707,Lost something precious. So painful.,sadness,0,1,0,0,0
+2708,Irritated beyond words! So frustrating!,anger,0,0,1,0,0
+2709,OMG! This is unbelievable! So surprised!,surprise,0,0,0,0,1
+2710,Livid! Can't believe this happened!,anger,0,0,1,0,0
+2711,Terrified! This is my worst nightmare!,fear,0,0,0,1,0
+2712,Wow! I didn't expect this at all! 😲,surprise,0,0,0,0,1
+2713,Outraged by this injustice! Not tolerating it!,anger,0,0,1,0,0
+2714,Enraged! Someone will pay for this!,anger,0,0,1,0,0
+2715,Overjoyed! Dreams coming true!,joy,1,0,0,0,0
+2716,Melancholic mood. Nothing helps.,sadness,0,1,0,0,0
+2717,Depressed and unmotivated. Can't go on.,sadness,0,1,0,0,0
+2718,Paranoid thoughts. Everything seems threatening!,fear,0,0,0,1,0
+2719,Content and peaceful! Life is wonderful!,joy,1,0,0,0,0
+2720,Depressed and unmotivated. Can't go on.,sadness,0,1,0,0,0
+2721,Frightened and vulnerable. Need protection!,fear,0,0,0,1,0
+2722,Irritated beyond words! So frustrating!,anger,0,0,1,0,0
+2723,Overjoyed! Dreams coming true!,joy,1,0,0,0,0
+2724,OMG! This is unbelievable! So surprised!,surprise,0,0,0,0,1
+2725,Amazed! What a twist!,surprise,0,0,0,0,1
+2726,Pure happiness! Can't stop smiling!,joy,1,0,0,0,0
+2727,Paranoid thoughts. Everything seems threatening!,fear,0,0,0,1,0
+2728,Panic setting in. Heart racing!,fear,0,0,0,1,0
+2729,Wow! I didn't expect this at all! 😲,surprise,0,0,0,0,1
+2730,Paranoid thoughts. Everything seems threatening!,fear,0,0,0,1,0
+2731,Wow! I didn't expect this at all! 😲,surprise,0,0,0,0,1
+2732,Content and peaceful! Life is wonderful!,joy,1,0,0,0,0
+2733,Seething with rage! Lost my temper!,anger,0,0,1,0,0
+2734,Content and peaceful! Life is wonderful!,joy,1,0,0,0,0
+2735,Yay! Finally got what I wanted! So excited!,joy,1,0,0,0,0
+2736,Lost something precious. So painful.,sadness,0,1,0,0,0
+2737,Stunned! This is mind-blowing!,surprise,0,0,0,0,1
+2738,Afraid of what might happen. So nervous!,fear,0,0,0,1,0
+2739,Feeling anxious and fearful about the future.,fear,0,0,0,1,0
+2740,Melancholic mood. Nothing helps.,sadness,0,1,0,0,0
+2741,Overjoyed! Dreams coming true!,joy,1,0,0,0,0
+2742,Melancholic mood. Nothing helps.,sadness,0,1,0,0,0
+2743,Cheerful and optimistic! Great vibes!,joy,1,0,0,0,0
+2744,Paranoid thoughts. Everything seems threatening!,fear,0,0,0,1,0
+2745,Feeling anxious and fearful about the future.,fear,0,0,0,1,0
+2746,What?! This is shocking! Can't believe it!,surprise,0,0,0,0,1
+2747,I'm really sad about this. Feeling down 😢,sadness,0,1,0,0,0
+2748,Caught off guard! Totally unexpected!,surprise,0,0,0,0,1
+2749,Celebrating success! Best feeling ever!,joy,1,0,0,0,0
+2750,Bewildered! How did this happen?!,surprise,0,0,0,0,1
+2751,Celebrating success! Best feeling ever!,joy,1,0,0,0,0
+2752,Overjoyed! Dreams coming true!,joy,1,0,0,0,0
+2753,Miserable and dejected. Need comfort.,sadness,0,1,0,0,0
+2754,Stunned! This is mind-blowing!,surprise,0,0,0,0,1
+2755,Cheerful and optimistic! Great vibes!,joy,1,0,0,0,0
+2756,Melancholic mood. Nothing helps.,sadness,0,1,0,0,0
+2757,Overjoyed! Dreams coming true!,joy,1,0,0,0,0
+2758,Amazed! What a twist!,surprise,0,0,0,0,1
+2759,Miserable and dejected. Need comfort.,sadness,0,1,0,0,0
+2760,Enraged! Someone will pay for this!,anger,0,0,1,0,0
+2761,Startled! That came out of nowhere!,surprise,0,0,0,0,1
+2762,Caught off guard! Totally unexpected!,surprise,0,0,0,0,1
+2763,Lost something precious. So painful.,sadness,0,1,0,0,0
+2764,Yay! Finally got what I wanted! So excited!,joy,1,0,0,0,0
+2765,Feeling anxious and fearful about the future.,fear,0,0,0,1,0
+2766,Pure happiness! Can't stop smiling!,joy,1,0,0,0,0
+2767,Frightened and vulnerable. Need protection!,fear,0,0,0,1,0
+2768,Paranoid thoughts. Everything seems threatening!,fear,0,0,0,1,0
+2769,Depressed and unmotivated. Can't go on.,sadness,0,1,0,0,0
+2770,Paranoid thoughts. Everything seems threatening!,fear,0,0,0,1,0
+2771,Irritated beyond words! So frustrating!,anger,0,0,1,0,0
+2772,Afraid of what might happen. So nervous!,fear,0,0,0,1,0
+2773,Stunned! This is mind-blowing!,surprise,0,0,0,0,1
+2774,Caught off guard! Totally unexpected!,surprise,0,0,0,0,1
+2775,Panic setting in. Heart racing!,fear,0,0,0,1,0
+2776,Delighted with the results! So pleased!,joy,1,0,0,0,0
+2777,Pure happiness! Can't stop smiling!,joy,1,0,0,0,0
+2778,Tears flowing freely. Heart is heavy.,sadness,0,1,0,0,0
+2779,Caught off guard! Totally unexpected!,surprise,0,0,0,0,1
+2780,Irritated beyond words! So frustrating!,anger,0,0,1,0,0
+2781,Alarmed by recent events. Stay safe!,fear,0,0,0,1,0
+2782,Paranoid thoughts. Everything seems threatening!,fear,0,0,0,1,0
+2783,Flabbergasted! Speechless!,surprise,0,0,0,0,1
+2784,Delighted with the results! So pleased!,joy,1,0,0,0,0
+2785,Feeling euphoric! Amazing news!,joy,1,0,0,0,0
+2786,Melancholic mood. Nothing helps.,sadness,0,1,0,0,0
+2787,Astonished! Never saw that coming!,surprise,0,0,0,0,1
+2788,I'm so happy! This made my day! 😄,joy,1,0,0,0,0
+2789,Flabbergasted! Speechless!,surprise,0,0,0,0,1
+2790,Pure happiness! Can't stop smiling!,joy,1,0,0,0,0
+2791,Disappointed and upset. This hurts so much.,sadness,0,1,0,0,0
+2792,Cheerful and optimistic! Great vibes!,joy,1,0,0,0,0
+2793,This is terrifying. I don't know what to do.,fear,0,0,0,1,0
+2794,This makes my blood boil! Unacceptable!,anger,0,0,1,0,0
+2795,Astonished! Never saw that coming!,surprise,0,0,0,0,1
+2796,Bewildered! How did this happen?!,surprise,0,0,0,0,1
+2797,Feeling blue today. Everything seems grey.,sadness,0,1,0,0,0
+2798,Melancholic mood. Nothing helps.,sadness,0,1,0,0,0
+2799,This is heartbreaking. Can't stop crying.,sadness,0,1,0,0,0
+2800,Pure happiness! Can't stop smiling!,joy,1,0,0,0,0
+2801,Overjoyed! Dreams coming true!,joy,1,0,0,0,0
+2802,Wow! I didn't expect this at all! 😲,surprise,0,0,0,0,1
+2803,Lost something precious. So painful.,sadness,0,1,0,0,0
+2804,OMG! This is unbelievable! So surprised!,surprise,0,0,0,0,1
+2805,Tears flowing freely. Heart is heavy.,sadness,0,1,0,0,0
+2806,Startled! That came out of nowhere!,surprise,0,0,0,0,1
+2807,I'm so happy! This made my day! 😄,joy,1,0,0,0,0
+2808,Livid! Can't believe this happened!,anger,0,0,1,0,0
+2809,Mad as hell! This is infuriating!,anger,0,0,1,0,0
+2810,I'm really sad about this. Feeling down 😢,sadness,0,1,0,0,0
+2811,Livid! Can't believe this happened!,anger,0,0,1,0,0
+2812,Overjoyed! Dreams coming true!,joy,1,0,0,0,0
+2813,This is terrifying. I don't know what to do.,fear,0,0,0,1,0
+2814,I'm really sad about this. Feeling down 😢,sadness,0,1,0,0,0
+2815,Livid! Can't believe this happened!,anger,0,0,1,0,0
+2816,Stunned! This is mind-blowing!,surprise,0,0,0,0,1
+2817,Startled! That came out of nowhere!,surprise,0,0,0,0,1
+2818,Amazed! What a twist!,surprise,0,0,0,0,1
+2819,Flabbergasted! Speechless!,surprise,0,0,0,0,1
+2820,Feeling anxious and fearful about the future.,fear,0,0,0,1,0
+2821,Seething with rage! Lost my temper!,anger,0,0,1,0,0
+2822,Depressed and unmotivated. Can't go on.,sadness,0,1,0,0,0
+2823,OMG! This is unbelievable! So surprised!,surprise,0,0,0,0,1
+2824,This is terrifying. I don't know what to do.,fear,0,0,0,1,0
+2825,Panic setting in. Heart racing!,fear,0,0,0,1,0
+2826,Feeling blue today. Everything seems grey.,sadness,0,1,0,0,0
+2827,Feeling anxious and fearful about the future.,fear,0,0,0,1,0
+2828,Overjoyed! Dreams coming true!,joy,1,0,0,0,0
+2829,What?! This is shocking! Can't believe it!,surprise,0,0,0,0,1
+2830,Hostile and aggressive! Fed up!,anger,0,0,1,0,0
+2831,This is terrifying. I don't know what to do.,fear,0,0,0,1,0
+2832,Disappointed and upset. This hurts so much.,sadness,0,1,0,0,0
+2833,Stunned! This is mind-blowing!,surprise,0,0,0,0,1
+2834,Wow! I didn't expect this at all! 😲,surprise,0,0,0,0,1
+2835,Pure happiness! Can't stop smiling!,joy,1,0,0,0,0
+2836,Afraid of what might happen. So nervous!,fear,0,0,0,1,0
+2837,Mad as hell! This is infuriating!,anger,0,0,1,0,0
+2838,Depressed and unmotivated. Can't go on.,sadness,0,1,0,0,0
+2839,Amazed! What a twist!,surprise,0,0,0,0,1
+2840,Miserable and dejected. Need comfort.,sadness,0,1,0,0,0
+2841,This makes my blood boil! Unacceptable!,anger,0,0,1,0,0
+2842,Content and peaceful! Life is wonderful!,joy,1,0,0,0,0
+2843,Disappointed and upset. This hurts so much.,sadness,0,1,0,0,0
+2844,Wow! I didn't expect this at all! 😲,surprise,0,0,0,0,1
+2845,Stunned! This is mind-blowing!,surprise,0,0,0,0,1
+2846,Pure happiness! Can't stop smiling!,joy,1,0,0,0,0
+2847,Caught off guard! Totally unexpected!,surprise,0,0,0,0,1
+2848,Miserable and dejected. Need comfort.,sadness,0,1,0,0,0
+2849,Flabbergasted! Speechless!,surprise,0,0,0,0,1
+2850,OMG! This is unbelievable! So surprised!,surprise,0,0,0,0,1
+2851,I'm so angry right now! This is ridiculous! 😡,anger,0,0,1,0,0
+2852,Stunned! This is mind-blowing!,surprise,0,0,0,0,1
+2853,Enraged! Someone will pay for this!,anger,0,0,1,0,0
+2854,Livid! Can't believe this happened!,anger,0,0,1,0,0
+2855,I'm really sad about this. Feeling down 😢,sadness,0,1,0,0,0
+2856,Bewildered! How did this happen?!,surprise,0,0,0,0,1
+2857,Bewildered! How did this happen?!,surprise,0,0,0,0,1
+2858,Melancholic mood. Nothing helps.,sadness,0,1,0,0,0
+2859,Celebrating success! Best feeling ever!,joy,1,0,0,0,0
+2860,Furious! How dare they treat me like this!,anger,0,0,1,0,0
+2861,Celebrating success! Best feeling ever!,joy,1,0,0,0,0
+2862,Depressed and unmotivated. Can't go on.,sadness,0,1,0,0,0
+2863,Afraid of what might happen. So nervous!,fear,0,0,0,1,0
+2864,Feeling joyful and blessed! Life is good!,joy,1,0,0,0,0
+2865,Feeling joyful and blessed! Life is good!,joy,1,0,0,0,0
+2866,Cheerful and optimistic! Great vibes!,joy,1,0,0,0,0
+2867,Mad as hell! This is infuriating!,anger,0,0,1,0,0
+2868,Melancholic mood. Nothing helps.,sadness,0,1,0,0,0
+2869,This makes my blood boil! Unacceptable!,anger,0,0,1,0,0
+2870,Flabbergasted! Speechless!,surprise,0,0,0,0,1
+2871,Seething with rage! Lost my temper!,anger,0,0,1,0,0
+2872,Feeling euphoric! Amazing news!,joy,1,0,0,0,0
+2873,Wow! I didn't expect this at all! 😲,surprise,0,0,0,0,1
+2874,Feeling joyful and blessed! Life is good!,joy,1,0,0,0,0
+2875,Caught off guard! Totally unexpected!,surprise,0,0,0,0,1
+2876,Cheerful and optimistic! Great vibes!,joy,1,0,0,0,0
+2877,Feeling anxious and fearful about the future.,fear,0,0,0,1,0
+2878,Celebrating success! Best feeling ever!,joy,1,0,0,0,0
+2879,Feeling joyful and blessed! Life is good!,joy,1,0,0,0,0
+2880,This makes my blood boil! Unacceptable!,anger,0,0,1,0,0
+2881,This is heartbreaking. Can't stop crying.,sadness,0,1,0,0,0
+2882,Depressed and unmotivated. Can't go on.,sadness,0,1,0,0,0
+2883,Outraged by this injustice! Not tolerating it!,anger,0,0,1,0,0
+2884,Livid! Can't believe this happened!,anger,0,0,1,0,0
+2885,This is heartbreaking. Can't stop crying.,sadness,0,1,0,0,0
+2886,I'm scared and worried about this 😰,fear,0,0,0,1,0
+2887,Furious! How dare they treat me like this!,anger,0,0,1,0,0
+2888,What?! This is shocking! Can't believe it!,surprise,0,0,0,0,1
+2889,Wow! I didn't expect this at all! 😲,surprise,0,0,0,0,1
+2890,Feeling joyful and blessed! Life is good!,joy,1,0,0,0,0
+2891,Astonished! Never saw that coming!,surprise,0,0,0,0,1
+2892,Enraged! Someone will pay for this!,anger,0,0,1,0,0
+2893,Caught off guard! Totally unexpected!,surprise,0,0,0,0,1
+2894,Caught off guard! Totally unexpected!,surprise,0,0,0,0,1
+2895,This makes my blood boil! Unacceptable!,anger,0,0,1,0,0
+2896,What?! This is shocking! Can't believe it!,surprise,0,0,0,0,1
+2897,Delighted with the results! So pleased!,joy,1,0,0,0,0
+2898,What?! This is shocking! Can't believe it!,surprise,0,0,0,0,1
+2899,Panic setting in. Heart racing!,fear,0,0,0,1,0
+2900,I'm so angry right now! This is ridiculous! 😡,anger,0,0,1,0,0
+2901,Irritated beyond words! So frustrating!,anger,0,0,1,0,0
+2902,Tears flowing freely. Heart is heavy.,sadness,0,1,0,0,0
+2903,Dread filling my mind. Can't sleep!,fear,0,0,0,1,0
+2904,Alarmed by recent events. Stay safe!,fear,0,0,0,1,0
+2905,Miserable and dejected. Need comfort.,sadness,0,1,0,0,0
+2906,I'm scared and worried about this 😰,fear,0,0,0,1,0
+2907,Astonished! Never saw that coming!,surprise,0,0,0,0,1
+2908,Startled! That came out of nowhere!,surprise,0,0,0,0,1
+2909,Amazed! What a twist!,surprise,0,0,0,0,1
+2910,I'm scared and worried about this 😰,fear,0,0,0,1,0
+2911,Grief and sorrow overwhelming me.,sadness,0,1,0,0,0
+2912,Alarmed by recent events. Stay safe!,fear,0,0,0,1,0
+2913,This is heartbreaking. Can't stop crying.,sadness,0,1,0,0,0
+2914,Feeling blue today. Everything seems grey.,sadness,0,1,0,0,0
+2915,This is heartbreaking. Can't stop crying.,sadness,0,1,0,0,0
+2916,Disappointed and upset. This hurts so much.,sadness,0,1,0,0,0
+2917,Lost something precious. So painful.,sadness,0,1,0,0,0
+2918,Wow! I didn't expect this at all! 😲,surprise,0,0,0,0,1
+2919,Miserable and dejected. Need comfort.,sadness,0,1,0,0,0
+2920,Lost something precious. So painful.,sadness,0,1,0,0,0
+2921,Amazed! What a twist!,surprise,0,0,0,0,1
+2922,Irritated beyond words! So frustrating!,anger,0,0,1,0,0
+2923,Feeling euphoric! Amazing news!,joy,1,0,0,0,0
+2924,Startled! That came out of nowhere!,surprise,0,0,0,0,1
+2925,This makes my blood boil! Unacceptable!,anger,0,0,1,0,0
+2926,Yay! Finally got what I wanted! So excited!,joy,1,0,0,0,0
+2927,Cheerful and optimistic! Great vibes!,joy,1,0,0,0,0
+2928,Alarmed by recent events. Stay safe!,fear,0,0,0,1,0
+2929,Feeling joyful and blessed! Life is good!,joy,1,0,0,0,0
+2930,I'm so happy! This made my day! 😄,joy,1,0,0,0,0
+2931,What?! This is shocking! Can't believe it!,surprise,0,0,0,0,1
+2932,Overjoyed! Dreams coming true!,joy,1,0,0,0,0
+2933,Frightened and vulnerable. Need protection!,fear,0,0,0,1,0
+2934,Stunned! This is mind-blowing!,surprise,0,0,0,0,1
+2935,This makes my blood boil! Unacceptable!,anger,0,0,1,0,0
+2936,Feeling joyful and blessed! Life is good!,joy,1,0,0,0,0
+2937,Bewildered! How did this happen?!,surprise,0,0,0,0,1
+2938,Tears flowing freely. Heart is heavy.,sadness,0,1,0,0,0
+2939,Dread filling my mind. Can't sleep!,fear,0,0,0,1,0
+2940,Amazed! What a twist!,surprise,0,0,0,0,1
+2941,Stunned! This is mind-blowing!,surprise,0,0,0,0,1
+2942,Astonished! Never saw that coming!,surprise,0,0,0,0,1
+2943,Feeling blue today. Everything seems grey.,sadness,0,1,0,0,0
+2944,I'm so angry right now! This is ridiculous! 😡,anger,0,0,1,0,0
+2945,Enraged! Someone will pay for this!,anger,0,0,1,0,0
+2946,Melancholic mood. Nothing helps.,sadness,0,1,0,0,0
+2947,Tears flowing freely. Heart is heavy.,sadness,0,1,0,0,0
+2948,Feeling euphoric! Amazing news!,joy,1,0,0,0,0
+2949,Panic setting in. Heart racing!,fear,0,0,0,1,0
+2950,Celebrating success! Best feeling ever!,joy,1,0,0,0,0
+2951,I'm really sad about this. Feeling down 😢,sadness,0,1,0,0,0
+2952,Frightened and vulnerable. Need protection!,fear,0,0,0,1,0
+2953,Pure happiness! Can't stop smiling!,joy,1,0,0,0,0
+2954,I'm scared and worried about this 😰,fear,0,0,0,1,0
+2955,Pure happiness! Can't stop smiling!,joy,1,0,0,0,0
+2956,Seething with rage! Lost my temper!,anger,0,0,1,0,0
+2957,Livid! Can't believe this happened!,anger,0,0,1,0,0
+2958,Stunned! This is mind-blowing!,surprise,0,0,0,0,1
+2959,Livid! Can't believe this happened!,anger,0,0,1,0,0
+2960,Enraged! Someone will pay for this!,anger,0,0,1,0,0
+2961,This is terrifying. I don't know what to do.,fear,0,0,0,1,0
+2962,Wow! I didn't expect this at all! 😲,surprise,0,0,0,0,1
+2963,What?! This is shocking! Can't believe it!,surprise,0,0,0,0,1
+2964,This is heartbreaking. Can't stop crying.,sadness,0,1,0,0,0
+2965,Enraged! Someone will pay for this!,anger,0,0,1,0,0
+2966,Seething with rage! Lost my temper!,anger,0,0,1,0,0
+2967,Amazed! What a twist!,surprise,0,0,0,0,1
+2968,What?! This is shocking! Can't believe it!,surprise,0,0,0,0,1
+2969,Feeling euphoric! Amazing news!,joy,1,0,0,0,0
+2970,Feeling blue today. Everything seems grey.,sadness,0,1,0,0,0
+2971,Alarmed by recent events. Stay safe!,fear,0,0,0,1,0
+2972,Feeling anxious and fearful about the future.,fear,0,0,0,1,0
+2973,Delighted with the results! So pleased!,joy,1,0,0,0,0
+2974,This is heartbreaking. Can't stop crying.,sadness,0,1,0,0,0
+2975,Paranoid thoughts. Everything seems threatening!,fear,0,0,0,1,0
+2976,Seething with rage! Lost my temper!,anger,0,0,1,0,0
+2977,Feeling blue today. Everything seems grey.,sadness,0,1,0,0,0
+2978,This is heartbreaking. Can't stop crying.,sadness,0,1,0,0,0
+2979,Content and peaceful! Life is wonderful!,joy,1,0,0,0,0
+2980,Content and peaceful! Life is wonderful!,joy,1,0,0,0,0
+2981,Melancholic mood. Nothing helps.,sadness,0,1,0,0,0
+2982,Enraged! Someone will pay for this!,anger,0,0,1,0,0
+2983,Wow! I didn't expect this at all! 😲,surprise,0,0,0,0,1
+2984,Mad as hell! This is infuriating!,anger,0,0,1,0,0
+2985,Caught off guard! Totally unexpected!,surprise,0,0,0,0,1
+2986,Outraged by this injustice! Not tolerating it!,anger,0,0,1,0,0
+2987,Miserable and dejected. Need comfort.,sadness,0,1,0,0,0
+2988,Delighted with the results! So pleased!,joy,1,0,0,0,0
+2989,Cheerful and optimistic! Great vibes!,joy,1,0,0,0,0
+2990,Frightened and vulnerable. Need protection!,fear,0,0,0,1,0
+2991,Enraged! Someone will pay for this!,anger,0,0,1,0,0
+2992,This is terrifying. I don't know what to do.,fear,0,0,0,1,0
+2993,Amazed! What a twist!,surprise,0,0,0,0,1
+2994,Livid! Can't believe this happened!,anger,0,0,1,0,0
+2995,I'm so angry right now! This is ridiculous! 😡,anger,0,0,1,0,0
+2996,Feeling euphoric! Amazing news!,joy,1,0,0,0,0
+2997,Seething with rage! Lost my temper!,anger,0,0,1,0,0
+2998,Content and peaceful! Life is wonderful!,joy,1,0,0,0,0
+2999,What?! This is shocking! Can't believe it!,surprise,0,0,0,0,1
